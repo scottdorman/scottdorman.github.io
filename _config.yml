@@ -1,5 +1,5 @@
 url: "http://scottdorman.github.io"
-baseurl: ""
+baseurl: "/"
 title: Scott Dorman
 description: Microsoft MVP, Software Architect, Developer, Author
 disqus: "scottdorman-blog"
