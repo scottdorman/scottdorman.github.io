@@ -1,8 +1,6 @@
-<div class="post-meta"> 
+<div class="post-meta text-muted small"> 
 	<span class="fa fa-calendar">{% include post/date.html %}{{ time }}</span> 
-	<span class="fa fa-tags">{% include post/categories.html %}</span> 
-	{% if site.disqus and page.disqus_show_comment_count == true %} 
-		{% include post/comments_link.html %} 
-	{% endif %} 
-	<span class="fa fa-pencil">{% include post/edit.html %}</span> 
+	{% include post/categories.html %}
+	{% include post/comments_link.html %} 
+	{% include post/edit.html %}
 </div> 

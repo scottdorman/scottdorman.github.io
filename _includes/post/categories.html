@@ -1,1 +1,3 @@
-{{ page.categories | join: ', ' }}{{ post.categories | join: ', ' }}
+{% if page.categories | size > 0 %}
+	<span class="fa fa-tags">{{ page.categories | join: ', ' }}{{ post.categories | join: ', ' }}</span> 
+{% endif %}

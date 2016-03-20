@@ -1,7 +1,9 @@
-{% if post.disqus_identifier %}
-  {% assign disqus_identifier = post.disqus_identifier %}
-{% else %}
-  {% assign disqus_identifier = page.disqus_identifier %}
+{% if site.disqus and page.disqus_show_comment_count == true %} 
+  {% if post.disqus_identifier %}
+    {% assign disqus_identifier = post.disqus_identifier %}
+  {% else %}
+    {% assign disqus_identifier = page.disqus_identifier %}
+  {% endif %}
+  
+  <span class="fa fa-comment"><a href="{{ post.url }}#disqus_thread"{% if disqus_identifier %} data-disqus-identifier="{{ disqus_identifier }}"{% endif %}>comments</a></span>
 {% endif %}
-
-<span class="fa fa-comment"><a href="{{ post.url }}#disqus_thread"{% if disqus_identifier %} data-disqus-identifier="{{ disqus_identifier }}"{% endif %}>comments</a></span>
