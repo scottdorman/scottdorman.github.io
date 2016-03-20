@@ -11,11 +11,7 @@ layout: default
         </div>
       </header>
       {{ content }}
-      {% if page.comments %}
-        <div class="disqus-comments">
-          {% include disqus.html %}
-        </div>
-      {% endif %}
+      {% include disqus.html %}
     </div>
   </div>
 </div>
