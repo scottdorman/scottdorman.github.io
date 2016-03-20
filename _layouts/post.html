@@ -10,7 +10,7 @@ layout: default
           <div class="intro-header no-img">
             <h1 class="post-title">{{ page.title }}</h1>
             {% include post/meta.html %}
-            <span class="post-date">{{ page.date | date_to_string }}</span>
+           	{% include post/edit.html %}
           </div>
         </header>
         {{ content }}
