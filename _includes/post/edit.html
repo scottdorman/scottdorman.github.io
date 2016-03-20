@@ -1,0 +1,8 @@
+{% if post.url %} 
+2   {% assign path = post.path %} 
+3 {% else %} 
+4   {% assign path = page.path %} 
+5 {% endif %} 
+6 
+ 
+7 <a href="{{ site.github_repo_url }}edit/gh-pages/{{ path }}">edit</a> 

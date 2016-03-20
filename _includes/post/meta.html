@@ -1,0 +1,8 @@
+<div class="post-meta"> 
+2 	<span class="fa fa-calendar">{% include post/date.html %}{{ time }}</span> 
+3 	<span class="fa fa-tags">{% include post/categories.html %}</span> 
+4 	{% if site.disqus and page.disqus_show_comment_count == true %} 
+5 		{% include post/comments_link.html %} 
+6 	{% endif %} 
+7 	<span class="fa fa-pencil">{% include post/edit.html %}</span> 
+8 </div> 

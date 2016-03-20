@@ -26,7 +26,7 @@
           {% if node.title != null %}
             {% if node.layout == "page" and node.nav-include != false %}
               <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-                <a href="{{ node.url }}">{{ node.title }}{% if page.url == site.baseurl %} <span class="sr-only">(current)</span>{% endif %}</a>
+                <a href="{{ node.url }}">{{ node.title }}{% if page.url == node.url %} <span class="sr-only">(current)</span>{% endif %}</a>
               </li>
             {% endif %}
           {% endif %}

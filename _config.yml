@@ -3,6 +3,7 @@ baseurl: "/"
 title: Scott Dorman
 description: Microsoft MVP, Software Architect, Developer, Author
 disqus: "scottdorman-blog"
+
 google_analytics: "UA-2662385-1"
 
 # Image to show in the navigation bar - image must be a square (width = height)
