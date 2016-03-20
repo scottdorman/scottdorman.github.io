@@ -58,7 +58,7 @@ defaults:
     values:
       layout: "default"
       show-avatar: true
- -
+  -
     scope:
       path: ""
       type: "page"
