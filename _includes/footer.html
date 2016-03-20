@@ -30,7 +30,7 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.twitter and site.footer-links-active.twitter %}
+		      {% if site.author.twitter and site.footer-links-active.twitter %}
           <li>
             <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
               <span class="fa-stack fa-lg">
@@ -40,7 +40,7 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.email and site.footer-links-active.email %}
+		      {% if site.author.email and site.footer-links-active.email %}
           <li>
             <a href="mailto:{{ site.author.email }}" title="Email me">
               <span class="fa-stack fa-lg">
@@ -50,7 +50,7 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.linkedin and site.footer-links-active.linkedin %}
+		      {% if site.author.linkedin and site.footer-links-active.linkedin %}
           <li>
             <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
               <span class="fa-stack fa-lg">
@@ -60,7 +60,7 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
+		      {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
           <li>
             <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
               <span class="fa-stack fa-lg">
@@ -70,32 +70,28 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.footer-links-active.rss %}
-		  <li>
-			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
-			  <span class="fa-stack fa-lg">
-				<i class="fa fa-circle fa-stack-2x"></i>
-				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-			  </span>
-			</a>
-		  </li>		
+          {% if site.footer-links-active.rss %}
+          <li>
+          <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+            <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+          </li>		
           {% endif %}		  
-        </ul>
-        <p class="copyright text-muted">
-		  {{ site.author.name }}
-		  &nbsp;&bull;&nbsp;
-		  {{ site.time | date: '%Y' }}
-		  
-		  {% if site.url-pretty %}
-		  &nbsp;&bull;&nbsp;
-		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-		  {% endif %}
+      </ul>
+      <p class="copyright text-muted">
+		  Copyright 2006 - {{ site.time | date: '%Y' }} - {{ site.author.name }}
+		  | Blog content licensed under the Creative Commons CC BY 2.5
+		  | Unless otherwise stated or granted, code samples licensed under the MIT license.
+      | <a href="/articles/privacy.md">privacy</a> | <a href="/articles/blogtegrity.md">blogtegrity</a> 
 	    </p>
-		<p class="theme-by text-muted">
-		  Theme is a modified verion of 
-		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a> and
-      <a href="https://github.com/poole/hyde">hyde</a>.
-		</p>
+      <p class="theme-by text-muted">
+        Site design is based on 
+        <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a> and
+        <a href="https://github.com/poole/hyde">hyde</a> under the MIT license.
+      </p>
       </div>
     </div>
   </div>

@@ -2,10 +2,12 @@ url: "http://scottdorman.github.io"
 baseurl: ""
 title: Scott Dorman
 description: Microsoft MVP, Software Architect, Developer, Author
+disqus: "scottdorman-blog"
+google_analytics: "UA-2662385-1"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/scottdorman_1457462373_45.jpg"
 
 # --- Footer options --- #
 
@@ -23,6 +25,7 @@ author:
   
 # Select which links to show in the footer
 footer-links-active:
+  mvp: true
   rss: true
   facebook: true
   email: false
@@ -34,11 +37,6 @@ footer-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
-
-google_analytics: "UA-2662385-1"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/New York"
