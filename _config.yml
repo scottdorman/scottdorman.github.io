@@ -15,7 +15,6 @@ avatar: "/img/scottdorman_1457462373_45.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Scott Dorman
-  email: "youremail@domain.com"
   facebook: scottdorman
   github: scottdorman
   twitter: sdorman
@@ -36,7 +35,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "http://scottdorman.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/New York"
