@@ -1,24 +1,71 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+url: "http://scottdorman.github.io"
+baseurl: ""
+title: Scott Dorman
+description: Microsoft MVP, Software Architect, Developer, Author
 
-# Permalinks
-permalink:        pretty
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar-icon.png"
 
-# Setup
-title:            'Scott Dorman'
-tagline:          'Microsoft MVP, Software Architect, Developer, Author'
-description:      ''
-baseurl:          http://scottdorman.github.io/
+# --- Footer options --- #
 
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name:           'Scott Dorman'
-  url:            https://twitter.com/sdorman
+  name: Scott Dorman
+  email: "youremail@domain.com"
+  facebook: scottdorman
+  github: scottdorman
+  twitter: sdorman
+  linkedin: scottorman
+  stackoverflow: 1559
+  mvp: 4014220
+  
+# Select which links to show in the footer
+footer-links-active:
+  rss: true
+  facebook: true
+  email: false
+  twitter: true
+  github: true
+  linkedin: true
+  stackoverflow: true
 
-paginate:         5
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
-# Custom vars
-version:          2.1.0
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+#disqus: ""
 
-github:
-  repo:           https://github.com/scottdorman/scottdorman.github.io
+google_analytics: "UA-2662385-1"
+
+# Output options (more information on Jekyll's site)
+timezone: "America/New York"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
+      show-avatar: true
+
+# Exclude these files from production site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

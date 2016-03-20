@@ -2,24 +2,37 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
-</div>
-
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <header class="header-section">
+        <div class="intro-header no-img">
+          <h1 class="post-title">{{ page.title }}</h1>
+          <span class="post-date">{{ page.date | date_to_string }}</span>
+        </div>
+        </header>
+        {{ content }}
+      </article>
+      
+      <ul class="pager blog-pager">
+        {% if page.previous.url %}
+          <li class="previous">
+            <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+          </li>
+        {% endif %}
+        {% if page.next.url %}
+          <li class="next">
+            <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+          </li>
+        {% endif %}
+      </ul>
+      
+      {% if page.comments %}
+        <div class="disqus-comments">
+          {% include disqus.html %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
 </div>
