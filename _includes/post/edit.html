@@ -1,7 +1,10 @@
-{% if post.url %} 
-   {% assign path = post.path %} 
-{% else %} 
-   {% assign path = page.path %} 
+{% if page.layout == "post" or post.layout == "post" %}
+    {% if post.url %} 
+        {% assign path = post.path %} 
+    {% else %} 
+        {% assign path = page.path %} 
+    {% endif %} 
+    
+    <a href="{{ site.github_repo_url }}edit/{{ path }}"><span class="fa fa-pencil"> edit</a> 
 {% endif %} 
- 
-<a href="{{ site.github_repo_url }}edit/{{ path }}"><span class="fa fa-pencil"> edit</a> 
+    
