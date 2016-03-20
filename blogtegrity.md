@@ -1,6 +1,6 @@
 ---
 layout: page
-nav-include: true
+nav-include: false
 title: "Blogtegrity"
 date: 2016-03-19 -0800
 comments: false
