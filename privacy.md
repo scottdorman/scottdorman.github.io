@@ -1,5 +1,6 @@
 ---
 layout: page
+nav-include: true
 title: "Privacy Policy"
 date: 2016-03-19 -0800
 comments: false
