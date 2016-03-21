@@ -13,3 +13,7 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
+
+{% if site.disqus %}
+  <script id="dsq-count-scr" src="//{{ site.disqus.shortname }}.disqus.com/count.js" async></script>
+{% endif %}
