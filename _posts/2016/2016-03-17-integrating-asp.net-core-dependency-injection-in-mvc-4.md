@@ -7,7 +7,13 @@ title: Integrating ASP.NET Core Dependency Injection in MVC 4
 
 The important (and, in my opinion, more interesting) part of this DI support is that it’s not integrated in to ASP.NET Core 1.0 as an intrinsic feature but rather implemented as two separate NuGet packages: <a href="https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/" target="_blank">Microsoft.Extensions.DependencyInjection</a> and <a href="https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection.Abstractions/" target="_blank">Microsoft.Extensions.DependencyInjection.Abstractions</a>. Because the DI support has been implemented as NuGet packages, they can be included in other projects, not just ASP.NET Core. Even more importantly, these packages support .NET Framework 4.5.1. (It would be nice for these packages to support even earlier versions of the Framework, but that’s another post.)
 
-There is already a lot of information about using DI in ASP.NET Core 1.0, including a <a href="http://docs.asp.net/en/latest/fundamentals/dependency-injection.html" target="_blank">good explanation</a> on the ASP.NET site, so I’m not going to cover that here. Instead, I’m going to talk about how to use these packages in an ASP.NET 4 MVC project.  The first question you might ask is: Why? There are already a lot of DI frameworks that support ASP.NET 4 and also provide support for ASP.NET Core. If you’re comfortable using one of those frameworks, there is really no reason to switch. However, if you’re not already using one (or only making very light use of one), you might want to consider switching to reduce the overhead of including the larger DI framework and also to get familiar with how the built-in DI framework works in ASP.NET Core.  If you look at your ASP.NET 4 MVC project (or create a new one), you may have a `Startup.cs` file. (This is automatically created if you choose the “Individual User Accounts” authentication option.) If you don’t have this file, you’ll want to add it but make sure to leave out the call to `ConfigureAuth` since that’s part of the ASP.NET Identity framework which you won’t have.  By default, this file looks like:
+There is already a lot of information about using DI in ASP.NET Core 1.0, including a <a href="http://docs.asp.net/en/latest/fundamentals/dependency-injection.html" target="_blank">good explanation</a> on the ASP.NET site, so I’m not going to cover that here. Instead, I’m going to talk about how to use these packages in an ASP.NET 4 MVC project.
+
+The first question you might ask is: Why? There are already a lot of DI frameworks that support ASP.NET 4 and also provide support for ASP.NET Core. If you’re comfortable using one of those frameworks, there is really no reason to switch. However, if you’re not already using one (or only making very light use of one), you might want to consider switching to reduce the overhead of including the larger DI framework and also to get familiar with how the built-in DI framework works in ASP.NET Core.
+
+If you look at your ASP.NET 4 MVC project (or create a new one), you may have a `Startup.cs` file. (This is automatically created if you choose the “Individual User Accounts” authentication option.) If you don’t have this file, you’ll want to add it but make sure to leave out the call to `ConfigureAuth` since that’s part of the ASP.NET Identity framework which you won’t have.
+
+By default, this file looks like:
 
 ```c#
 using Microsoft.Owin;
@@ -88,7 +94,7 @@ public void Configuration(IAppBuilder app)
 }
 ```
 
-If you change your controller to now take a constructor dependency and try to run the project at this point, you’ll get a runtime error about a missing method exception saying that your constructor doesn’t implement the default parameterless constructor. That’s because we need to register the controllers as a service with the DI container. To do that (and make it easier to add other things to the DI container, add the following extensions class:
+If you change your controller to now take a constructor dependency and try to run the project at this point, you’ll get a runtime error about a missing method exception saying that your constructor doesn’t implement the default parameterless constructor. That’s because we need to register the controllers as a service with the DI container. To do that (and make it easier to add other things to the DI container), add the following extensions class:
 
 ```c#
 public static class ServiceProviderExtensions
