@@ -89,6 +89,11 @@ img {
   }
 }
 
+
+.title {
+    font-size: 16pt;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {

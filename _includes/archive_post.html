@@ -5,10 +5,10 @@
 	{% unless forloop.first %}
 		</ul>
 	{% endunless %}
-	<h2 class="year">{{ date | date: "%Y" }}</h2>
+	<h3 class="year">{{ date | date: "%Y" }}</h3>
 	<ul>
 {% endunless %}
 	<li>
-		<h3 class="title"><a href="{{ post.url }}">{{post.title}}</a></h3>
+		<span class="title"><a href="{{ post.url }}">{{post.title}}</a></span>
 	</li>
 
