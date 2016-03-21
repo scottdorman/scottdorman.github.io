@@ -24,7 +24,7 @@ Although it’s possible to use the configuration system independently from depe
 
 If you don’t already have a `Startup.cs` file, add one so it looks like the following. (If you do already have the file, you can simply modify it to include the `ConfigureServices` method if it's not already there or update it and the two lines in the `Configuration` method.)
 
-```csharp
+```c#
 using System.Web.Mvc;
 using Microsoft.Owin;
 using Owin;
@@ -53,7 +53,7 @@ namespace WebApplication1
 
 The [`AddOptions`](http://docs.asp.net/en/latest/fundamentals/configuration.html#using-options-and-configuration-objects) method adds the support for injecting the options classes using the `IOption<TOptions>` service. The `AddConfiguration` method tells the configuration system where to get its configuration data and can be added by including the following extensions class. (If you already have one, just add the `AddConfiguration` method and namespace reference.)
 
-```csharp
+```c#
 public static class ServiceProviderExtensions
 {
         public static IServiceCollection AddConfiguration(this IServiceCollection services)
@@ -76,7 +76,7 @@ The settings class is called `ApplicationOptions` and would have public properti
 
 Now, whenever you need access to your options, you can just pass it in on the constructor.
 
-```csharp
+```c#
 public class HomeController : Controller
 {
     public HomeController(IOptions<ApplicationOptions> options)
