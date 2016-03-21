@@ -10,6 +10,9 @@ google_analytics: "UA-2662385-1"
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/scottdorman_1457462373_45.jpg"
 
+github:
+  repo: https://github.com/scottdorman/scottdorman.github.io
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
