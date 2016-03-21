@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Integrating ASP.NET Core Dependency Injection in MVC 4
+categories:  [c# .net .net-core asp.net mvc asp.net]
 ---
 
 <a href="http://docs.asp.net/en/latest/conceptual-overview/aspnet.html" target="_blank">ASP.NET Core 1.0</a> (what had been called ASP.NET 5) is a complete redesign of ASP.NET that is open-source and cross-platform. Since this is a redesign of the framework, it comes with a lot of architectural changes that make it more modular. One of those changes is that dependency injection (DI) is now built-in. This built-in DI support is not intended to replace more full-featured DI frameworks (like <a href="http://docs.structuremap.net/" target="_blank">StructureMap</a>, <a href="http://autofac.org/" target="_blank">Autofac</a>, <a href="http://www.ninject.org/" target="_blank">Ninject</a>, <a href="https://github.com/unitycontainer/unity" target="_blank">Unity</a>, and others), but rather provides common DI abstractions and allows you to replace the built-in container with one provided by another DI framework.
