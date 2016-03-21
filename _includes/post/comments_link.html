@@ -1,4 +1,4 @@
-{% if site.disqus and page.disqus_show_comment_count == true %} 
+{% if site.disqus.shortname and site.disqus.show_comment_count == true %} 
   {% if post.disqus_identifier %}
     {% assign disqus_identifier = post.disqus_identifier %}
   {% else %}

@@ -2,7 +2,6 @@ url: "http://scottdorman.github.io"
 baseurl: "/"
 title: Scott Dorman
 description: Microsoft MVP, Software Architect, Developer, Author
-disqus: "scottdorman-blog"
 
 google_analytics: "UA-2662385-1"
 
@@ -10,6 +9,10 @@ google_analytics: "UA-2662385-1"
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/scottdorman_1457462373_45.jpg"
 
+disqus:
+  shortname: "scottdorman-blog"
+  show_comment_count: true
+   
 github:
   repo: https://github.com/scottdorman/scottdorman.github.io
 
