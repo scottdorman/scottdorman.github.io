@@ -3,7 +3,7 @@
 /* --- General --- */
 
 body {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Istok Web', sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -18,7 +18,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-weight: 800;
+  font-weight: 700;
 }
 a {
   color: #008AFF;
@@ -104,7 +104,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 700;
   color: #404040;
 }
 
@@ -299,7 +299,7 @@ footer .theme-by {
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 300;
+  font-weight: 400;
   margin-bottom: 10px;
 }
 .post-preview .post-meta,
@@ -310,7 +310,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 700;
 }
 
 @media only screen and (min-width: 768px) {
@@ -370,7 +370,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-weight: 300;
+  font-weight: 400;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
@@ -469,7 +469,7 @@ footer .theme-by {
 .pager li a {
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 1px;
   padding: 10px 5px;
   background: #FFF;
