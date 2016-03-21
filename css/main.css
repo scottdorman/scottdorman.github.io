@@ -97,8 +97,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
-  border-bottom: 1px solid #EAEAEA;
+  background: #151F26;
+  border-bottom: 1px solid #223A49;
 }
 
 .navbar-custom .nav li a {
@@ -110,14 +110,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 700;
-  color: #404040;
+  color: #2783bf;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #2783bf;
 }
 
 @media only screen and (min-width: 768px) {
@@ -229,6 +229,11 @@ img {
     border: 1px solid #eaeaea;
     border-width: 0 1px 1px;
   }
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    border-bottom: 3px solid #296887;
+    padding-bottom: 0;
 }
 
 /* --- Footer --- */
