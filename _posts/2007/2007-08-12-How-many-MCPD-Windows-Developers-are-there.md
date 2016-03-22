@@ -4,7 +4,7 @@ title: How many MCPD: Windows Developers are there?
 date: 2007-08-12 15:52:44 -04:00
 ---
 
-A [few months ago]({% post_url 2007/2007-06-10-MCPD-Windows-Developer %}), I earned my [Microsoft Certified Professional Developer (MCPD): Windows Developer certification](http://www.microsoft.com/learning/mcp/mcpd/windev/default.mspx). At that time, I had mentioned that there were not many people who have earned this particular certification. That comment was based on feedback from the Microsoft Certified Trainers (MCTs) that were helping run the testing center at Tech·Ed.
+A [few months ago]({% post_url /2007/2007-06-10-MCPD-Windows-Developer %}), I earned my [Microsoft Certified Professional Developer (MCPD): Windows Developer certification](http://www.microsoft.com/learning/mcp/mcpd/windev/default.mspx). At that time, I had mentioned that there were not many people who have earned this particular certification. That comment was based on feedback from the Microsoft Certified Trainers (MCTs) that were helping run the testing center at Tech·Ed.
 
 It turns out that last month, Microsoft released the official statistics of the number of Microsoft Certified Professionals (MCPs) around the world. The full statistics are [available](http://www.microsoft.com/learning/mcp/certified.mspx) from the Microsoft Learning web site, and are current as of June 27, 2007. According to their stats, here is the breakdown for the 3 different MCPD certifications:
 

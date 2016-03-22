@@ -4,7 +4,7 @@ title: What's Important at Code Camp...clarifications
 date: 2008-02-12 16:42:42 -05:00
 ---
 
-It seems my earlier post about ["What's Important at Code Camp?"]({% post_url 2008/2008-02-09-whats-important-at-code-camp %}) might have [touched a few nerves](http://drowningintechnicaldebt.com/blogs/shawnweisfeld/archive/2008/02/11/codecamps-and-sponsorships.aspx) and may not have been as clear as I would have liked, so here are a few clarifications.
+It seems my earlier post about ["What's Important at Code Camp?"]({% post_url /2008/2008-02-09-whats-important-at-code-camp %}) might have [touched a few nerves](http://drowningintechnicaldebt.com/blogs/shawnweisfeld/archive/2008/02/11/codecamps-and-sponsorships.aspx) and may not have been as clear as I would have liked, so here are a few clarifications.
 
 I wasn't implying in any way that sponsors aren't important. In fact, it really was the other way around. As I mentioned, 
 

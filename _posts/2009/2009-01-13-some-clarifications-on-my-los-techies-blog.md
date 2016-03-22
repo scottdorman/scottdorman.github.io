@@ -10,7 +10,7 @@ The most important point I want to make is:
 
 > **For those of you who subscribe to my blog hosted on Geeks With Blogs (**[**http://geekswithblogs.net/sdorman**](http://geekswithblogs.net/sdorman)**) there is no need to also subscribe to my Los Techies blog.**
 
-My primary blog will continue to be here on GWB and all new posts will show up here first. What that means is that anything I blog here will eventually make its way to my Los Techies blog (since I have to manually cross-post the entries there may be a delay in some cases). That also means that everything you see on my Los Techies blog (with the exception of my [introduction post]({% post_url 2009/2009-01-10-introductions %})) will be on my GWB blog.
+My primary blog will continue to be here on GWB and all new posts will show up here first. What that means is that anything I blog here will eventually make its way to my Los Techies blog (since I have to manually cross-post the entries there may be a delay in some cases). That also means that everything you see on my Los Techies blog (with the exception of my [introduction post]({% post_url /2009/2009-01-10-introductions %})) will be on my GWB blog.
 
 To put it simply:
 

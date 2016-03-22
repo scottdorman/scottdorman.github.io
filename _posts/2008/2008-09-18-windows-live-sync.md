@@ -4,7 +4,7 @@ title: Windows Live Sync
 date: 2008-09-18 10:26:47 -04:00
 ---
 
-![sync](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/WindowsLiveSync_8F44/sync_3.png "sync")I have talked about Windows Live FolderShare in the [past]({% post_url 2007/2007-11-21-Windows-Live-FolderShare %}) and have always really liked what it offers. As part of the new Windows Live Wave 3 release, although not an official part of the release yet, is the fact that FolderShare is being renamed and rebranded as Windows Live Sync.
+![sync](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/WindowsLiveSync_8F44/sync_3.png "sync")I have talked about Windows Live FolderShare in the [past]({% post_url /2007/2007-11-21-Windows-Live-FolderShare %}) and have always really liked what it offers. As part of the new Windows Live Wave 3 release, although not an official part of the release yet, is the fact that FolderShare is being renamed and rebranded as Windows Live Sync.
 
 [![sync_window](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/WindowsLiveSync_8F44/sync_window_thumb.png "sync_window")](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/WindowsLiveSync_8F44/sync_window_2.png) [![sync_window2](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/WindowsLiveSync_8F44/sync_window2_thumb.png "sync_window2")](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/WindowsLiveSync_8F44/sync_window2_2.png) 
 

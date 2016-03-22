@@ -4,7 +4,7 @@ title: New Lineup of SlickEdit Tools
 date: 2008-03-20 16:18:18 -04:00
 ---
 
-I have talked about the SlickEdit Tools and Gadgets in the past ([here]({% post_url 2007/2007-02-18-106641 %} "SlickEdit Gadgets") and [here]({% post_url 2007/2007-08-15-SlickEdit-Gadgets-for-Visual-Studio-2008 %} "SlickEdit Gadgets for Visual Studio 2008")) and have always been impressed with both of them. Previously, the SlickEdit Tools were only available for Visual Studio 2005. Now that Visual Studio 2008 is here, SlickEdit has released an update that works with both VS2005 and VS2008.
+I have talked about the SlickEdit Tools and Gadgets in the past ([here]({% post_url /2007/2007-02-18-106641 %} "SlickEdit Gadgets") and [here]({% post_url /2007/2007-08-15-SlickEdit-Gadgets-for-Visual-Studio-2008 %} "SlickEdit Gadgets for Visual Studio 2008")) and have always been impressed with both of them. Previously, the SlickEdit Tools were only available for Visual Studio 2005. Now that Visual Studio 2008 is here, SlickEdit has released an update that works with both VS2005 and VS2008.
 
 The catch here is that this is much more than a simple update. The major difference is that the tools have been organized into two products: the [Editing Toolbox](http://www.slickedit.com/index.php?option=com_content&task=view&id=486&Itemid=57) ([datasheet](http://www.slickedit.com/images/stories/products/SlickEditTools/editingtoolbox3172008.pdf)), which contains all of the same tools available in version 1.0, and the [Versioning Toolbox](http://www.slickedit.com/index.php?option=com_content&task=view&id=488&Itemid=57) ([datasheet](http://www.slickedit.com/images/stories/products/SlickEditTools/versioningtoolbox3172008.pdf)).
 

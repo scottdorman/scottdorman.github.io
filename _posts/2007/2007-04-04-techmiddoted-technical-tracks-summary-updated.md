@@ -6,7 +6,7 @@ date: 2007-04-04 21:31:00 -04:00
 
 There are 14 core tracks and 2 virtual tracks at Tech·Ed this year, which will cover more than 1,000 sessions. In case you're wondering, a virtual track is a collection of sessions or labs that share a common theme but span several tracks.
 
-Microsoft has revised the technical tracks slightly since my original [post]({% post_url 2007/2007-02-17-106567 %}), so I have updated my summary.
+Microsoft has revised the technical tracks slightly since my original [post]({% post_url /2007/2007-02-17-106567 %}), so I have updated my summary.
 
 <table style="BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; FONT-SIZE: 10pt! important; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; BORDER-COLLAPSE: collapse" cellspacing="2" border="1">
 <tbody>

@@ -4,7 +4,7 @@ title: What is &ldquo;Defensive Programming&rdquo;?
 date: 2008-07-04 09:26:10 -04:00
 ---
 
-My post on the [Null Object pattern]({% post_url 2008/2008-05-25-null-object-pattern %} "Null Object pattern") has generated some interesting dialog. One of the trends that I have seen is the idea that defensive programming means your code should fail as early as possible. I couldn’t agree less.
+My post on the [Null Object pattern]({% post_url /2008/2008-05-25-null-object-pattern %} "Null Object pattern") has generated some interesting dialog. One of the trends that I have seen is the idea that defensive programming means your code should fail as early as possible. I couldn’t agree less.
 
 According to Wikipedia,
 

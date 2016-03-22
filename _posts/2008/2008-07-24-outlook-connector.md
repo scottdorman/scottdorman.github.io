@@ -4,7 +4,7 @@ title: Outlook Connector
 date: 2008-07-24 20:38:03 -04:00
 ---
 
-The last time I [wrote]({% post_url 2008/2008-02-24-outlook-connector-calendar-sync %}) about the Outlook Connector it was to talk about the lack of Calendar synchronization and the fact that a new version of the connector was in internal Microsoft testing. 
+The last time I [wrote]({% post_url /2008/2008-02-24-outlook-connector-calendar-sync %}) about the Outlook Connector it was to talk about the lack of Calendar synchronization and the fact that a new version of the connector was in internal Microsoft testing. 
 
 I am happy to announce that the new version is out of internal testing and is available as a [public beta](http://www.microsoft.com/downloads/details.aspx?FamilyID=9A2279B1-DF0A-46E1-AA93-7D4870871ECF&displaylang=en). This new version synchronizes with your Windows Live Hotmail or Microsoft Office Live Mail accounts, including e-mail, contacts **and calendars**.
 

@@ -4,7 +4,7 @@ title: Tech·Ed 2007 Session Calendars
 date: 2007-05-10 17:11:34 -04:00
 ---
 
-**[edit: 16 May 2007]** **The calendars have been updated and a few new ones added. Check this **[**post**]({% post_url 2007/2007-05-15-Added-Management-and-Operations-Track-Calendar %})** for more details. [****/edit]**
+**[edit: 16 May 2007]** **The calendars have been updated and a few new ones added. Check this **[**post**]({% post_url /2007/2007-05-15-Added-Management-and-Operations-Track-Calendar %})** for more details. [****/edit]**
 
 Even though the Tech·Ed 2007 [Schedule Builder](https://www.msteched.com/Sessions.aspx) is live, it is just as cumbersome (in my opinion) to use as ever. I had hoped that with the advent of AJAX, Silverlight, and the other interactive web technologies the schedule builder would have been more...interactive.
 

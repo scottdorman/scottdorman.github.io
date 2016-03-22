@@ -4,7 +4,7 @@ title: MSDN Code Gallery
 date: 2008-02-09 14:20:12 -05:00
 ---
 
-Late last month, Soma [announced](http://blogs.msdn.com/somasegar/archive/2008/01/28/msdn-code-gallery-snippets-samples-and-resources.aspx) the new [MSDN Code Gallery](http://code.msdn.microsoft.com/) site for sharing samples from both Microsoft and the community at large. When I saw this announcement, I was a little surprised that Microsoft was creating yet another community-type samples site so close on the heals of the GotDotNet (GDN) [shutdown]({% post_url 2007/2007-02-28-107612 %}). Granted, MSDN Code Gallery isn't exactly what GDN was, but between Code Gallery, CodePlex and MSDN Downloads it starts to get confusing.
+Late last month, Soma [announced](http://blogs.msdn.com/somasegar/archive/2008/01/28/msdn-code-gallery-snippets-samples-and-resources.aspx) the new [MSDN Code Gallery](http://code.msdn.microsoft.com/) site for sharing samples from both Microsoft and the community at large. When I saw this announcement, I was a little surprised that Microsoft was creating yet another community-type samples site so close on the heals of the GotDotNet (GDN) [shutdown]({% post_url /2007/2007-02-28-107612 %}). Granted, MSDN Code Gallery isn't exactly what GDN was, but between Code Gallery, CodePlex and MSDN Downloads it starts to get confusing.
 
 Charlie Calvert [posted](http://blogs.msdn.com/charlie/archive/2008/01/28/code-gallery-goes-live-new-site-for-samples.aspx) a good explanation of the three different sites:
 
@@ -17,7 +17,7 @@ He does go on to say that GDN is being replaced with either CodePlex **or** Code
 However, even with the explanations above, it still isn't completely clear why Microsoft is adding yet another developer site when two of the reasons for the GDN shutdown were:
   <li>Eliminate redundant functionality between GDN and other community resources provided by Microsoft </li>  <li>Reinvest the resources in new and better community features</li>  
 
-As I mentioned in my [post]({% post_url 2007/2007-02-28-107612 %}) about GDN shutting down, I think the best thing Microsoft could do is take the proverbial step backwards and look at the entire developer offering and try to present a consistent face. I understand that the sites are geared towards potentially different audiences, but there is a **lot** of overlap and it can be extremely difficult to find what you are looking for. Searching on MSDN has become nearly impossible given that you now see links for all of the different languages.
+As I mentioned in my [post]({% post_url /2007/2007-02-28-107612 %}) about GDN shutting down, I think the best thing Microsoft could do is take the proverbial step backwards and look at the entire developer offering and try to present a consistent face. I understand that the sites are geared towards potentially different audiences, but there is a **lot** of overlap and it can be extremely difficult to find what you are looking for. Searching on MSDN has become nearly impossible given that you now see links for all of the different languages.
 
 After that, take a chapter out of their own book on usability and apply it to the developer sites. Just because we're developers doesn't mean we don't want a site that is easy to navigate, functional, and well organized. I don't really think any of the current sites fit well into any of those three criteria.
 
@@ -43,5 +43,5 @@ Create a true developer community that
 2.  Promotes code sharing and reuse 
 3.  Provides clear, concise, and complete examples as well as explanations 
 4.  Provides a consistent user experience 
-5.  Provides a single clearing house for developer related tools and information (Microsoft has started something like this with the new [Visual Studio Gallery](http://visualstudiogallery.com/Default.aspx "Visual Studio Gallery"), which I have already [talked]({% post_url 2008/2008-02-06-visual-studio-gallery %}) about.) 
+5.  Provides a single clearing house for developer related tools and information (Microsoft has started something like this with the new [Visual Studio Gallery](http://visualstudiogallery.com/Default.aspx "Visual Studio Gallery"), which I have already [talked]({% post_url /2008/2008-02-06-visual-studio-gallery %}) about.) 
 6.  Efficient and accurate searches across all of the content

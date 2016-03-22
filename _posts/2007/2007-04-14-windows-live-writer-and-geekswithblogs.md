@@ -8,4 +8,4 @@ For those of you that use Windows Live Writer to publish posts you will need to 
 
 One benefit that Subtext provides is that we can now publish images in the post directly...no need to upload them first.
 
-If you aren't already running Windows Live Writer, I encourage you to download your copy today. For full instructions on how to configure it for GWB, take a look at this [post]({% post_url 2006/2006-08-24-89164 %}).
+If you aren't already running Windows Live Writer, I encourage you to download your copy today. For full instructions on how to configure it for GWB, take a look at this [post]({% post_url /2006/2006-08-24-89164 %}).
