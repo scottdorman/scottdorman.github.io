@@ -72,13 +72,6 @@ defaults:
     values:
       nav-include: true  # include in header nav
 
-gems:
-   - jekyll-categories
-   - jekyll-sitemap
-   - jekyll-mentions
-   - jemoji
-   - jekyll-feed
-      
 # Exclude these files from production site
 exclude:
   - Gemfile
