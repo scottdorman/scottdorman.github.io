@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Driven Development Firestarter
-date: 11/23/2008 11:39:11 AM
+date: 2008-11-23 11:39:11 -05:00
 ---
 
 **Event Date: **Saturday, January 19, 2009       

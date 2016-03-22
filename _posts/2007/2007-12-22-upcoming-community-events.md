@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upcoming Community Events
-date: 12/22/2007 12:46:12 PM
+date: 2007-12-22 12:46:12 -05:00
 ---
 
 It seems that there isn't a good source of information that consolidates all of the upcoming community events, excluding local user group meetings. While this isn't an exhaustive list, it's all of the ones I have found so far. If you know of an event that's missing or needs updating, please let me know.

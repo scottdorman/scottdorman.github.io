@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing of the Guard
-date: 12/20/2006 6:54:00 PM
+date: 2006-12-20 18:54:00 -05:00
 ---
 
 After 2½ years at [Sunbelt Software](http://www.sunbelt-software.com "Sunbelt Software") I am changing companies and roles by moving to [BST Global](http://www.bstglobal.com "BST Global"). It sounds like an excellent opportunity for me and I am looking forward to starting the new year with a new company.

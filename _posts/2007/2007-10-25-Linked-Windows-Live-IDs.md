@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linked Windows Live IDs
-date: 10/25/2007 9:50:26 PM
+date: 2007-10-25 21:50:26 -04:00
 ---
 
 For those that have multiple Windows Live IDs, you can now link your Windows Live accounts together and easily switch between them using the [Linked Windows Live ID](http://account.live.com) service.

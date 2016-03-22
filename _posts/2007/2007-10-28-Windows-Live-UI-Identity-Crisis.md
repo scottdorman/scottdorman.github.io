@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live UI Identity Crisis
-date: 10/28/2007 10:18:15 PM
+date: 2007-10-28 22:18:15 -04:00
 ---
 
 A few days after I talked about the [Windows Live Spaces URL Confusion](http://geekswithblogs.net/sdorman/archive/2007/10/16/Windows-Live-Spaces-URL-Confusion.aspx), the guys at [LiveSide.net](http://www.liveside.net) talked about a related issue. Apparently, their issue stemmed from a [post](http://windowslivewire.spaces.live.com/blog/cns!2F7EB29B42641D59!473.entry "A blog post on Windows Live Wire") on Windows Live Wire announcing that [Windows Live Home](http://home.live.com/) has been officially released.

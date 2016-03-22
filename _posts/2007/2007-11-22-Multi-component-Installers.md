@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi-component Installers
-date: 11/22/2007 12:18:49 AM
+date: 2007-11-22 00:18:49 -05:00
 ---
 
 With the deluge of blog posts talking about the recently releases of Visual Studio 2008 and the .NET Framework 3.5, Scott Guthrie [talks](http://weblogs.asp.net/scottgu/archive/2007/11/20/steps-to-uninstall-vs-2008-beta2-before-installing-the-vs-2008-final-release.aspx) about the steps to uninstall the Visual Studio 2008 Beta 2 release you should follow before installing the final release.

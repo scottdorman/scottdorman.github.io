@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PDC 2008 Schedule Builder is live
-date: 10/17/2008 1:52:23 PM
+date: 2008-10-17 13:52:23 -04:00
 ---
 
 Not sure when this became live, but the [schedule builder](https://sessions.microsoftpdc.com/timeline.aspx) for PDC 2008 is now available. This is very different from the schedule builder tools of the past and is considerably easier to work with.

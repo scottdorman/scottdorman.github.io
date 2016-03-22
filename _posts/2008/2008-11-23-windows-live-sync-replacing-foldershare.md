@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Sync replacing FolderShare
-date: 11/23/2008 9:52:23 AM
+date: 2008-11-23 09:52:23 -05:00
 ---
 
 ![](http://www.liveside.net/Images/logos/foldershare%20beta%20logo.png)![sync](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/WindowsLiveSync_8F44/sync_3.png "sync")

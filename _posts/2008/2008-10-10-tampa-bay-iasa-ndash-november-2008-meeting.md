@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA &ndash; November 2008 Meeting
-date: 10/10/2008 1:15:48 PM
+date: 2008-10-10 13:15:48 -04:00
 ---
 
 **[![n5018289123_9890_thumb2](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/n5018289123_9890_thumb2_thumb.jpg)](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/n5018289123_9890_thumb2_2.jpg)We are very pleased to be holding this meeting in cooperation with the [Central Florida BizTalk User Group](http://www.btug.biz/Home/CentralFlorida/tabid/110/Default.aspx).**

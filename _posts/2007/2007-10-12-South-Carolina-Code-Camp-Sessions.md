@@ -1,7 +1,7 @@
 ---
 layout: post
 title: South Carolina Code Camp Sessions
-date: 10/12/2007 10:47:16 AM
+date: 2007-10-12 10:47:16 -04:00
 ---
 
 If you're going to the [South Carolina Code Camp 2007](http://www.sccodecamp.com/), be sure to check out my sessions. I'm giving two talks:

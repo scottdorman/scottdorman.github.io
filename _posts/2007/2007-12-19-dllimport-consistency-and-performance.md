@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DLLImport Consistency and Performance
-date: 12/19/2007 8:53:51 PM
+date: 2007-12-19 20:53:51 -05:00
 ---
 
 [Daniel Moth](http://www.danielmoth.com/Blog/index.htm) has an interesting post that talks about performance and the [DllImport](http://msdn2.microsoft.com/library/system.runtime.interopservices.dllimportattribute.aspx) attribute. The underlying theme to his post is that you should define a convention for how the DLL name is specified in the attribute. This actually has a significant enough impact that it really should become one of the rules in your coding standards documents.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA - October 2008 Meeting
-date: 10/10/2008 1:00:01 PM
+date: 2008-10-10 13:00:01 -04:00
 ---
 
 [![n5018289123_9890_thumb2](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/n5018289123_9890_thumb2_thumb.jpg)](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/n5018289123_9890_thumb2_2.jpg)**<u>"Fix the Architecture" - Open Discussion</u>**       

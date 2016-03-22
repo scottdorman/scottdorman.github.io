@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Problem with Programming
-date: 11/29/2006 1:37:00 PM
+date: 2006-11-29 13:37:00 -05:00
 ---
 
 Yesterday, the Technology Review published an [interview](http://www.technologyreview.com/InfoTech/17831/page1/ "Technology Review: The Problem with Programming") with [Bjarne Stroustrup](http://parasol.tamu.edu/people/bs/ "Bjarne Stroustrup"). It is an interesting interview, but I think it leaves out some important aspects of the real problems.

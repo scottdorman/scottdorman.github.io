@@ -1,0 +1,15 @@
+---
+layout: post
+title: Tech&middot;Ed 2007 Starts
+date: 2007-06-04 11:23:29 -04:00
+---
+
+After spending a week in Alaska where I was pretty much isolated and out of touch with the rest of the world, what better way to dive back in to the connected world than spending a week at Tech·Ed 2007.
+
+I missed the early registration on Sunday by 10 minutes, even though the plane landed 1½ hours before early registration ended. Why did I miss it? Standing at baggage claim for just over an hour waiting for the bags to get unloaded.
+
+Despite being jet-lagged from crossing across from one side of North America to the other, I managed to drag myself to the convention center early enough to register and get a front row seat at the keynote.
+
+Assuming I'm able to find some electrical outlets to keep my laptop battery from draining, I'll be blogging about sessions and goings-on throughout the week.
+
+If you're already at Tech·Ed, be sure to check out my Birds of a Feather session (BOF11) on Code Standards at 1:00 PM on Tuesday.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA Call for Speakers
-date: 12/31/2007 4:42:36 AM
+date: 2007-12-31 04:42:36 -05:00
 ---
 
 ![iasa_logo2](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASACallforSpeakers_2D58/iasa_logo2_3.jpg)The Tampa Bay International Association of Software Architects (IASA) is looking for speakers to present at our upcoming meetings. If you are a software architect in Tampa Bay or the surrounding areas, or are visiting from further away (or even out of state) and want to speak, please let me know.

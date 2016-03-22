@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Spaces URL Confusion
-date: 10/16/2007 12:47:54 AM
+date: 2007-10-16 00:47:54 -04:00
 ---
 
 A few days ago I talked about [Windows Live SkyDrive Updates](http://geekswithblogs.net/sdorman/archive/2007/10/12/Windows-Live-SkyDrive-Updates.aspx) and the new [Windows Live Events](http://geekswithblogs.net/sdorman/archive/2007/10/12/Windows-Live-Events.aspx), both of which are part of Windows Live Spaces. Since then, I've been browsing around the Windows Live site and checking out how things are working and noticed a few really annoying inconsistencies with the URLs being used for all of the different services.

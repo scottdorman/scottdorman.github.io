@@ -1,0 +1,10 @@
+---
+layout: post
+title: Jacksonville Code Camp Sessions
+date: 2007-08-24 23:28:19 -04:00
+---
+
+If you're going to the [Jacksonville Code Camp 2007](http://codecamp07.jaxdug.com/), be sure to check out my sessions. I'm giving two talks:
+
+*   Garbage Collection in .NET, Room 140/141, 10:20 AM - 11:30 AM  
+*   Code Styles and Standards (Chalk Talk), Room 102, 1:50 PM - 3:00 PM <div align="center"> <div style="border-right: #dde5e9 1px solid; padding-right: 0px; border-top: #dde5e9 1px solid; padding-left: 0px; padding-bottom: 0px; margin: 3px; border-left: #dde5e9 1px solid; width: 240px; padding-top: 0px; border-bottom: #dde5e9 1px solid; position: relative; height: 66px; background-color: #ffffff" frameborder="0" marginwidth="0" marginheight="0"><span style="cursor: pointer">[![Open Jacksonville](http://skydrive.live.com/images/ecRowDet_bg.png) ](http://cid-93d618d639ec9651.skydrive.live.com/browse.aspx/Public/Code%20Camp/2007/Jacksonville "Open Jacksonville")[![Open Jacksonville](http://sc.services.skydrive.live.com/images/icons/EmbedSmall/folder.png)](http://cid-93d618d639ec9651.skydrive.live.com/browse.aspx/Public/Code%20Camp/2007/Jacksonville "Open Jacksonville") [<span style="font-size: 0.75em; left: 67px; overflow: hidden; width: 167px; color: #555555; margin-right: 5px; white-space: nowrap; position: absolute; top: 21px; text-overflow: ellipsis; text-wrap: suppress"><span style="display: block; visibility: hidden">Jacksonville</span> <span title="Open Jacksonville" style="display: block; font-size: 0.94em; cursor: pointer; line-height: 1.18em; padding-top: 2px">Folder</span> </span>](http://cid-93d618d639ec9651.skydrive.live.com/browse.aspx/Public/Code%20Camp/2007/Jacksonville)[Jacksonville](http://cid-93d618d639ec9651.skydrive.live.com/browse.aspx/Public/Code%20Camp/2007/Jacksonville) </span></div></div> <div align="left">If you make it and go to my sessions (or even if you don't), the presentations are available for download on [Windows Live SkyDrive](http://skydrive.live.com/) in the [Jacksonville Code Camp](http://cid-93d618d639ec9651.skydrive.live.com/browse.aspx/Public/Code%20Camp/2007/Jacksonville) folder.</div>

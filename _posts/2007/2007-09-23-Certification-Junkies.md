@@ -1,0 +1,19 @@
+---
+layout: post
+title: Certification Junkies
+date: 2007-09-23 11:29:14 -04:00
+---
+
+A lot of you probably already know my feelings on certifications, particularly the Microsoft certifications. Even though I am an MCPD, I took what appears to be the "non traditional" approach and actually went into the exams trusting my knowledge and experience to see me through. I didn't spend hundreds of dollars on study courses or materials and study for months. 
+
+Lately, I have been seeing a lot of questions regarding how one earns a Microsoft certification. Most of these questions seem to come from one part of the world (which I will **not** name). It appears that these individuals are under the impression that by earning a certification it proves that they know how to program.
+
+The reality of it is that nothing can prove you know how to program except experience and past accomplishments. A certification of any kind is nothing more than a piece of paper that proves you have specific knowledge about a language and about programming concepts. It is just like a degree. I have a degree in Communication, but I don't work in that field. Does that degree prove that I know how to "communicate" and could I use it to get a job in that field as a radio broadcaster? Absolutely, but it would be an entry level job because I have no experience or past accomplishments as a broadcaster. The degree simply shows that I have an understanding of what it means to be a broadcaster.
+
+The other common misconception is that the more certifications one has, the "smarter" one is. To me, this is patently untrue. Just because you have taken and passed a bunch of certification exams and can put 14 different sets of initials after your name does not mean that you are smarter than anyone else. It simply means that you have more time to waste than other people. The vast majority of the time, people like this spend the time studying for the exams and once they pass, never go back to the material. If the certification is in Windows administration and you are a developer that has never taken on the role of a system administrator, that credential is meaningless.
+
+I do want to be very clear on this point. There are a lot of individuals with multiple credentials that absolutely do deserve them. These are people that have been in the industry for a long time and have "grown up" through the various changes in Microsoft credentials. For example, someone who earned their certification when .NET 1.0 or 1.1 was released would have earned an MCAD (Microsoft Certified Application Developer) credential. That same person might have then earned either their MCTS (Microsoft Certified Technology Specialist) or MCPD (Microsoft Certified Professional Developer) credentials when .NET 2.0 was released.
+
+These type of people, the ones that just keep adding credentials after their name and the ones that think having a certification proves you know how to program, are continuing to dilute the integrity of the certifications and the industry. These are what I think of as "Certification Junkies". Certifications are like a drug or an addiction to them. They are always chasing one more certification in an attempt to prove that they know something or just get an ego boost seeing how many initials they can put after their name.
+
+Am I proud of the fact that I earned a certification? Absolutely. Do I think it proves anything, to myself or any one else? For the most part, no. There are still employers and individuals that put a lot of faith in what those certifications mean, but there are a lot more who have become jaded by them. Personally, when I interview someone that has a certification, I will focus a little bit more on that certification and the topics it covers to see if they know what they are doing. If it's someone with a long list of certifications, I look even harder and may not even consider them as a possibility.

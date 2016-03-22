@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IASA Tampa Chapter - January 2008 Meeting
-date: 12/20/2007 10:25:08 AM
+date: 2007-12-20 10:25:08 -05:00
 ---
 
 As I mentioned in my last [post](http://geekswithblogs.net/sdorman/archive/2007/12/19/iasa-tampa-chapter-updates.aspx), we aren't holding a December meeting. Instead, the next meeting will be Thursday, January 31 from 6:30 PM - 8:00 PM at the Microsoft offices in Tampa. This is the same night as the [Free Day of Patterns and Practices Tampa 2008 Roadshow](http://geekswithblogs.net/sdorman/archive/2007/12/19/free-day-of-patterns-and-practices-tampa-2008-roadshow.aspx), so if you are attending the PnP day be sure to stick around for the IASA meeting afterwards.

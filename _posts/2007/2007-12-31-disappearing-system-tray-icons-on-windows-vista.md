@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disappearing System Tray Icons on Windows Vista
-date: 12/31/2007 1:51:20 AM
+date: 2007-12-31 01:51:20 -05:00
 ---
 
 I've been running Vista on my work laptop since the first quarter of this year and on my development system at home since August. So far, I haven't had too many problems with it. Actually, on my home system I've had almost no problems. My laptop, on the other hand, routinely has issues.

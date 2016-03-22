@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Model View Controller vs Model View Presenter
-date: 10/19/2007 9:24:39 PM
+date: 2007-10-19 21:24:39 -04:00
 ---
 
 You've probably heard all of the buzz around Microsoft's new [ASP.NET MVC Framework](http://weblogs.asp.net/scottgu/archive/2007/10/14/asp-net-mvc-framework.aspx). This is a framework methodology that divides an application's implementation into three component roles: models, views, and controllers. You've probably also heard about a slightly different approach called Model View Presenter (MVP). If you ever wanted to know the difference between the  MVC and MVP patterns and why you should use one over the other, Todd Snyder from Infragistics has an excellent [explanation](http://blogs.infragistics.com/blogs/tsnyder/archive/2007/10/17/mvc-or-mvp-pattern-whats-the-difference.aspx).

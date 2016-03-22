@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MSBuildContrib Updates
-date: 12/24/2007 10:42:58 AM
+date: 2007-12-24 10:42:58 -05:00
 ---
 
 I know I just [mentioned](http://geekswithblogs.net/sdorman/archive/2007/12/23/msbuildcontrib-project-on-codeplex.aspx) this project yesterday, but I wanted to thank those of you who have already downloaded it. Hopefully you have found it useful so far. I have already updated the project for the 1.0.2913.51352 release, which adds a few new tasks and cleans up some of the existing ones.

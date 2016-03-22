@@ -1,9 +1,0 @@
----
-layout: post
-title: Community Credit February Prize Winner
-date: 3/4/2007 11:21:00 AM
----
-
-![](http://gwb.blob.core.windows.net/sdorman/5006/o_lg-license-plate-bandwidth.jpg)
-
-Don't let anyone tell you it doesn't happen. I was just awarded 16th place for February on Community Credit. I know, 16th place doesn't sound like a big deal, but keep in mind that it is 16th out of 6950 (I think that was the number of members when they calculated the prizes, if not it is pretty close) and all I had to do is what I normally do anyway: blog and answer/post forum questions.

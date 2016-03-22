@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Release builds are not Debug builds
-date: 10/25/2007 7:22:46 PM
+date: 2007-10-25 19:22:46 -04:00
 ---
 
 Scott Hanselman has an excellent [post](http://www.hanselman.com/blog/ReleaseISNOTDebug64bitOptimizationsAndCMethodInliningInReleaseBuildCallStacks.aspx) on his blog where he talks about the differences between release builds and debug builds. Just to reiterate what should be obvious, as Scott points out:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debugging Finalizers
-date: 10/25/2007 10:24:24 PM
+date: 2007-10-25 22:24:24 -04:00
 ---
 
 For the last few years, I've tried to make more .NET developers aware of the [IDisposable](http://msdn2.microsoft.com/aax125c9.aspx "IDisposable Interface") interface, the Dispose pattern, and the importance of having at least a basic understanding of how the Garbage Collector works. I have one [article](http://www.codeproject.com/KB/dotnet/idisposable.aspx) on [The Code Project](http://www.codeproject.com/ "The Code Project - Free Source Code and Tutorials") and various blog posts (see [here](http://geekswithblogs.net/sdorman/archive/2007/09/26/Catching-Handling-Exceptions-in-.NET.aspx "Catching (Handling) Exceptions in .NET"), [here](http://geekswithblogs.net/sdorman/archive/2007/08/28/Using-vs.-Using.aspx "Using vs. Using"), [here](http://geekswithblogs.net/sdorman/archive/2007/08/26/.NET-3.5-changes-to-GC.Collect.aspx ".NET 3.5 changes to GC.Collect"), or [here](http://geekswithblogs.net/sdorman/archive/2007/07/21/Using-Garbage-Collection-in-.NET.aspx "Using Garbage Collection in .NET")) that talk about these topics. I have also presented an advanced Memory Management presentation at various Code Camps.

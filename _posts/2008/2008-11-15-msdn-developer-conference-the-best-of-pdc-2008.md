@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MSDN Developer Conference: The Best of PDC 2008
-date: 11/15/2008 8:41:50 AM
+date: 2008-11-15 08:41:50 -05:00
 ---
 
 [![image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/0dd5d0ec8cc2_769C/image_thumb.png "image")](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/0dd5d0ec8cc2_769C/image_2.png)   

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Downloading PDC 2009 Content
-date: 11/26/2009 8:37:06 PM
+date: 2009-11-26 20:37:06 -05:00
 ---
 
 I wasn’t able to go to PDC09 this year, but Channel 9 has made most of the content from the sessions and keynotes available. If you want to download all of the content easily, you need to follow these simple steps:

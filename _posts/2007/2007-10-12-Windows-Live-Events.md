@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Events
-date: 10/12/2007 9:37:25 AM
+date: 2007-10-12 09:37:25 -04:00
 ---
 
 Yesterday, eWeek [announced](http://www.eweek.com/article2/0,1895,2194927,00.asp) the debut of Microsoft's new event planning service, [Windows Live Events](http://events.live.com/). Live Events is part of Windows Live Spaces, and is intended to make it easy for users to create personalized event web sites. There are more than 100 predefined templates to choose from and allow you to add photos, videos, and blog posts after the party is over. This will be a free service supported by banner ads at the top of the page.

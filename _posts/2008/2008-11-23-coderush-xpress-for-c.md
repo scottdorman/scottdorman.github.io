@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CodeRush Xpress for C#
-date: 11/23/2008 11:07:49 AM
+date: 2008-11-23 11:07:49 -05:00
 ---
 
 Developer Express, the makers of [CodeRush](http://www.devexpress.com/CodeRush), have teamed up with Microsoft to make a scaled down version available for free called [CodeRush Xpress](http://www.devexpress.com/Products/Visual_Studio_Add-in/CodeRushX/). This is exclusively for C# developers working in Visual Studio 2008 and includes a selection of hand-picked features from CodeRush and [Refactor! Pro](http://www.devexpress.com/Refactor).

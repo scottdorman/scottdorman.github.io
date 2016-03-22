@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft PDC Mobile
-date: 10/25/2008 10:47:54 AM
+date: 2008-10-25 10:47:54 -04:00
 ---
 
 A few days ago Microsoft announced that the PDC website was going mobile.

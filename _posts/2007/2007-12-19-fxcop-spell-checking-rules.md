@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FxCop Spell Checking Rules
-date: 12/19/2007 8:22:09 PM
+date: 2007-12-19 20:22:09 -05:00
 ---
 
 I just came across this [post](http://paraesthesia.com/archive/2007/12/19/fxcop-1.35-spell-checking-uses-office-2003.aspx) by [Travis Illig](http://paraesthesia.com/Default.aspx), one of the [Subtext](http://subtextproject.com/) developers, that brings up an interesting issue with FxCop 1.35. Apparently, FxCop 1.35 uses the Office 2003 spell checker for the spelling rules. If you don't have Office 2003 (and it must be Office 2003) installed, the spell check rules will fail. Travis isn't the [first person](http://blogs.parivedasolutions.com/borrell/archive/2007/07/02/520.aspx) to document this problem.

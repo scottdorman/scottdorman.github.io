@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Day of Patterns and Practices Tampa 2008 Roadshow
-date: 12/19/2007 10:10:48 PM
+date: 2007-12-19 22:10:48 -05:00
 ---
 
 ![Day of Patterns And Practices](http://www.pnpguidance.net/photos/DayofPatternsAndPracticesLogo.jpg)

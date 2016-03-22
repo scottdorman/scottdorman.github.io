@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kernel Patch Protection aka &quot;PatchGuard&quot;
-date: 10/30/2006 5:06:00 PM
+date: 2006-10-30 17:06:00 -05:00
 ---
 
 If anyone has been following this technology closely, there have been a lot of complaints by some of the security vendors regarding PatchGuard. I first heard about this technology at TechEd 2006 in a lot of the Vista sessions.

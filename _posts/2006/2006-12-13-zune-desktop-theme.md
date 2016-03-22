@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zune Desktop Theme
-date: 12/13/2006 11:07:00 AM
+date: 2006-12-13 11:07:00 -05:00
 ---
 
 Even if you aren't a [Zune](http://www.zune.net/ "Zune") fanatic, Microsoft has released a new [desktop theme](http://go.microsoft.com/fwlink/?LinkID=75078 "Download") based on the Zune interface. The new interface is very similar to the one offered by [Windows Media Player 11](http://www.microsoft.com/windows/windowsmedia/player/11/default.aspx "Windows Media Player 11").

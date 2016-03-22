@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MSBuildContrib project on CodePlex
-date: 12/23/2007 12:14:11 PM
+date: 2007-12-23 12:14:11 -05:00
 ---
 
 [MSBuildContrib](http://www.codeplex.com/MSBuildContrib) is the project for tasks and tools that aren't in MSBuild. This is similar to the [NAntContrib](http://nantcontrib.sourceforge.net/) project and will be incorporating as many of the [NAnt](http://nant.sourceforge.net/) and NAntContrib tasks as possible. There is still a long way to go, so if you are interested in helping out please let me know and I will add you to the project.

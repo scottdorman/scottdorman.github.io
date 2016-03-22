@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Photo Gallery Rocks!
-date: 10/27/2007 3:17:35 AM
+date: 2007-10-27 03:17:35 -04:00
 ---
 
 I haven't posted too much about Windows Live Photo Gallery, but after spending a few hours with it tonight, I have to say that it absolutely rocks!

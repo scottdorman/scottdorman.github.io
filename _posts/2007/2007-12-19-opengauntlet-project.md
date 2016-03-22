@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenGauntlet Project
-date: 12/19/2007 9:12:13 PM
+date: 2007-12-19 21:12:13 -05:00
 ---
 
 One of the new features that will be available as part of the Visual Studio "Rosario" release is called "Gated Checkin". This is based on an internal tool that Microsoft uses called Gauntlet. Gauntlet was originally created in 1996 by the IE team, but is now used fairly widely in a few different variations. The idea behind gated checkin is that it helps prevent build breaks by verifying the changes before the checkin occurs and rejecting them if something fails. Continuous integration also provides features that help identify build breaks as soon as after the checkin as possible.  

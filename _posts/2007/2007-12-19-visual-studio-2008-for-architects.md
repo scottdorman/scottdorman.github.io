@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 for Architects
-date: 12/19/2007 9:16:24 PM
+date: 2007-12-19 21:16:24 -05:00
 ---
 
 [Jeff Barnes](http://blogs.msdn.com/jbarnes/default.aspx) has made his extended talk (think "deep dive") on the following topics available:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Search and Replace Plugin for Windows Live Writer
-date: 12/19/2007 8:12:52 PM
+date: 2007-12-19 20:12:52 -05:00
 ---
 
 ![](http://mastykarz.nl/tmt/WindowsLiveWriterPluginImtechSearchRepla_AB94/ReplacePluginDialog.png)

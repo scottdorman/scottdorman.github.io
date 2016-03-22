@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA November 2008 Meeting Reminder
-date: 11/20/2008 11:12:12 AM
+date: 2008-11-20 11:12:12 -05:00
 ---
 
 Just a quick reminder that the November 2008 meeting is tonight from 6:30 PM - 8:30 PM (ET) at the Microsoft office. We are very pleased to be holding this meeting in cooperation with the [Central Florida BizTalk User Group](http://eventbrite.list-manage.com/track/click?u=def661e5fb5b51ddb3bafdd75&id=4d3bebc255&e=5d2dfec64d). **Since this is a joint meeting, please *be sure to register *so we have a good idea of how much pizza to order.**

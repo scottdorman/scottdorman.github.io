@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Live Search Box Updates
-date: 10/21/2007 2:37:38 PM
+date: 2007-10-21 14:37:38 -04:00
 ---
 
 Earlier today, I talked about [Live Search](http://geekswithblogs.net/sdorman/archive/2007/10/21/Live-Search.aspx) and [how to add a Live Search Box to your website](http://geekswithblogs.net/sdorman/archive/2007/10/21/Adding-a-Live-Search-Box-to-your-website.aspx). 

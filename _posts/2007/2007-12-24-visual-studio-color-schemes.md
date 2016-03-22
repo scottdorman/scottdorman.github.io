@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio Color Schemes
-date: 12/24/2007 9:44:52 PM
+date: 2007-12-24 21:44:52 -05:00
 ---
 
 There is always a lot of interest around my desk at work any time I change the color schemes in Visual Studio. I usually bounce between the default "light" color scheme and a "dark" scheme, mostly depending on much actual coding I'm doing at the moment, but sometimes just because I want a change. It isn't always easy to come up with a good color scheme and there isn't a good location online to collect the various color schemes people have created.

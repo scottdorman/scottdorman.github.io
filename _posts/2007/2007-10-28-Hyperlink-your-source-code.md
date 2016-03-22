@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hyperlink your source code
-date: 10/28/2007 2:08:52 PM
+date: 2007-10-28 14:08:52 -04:00
 ---
 
 If you're diligent about putting meaningful comments in your source code (and if you're not, you should be!) you have probably wanted the ability to have a comment link to another method or another area of code. Using XML comments, it is relatively easy to link to other code elements using the <see> or <seealso> tags.

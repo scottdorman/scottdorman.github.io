@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Credit
-date: 11/29/2006 11:34:00 PM
+date: 2006-11-29 23:34:00 -05:00
 ---
 
 As I was browsing around the [Subtext](http://www.subtextproject.com/) web site, I came across the [Community Credit](http://www.community-credit.com) website. This is a pretty interesting site, where the primary goal is "stupid prizes for smart people". From the website, the goal is

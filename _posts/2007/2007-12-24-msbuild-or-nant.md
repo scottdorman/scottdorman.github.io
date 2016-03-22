@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MSBuild or NAnt?
-date: 12/24/2007 1:06:27 PM
+date: 2007-12-24 13:06:27 -05:00
 ---
 
 For the last 4 years or so I have been involved, either directly or indirectly, with creating standardized build systems that run on the Microsoft platform. Before that I was actually a Unix admin and developer and was very proficient in writing makefiles. When I first got involved in build systems for the Microsoft platform, it seemed like there were very few build script technologies available that were worth using. The best one available was the combination of [NAnt](http://nant.sourceforge.net/) and [NAntContrib](http://nantcontrib.sourceforge.net/). 

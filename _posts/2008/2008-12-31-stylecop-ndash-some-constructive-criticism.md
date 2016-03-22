@@ -1,7 +1,7 @@
 ---
 layout: post
 title: StyleCop &ndash; Some Constructive Criticism
-date: 12/31/2008 7:29:18 PM
+date: 2008-12-31 19:29:18 -05:00
 ---
 
 It’s been a while since I last talked about [StyleCop](http://code.msdn.microsoft.com/sourceanalysis). I’ve been using it a lot recently on an internal project of mine and have come to really like the idea behind the tool. After using it extensively over the last few days, however, I think there are a few glaring omissions and features that need to be implemented before this tool can become truly useful.

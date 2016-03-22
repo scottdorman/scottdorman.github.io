@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Cadru 2.0
-date: 11/10/2015 8:07:52 PM
+date: 2015-11-10 20:07:52 -05:00
 ---
 
 Just over two years ago, Cadru was released as an open source framework. Since then, there have been numerous changes, improvements, and updates. This latest update includes a lot of new features and, unfortunately, one breaking change.
@@ -14,12 +14,14 @@ In an earlier release, [ToRelativeTimeString](https://github.com/scottdorman/cad
 
 A new extension method on IEnumerable has been added called Partition. This takes an IEnumerable and breaks it up into smaller collections of equal size. If there aren’t enough elements to fully populate the final partition, it’s the size of the number of elements.
 
+```csharp
 int[] numbers = { 0, 30, 20, 15, 90, 85, 40, 75 }; 
 var partitions = numbers.Partition(3).ToArray(); 
 
 // partitions[0] = { 0, 30, 20 }
 // partitions[1] = { 15, 90, 85 }
 // partitions[2] = { 40, 75 }
+```
 
 Next is a simple [ReverseComparisonComparer](https://github.com/scottdorman/cadru/commit/6d3f6ebdd7bf94f8da4c505e2a2d126a103eadf7). This takes a given Comparison<T> instance and reverses the Compare operation.
 
@@ -31,11 +33,13 @@ Enumerated types also [gained some new methods](https://github.com/scottdorman/c
 
 Finally, and probably the biggest addition to this release, is support for Ranges, through the Range<T> class. This allows easy creation of a range of values. Since it’s a generic class, you can create a range over pretty much any data type. Ranges are similar to a mathematical interval and allow you to include or exclude either endpoint (using standard interval notation), provide intersection and union operations, and be enumerable using a default enumeration function or a custom function. (I will describe ranges in much more detail in a separate blog post.)
 
+```csharp
 var range = new Range<char>('a', 'e', RangeEndpointOption.Closed);
 range.SetDefaultEnumerator();
 var expanded = range.ToList();
 
 // expanded = {'b', 'c', 'd' }
+```
 
 ## Unit tests and code coverage
 
