@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WPF Datagrid control
+title: "WPF Datagrid control"
 date: 2007-02-06 20:59:00 -05:00
 ---
 

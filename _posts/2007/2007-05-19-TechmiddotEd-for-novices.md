@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech&middot;Ed for Novices
+title: "Tech&middot;Ed for Novices"
 date: 2007-05-19 10:32:07 -04:00
 ---
 
@@ -56,15 +56,15 @@ Lunch sessions, as their name implies, occur during the lunch break and are usua
 
 # Building Your Schedule
 
-That's a lot of content to sift through. Microsoft calls the "Communications Network", also known as [CommNet](http://www.microsoft.com/events/teched2007/commnet.mspx), as the place to start. I think the place to start is with the online schedule builder **before** you get to the event. If the session builder proves to confusing for you, look at this [post]({% post_url /2007/2007-05-15-Added-Management-and-Operations-Track-Calendar %}) for a set of Internet Calendars (iCal format) that you can load into Outlook 2007 (for more details or to find out how to load these into Outlook 2003, check [here]({% post_url /2007/2007-05-10-112395 %})). 
+That's a lot of content to sift through. Microsoft calls the "Communications Network", also known as [CommNet](http://www.microsoft.com/events/teched2007/commnet.mspx), as the place to start. I think the place to start is with the online schedule builder **before** you get to the event. If the session builder proves to confusing for you, look at this [post]({% post_url 2007-05-15-Added-Management-and-Operations-Track-Calendar %}) for a set of Internet Calendars (iCal format) that you can load into Outlook 2007 (for more details or to find out how to load these into Outlook 2003, check [here]({% post_url 2007-05-10-outlook-2007-internet-calendar-subscriptions %})). 
 
 ### Technical Tracks
 
-The point is, you need to have an idea of what sessions you are going to before you get there. There are 14 core tracks and 2 virtual tracks this year and it isn't always easy to figure out what is important. A good [summary]({% post_url /2007/2007-04-04-110863 %}) of the track content is available, which will help you focus on what tracks are important. The thing to realize about the tracks is that they are a way to group session content on a large scale. Sessions can, and often do, cross multiple tracks and sessions aren't always in the track you might expect. As a result, don't try to focus on any one track and only go to sessions in that track. It's a good starting point, but that's it.
+The point is, you need to have an idea of what sessions you are going to before you get there. There are 14 core tracks and 2 virtual tracks this year and it isn't always easy to figure out what is important. A good [summary]({% post_url 2007-04-04-techmiddoted-technical-tracks-summary-updated %}) of the track content is available, which will help you focus on what tracks are important. The thing to realize about the tracks is that they are a way to group session content on a large scale. Sessions can, and often do, cross multiple tracks and sessions aren't always in the track you might expect. As a result, don't try to focus on any one track and only go to sessions in that track. It's a good starting point, but that's it.
 
 > For example. if you are a solutions architect (or any kind of technical architect), chances are that the majority of your sessions will fall under the "Architecture" track, but that doesn't mean there won't be sessions in the "Developer Tools and Technologies" track or the "Web Development and Infrastructure" track that aren't important.
 
-The other thing to understand about the tracks is that they are only useful if you want sessions covering a broad (or high-level) technology category. If you want information specific to a certain technology, such as Smart Clients, you will need to spend some extra time looking at each of the tracks and finding the sessions that are relevant. (For Smart Clients specifically, you can see my [Smart Client Sessions Calendar for Tech·Ed 2007]({% post_url /2007/2007-05-16-Smart-Client-Sessions-Calendar-for-TechmiddotEd-2007 %}) and save yourself some work.)
+The other thing to understand about the tracks is that they are only useful if you want sessions covering a broad (or high-level) technology category. If you want information specific to a certain technology, such as Smart Clients, you will need to spend some extra time looking at each of the tracks and finding the sessions that are relevant. (For Smart Clients specifically, you can see my [Smart Client Sessions Calendar for Tech·Ed 2007]({% post_url 2007-05-16-Smart-Client-Sessions-Calendar-for-TechmiddotEd-2007 %}) and save yourself some work.)
 
 ### Deciding on your sessions
 
