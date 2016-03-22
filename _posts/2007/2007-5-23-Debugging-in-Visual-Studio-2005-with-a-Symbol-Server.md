@@ -1,0 +1,19 @@
+---
+layout: post
+title: Debugging in Visual Studio 2005 with a Symbol Server
+date: 5/23/2007 4:21:20 PM
+---
+
+We have all had the experience of debugging an application in Visual Studio and run into the problem of not having the debugging symbols or having incorrect symbols. This is particularly true when you need to step into .NET CLR code to track down a problem. 
+
+Microsoft maintains a public symbol server that provides symbols for the different Windows operating system versions, MDAC, IIS, ISA, and the .NET Framework. This server is for symbol downloads only and is not browseable. In addition to the Microsoft symbol server, you can create your own local symbol server for your own application on either a network share or your own local machine.
+
+In order to setup a symbol server, open the **Options** dialog, then open the **Debugging** node and click **Symbols**. To use the Microsoft symbol server, enter 
+
+> [http://msdl.microsoft.com/download/symbols](http://msdl.microsoft.com/download/symbols)
+
+as a new symbol file (.pdb) location by clicking the ![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/DebugginginVisualStudio2005withaSymbolSe_E5D6/image%7B0%7D10.png) button and editing the text. You will need to enter a path for the cache directory, which can be either a network share or a local directory.
+
+[![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/DebugginginVisualStudio2005withaSymbolSe_E5D6/image%7B0%7D_thumb1.png)](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/DebugginginVisualStudio2005withaSymbolSe_E5D6/image%7B0%7D5.png) 
+
+Once you click the **OK** button, an End User License Agreement dialog will appear (only if you use the Microsoft public symbol store). Once you click **Yes** to accept the agreement, the symbols will be automatically downloaded to your local cache.
