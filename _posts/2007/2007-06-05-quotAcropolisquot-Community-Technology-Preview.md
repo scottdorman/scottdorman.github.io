@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &quot;Acropolis&quot; Community Technology Preview
+title: Acropolis Community Technology Preview
 date: 2007-06-05 23:21:13 -04:00
 ---
 

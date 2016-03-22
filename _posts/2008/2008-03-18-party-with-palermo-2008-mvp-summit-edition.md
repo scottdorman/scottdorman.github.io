@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Party with Palermo: 2008 MVP Summit Edition
+title: "Party with Palermo: 2008 MVP Summit Edition"
 date: 2008-03-18 09:45:54 -04:00
 ---
 

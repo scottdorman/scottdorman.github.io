@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code Style and Standards: Best Practices? - BOF11
+title: "Code Style and Standards: Best Practices? - BOF11"
 date: 2007-05-02 23:04:33 -04:00
 ---
 

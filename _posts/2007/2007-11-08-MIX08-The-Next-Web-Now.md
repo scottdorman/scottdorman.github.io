@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIX08: The Next Web Now
+title: "MIX08: The Next Web Now"
 date: 2007-11-08 20:44:04 -05:00
 ---
 

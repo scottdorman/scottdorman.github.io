@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Framework Engineering: Architecting, Designing, and Developing Reusable Libraries
+title: "Framework Engineering: Architecting, Designing, and Developing Reusable Libraries"
 date: 2008-02-29 20:27:32 -05:00
 ---
 

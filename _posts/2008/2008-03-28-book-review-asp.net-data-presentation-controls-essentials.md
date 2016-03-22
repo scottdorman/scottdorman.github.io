@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: ASP.NET Data Presentation Controls Essentials
+title: "Book Review: ASP.NET Data Presentation Controls Essentials"
 date: 2008-03-28 18:52:08 -04:00
 ---
 

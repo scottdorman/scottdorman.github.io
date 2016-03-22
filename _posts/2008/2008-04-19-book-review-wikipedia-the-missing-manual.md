@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: Wikipedia: The Missing Manual
+title: "Book Review: Wikipedia: The Missing Manual"
 date: 2008-04-19 15:43:50 -04:00
 ---
 

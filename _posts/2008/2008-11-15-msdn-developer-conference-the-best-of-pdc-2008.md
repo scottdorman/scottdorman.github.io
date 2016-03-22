@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MSDN Developer Conference: The Best of PDC 2008
+title: "MSDN Developer Conference: The Best of PDC 2008"
 date: 2008-11-15 08:41:50 -05:00
 ---
 

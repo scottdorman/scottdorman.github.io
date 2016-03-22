@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reminder: October 2008 Tampa Bay IASA Meeting
+title: "Reminder: October 2008 Tampa Bay IASA Meeting"
 date: 2008-10-23 15:38:54 -04:00
 ---
 

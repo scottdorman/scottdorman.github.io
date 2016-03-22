@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Club Internet: le duel
+title: "Club Internet: le duel"
 date: 2007-07-28 10:02:42 -04:00
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows Vista: Kernel Changes - Wakeup, wakeup, wakeup!
+title: "Windows Vista: Kernel Changes - Wakeup, wakeup, wakeup!"
 date: 2006-06-18 13:24:00 -04:00
 ---
 

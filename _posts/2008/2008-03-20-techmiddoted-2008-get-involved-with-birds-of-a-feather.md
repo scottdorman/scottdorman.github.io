@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech&middot;Ed 2008: Get Involved with Birds-of-a-Feather
+title: "Tech&middot;Ed 2008: Get Involved with Birds-of-a-Feather"
 date: 2008-03-20 14:11:43 -04:00
 ---
 

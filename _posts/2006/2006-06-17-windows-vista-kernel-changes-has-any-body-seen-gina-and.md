@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows Vista: Kernel Changes - Has any body seen Gina and what's a UAC?
+title: "Windows Vista: Kernel Changes - Has any body seen Gina and what's a UAC?"
 date: 2006-06-17 17:15:00 -04:00
 ---
 

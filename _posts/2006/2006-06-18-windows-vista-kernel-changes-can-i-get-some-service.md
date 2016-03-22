@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows Vista: Kernel Changes - Can I get some service?
+title: "Windows Vista: Kernel Changes - Can I get some service?"
 date: 2006-06-18 13:17:00 -04:00
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &quot;WPF/E&quot;
+title: "WPF/E"
 date: 2006-12-04 23:56:00 -05:00
 ---
 

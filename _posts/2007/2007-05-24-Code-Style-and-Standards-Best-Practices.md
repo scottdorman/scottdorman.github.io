@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code Style and Standards: Best Practices?
+title: "Code Style and Standards: Best Practices?"
 date: 2007-05-24 12:35:15 -04:00
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: LINQ Quickly
+title: "Book Review: LINQ Quickly"
 date: 2008-02-24 19:40:59 -05:00
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech&middot;Ed Developers: Birds of a Feather Topic
+title: "Tech&middot;Ed Developers: Birds of a Feather Topic"
 date: 2008-03-11 09:38:39 -04:00
 ---
 

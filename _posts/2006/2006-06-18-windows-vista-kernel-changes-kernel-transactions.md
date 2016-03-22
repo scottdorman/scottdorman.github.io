@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows Vista: Kernel Changes - Kernel Transactions
+title: "Windows Vista: Kernel Changes - Kernel Transactions"
 date: 2006-06-18 13:38:00 -04:00
 ---
 

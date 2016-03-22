@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extreme Makeover: SPA Edition
+title: "Extreme Makeover: SPA Edition"
 date: 2007-02-27 22:23:00 -05:00
 ---
 

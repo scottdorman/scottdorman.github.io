@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Party with Palermo: Tech&middot;Ed 2007 edition
+title: "Party with Palermo: Tech&middot;Ed 2007 edition"
 date: 2007-05-24 12:41:56 -04:00
 ---
 

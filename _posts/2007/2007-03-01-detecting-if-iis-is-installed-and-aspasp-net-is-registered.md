@@ -4,7 +4,7 @@ title: Detecting if IIS is installed and ASP/ASP.NET is registered
 date: 2007-03-01 23:06:00 -05:00
 ---
 
-Recently, someone sent me an email about my [post]({% post_url /2007/2007-02-04-105425 %}) on using managed code to detect the installed Framework versions and services packs. The posts were really just pointers to my [article](http://www.codeproject.com/useritems/frameworkversiondetection.asp?msg=1903766 "Using managed code to detect what .NET Framework versions and service packs are installed") on The Code Project, but it did bring up an interesting topic.
+Recently, someone sent me an email about my [post]({% post_url /2007/2007-02-04-detecting-installed-net-framework-versions-and-service-packs-update %}) on using managed code to detect the installed Framework versions and services packs. The posts were really just pointers to my [article](http://www.codeproject.com/useritems/frameworkversiondetection.asp?msg=1903766 "Using managed code to detect what .NET Framework versions and service packs are installed") on The Code Project, but it did bring up an interesting topic.
 
 The question at hand really boils down into two separate issues:
 

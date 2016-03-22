@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reminder: April 2008 Tampa Bay IASA Meeting
+title: "Reminder: April 2008 Tampa Bay IASA Meeting"
 date: 2008-04-22 21:13:03 -04:00
 ---
 

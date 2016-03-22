@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enterprise Library v3: Validation Application Block
+title: "Enterprise Library v3: Validation Application Block"
 date: 2006-11-27 15:15:00 -05:00
 ---
 

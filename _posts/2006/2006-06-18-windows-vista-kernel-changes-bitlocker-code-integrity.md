@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows Vista: Kernel Changes - BitLocker, Code Integrity
+title: "Windows Vista: Kernel Changes - BitLocker, Code Integrity"
 date: 2006-06-18 14:18:00 -04:00
 ---
 

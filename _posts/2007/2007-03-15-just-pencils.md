@@ -10,4 +10,4 @@ I was recently sent an email that has some of the most amazing pictures. <strike
 
 Keep in mind, all of these creations are done using just the tips or ends of colored drawing pencils. And I always thought they were just for writing.
 
-<strike>If anyone knows how the artist is, please let me know so I can give him or her credit for these amazing creations.</strike> [See this post: [Just Pencils! a subscript...]({% post_url /2007/2007-03-17-109069 %})]
+<strike>If anyone knows how the artist is, please let me know so I can give him or her credit for these amazing creations.</strike> [See this post: [Just Pencils! a subscript...]({% post_url /2007/2007-03-17-just-pencils-a-subscript %})]

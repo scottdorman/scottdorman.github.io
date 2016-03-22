@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MCPD: Windows Developer
+title: "MCPD: Windows Developer"
 date: 2007-06-10 16:45:30 -04:00
 ---
 
