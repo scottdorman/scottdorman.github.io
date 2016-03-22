@@ -4,7 +4,7 @@ title: PDC for Novices, 2008 Edition
 date: 2008-07-19 14:51:32 -04:00
 ---
 
-I started doing these a few years ago for Tech·Ed ([2008](http://geekswithblogs.net/sdorman/archive/2008/02/25/techmiddoted-for-novices-2008-edition.aspx) and [2007](http://geekswithblogs.net/sdorman/archive/2007/05/19/TechmiddotEd-for-novices.aspx)) and received a lot of good feedback so I decided to continue the series for PDC as well.
+I started doing these a few years ago for Tech·Ed ([2008]({% post_url 2008/2008-02-25-techmiddoted-for-novices-2008-edition %}) and [2007]({% post_url 2007/2007-05-19-TechmiddotEd-for-novices %})) and received a lot of good feedback so I decided to continue the series for PDC as well.
 
 # Session Types
 

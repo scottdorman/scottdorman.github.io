@@ -12,7 +12,7 @@ After reading about XFN, I think it is an extremely interest concept on the enti
 > 
 > XFN outlines the relationships between individuals by defining a small set of values that describe personal relationships. In HTML and XHTML documents, these are given as values for the `rel` attribute on a hyperlink. XFN allows authors to indicate which of the weblogs they read belong to friends, whom they've physically met, and other personal relationships. Using XFN values, which can be listed in any order, people can humanize their blogrolls and links pages, both of which have become a common feature of weblogs.
 
-As I am a a fan of [Windows Live Writer,](http://geekswithblogs.net/sdorman/archive/2006/08/24/89164.aspx) I decided to write a plugin that allows me to insert XFN aware links. After spending way too much time on it for one night, I have it finished. Here is a  screenshot of the insert dialog.  
+As I am a a fan of [Windows Live Writer,]({% post_url 2006/2006-08-24-89164 %}) I decided to write a plugin that allows me to insert XFN aware links. After spending way too much time on it for one night, I have it finished. Here is a  screenshot of the insert dialog.  
 
 As you can see, it is patterned after the normal Windows Live Writer Insert Hyperlink dialog, but adds a section for the different XFN Relationships that are possible.  
 

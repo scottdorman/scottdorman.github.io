@@ -11,4 +11,4 @@ All of the meeting times from now through the end of 2009 have been published on
 
    </div>    
 
- <div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 4px 4px 4px;">[![DotNetKicks Image](http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://geekswithblogs.net/sdorman/archive/2008/11/08/tampa-bay-iasa-ndash-upcoming-meetings.aspx&bgcolor=0080C0&fgcolor=FFFFFF&border=000000&cbgcolor=D4E1ED&cfgcolor=000000)](http://www.dotnetkicks.com/kick/?url=http://geekswithblogs.net/sdorman/archive/2008/11/08/tampa-bay-iasa-ndash-upcoming-meetings.aspx)</div>
+ <div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 4px 4px 4px;">[![DotNetKicks Image](http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://geekswithblogs.net/sdorman/archive/2008/11/08/tampa-bay-iasa-ndash-upcoming-meetings.aspx&bgcolor=0080C0&fgcolor=FFFFFF&border=000000&cbgcolor=D4E1ED&cfgcolor=000000)]({% post_url 2008/2008-11-08-tampa-bay-iasa-ndash-upcoming-meetings %})</div>

@@ -9,7 +9,7 @@ It seems that there isn't a good source of information that consolidates all of 
 *   **January**       
 
     *   [Philly Code Camp](http://www.phillydotnet.org/Meetings/MeetingEmails/2008/January122008/tabid/603/Default.aspx): January 12, 2008 @ DeVry University in Fort Washington 
-    *   [Day of Patterns and Practices Tampa 2008 Roadshow](http://geekswithblogs.net/sdorman/archive/2007/12/19/free-day-of-patterns-and-practices-tampa-2008-roadshow.aspx): January 31, 2008 @ Microsoft, Tampa Offices    
+    *   [Day of Patterns and Practices Tampa 2008 Roadshow]({% post_url 2007/2007-12-19-free-day-of-patterns-and-practices-tampa-2008-roadshow %}): January 31, 2008 @ Microsoft, Tampa Offices    
 *   **February**       
 
     *   [Winnipeg Code Camp](http://geekswithblogs.net/dlussier/archive/2007/12/17/117778.aspx): February 2008 

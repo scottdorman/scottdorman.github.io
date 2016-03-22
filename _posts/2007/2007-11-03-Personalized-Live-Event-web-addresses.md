@@ -4,7 +4,7 @@ title: Personalized Live Event web addresses
 date: 2007-11-03 09:42:24 -04:00
 ---
 
-Not too long ago I talked about the [Windows Live Spaces URL Confusion](http://geekswithblogs.net/sdorman/archive/2007/10/16/Windows-Live-Spaces-URL-Confusion.aspx), and the really cryptic URLs being used for [SkyDrive](http://skydrive.live.com/) and [Live Events](http://events.live.com/). Today, I found something that makes Live Event addresses a little bit better. I'm not sure if this has always been available or if it's new, but either way it's a feature that is not obvious at all.
+Not too long ago I talked about the [Windows Live Spaces URL Confusion]({% post_url 2007/2007-10-16-Windows-Live-Spaces-URL-Confusion %}), and the really cryptic URLs being used for [SkyDrive](http://skydrive.live.com/) and [Live Events](http://events.live.com/). Today, I found something that makes Live Event addresses a little bit better. I'm not sure if this has always been available or if it's new, but either way it's a feature that is not obvious at all.
 
 I'm talking about the "Personalize your web address" option that is available from the event settings page (if you've already created the event) or from the create event page. It's very difficult to see on the create event page, since it appears as just a single sentence at the very bottom of the page:
 

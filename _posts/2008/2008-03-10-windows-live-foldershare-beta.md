@@ -6,7 +6,7 @@ date: 2008-03-10 23:11:46 -04:00
 
 ![](http://www.liveside.net/Images/logos/foldershare%20beta%20logo.png)
 
-A while ago I [talked](http://geekswithblogs.net/sdorman/archive/2007/11/21/Windows-Live-FolderShare.aspx) about Windows Live FolderShare. As a reminder, for those of you who don't know: 
+A while ago I [talked]({% post_url 2007/2007-11-21-Windows-Live-FolderShare %}) about Windows Live FolderShare. As a reminder, for those of you who don't know: 
 
 > FolderShare allows you to synchronize files across multiple computers and access or share files with colleagues and friends. You no longer need to send large files via  email, burn them to CDs/DVDs and mail them, or upload them to a website. FolderShare allows you to share and sync important information instantly with anyone you invite, making it the perfect solution for personal or small business use. FolderShare allows you to share with other people, sync folders between your own computers, and remotely access your files via a web browser.
 

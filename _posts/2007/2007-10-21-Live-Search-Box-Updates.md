@@ -4,7 +4,7 @@ title: Live Search Box Updates
 date: 2007-10-21 14:37:38 -04:00
 ---
 
-Earlier today, I talked about [Live Search](http://geekswithblogs.net/sdorman/archive/2007/10/21/Live-Search.aspx) and [how to add a Live Search Box to your website](http://geekswithblogs.net/sdorman/archive/2007/10/21/Adding-a-Live-Search-Box-to-your-website.aspx). 
+Earlier today, I talked about [Live Search]({% post_url 2007/2007-10-21-Live-Search %}) and [how to add a Live Search Box to your website]({% post_url 2007/2007-10-21-Adding-a-Live-Search-Box-to-your-website %}). 
 
 In those posts, I talked about the [3-step wizard](http://search.live.com/siteowner/searchboxstep1.aspx "-step wizard") that allows you to easily add the Advanced Search Box to your site and the fact that it doesn't allow you to specify multiple search macros.
 

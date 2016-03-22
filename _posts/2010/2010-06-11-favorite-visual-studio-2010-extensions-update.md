@@ -4,7 +4,7 @@ title: Favorite Visual Studio 2010 Extensions, Update
 date: 2010-06-11 22:08:26 -04:00
 ---
 
-With the release of the Visual Studio Pro Power Tools (and many other new extensions having been released), my [list of favorite Visual Studio extensions](http://geekswithblogs.net/sdorman/archive/2010/05/01/favorite-visual-studio-2010-extensions.aspx) has changed. All of these extensions are available in the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/en-us/site/search?f%5B0%5D.Type=VisualStudioVersion&f%5B0%5D.Value=10.0&f%5B0%5D.Text=Visual%20Studio%202010).
+With the release of the Visual Studio Pro Power Tools (and many other new extensions having been released), my [list of favorite Visual Studio extensions]({% post_url 2010/2010-05-01-favorite-visual-studio-2010-extensions %}) has changed. All of these extensions are available in the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/en-us/site/search?f%5B0%5D.Type=VisualStudioVersion&f%5B0%5D.Value=10.0&f%5B0%5D.Text=Visual%20Studio%202010).
 
 Here is the list of extensions that I currently have installed and find useful:
 

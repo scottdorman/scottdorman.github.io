@@ -6,7 +6,7 @@ date: 2009-11-05 22:01:43 -05:00
 
 [![0672331012](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/SamsTeachYourselfVisualC2010in24Hours_143D1/0672331012_thumb_1.jpg "0672331012")](http://www.amazon.com/gp/product/0672331012?ie=UTF8&tag=scotdorm-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0672331012)
 
-I have [previously mentioned](http://geekswithblogs.net/sdorman/archive/2009/06/26/sams-teach-yourself-c-2010-in-24-hours.aspx) that I’m working on the upcoming <u>Sams Teach Yourself Visual C# 2010 in 24 Hours</u> book.
+I have [previously mentioned]({% post_url 2009/2009-06-26-sams-teach-yourself-c-2010-in-24-hours %}) that I’m working on the upcoming <u>Sams Teach Yourself Visual C# 2010 in 24 Hours</u> book.
 
 Things are progressing nicely, if a bit slower than I’d prefer. I have the draft for the cover art, which looks really good.
 

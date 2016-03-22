@@ -4,7 +4,7 @@ title: Visual Studio user settings per project/solution - update
 date: 2007-04-25 20:12:13 -04:00
 ---
 
-The other day, I [posted](http://geekswithblogs.net/sdorman/archive/2007/04/23/111900.aspx) about a [feature request](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=272773) submitted to Microsoft Connect. Well, it ended up getting 21 votes before Microsoft closed it as "Closed (Won't Fix)". The comment they left was
+The other day, I [posted]({% post_url 2007/2007-04-23-111900 %}) about a [feature request](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=272773) submitted to Microsoft Connect. Well, it ended up getting 21 votes before Microsoft closed it as "Closed (Won't Fix)". The comment they left was
 
 > Thanks for reporting this suggestion. Unfortunately we will not be able to address this in time for the upcoming release of Visual Studio (codename Orcas) but we will track this suggestion in our future release feature request database.
 
