@@ -234,6 +234,7 @@ img {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
     border-bottom: 3px solid #296887;
     padding-bottom: 0;
+    background-color: inherit;
 }
 
 /* --- Footer --- */
