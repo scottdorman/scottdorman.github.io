@@ -27,4 +27,3 @@ For the Florida code camps, the following series have been created:
 *   [Code Camp – Florida – Jacksonville](http://spkr8.com/r/151) (2007, 2008, 2009*, 2010)   
 
 **[I have asked for that year’s entry to be associated with the series and renamed, if necessary, to be consistent. If you are (or know) the person who originally created the event, please update it so the [SpeakerRate](http://speakerrate.com/) staff doesn’t have to.]*
-  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:e5e7329d-c125-44ba-8986-83caba5008fa" class="wlWriterEditableSmartContent">Technorati Tags: [speaking](http://technorati.com/tags/speaking),[feedback](http://technorati.com/tags/feedback),[code camp](http://technorati.com/tags/code+camp)</div>

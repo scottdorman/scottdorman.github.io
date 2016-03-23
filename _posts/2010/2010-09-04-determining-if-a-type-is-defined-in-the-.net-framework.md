@@ -97,5 +97,3 @@ Debug.WriteLine(<span style="color: rgb(0, 96, 128);">"Is type `string` a .NET F
 
 </div>
 </div>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:c5c9014e-8645-4cc0-89d0-ee648f18c60b" style="margin: 0px; padding: 0px; float: none; display: inline;">Technorati Tags: [C#](http://technorati.com/tags/C%23),[.NET](http://technorati.com/tags/.NET)</div><div class="wlWriterHeaderFooter" style="margin: 0px; padding: 4px 0px; text-align: right;">[![Digg This](http://digg.com/img/badges/100x20-digg-button.png "Digg This")](http://digg.com/submit?url=http%3a%2f%2fgeekswithblogs.net%2fsdorman%2farchive%2f2010%2f09%2f04%2fdetermining-if-a-type-is-defined-in-the-.net-framework.aspx&title=Determining+if+a+type+is+defined+in+the+.NET+Framework)</div>

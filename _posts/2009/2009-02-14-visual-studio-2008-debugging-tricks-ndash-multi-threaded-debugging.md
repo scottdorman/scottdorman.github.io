@@ -4,7 +4,7 @@ title: Visual Studio 2008 Debugging Tricks &ndash; Multi-Threaded Debugging
 date: 2009-02-14 16:16:53 -05:00
 ---
 
-We previously talked about the [Location, Condition and Hit Count]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}) modifiers for advanced breakpoints. These are great for a lot of different debugging scenarios, but what about tricks specifically for debugging multi-threaded applications. If you have ever tried to debug a multi-threaded application you know that it isn’t always the easiest experience. 
+We previously talked about the [Location, Condition and Hit Count]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}) modifiers for advanced breakpoints. These are great for a lot of different debugging scenarios, but what about tricks specifically for debugging multi-threaded applications. If you have ever tried to debug a multi-threaded application you know that it isn’t always the easiest experience. 
 
 Hopefully everyone is already familiar with the Treads window. If you aren’t, it is accessed through the Debug|Windows|Threads menu or the Ctrl+D, T keyboard shortcut. The threads window is only available when you are actively in a debug session.
 
@@ -40,4 +40,3 @@ which allows you to specify the machine name, process id (or name), and/or the t
 *   ThreadName = "Thread 3"   
 
 Two important things to be aware of here are that the machine/process/thread keywords are case insensitive and that the “==” operator is supported.
-  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:e5ff7221-12bf-4fbe-b949-54497c96a9d7" class="wlWriterSmartContent">*Technorati Tags: [Visual Studio](http://technorati.com/tags/Visual+Studio), [Advanced](http://technorati.com/tags/Advanced), [Debugging](http://technorati.com/tags/Debugging)*</div><div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 4px 4px 4px;">[![DotNetKicks Image](http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://geekswithblogs.net/sdorman/archive/2009/02/14/visual-studio-2008-debugging-tricks-ndash-multi-threaded-debugging.aspx&bgcolor=0080C0&fgcolor=FFFFFF&border=000000&cbgcolor=D4E1ED&cfgcolor=000000)]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-multi-threaded-debugging %})</div>

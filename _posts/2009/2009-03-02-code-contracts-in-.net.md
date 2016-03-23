@@ -16,4 +16,3 @@ There are currently two tools provided:
 *   **Static Checking **can decide if there are any contract violations without even running the program. It checks for implicit contracts, such as null dereferences and array bounds, as well as the explicit contracts.   
 
 This is definitely something to take a look at and start getting familiar with in order to simplify your code and testing.
-  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:3fb497fb-909c-4674-a27d-5ae1a6ce58c2" class="wlWriterEditableSmartContent">Technorati Tags: [Code Contracts](http://technorati.com/tags/Code+Contracts),[.NET](http://technorati.com/tags/.NET)</div>

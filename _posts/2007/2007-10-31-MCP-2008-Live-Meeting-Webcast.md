@@ -4,7 +4,7 @@ title: MCP 2008 Live Meeting Webcast
 date: 2007-10-31 22:53:47 -04:00
 ---
 
-If you are an MCP hopefully you attended one of the two webcasts with [George](http://blogs.msdn.com/mcp/default.aspx), [Trika Harms zum Spreckel](http://blogs.msdn.com/trika), and Bill Wall (Director of Certification Strategy) today. Some of the information has [already been talked about]({% post_url /2007/2007-10-19-MCP-2008 %}), but there were also some new items.
+If you are an MCP hopefully you attended one of the two webcasts with [George](http://blogs.msdn.com/mcp/default.aspx), [Trika Harms zum Spreckel](http://blogs.msdn.com/trika), and Bill Wall (Director of Certification Strategy) today. Some of the information has [already been talked about]({% post_url 2007-10-19-MCP-2008 %}), but there were also some new items.
 
 Those new items center around the [Microsoft Certified Architect](http://www.microsoft.com/learning/mcp/architect) (MCA) program, and specifically the Ranger program. The Ranger program is designed to 
 

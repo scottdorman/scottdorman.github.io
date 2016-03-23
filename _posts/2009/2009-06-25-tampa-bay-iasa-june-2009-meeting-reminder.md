@@ -25,4 +25,3 @@ Tampa, FL 33609
 [![](http://www.eventbrite.com/img/btn_ext/register_now.gif)](http://www.eventbrite.com/event/175217079/scottdorman)
 
 **Please *be sure to register *so we have a good idea of how much pizza to order.**
-  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:5b395ad5-b652-49ff-9e02-944c94dfcad2" class="wlWriterSmartContent">Technorati Tags: [IASA](http://technorati.com/tags/IASA)</div><div class="wlWriterHeaderFooter" style="text-align:right; margin:0px; padding:4px 0px 4px 0px;">[![Digg This](http://digg.com/img/badges/100x20-digg-button.png "Digg This")](http://digg.com/submit?url=http%3a%2f%2fgeekswithblogs.net%2fsdorman%2farchive%2f2009%2f06%2f25%2ftampa-bay-iasa-june-2009-meeting-reminder.aspx&title=Tampa+Bay+IASA+June+2009+Meeting+Reminder)</div>

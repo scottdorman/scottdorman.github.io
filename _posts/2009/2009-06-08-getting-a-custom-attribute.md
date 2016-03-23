@@ -93,9 +93,3 @@ CustomAttribute attribute = customType.GetType().GetAttribute<CustomAttribute>()
 <div>It might not look like a major change in the calling site, but we are now able to quickly and easily get a strongly typed attribute given an instance type. 
     
 </div>
-
-
-
-
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:271cffa5-0f80-4f36-b0e8-4e4f9d76b7a6" style="margin: 0px; padding: 0px; float: none; display: inline;">Technorati Tags: [C#](http://technorati.com/tags/C%23),[Attributes](http://technorati.com/tags/Attributes)</div><div class="wlWriterHeaderFooter" style="margin: 0px; padding: 4px 0px; text-align: right;">[![Digg This](http://digg.com/img/badges/100x20-digg-button.png "Digg This")](http://digg.com/submit?url=http%3a%2f%2fgeekswithblogs.net%2fsdorman%2farchive%2f2009%2f06%2f08%2fgetting-a-custom-attribute.aspx&title=Getting+a+custom+attribute)</div>

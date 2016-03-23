@@ -17,5 +17,3 @@ I’m also very pleased to announce my technical editors – Claudio Lasaala and
 [Eric](http://blogs.msdn.com/ericlippert) is a senior software design engineer at Microsoft has been working full time in the developer division since 1996, where he assisted with the design and implementation of VBScript, JScript, JScript.NET, Windows Script Host, Visual Studio Tools for Office and C#.
 
 I am looking forward to working with both Claudio and Eric through the technical editing process and getting this book completed and available, which should happen sometime early in 2010.
-
-<div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:e2c1b31f-005e-4de6-99b5-352723dad9be" class="wlWriterEditableSmartContent" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [Books](http://technorati.com/tags/Books),[Sams Teach Yourself C# 2010](http://technorati.com/tags/Sams+Teach+Yourself+C%23+2010)</div>

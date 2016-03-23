@@ -90,5 +90,3 @@ While testing indicates that the Release Candidate is a very solid build Microso
 > 
 > **Q:  Does Microsoft provide any guidance on how to transfer files and settings from a previous operating system to Windows 7 when a clean installation is required?
 > ****A:  **Tools, guidance and other resources are available on [windows.microsoft.com](http://www.microsoft.com/) to assist in the upgrade process.  Microsoft also provides a special utility on the release candidate CD to assist users with identifying, backing up and transferring files and settings to Windows 7.  For more information on the Windows Easy Transfer utility please visit [http://technet.microsoft.com/en-us/library/dd446674.aspx](http://technet.microsoft.com/en-us/library/dd446674.aspx).**
-
- ****  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:2e2c72a3-42e3-4e53-a0e6-bf04c860ab0f" class="wlWriterEditableSmartContent">Technorati Tags: [Windows 7](http://technorati.com/tags/Windows+7)</div>

@@ -23,5 +23,3 @@ I wasn’t able to go to PDC09 this year, but Channel 9 has made most of the con
     *   WMV
     *   MP4
     *   PPTX
-    
-<div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:daf2af76-3f28-44a9-ac28-b2d460007dbc" class="wlWriterEditableSmartContent" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">Technorati Tags: [PDC 2009](http://technorati.com/tags/PDC+2009)</div>

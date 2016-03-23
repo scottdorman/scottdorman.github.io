@@ -15,5 +15,3 @@ I only know of a few, so if you know of others please let me know.
 2.  Tentative date
 3.  Planned, not confirmed.
 4.  I know this isn’t part of the South East, but I have family in that area.  
-
-  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:5cd62e51-db88-4b54-8cfe-57e276026d2e" class="wlWriterSmartContent">*Technorati Tags: [South East](http://technorati.com/tags/South+East), [Code Camps](http://technorati.com/tags/Code+Camps)*</div><div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 4px 4px 4px;">[![DotNetKicks Image](http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://geekswithblogs.net/sdorman/archive/2009/01/20/upcoming-code-camps-for-the-south-east.aspx&bgcolor=0080C0&fgcolor=FFFFFF&border=000000&cbgcolor=D4E1ED&cfgcolor=000000)]({% post_url /2009/2009-01-20-upcoming-code-camps-for-the-south-east %})</div>
