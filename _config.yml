@@ -1,7 +1,8 @@
 url: "http://scottdorman.github.io"
 baseurl: "/"
 title: Scott Dorman
-description: Microsoft MVP, Software Architect, Developer, Author
+subtitle: Microsoft MVP, Software Architect, Developer, Author
+description: Scott Dorman - Microsoft MVP, Software Architect, Developer, Author
 feedburner: http://feeds.feedburner.com/ScottDorman
 
 google_analytics: "UA-2662385-1"
