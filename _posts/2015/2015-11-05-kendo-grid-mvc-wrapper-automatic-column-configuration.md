@@ -10,7 +10,7 @@ The Telerik Kendo Grid control is really powerful, especially when combined with
 .Columns(columns => columns.AutoGenerate(true))
 ```
 
-The code behind `AutoGenerate(true)` understands some of the `[System.ComponentModel.DataAnnotations](https://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations(v=vs.110).aspx)` attributes. Specifically, it knows how to automatically configure the grid column for these attributes: 
+The code behind `AutoGenerate(true)` understands some of the [`System.ComponentModel.DataAnnotations`](https://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations(v=vs.110).aspx) attributes. Specifically, it knows how to automatically configure the grid column for these attributes: 
 
 | **Atribute** | **Description** |
 | ------------ | --------------- |
