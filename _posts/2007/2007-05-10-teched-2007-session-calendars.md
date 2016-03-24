@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech·Ed 2007 Session Calendars
-date: 2007-05-10 17:11:34 -04:00
+date: 2007-05-10 17:11:34 -05:00
 ---
 
 **[edit: 16 May 2007]** **The calendars have been updated and a few new ones added. Check this **[**post**]({% post_url /2007/2007-05-15-Added-Management-and-Operations-Track-Calendar %})** for more details. [****/edit]**

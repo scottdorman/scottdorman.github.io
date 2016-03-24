@@ -1,7 +1,7 @@
 ---
 layout: post
 title: StupidCubicle.com
-date: 2007-03-15 23:28:00 -04:00
+date: 2007-03-15 23:28:00 -05:00
 ---
 
 ![](http://gwb.blob.core.windows.net/sdorman/5006/o_stupidcubicle_175px.jpg) 

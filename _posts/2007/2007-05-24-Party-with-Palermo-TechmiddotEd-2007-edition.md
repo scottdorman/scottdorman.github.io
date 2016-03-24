@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Party with Palermo: Tech&middot;Ed 2007 edition"
-date: 2007-05-24 12:41:56 -04:00
+date: 2007-05-24 12:41:56 -05:00
 ---
 
 <span style="font-family: tahoma">[![](http://farm1.static.flickr.com/206/498762885_26806c75c9_m.jpg)](http://partywith.palermo.cc/)</span>

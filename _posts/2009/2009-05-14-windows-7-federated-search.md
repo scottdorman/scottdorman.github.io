@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 7 Federated Search
-date: 2009-05-14 19:01:28 -04:00
+date: 2009-05-14 19:01:28 -05:00
 ---
 
 Windows and the Windows Explorer have had search capabilities for a long time and they have gradually improved over the years. The one thing that was always lacking was an ability to search different contexts (or remote sources). There were some improvements with the Windows Desktop search, but I think the federated search capability in Windows 7 really gets it right.

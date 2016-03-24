@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live SkyDrive Feature Requests
-date: 2008-03-17 11:08:46 -04:00
+date: 2008-03-17 11:08:46 -05:00
 ---
 
 ![image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/db9af8ced80c_9A31/image_3.png)  

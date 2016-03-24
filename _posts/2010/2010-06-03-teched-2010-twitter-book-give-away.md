@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TechEd 2010 Twitter Book Give Away
-date: 2010-06-03 21:34:43 -04:00
+date: 2010-06-03 21:34:43 -05:00
 ---
 
 If you’re going to TechEd North America this year, Sams Publishing will be giving away 9 advanced reader copies. In order to win a copy, be sure to follow the [InformIT Twitter account](http://twitter.com/InformIT) and the [#TechEd hash tag](http://twitter.com/#search?q=%23TechEd). Sporadically throughout the day a tweet will be sent out stating that the first person who comes to the booth and mentions my [book](http://www.amazon.com/Sams-Teach-Yourself-Visual-Hours/dp/0672331012%3FSubscriptionId%3D0JTCV5ZMHMF7ZYTXGFR2%26tag%3Dscotdorm-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0672331012) will get a copy. The give away will probably occur over multiple days, so be sure to keep an eye on Twitter.

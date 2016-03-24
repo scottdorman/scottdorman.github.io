@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expression products now part of MSDN
-date: 2007-04-04 08:19:00 -04:00
+date: 2007-04-04 08:19:00 -05:00
 ---
 
 When Microsoft announced the new Expression product line, a decision was made to keep these out of the MSDN subscriptions. The theory behind this was that these tools are designed for graphics designers and didn't have a place in the MSDN subscriptions.

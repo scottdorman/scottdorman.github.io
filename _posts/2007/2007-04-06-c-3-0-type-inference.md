@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C# 3.0 Type Inference
-date: 2007-04-06 12:32:00 -04:00
+date: 2007-04-06 12:32:00 -05:00
 ---
 
 One of the new language features of the C# 3.0 language release is type inference. Wikipedia has an excellent [discussion](http://en.wikipedia.org/wiki/Type_inference) on type inference, including a non-technical and technical explanation.

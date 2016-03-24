@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snap Shots Add-On for Internet Explorer and Firefox
-date: 2007-08-03 00:10:18 -04:00
+date: 2007-08-03 00:10:18 -05:00
 ---
 
 I've blogged about Snap Shots in the past and think it's an excellent addition to any website. Now, you can have the power of Snap Shots **on** any website through the Snap Shots add-on for Internet Explorer or Firefox.

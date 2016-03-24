@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech&middot;Ed 2008 Schedule Builder and Internet Calendar Subscriptions
-date: 2008-04-26 17:32:26 -04:00
+date: 2008-04-26 17:32:26 -05:00
 ---
 
  Last year when the Tech·Ed 2007 Schedule Builder came out, I [complained]({% post_url 2007-05-10-teched-2007-session-calendars %}) about how cumbersome it was to use. The idea of having to pick a time period from a drop down list that contains 28 items and constantly having to scroll up and down to view the page navigation and the small calendar view down the side is very "old school" and does not make it easy to use. As a result, I took advantage of the fact that the sessions [![image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TechEd2008SessionBuilderandInternetCalen_EE62/image_thumb_1.png)](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TechEd2008SessionBuilderandInternetCalen_EE62/image_4.png)were published as an RSS feed and created a set of Internet Calendars for each of the technical tracks.

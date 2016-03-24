@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jacksonville Code Camp 2008 Presentations
-date: 2008-08-23 01:43:35 -04:00
+date: 2008-08-23 01:43:35 -05:00
 ---
 
 For those of you attending the Jacksonville Code Camp 2008, the presentations for my sessions are available on my public Windows Live SkyDrive [folder](http://snipurl.com/jaxcodecamp08).

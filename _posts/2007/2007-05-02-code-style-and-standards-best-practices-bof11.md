@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Style and Standards: Best Practices? - BOF11"
-date: 2007-05-02 23:04:33 -04:00
+date: 2007-05-02 23:04:33 -05:00
 ---
 
 ![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/CodeStyleandStandardsBestPracticesBOF11_14473/image%7B0%7D11.png)

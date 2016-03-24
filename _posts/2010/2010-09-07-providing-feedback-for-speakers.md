@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Providing Feedback for Speakers
-date: 2010-09-07 11:02:03 -04:00
+date: 2010-09-07 11:02:03 -05:00
 ---
 
 As most of you know, I do a lot of presentations each year, mostly at local code camps. As a speaker, it is always great to see new people in my talks and answer questions since in almost every talk, someone asks a question I haven’t heard before. One of the things that most speakers, including myself, like getting is feedback. We want to know what you thought of the presentation, both the material and the delivery. It used to be that most code camps passed out evaluation forms to provide this feedback. The problem with forms is that they were easy to loose and required a person to manually tally up all the evaluations to generate an overall rating. As a result, most code camps have stopped passing out evaluation forms. While I understand the reasons behind this, I still like getting feedback. It’s one of the tools I use to continually become a better speaker. 

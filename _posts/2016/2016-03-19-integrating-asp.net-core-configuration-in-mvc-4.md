@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Integrating ASP.NET Core Configuration in MVC 4
-date: 2016-03-19 14:15:08 -04:00
+date: 2016-03-19 14:15:08 -05:00
 ---
 
 [ASP.NET Core 1.0](http://docs.asp.net/en/latest/conceptual-overview/aspnet.html) (what had been called ASP.NET 5) is a complete redesign of ASP.NET that is open-source and cross-platform. Since this is a redesign of the framework, it comes with a lot of architectural changes that make it more modular. One of those changes is that environment-based configuration is now built-in. The biggest benefit of this new configuration system is that it’s not based on `System.Configuration` or `web.config`. Instead, it pulls from an ordered set of configuration providers that support a variety of file formats (such as XML and JSON) as well as environment variables. If one of the built-in configuration providers doesn’t meet your needs, you can write your own.

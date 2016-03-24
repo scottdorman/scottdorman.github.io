@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio &quot;Rosario&quot; CTP is here
-date: 2007-08-07 19:26:37 -04:00
+date: 2007-08-07 19:26:37 -05:00
 ---
 
 I blogged a few days ago about the upcoming release of the August CTP for [Visual Studio "Rosario"](http://msdn2.microsoft.com/en-us/teamsystem/bb725993.aspx). It seems I was just a day too soon. The CTP was released on Saturday as a Virtual PC (VPC) [image](http://www.microsoft.com/downloads/details.aspx?FamilyId=8450EFF5-24AD-44C3-AB91-1ED88EF2F4F0&displaylang=en).

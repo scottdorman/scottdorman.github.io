@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mindscape BrainDump
-date: 2007-05-18 13:24:14 -04:00
+date: 2007-05-18 13:24:14 -05:00
 ---
 
 My friend  

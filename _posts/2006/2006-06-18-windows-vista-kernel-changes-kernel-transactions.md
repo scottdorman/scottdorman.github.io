@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows Vista: Kernel Changes - Kernel Transactions"
-date: 2006-06-18 13:38:00 -04:00
+date: 2006-06-18 13:38:00 -05:00
 ---
 
 <p><strong>Kernel Transaction Manager (KTM)</strong></p>

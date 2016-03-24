@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back from Tech&middot;Ed 2007
-date: 2007-06-10 09:48:04 -04:00
+date: 2007-06-10 09:48:04 -05:00
 ---
 
 Going from one extreme to another can be just a bit disconcerting. After spending a week in Alaska where I was almost completely disconnected from the world, I went straight into Tech·Ed 2007.

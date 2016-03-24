@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: Wikipedia: The Missing Manual"
-date: 2008-04-19 15:43:50 -04:00
+date: 2008-04-19 15:43:50 -05:00
 ---
 
 ![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/BookReviewWikipediaTheMissingManual_DA67/41xTiVltdLL__SL500_AA240__3.jpg)  

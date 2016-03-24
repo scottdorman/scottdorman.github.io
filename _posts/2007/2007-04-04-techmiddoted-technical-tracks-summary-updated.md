@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech&middot;Ed Technical Tracks Summary, Updated
-date: 2007-04-04 21:31:00 -04:00
+date: 2007-04-04 21:31:00 -05:00
 ---
 
 There are 14 core tracks and 2 virtual tracks at Tech·Ed this year, which will cover more than 1,000 sessions. In case you're wondering, a virtual track is a collection of sessions or labs that share a common theme but span several tracks.

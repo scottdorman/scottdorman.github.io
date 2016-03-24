@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SafeHandle and Constrained Execution Regions
-date: 2006-09-02 11:30:00 -04:00
+date: 2006-09-02 11:30:00 -05:00
 ---
 
 As a follow up to my [Implementing IDisposable and the Dispose pattern](http://www.codeproject.com/KB/dotnet/idisposable.aspx) article, I have posted a new one on [SafeHandles and Constrained Execution Regions (CERs)](http://www.codeproject.com/KB/dotnet/safehandle.aspx).

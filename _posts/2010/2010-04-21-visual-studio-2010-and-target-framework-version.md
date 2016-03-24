@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2010 and Target Framework Version
-date: 2010-04-21 22:03:56 -04:00
+date: 2010-04-21 22:03:56 -05:00
 ---
 
 Almost two years ago, I [wrote]({% post_url /2008/2008-07-18-visual-studio-2008-and-targetframeworkversion %}) about a Visual Studio macro that allows you to change the Target Framework version of all projects in a solution. If you don’t know, the Target Framework version is what tells the compiler which version of the .NET Framework to compile against (more information is available here![](http://i.ixnp.com/images/v6.27/t.gif)) and can be set to one of the following values:

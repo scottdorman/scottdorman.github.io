@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows PowerShell - Unix comes to Windows
-date: 2006-06-18 16:18:00 -04:00
+date: 2006-06-18 16:18:00 -05:00
 ---
 
 <P>Windows PowerShell (formerly known as “Monad”) is a Microsoft's answer to the power and flexibility of the Unix command shells. It should finally complete the Windows management picture by providing a solid command line shell to administer Windows systems. PowerShell is part of Vista, but fortunately for all of us, it is being released separately and is available for Windows XP as well.</P>

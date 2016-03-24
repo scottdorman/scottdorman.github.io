@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech&middot;Ed for Novices"
-date: 2007-05-19 10:32:07 -04:00
+date: 2007-05-19 10:32:07 -05:00
 ---
 
 Microsoft has created a [Tips for the "Newbie"](http://www.microsoft.com/events/teched2007/newbietips.mspx) page designed to give first time Tech·Ed attendees a fighting chance of finding their way around. It does a decent job letting the first timer know about what Tech·Ed has to offer, but I don't think it goes nearly far enough.

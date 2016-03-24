@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Orlando Code Camp 2008 - Thanks!
-date: 2008-03-23 19:58:16 -04:00
+date: 2008-03-23 19:58:16 -05:00
 ---
 
 I just got back from Orlando Code Camp 2008 and wanted to thank everyone who was involved in organizing it and everyone who came out to attend sessions. I believe there were about 250 people attending with about 40 speakers presenting on over 50 topics.

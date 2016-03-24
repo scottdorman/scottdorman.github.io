@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ohloh - Open Source Project Statistics
-date: 2007-05-20 13:13:36 -04:00
+date: 2007-05-20 13:13:36 -05:00
 ---
 
 ![](http://www.ohloh.net/images/logo_med.png)While I'm on the topic of [code metrics]({% post_url /2007/2007-05-20-NDepend-2.2 %}), I thought I would mention another interesting set of statistics provided by the Ohloh web site. This is a site that we use on [Subtext](http://subtextproject.com/) to monitor the project and the statistics are integrated with our CruiseControl.NET [dashboard](http://build.subtextproject.com) as well.

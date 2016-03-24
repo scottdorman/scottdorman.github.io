@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Programmer's Bill of Rights
-date: 2006-08-28 22:04:00 -04:00
+date: 2006-08-28 22:04:00 -05:00
 ---
 
 I came across a reference to this on Code Project tonight while I was responding to some of the comments on my articles.

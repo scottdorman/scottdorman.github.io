@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest email spam
-date: 2007-08-28 18:07:56 -04:00
+date: 2007-08-28 18:07:56 -05:00
 ---
 
 I don't know about you, but I get lots of email spam, most of which I just completely ignore. I do, however, periodically review what lands in my "Junk e-mail" folder to make sure something wasn't put there by mistake. As a result, the first email in the list always ends up getting displayed.

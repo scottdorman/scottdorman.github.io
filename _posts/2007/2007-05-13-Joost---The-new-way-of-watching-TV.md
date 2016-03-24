@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joost - The new way of watching TV
-date: 2007-05-13 02:13:35 -04:00
+date: 2007-05-13 02:13:35 -05:00
 ---
 
 [![Countdown to Joost - Be first to know when Joost goes live](http://static.joost.com/rsc/images/signup-home.jpg)](http://www.joost.com/newsletter/alert/)  

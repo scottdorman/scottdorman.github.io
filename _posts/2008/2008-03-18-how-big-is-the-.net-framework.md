@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How big is the .NET Framework?
-date: 2008-03-18 23:44:17 -04:00
+date: 2008-03-18 23:44:17 -05:00
 ---
 
 No, this question isn't asking how much disk space is required by the Framework. It's really asking "How complex is the .NET Framework for developers?" As you might guess, the answer is: It's pretty complex.

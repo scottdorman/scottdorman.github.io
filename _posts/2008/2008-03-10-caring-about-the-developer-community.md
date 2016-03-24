@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Caring about the developer community
-date: 2008-03-10 14:48:20 -04:00
+date: 2008-03-10 14:48:20 -05:00
 ---
 
 One of my fellow GWB bloggers recently posed the question "[Do you care about your developer community?](http://geekswithblogs.net/dlussier/archive/2008/03/08/120392.aspx)" and offered [some interesting ideas](http://geekswithblogs.net/dlussier/archive/2008/03/08/120391.aspx) for user groups to adopt to help foster more community spirit. Hopefully whatever troubles D'Arcy is having will straighten themselves out, but the questions he asks and one of the [responses](http://geekswithblogs.net/dlussier/archive/2008/03/08/120392.aspx#358841) got me thinking.

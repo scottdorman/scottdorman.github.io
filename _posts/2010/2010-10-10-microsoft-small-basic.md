@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Small Basic
-date: 2010-10-10 14:54:39 -04:00
+date: 2010-10-10 14:54:39 -05:00
 ---
 
 If you have children and want them to learn programming at an early age (recommended age is between 10 and 16), you should check out [Microsoft Small Basic](http://msdn.microsoft.com/en-us/beginner/ff384126.aspx), which combines a simple language and a rich set of libraries together with a friendly development environment.

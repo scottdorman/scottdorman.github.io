@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Premature optimization is the root of all evil
-date: 2009-08-28 22:24:41 -04:00
+date: 2009-08-28 22:24:41 -05:00
 ---
 
 I’ve lost count how many times I’ve heard that quote. It’s a great quote said by one of the leading minds in computer programming and formal mathematics, [Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth). The problem with this quote is that, like so many other things, people have only remembered (or only quote) a small portion of the entire thing.

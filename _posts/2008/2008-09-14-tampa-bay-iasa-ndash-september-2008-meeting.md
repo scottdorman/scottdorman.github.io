@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA &ndash; September 2008 Meeting
-date: 2008-09-14 12:08:42 -04:00
+date: 2008-09-14 12:08:42 -05:00
 ---
 
 [![n5018289123_9890_thumb2](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/n5018289123_9890_thumb2_thumb.jpg)](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/n5018289123_9890_thumb2_2.jpg)**<u>SharePoint Architectural Perspectives</u>**    

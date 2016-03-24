@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows PowerShell e-book
-date: 2007-07-28 10:35:36 -04:00
+date: 2007-07-28 10:35:36 -05:00
 ---
 
 ![image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/WindowsPowerShellebook_9181/image_1.png) 

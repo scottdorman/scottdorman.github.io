@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interview with Joe Healy
-date: 2010-06-01 22:39:13 -04:00
+date: 2010-06-01 22:39:13 -05:00
 ---
 
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:7d13a4f4-ca2d-4e62-822b-409da8fd0ea1" class="wlWriterSmartContent"><div id="93e68f84-f4b5-4520-86b1-00e45a96ec96" style="margin: 0px; padding: 0px; display: inline;"><div>[![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/InterviewwithJoeHealy_13E8A/video16a48adaccb2.jpg)](http://www.youtube.com/watch?v=Gbjp2qHNTMc)</div></div></div>  

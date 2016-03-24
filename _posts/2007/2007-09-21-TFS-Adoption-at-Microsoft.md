@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TFS Adoption at Microsoft
-date: 2007-09-21 21:33:24 -04:00
+date: 2007-09-21 21:33:24 -05:00
 ---
 
 Brian Harry just released new [statistics](http://blogs.msdn.com/bharry/archive/2007/09/15/update-on-microsoft-tfs-adoption.aspx) on Microsoft's internal adoption of TFS as they passed some fairly major milestones this month. Apparently, the adoption continues to grow at a fairly rapid pace, and there are now 1,160 Team Projects in production with 1,023,088 work items across all of the TFS instances.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA &ndash; July 2008 Meeting
-date: 2008-07-06 10:56:05 -04:00
+date: 2008-07-06 10:56:05 -05:00
 ---
 
 [![n5018289123_9890_thumb2](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/n5018289123_9890_thumb2_thumb.jpg)](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/n5018289123_9890_thumb2_2.jpg)**<u>"Fix the Architecture" - Open Discussion</u>**       

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlueCasting at Tech&middot;Ed!
-date: 2007-05-19 08:12:06 -04:00
+date: 2007-05-19 08:12:06 -05:00
 ---
 
 [![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/BlueCastingatTechEd_7348/bluecasting_thumb.jpg)](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/BlueCastingatTechEd_7348/bluecasting2.jpg)  

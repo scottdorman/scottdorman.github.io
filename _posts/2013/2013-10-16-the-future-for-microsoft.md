@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The future for Microsoft
-date: 2013-10-16 21:25:07 -04:00
+date: 2013-10-16 21:25:07 -05:00
 ---
 
 Microsoft is in the process of reinventing itself. While some may argue that it’s “too little, too late” or that their growing consumer-focused strategy is wrong, the truth of the situation is that Microsoft **is** reinventing itself into a new company. While Microsoft is now calling themselves a “devices and services” company, that’s not entirely accurate. Let’s look at some facts:

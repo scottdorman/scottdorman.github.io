@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gravatars are back
-date: 2007-04-07 00:16:00 -04:00
+date: 2007-04-07 00:16:00 -05:00
 ---
 
 For those of you who don't know, a gravatar is a **g**lobally **r**ecognized **avatar**. This is an image that follows you from blog to blog and appears next to your name when on you comment on gravatar enabled sites. In general, gravatars help identify your posts on blogs in much the same way as a normal avatar does for web forums.

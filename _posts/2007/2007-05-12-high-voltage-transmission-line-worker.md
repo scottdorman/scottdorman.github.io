@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High Voltage Transmission Line Worker
-date: 2007-05-12 13:34:38 -04:00
+date: 2007-05-12 13:34:38 -05:00
 ---
 
 And you thought your job was dangerous?

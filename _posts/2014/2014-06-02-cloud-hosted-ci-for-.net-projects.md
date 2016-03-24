@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cloud hosted CI for .NET projects
-date: 2014-06-02 09:26:35 -04:00
+date: 2014-06-02 09:26:35 -05:00
 ---
 
 Continuous integration (CI) is important. If you don’t have it set up…you should. There are a lot of different options available for hosting your own CI server, but they all require you to maintain your own infrastructure. If you’re a business, that generally isn’t a problem. However, if you have some open source projects hosted, for example on [GitHub](http://github.com), there haven’t really been any options. That has changed with the latest release of [AppVeyor](http://appveyor.com/), which bills itself as “Continuous integration for busy developers.” What’s different about AppVeyor is that it’s a hosted solution. 

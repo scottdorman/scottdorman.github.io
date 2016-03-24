@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Live Search Box Updates
-date: 2007-10-21 14:37:38 -04:00
+date: 2007-10-21 14:37:38 -05:00
 ---
 
 Earlier today, I talked about [Live Search]({% post_url /2007/2007-10-21-Live-Search %}) and [how to add a Live Search Box to your website]({% post_url /2007/2007-10-21-Adding-a-Live-Search-Box-to-your-website %}). 

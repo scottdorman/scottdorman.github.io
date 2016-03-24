@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft and monetizing developer products
-date: 2008-07-13 09:38:32 -04:00
+date: 2008-07-13 09:38:32 -05:00
 ---
 
 I’m catching up on blog posts and saw this [one](http://blogs.msdn.com/bharry/archive/2008/07/05/power-tools-and-software-assurance.aspx) from Brian Harry about the [TFS Power Tools](http://msdn.microsoft.com/en-us/vs2005/aa718351.aspx) and Software Assurance. In that post he asks “How are Power Tools monetized?” and goes on to mention that there is a possibility that the power tools will become a paid feature and part of the Software Assurance (SA) program.

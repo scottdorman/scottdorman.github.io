@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Should You Use WPF?
-date: 2008-07-20 13:52:15 -04:00
+date: 2008-07-20 13:52:15 -05:00
 ---
 
 It’s pretty clear that Windows Presentation Foundation (WPF) is here to stay. In fact, use of WPF is becoming more popular and frequent, particularly now that Silverlight 2.0 is on the horizon. The problem is that there has been very little guidance available to help you decide when to use the various UI technologies available. There is however, some unofficial help in the form of this [blog post](http://blogs.msdn.com/synergist/archive/2007/07/10/when-to-use-which-microsoft-presentation-technology.aspx) and this [white paper](http://www.davidchappell.com/articles/white_papers/Introducing_WCF_in_.NET_Framework_3.5_v1.0.docx "Introducing Windows Communication Foundation").

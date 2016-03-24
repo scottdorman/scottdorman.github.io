@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CardSpace Information Card Icon
-date: 2007-06-28 09:28:04 -04:00
+date: 2007-06-28 09:28:04 -05:00
 ---
 
 ![infocard_114x80](http://blogs.msdn.com/blogfiles/richardt/WindowsLiveWriter/AnnouncingtheInformationCardLogo_8842/infocard_114x80_thumb.png)According to an announcement on [Richard Turner's](http://blogs.msdn.com/richardt/archive/2007/06/25/announcing-the-information-card-logo.aspx) blog, Windows CardSpace finally has an icon to symbolize that a site or application supports Information Cards. This visual icon has been missing since Windows CardSpace was introduced.

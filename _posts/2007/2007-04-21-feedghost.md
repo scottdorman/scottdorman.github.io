@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FeedGhost
-date: 2007-04-21 14:03:31 -04:00
+date: 2007-04-21 14:03:31 -05:00
 ---
 
 ![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/FeedGhost_C569/image%7B0%7D4.png) 

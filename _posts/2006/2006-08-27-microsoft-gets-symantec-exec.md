@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft gets Symantec Exec
-date: 2006-08-27 04:43:00 -04:00
+date: 2006-08-27 04:43:00 -05:00
 ---
 
 I just saw in the latest issue of [eWeek](http://www.eweek.com/) that Microsoft has hired veteran virus researcher Vincent Gullotto to head the Security Research and Response Team (SRRT).

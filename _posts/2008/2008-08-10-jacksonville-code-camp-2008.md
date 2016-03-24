@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jacksonville Code Camp 2008
-date: 2008-08-10 13:18:04 -04:00
+date: 2008-08-10 13:18:04 -05:00
 ---
 
 [![Jax Code Camp, August 23rd 2008, Florida Community College at Jacksonville's Advanced Technology Center, 401 W. State Street, Jacksonville, FL 32203](http://www.jaxcodecamp.com/img/logos/CodeCampLogo2.gif)](http://www.jaxcodecamp.com/default.aspx)

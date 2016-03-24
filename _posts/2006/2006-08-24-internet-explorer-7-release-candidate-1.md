@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internet Explorer 7 Release Candidate 1
-date: 2006-08-24 13:23:00 -04:00
+date: 2006-08-24 13:23:00 -05:00
 ---
 
 IE7 RC1 is here! I've been running IE7 since the first public beta and have really liked it. If you haven't already installed it, I highly recommend it.

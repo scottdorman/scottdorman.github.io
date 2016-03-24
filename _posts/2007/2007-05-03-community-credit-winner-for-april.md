@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Credit Winner for April
-date: 2007-05-03 00:09:59 -04:00
+date: 2007-05-03 00:09:59 -05:00
 ---
 
 ![](http://www.community-credit.com/images/prizes/my_other_shirt_is_clever.jpg)

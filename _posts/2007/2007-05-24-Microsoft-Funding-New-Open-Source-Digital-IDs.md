@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Funding New Open-Source Digital IDs
-date: 2007-05-24 09:57:30 -04:00
+date: 2007-05-24 09:57:30 -05:00
 ---
 
 Right on the heels of Microsoft's [claim that free software like Linux violates 235 of its patents](http://money.cnn.com/magazines/fortune/fortune_archive/2007/05/28/100033867/index.htm "Microsoft takes on the free world"), they [announced](http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&A=/article/07/05/23/MS-funds-open-source-digital-ID-projects_1.html) that they will be funding several new projects to develop open-source versions of the CardSpace technology used for digital information cards.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Wave 3 Beta Downloads
-date: 2008-09-18 10:07:57 -04:00
+date: 2008-09-18 10:07:57 -05:00
 ---
 
 The beta downloads for the new Windows Live Wave 3 applications are [here](http://download.live.com/). This includes new versions of:

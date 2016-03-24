@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows Vista: Kernel Changes - Resource Quotas and Symlinks"
-date: 2006-06-17 15:13:00 -04:00
+date: 2006-06-17 15:13:00 -05:00
 ---
 
 ##Resource Quotas

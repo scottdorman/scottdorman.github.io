@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subtext Security Patch
-date: 2007-09-21 23:24:47 -04:00
+date: 2007-09-21 23:24:47 -05:00
 ---
 
 [Phil](http://haacked.com) recently [blogged](http://haacked.com/archive/2007/09/20/urgent-subtext-security-patch.aspx) about a newly discovered security vulnerability in the [Subtext](http://www.subtextproject.com/) blogging engine due to a flaw in the way the [FCKEditor](http://www.fckeditor.net/) control was integrated. As far as we know, no one was seriously affected and both a fix and a workaround were found very quickly by the core development team. 

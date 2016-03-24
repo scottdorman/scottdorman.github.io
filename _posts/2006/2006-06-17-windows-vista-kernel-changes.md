@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows Vista: Kernel Changes"
-date: 2006-06-17 15:01:00 -04:00
+date: 2006-06-17 15:01:00 -05:00
 ---
 
 Windows Vista is coming and will be here sooner than some might think. By now you have probably seen the graphical changes coming in Vista with the new Aero and Aero Glass user interfaces (and the associated hardware needed to support them) and heard all about the new user account controls in Vista that are designed to make the operating system more secure.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech&middot;Ed Keynote
-date: 2007-06-05 23:00:58 -04:00
+date: 2007-06-05 23:00:58 -05:00
 ---
 
 I finally have some free time tonight from all of the activities at Tech·Ed 2007, so I wanted to take some time to summarize what I've seen and done so far. To start with, I was able to get a front-row seat for the Keynote on Monday morning.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Product Review: uCertify PrepKit"
-date: 2008-07-19 11:08:56 -04:00
+date: 2008-07-19 11:08:56 -05:00
 ---
 
 I recently took a look at the PrepKit offerings from uCertify. If you aren’t familiar with uCertify, they make practice exams and test preparation packages for a pretty extensive range of IT certifications including Microsoft, Oracle, CompTIA, Cisco, and Sun.

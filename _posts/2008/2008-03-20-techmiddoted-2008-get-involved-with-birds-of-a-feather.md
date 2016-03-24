@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech&middot;Ed 2008: Get Involved with Birds-of-a-Feather"
-date: 2008-03-20 14:11:43 -04:00
+date: 2008-03-20 14:11:43 -05:00
 ---
 
 **![INETA Logo](http://origin.ih.constantcontact.com/fs066/1101843475262/img/1.jpg?a=1102022539215)** 

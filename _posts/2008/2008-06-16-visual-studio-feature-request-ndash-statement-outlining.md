@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio Feature Request &ndash; Statement Outlining
-date: 2008-06-16 23:32:48 -04:00
+date: 2008-06-16 23:32:48 -05:00
 ---
 
 If you write .NET code using Visual Studio 2005 or 2008, you’ve probably noticed the automatic outlining the IDE makes available to you. This automatically creates collapsible sections in your code for comments, regions, functions, properties, namespaces, classes, and the using block.

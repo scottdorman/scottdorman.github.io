@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Fix it
-date: 2009-04-06 09:55:00 -04:00
+date: 2009-04-06 09:55:00 -05:00
 ---
 
 [![Logo_FixIt_Final](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/MicrosoftFixit_88B6/Logo_FixIt_Final_thumb.png "Logo_FixIt_Final")](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/MicrosoftFixit_88B6/Logo_FixIt_Final_2.png)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 7 Bing Search Connector
-date: 2009-06-01 13:16:19 -04:00
+date: 2009-06-01 13:16:19 -05:00
 ---
 
 ![clip_image002_thumb](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/Windows7BingSearchConnector_BA9F/clip_image002_thumb_3.jpg "clip_image002_thumb")Microsoft’s latest incarnation of it’s [search engine](http://www.bing.com), which has gone by a few different code names, is live a few days early.

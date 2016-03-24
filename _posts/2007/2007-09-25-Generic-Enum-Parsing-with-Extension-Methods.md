@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generic Enum Parsing with Extension Methods
-date: 2007-09-25 15:32:44 -04:00
+date: 2007-09-25 15:32:44 -05:00
 ---
 
 Not too long ago, I talked about [Extension Methods]({% post_url /2007/2007-08-19-C-3.0-Extension-Methods %} "Click To View Entry") in .NET 3.5 and also about a way to provide [data binding an enum type with descriptions](http://www.codeproject.com/useritems/enumdatabinding.asp). Today, [Simo](http://codeclimber.net.nz/archive/2007/09/25/String-to-Enum.aspx) talked about how often he forgets the syntax of parsing a string value to it's Enum value. In his post, he refers to a generic Enum parse method that [Scott Watermasysk](http://scottwater.com/blog/archive/Generic-Enum-Parse/) created just over a year ago (in 2006). In Scott's post, [Kenny Kerr](http://weblogs.asp.net/kennykerr/archive/2005/05/16/The-Case-of-the-Missing-Generic-_2800_Parse-Method_2900_.aspx) points back to his article (from 2005) about how to create a generic parse method in C++/CLI.  

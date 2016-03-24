@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Southwest Florida Code Camp
-date: 2008-08-13 15:04:22 -04:00
+date: 2008-08-13 15:04:22 -05:00
 ---
 
 [![header_left](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/SouthwestFloridaCodeCamp_D203/header_left_thumb.jpg "header_left")](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/SouthwestFloridaCodeCamp_D203/header_left_2.jpg) 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Hotmail official
-date: 2007-05-12 13:13:21 -04:00
+date: 2007-05-12 13:13:21 -05:00
 ---
 
 Earlier this week, Microsoft rather quietly released it's Windows Live Hotmail offering. Along with the release, a replacement for the Outlook Express and Windows Mail desktop clients was announced as well as new software to integrate web mail with Outlook, called the Outlook Internet Mail Connector.

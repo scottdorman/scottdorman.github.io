@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcing codestyle.co
-date: 2014-07-25 12:30:00 -04:00
+date: 2014-07-25 12:30:00 -05:00
 ---
 
 Code style and standards has been a passion of mine for a long time. I've helped a lot of different companies create and adopt code standards. One of the main problems with documenting code standards is that once the document is created, no one ever goes back and adjusts them as new languages and technologies are introduced, new guidelines are implicitly put into place, or existing guidelines are dropped. I refer to this as the “staleness problem.” To help combat the staleness problem, a lot of companies opted to put their standards documents online, either publicly or behind corporate firewalls. Again, just as with paper documents, the staleness problem would still occur. To make matters worse, for those documents that were put online publicly, no mechanism was provided for the larger community to provide feedback. 

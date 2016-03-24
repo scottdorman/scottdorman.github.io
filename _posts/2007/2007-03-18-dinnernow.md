@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DinnerNow
-date: 2007-03-18 09:16:00 -04:00
+date: 2007-03-18 09:16:00 -05:00
 ---
 
 Microsoft has a released a new technology showcase site called [Dinner Now](http://www.dinnernow.net/). From the website:

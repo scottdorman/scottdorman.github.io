@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Server 2008
-date: 2007-05-18 13:37:24 -04:00
+date: 2007-05-18 13:37:24 -05:00
 ---
 
 [![Windows Server 2008 Beta 3](http://www.microsoft.com/library/media/1033/windowsserver/longhorn/graphics/homepage/ItPro2008.gif)](http://www.microsoft.com/windowsserver2008/audsel.mspx)

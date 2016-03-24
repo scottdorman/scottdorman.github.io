@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live FolderShare Beta
-date: 2008-03-10 23:11:46 -04:00
+date: 2008-03-10 23:11:46 -05:00
 ---
 
 ![](http://www.liveside.net/Images/logos/foldershare%20beta%20logo.png)

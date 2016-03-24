@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Updated Tech&middot;Ed 2007 Session Calendars
-date: 2007-05-12 02:36:31 -04:00
+date: 2007-05-12 02:36:31 -05:00
 ---
 
 The great folks at EventPoint (the company that coordinates Tech·Ed for Microsoft and is responsible for the Schedule Builder) have updated the RSS feed I was using to generate the Internet Calendars to include the rest of the sessions as well as some additional data that made my life much easier. (Thanks, Andy!)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Vista Application Compatability Labs
-date: 2007-05-24 12:01:25 -04:00
+date: 2007-05-24 12:01:25 -05:00
 ---
 
 ![Windows Vista](http://www.microsoft.com/library/media/1033/windows/images/products/windowsvista/quick_vista.gif)I won't be able to attend these labs as I have other schedule conflicts, but the Windows Vista team is providing two training labs at Tech·Ed 2007. Both labs are free for Tech·Ed attendees, but you must register to reserve your spot.

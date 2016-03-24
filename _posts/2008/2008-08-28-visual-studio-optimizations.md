@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio Optimizations
-date: 2008-08-28 15:04:32 -04:00
+date: 2008-08-28 15:04:32 -05:00
 ---
 
 There are always a lot of posts about various add-ins, code snippets, macros, and other utilities that are designed to make you, the developer, more productive within Visual Studio as an editing environment. However, there seem to very few posts that talk about how to actually improve the performance of Visual Studio itself.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio, .NET Framework, and language versions
-date: 2010-04-23 16:03:49 -04:00
+date: 2010-04-23 16:03:49 -05:00
 ---
 
 Every so often a question comes up about how Visual Studio, the .NET Framework, and a .NET programming language relate to each other. Mostly, these questions have to do with versions. The reality is that these are actually three different “products” that are versioned independently of each other but are related.

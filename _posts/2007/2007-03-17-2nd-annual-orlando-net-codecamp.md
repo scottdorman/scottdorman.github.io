@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2nd Annual Orlando .NET CodeCamp
-date: 2007-03-17 14:11:00 -04:00
+date: 2007-03-17 14:11:00 -05:00
 ---
 
 ![](http://gwb.blob.core.windows.net/sdorman/5006/o_onetug.jpg) 

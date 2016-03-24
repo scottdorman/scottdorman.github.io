@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Updated Outlook Macro for Creating Meetings from an Email
-date: 2008-07-20 23:48:37 -04:00
+date: 2008-07-20 23:48:37 -05:00
 ---
 
 Only a few hours ago I [posted]({% post_url /2008/2008-07-20-outlook-macro-for-creating-meetings-from-an-email %} "Click To View Entry") and Outlook macro for creating meetings from an email. I’ve already updated it with some new features (requested by me, of course). The new version is [available](http://cid-93d618d639ec9651.skydrive.live.com/self.aspx/Public/Office%202007%20Macros/OutlookMacros.bas "available") on my [SkyDrive](http://skydrive.live.com/) account and has the following new features:

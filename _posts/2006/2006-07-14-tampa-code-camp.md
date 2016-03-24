@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Code Camp
-date: 2006-07-14 07:41:00 -04:00
+date: 2006-07-14 07:41:00 -05:00
 ---
 
 ![](http://gwb.blob.core.windows.net/sdorman/5006/o_Html4Food.gif) 

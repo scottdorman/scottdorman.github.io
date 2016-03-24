@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WPF Virtual Bootcamp
-date: 2007-10-26 22:01:03 -04:00
+date: 2007-10-26 22:01:03 -05:00
 ---
 
 [![wpfbootcamp_crop](http://blogs.msdn.com/blogfiles/tims/WindowsLiveWriter/AttendtheWPFVirtualBootcamp_10748/wpfbootcamp_crop_3.png)](http://www.visitmix.com/university/wpf/wpfbootcamp.htm)

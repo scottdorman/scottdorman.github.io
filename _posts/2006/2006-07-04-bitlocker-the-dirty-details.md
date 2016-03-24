@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BitLocker™ - The dirty details
-date: 2006-07-04 09:21:00 -04:00
+date: 2006-07-04 09:21:00 -05:00
 ---
 
 One of the new security features coming in Windows Vista and Longhorn is the new <span>BitLocker™ Drive Encryption technology. <span>BitLocker™ is designed to help prevent information loss, whether it is by theft or accidental. Information loss is costly to business on several levels, and t<span><span>he U.S. Department of Justice estimates that intellectual property theft cost enterprises $250 billion in 2004.</span></span></span></span>

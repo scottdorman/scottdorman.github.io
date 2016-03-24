@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Added Management and Operations Track Calendar
-date: 2007-05-15 11:22:32 -04:00
+date: 2007-05-15 11:22:32 -05:00
 ---
 
 It was just pointed out to me that I missed publishing the calendar for the Management and Operations Track. It is now available at:

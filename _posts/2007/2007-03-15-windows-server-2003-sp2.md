@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Server 2003 SP2
-date: 2007-03-15 23:19:00 -04:00
+date: 2007-03-15 23:19:00 -05:00
 ---
 
 This service pack was just released amid a deafening roar of silence. Honestly, the service pack was released on schedule, but with very little fanfare. The service pack is available in both [32-bit](http://www.microsoft.com/downloads/details.aspx?FamilyID=95ac1610-c232-4644-b828-c55eec605d55&DisplayLang=en "Windows Server 2003 Service Pack 2 (32-bit x86)") and [64-bit](http://www.microsoft.com/downloads/details.aspx?familyid=08FEC2F5-6E3B-4E0D-9314-646414D0A421&displaylang=en "Windows Server 2003 Service Pack 2 for x64 Editions") versions.

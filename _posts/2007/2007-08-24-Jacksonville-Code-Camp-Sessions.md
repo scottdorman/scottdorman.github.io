@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jacksonville Code Camp Sessions
-date: 2007-08-24 23:28:19 -04:00
+date: 2007-08-24 23:28:19 -05:00
 ---
 
 If you're going to the [Jacksonville Code Camp 2007](http://codecamp07.jaxdug.com/), be sure to check out my sessions. I'm giving two talks:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Virtual Tech&middot;Ed is live
-date: 2007-05-18 13:19:18 -04:00
+date: 2007-05-18 13:19:18 -05:00
 ---
 
 One of the "staples" of the Tech·Ed experience has always been the [Virtual TechEd](http://www.virtualteched.com/) site. This year, Microsoft is changing things around a little bit and making the site live year round in order to extend the Tech·Ed experience before, during, and after the conference.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reminder: October 2008 Tampa Bay IASA Meeting"
-date: 2008-10-23 15:38:54 -04:00
+date: 2008-10-23 15:38:54 -05:00
 ---
 
 Just a reminder that the Tampa Bay IASA October meeting is tonight starting at 6:30 PM. 

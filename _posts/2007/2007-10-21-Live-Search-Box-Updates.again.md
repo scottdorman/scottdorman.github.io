@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Live Search Box Updates...again
-date: 2007-10-21 17:42:08 -04:00
+date: 2007-10-21 17:42:08 -05:00
 ---
 
 It seems I've gone a little Live Search crazy today and I have updated the Live Search box on my blog again. This is the last one, I promise.

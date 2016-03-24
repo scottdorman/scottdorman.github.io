@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Buys Tools Vendor Winternals
-date: 2006-07-18 10:27:00 -04:00
+date: 2006-07-18 10:27:00 -05:00
 ---
 
 Microsoft just announced that it has purchased [Winternals Software](http://www.winternals.com/) and [Sysinternals](http://www.sysinternals.com/). Winternals is a leading provider of systems recover tools for Windows-based enterprises and Sysinternals is one of the leading community and enthusiast sites for people interested in information about the internals of the Windows operating system.

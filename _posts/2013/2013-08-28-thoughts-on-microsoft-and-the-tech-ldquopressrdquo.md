@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts on Microsoft and the tech &ldquo;press&rdquo;
-date: 2013-08-28 15:01:05 -04:00
+date: 2013-08-28 15:01:05 -05:00
 ---
 
 Disclaimer: This post is purely an opinion piece and is not intended as a news article. I am a Microsoft MVP, which means that my viewpoint may be slightly biased towards Microsoft but I try very hard to keep things limited to facts and not wild conjecture or complete “fanboy” biases (one way or the other.) While it may become clear through this post the specific sites and organizations to which I’m referring, I will not directly name any of them unless it’s to use as a reference.

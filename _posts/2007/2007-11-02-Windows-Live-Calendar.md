@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Calendar
-date: 2007-11-02 22:56:26 -04:00
+date: 2007-11-02 22:56:26 -05:00
 ---
 
 ![image](http://www.liveside.net/blogs/main/WindowsLiveWriter/WindowsLiveCalendarsIsNowOut_1089/image_thumb.png)

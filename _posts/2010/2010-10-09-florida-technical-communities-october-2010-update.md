@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Florida Technical Communities (October 2010 Update)
-date: 2010-10-09 11:21:53 -04:00
+date: 2010-10-09 11:21:53 -05:00
 ---
 
 It has been over a year since the [last time]({% post_url /2009/2009-04-04-florida-technical-communities-april-2009-update %}) I updated my list of Florida technical communities and a lot has changed since then. [Joe Healy](http://www.devfish.net), our Florida Microsoft Developer Evangelist, maintains a [list](http://www.devfish.net/DevCommunities.aspx) for each of the main areas in Florida, but this only covers the .NET-focused groups. Taking what he has started, I have put together a similar list (based on the information Joe maintains) that covers the other technical communities that I know of. If you are part of a technical user group community and don't see it listed (or need to change anything about a group that is listed), please let me know so I can add it to my list. I'll also forward the information on to Joe so he can keep his list in sync as well. (Likewise, if you let Joe know about a new group, please let me know as well.)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech&middot;Ed 2007 Starts
-date: 2007-06-04 11:23:29 -04:00
+date: 2007-06-04 11:23:29 -05:00
 ---
 
 After spending a week in Alaska where I was pretty much isolated and out of touch with the rest of the world, what better way to dive back in to the connected world than spending a week at Tech·Ed 2007.

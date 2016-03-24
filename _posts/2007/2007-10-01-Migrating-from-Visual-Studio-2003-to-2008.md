@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrating from Visual Studio 2003 to 2008
-date: 2007-10-01 09:50:35 -04:00
+date: 2007-10-01 09:50:35 -05:00
 ---
 
 For those of you who are still developing with Visual Studio 2003 and .NET 1.x and want to take advantage of the enhancements in Visual Studio 2008 may have thought they were out of luck. There are breaking changes between the versions of the CLR and the Framework itself.

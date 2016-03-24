@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Florida Technical Communities (January 2009 Update)
-date: 2008-03-28 20:26:52 -04:00
+date: 2008-03-28 20:26:52 -05:00
 ---
 
 Florida has a very active developer community. The biggest problem we seem to have is that all of these different groups usually don't know about each and there hasn't been a "centralized clearinghouse" listing all of the technical communities. [Joe Healy](http://www.devfish.net), one of our Florida Microsoft Developer Evangelists, maintains a [list](http://devfish.net/DevCommunities.aspx) and earlier this year started putting together one-page flyers for each of the main areas in Florida. I think the eventual plan is that Joe will be updating his site to take advantage of the newer version of Live Maps and be able to show all of these communities overlaid on the Florida map.

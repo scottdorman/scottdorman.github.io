@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The best developers are generally underpaid
-date: 2007-06-28 12:56:39 -04:00
+date: 2007-06-28 12:56:39 -05:00
 ---
 
 Earlier this week one of my good friends, [Jason](http://geekswithblogs.net/jasonfranks/Default.aspx) let me know that he just started a new [blog](http://geekswithblogs.net/jasonfranks/Default.aspx). The thing that's different about this blog is that it doesn't focus on the technical side of things, but rather focuses on the software development industry as a whole. Jason is attempting 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft release first public beta for "Longhorn"
-date: 2007-04-26 13:38:08 -04:00
+date: 2007-04-26 13:38:08 -05:00
 ---
 
 [![](http://www.microsoft.com/library/media/1033/windowsserver/longhorn/graphics/homepage/ItPro.gif)](http://www.microsoft.com/windowsserver/longhorn/audsel.mspx)According to [eWeek](http://www.eweek.com/article2/0,1895,2122094,00.asp), Microsoft will release the third beta, which is also the first **pubic** beta, for Windows Server "Longhorn" today. So far, Longhorn remains on track for RTM in the second half of 2007.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Introduction to Blogs and Wikis in the Business World
-date: 2007-07-11 10:14:47 -04:00
+date: 2007-07-11 10:14:47 -05:00
 ---
 
 CIO has an interesting [article](http://www.cio.com/article/122701/ABC_An_Introduction_to_Blogs_and_Wikis_in_the_Business_World/1) providing a good explanation of blogs and wikis and why you should care about them in the business world. From the article, blogs and wikis are an

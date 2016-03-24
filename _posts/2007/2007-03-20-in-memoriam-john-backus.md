@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Memoriam - John Backus
-date: 2007-03-20 23:16:00 -04:00
+date: 2007-03-20 23:16:00 -05:00
 ---
 
 The computer world lost a huge figure in the history of programming languages today. John Backus, the primary developer responsible for Fortran, died at his home in Oregon today. He was 82. The cause of death is believed to be old age.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dispose Pattern (and FxCop warnings)
-date: 2010-05-25 10:40:09 -04:00
+date: 2010-05-25 10:40:09 -05:00
 ---
 
 *[This is actually a response to *[*Bill’s blog post*](http://srtsolutions.com/public/item/254680)*, but since it isn’t possible to leave this as a comment on his blog it’s a post here.]*

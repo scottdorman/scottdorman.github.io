@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Silverlight
-date: 2007-04-16 22:43:45 -04:00
+date: 2007-04-16 22:43:45 -05:00
 ---
 
 Microsoft officially announced Microsoft Silverlight, a cross-browser, cross-platform plug-in for delivering the next generation of media rich experiences and rich interactive applications for the Web. In other words, Silverlight is the official release name for WPF/E.

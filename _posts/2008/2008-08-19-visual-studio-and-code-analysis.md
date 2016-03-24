@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio and Code Analysis
-date: 2008-08-19 13:04:32 -04:00
+date: 2008-08-19 13:04:32 -05:00
 ---
 
 Even with the newest releases of [StyleCop](http://code.msdn.microsoft.com/sourceanalysis), [FxCop](http://msdn.microsoft.com/en-us/library/bb429476(VS.80).aspx), and Visual Studio 2008, there is still a lot of room for improvement in the suite of technologies and products that make up what should probably be termed “Microsoft Source Analysis”.

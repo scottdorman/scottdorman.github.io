@@ -1,7 +1,7 @@
 ---
 layout: post
 title: INETA Community Champions
-date: 2008-06-16 23:52:43 -04:00
+date: 2008-06-16 23:52:43 -05:00
 ---
 
 [![community-champs-badge2](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/88553e11e728_13863/community-champs-badge2_thumb.png "community-champs-badge2")](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/88553e11e728_13863/community-champs-badge2_2.png)If you are a user group leader in the worldwide community of Microsoft® .NET user groups, you probably already know about INETA. Don’t know about INETA? Then you should definitely [take a look](http://www.ineta.org/About.aspx) and [become an INETA member group](http://www.ineta.org/BecomeAMember.aspx).

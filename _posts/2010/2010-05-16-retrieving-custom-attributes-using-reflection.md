@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retrieving Custom Attributes Using Reflection
-date: 2010-05-16 12:56:23 -04:00
+date: 2010-05-16 12:56:23 -05:00
 ---
 
 The .NET Framework allows you to easily add metadata to your classes by using attributes. These attributes can be ones that the .NET Framework already provides, of which there are over 300, or you can create your own.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Light Blogging Activity
-date: 2010-10-09 11:53:02 -04:00
+date: 2010-10-09 11:53:02 -05:00
 ---
 
 Regular readers may have noticed that my blogging activity has slowed down considerably. I’m hoping to pick back up and start posting more soon, but until then I wanted to make sure everyone knows that I am still active…there have been other things that have been consuming my time.

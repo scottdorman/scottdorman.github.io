@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Determining if a type is defined in the .NET Framework
-date: 2010-09-04 22:24:51 -04:00
+date: 2010-09-04 22:24:51 -05:00
 ---
 
 There have been several questions on StackOverflow about how to determine if a type is defined in the .NET Framework or is a third-party or custom type. Based on the answers provided to these questions, this can be accomplished using some reflection to retrieve the public key token of the assembly in which the type is defined and compare it to a public key token known to be used by Microsoft to sign the .NET Framework assemblies.

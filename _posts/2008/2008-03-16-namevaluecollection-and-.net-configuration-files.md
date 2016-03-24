@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NameValueCollection and .NET Configuration Files
-date: 2008-03-16 20:00:02 -04:00
+date: 2008-03-16 20:00:02 -05:00
 ---
 
 I spent most of yesterday trying to figure out how to make use of a [NameValueCollection](http://msdn2.microsoft.com/689y5thy.aspx "NameValueCollection Class") in a .NET configuration file. After wasting almost the entire night fighting with this problem, I thought I would let everyone know that it is possible, and easier than you might think. (By the way, this was a clear case of working too long on the problem. After a good nights sleep, I solved this in under 5 minutes.)

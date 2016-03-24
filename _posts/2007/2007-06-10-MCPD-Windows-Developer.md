@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MCPD: Windows Developer"
-date: 2007-06-10 16:45:30 -04:00
+date: 2007-06-10 16:45:30 -05:00
 ---
 
 It only took 14 years to decide to go after a Microsoft certification, but I decided it was probably time. My blog has been getting more and more visibility and those 4 little initials after your name add a lot of credibility in the industry.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debugging in Visual Studio 2005 with a Symbol Server
-date: 2007-05-23 16:21:20 -04:00
+date: 2007-05-23 16:21:20 -05:00
 ---
 
 We have all had the experience of debugging an application in Visual Studio and run into the problem of not having the debugging symbols or having incorrect symbols. This is particularly true when you need to step into .NET CLR code to track down a problem. 

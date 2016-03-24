@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Live Search
-date: 2007-10-21 11:09:00 -04:00
+date: 2007-10-21 11:09:00 -05:00
 ---
 
 At the end of September, Microsoft launched a [major upgrade](http://blogs.msdn.com/livesearch/archive/2007/09/26/introducing-the-new-live-search.aspx) to Live Search that makes it faster and easier to use. Some of the areas that have been improved are:

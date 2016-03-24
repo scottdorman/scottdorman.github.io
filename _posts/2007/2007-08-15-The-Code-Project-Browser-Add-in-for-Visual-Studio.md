@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Code Project Browser Add-in for Visual Studio
-date: 2007-08-15 20:29:38 -04:00
+date: 2007-08-15 20:29:38 -05:00
 ---
 
  ![cpbrowser2[1]](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TheCodeProjectBrowserAddinforVisualStudi_118BF/cpbrowser21_1.jpg) 

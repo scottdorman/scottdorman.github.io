@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Real Technology Heroes
-date: 2007-04-04 22:30:00 -04:00
+date: 2007-04-04 22:30:00 -05:00
 ---
 
 ![](http://gwb.blob.core.windows.net/sdorman/5006/o_RTHLogo2.png)In an excellent tribute to the Budweiser "Real Men of Genius" commercials comes [Real Technology Heroes](http://www.realtechnologyheroes.com).  Just like the original Bud commercials, this site salutes those geeks that don't get recognized...but <strong>should</strong>.

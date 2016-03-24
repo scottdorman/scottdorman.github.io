@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Site Meter - Counter and Statistics Tracker
-date: 2007-05-12 12:21:25 -04:00
+date: 2007-05-12 12:21:25 -05:00
 ---
 
 ![](http://www.sitemeter.com/images/homepage/graph.jpg)

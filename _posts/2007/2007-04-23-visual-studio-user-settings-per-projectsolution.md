@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio user settings per project/solution
-date: 2007-04-23 11:12:58 -04:00
+date: 2007-04-23 11:12:58 -05:00
 ---
 
 In a recent email discussion between a few of the Subtext developers and myself, we talked about the need to have the Visual Studio editor settings (like tab size, curly brace location, etc.) stored with each solution as well as globally.

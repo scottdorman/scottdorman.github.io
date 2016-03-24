@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TechEd 2007 is not in New Orleans anymore!
-date: 2006-10-13 17:10:00 -04:00
+date: 2006-10-13 17:10:00 -05:00
 ---
 
 This was actually announced a few days ago, but I've been a little slow catching up on the news.

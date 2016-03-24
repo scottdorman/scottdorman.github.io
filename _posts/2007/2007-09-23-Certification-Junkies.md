@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Certification Junkies
-date: 2007-09-23 11:29:14 -04:00
+date: 2007-09-23 11:29:14 -05:00
 ---
 
 A lot of you probably already know my feelings on certifications, particularly the Microsoft certifications. Even though I am an MCPD, I took what appears to be the "non traditional" approach and actually went into the exams trusting my knowledge and experience to see me through. I didn't spend hundreds of dollars on study courses or materials and study for months. 

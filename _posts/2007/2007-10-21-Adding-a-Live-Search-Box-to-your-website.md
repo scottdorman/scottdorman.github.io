@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding a Live Search Box to your website
-date: 2007-10-21 12:44:12 -04:00
+date: 2007-10-21 12:44:12 -05:00
 ---
 
 As I was [adding]({% post_url /2007/2007-10-21-Live-Search %}) the Live Search Box to my blog, I realized that it wasn't entirely clear how to find the page that explains how to do this. The actual main link is on the Live Search [homepage](http://www.live.com/?searchOnly=true&scope=web) ![image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/AddingaLiveSearchBoxtoyourwebsite_AF04/image_9.png) and is the "For Webmasters" link. However, this link actually takes you to the Windows Live Help site [section](http://help.live.com/help.aspx?mkt=en-us&project=wl_webmasters) titled "Welcome to Live Search Site Owner Help".
