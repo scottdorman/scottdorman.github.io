@@ -101,7 +101,7 @@ However, that’s only part of the solution. We still need to tell the Kendo Gri
 .Columns(columns => columns.AutoGenerate(c => GridColumnHelpers.ConfigureColumn(c)))
 ```
 
-The ` method looks like` 
+The `GridColumnHelpers.ConfigureColumn<T>` method looks like
 
 ```csharp
 using Kendo.Mvc.UI;
