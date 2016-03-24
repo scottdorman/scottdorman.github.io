@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moving to GitHub Pages
+date: 2016-03-23 21:45:33 -05:00
 ---
 
 I've been blogging here on GWB for almost 10 years and I've seen this community grow and change during that time.
