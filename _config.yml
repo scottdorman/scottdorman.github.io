@@ -16,6 +16,9 @@ disqus:
 github:
   repo: https://github.com/scottdorman/scottdorman.github.io
 
+gems:
+  - jekyll-feed
+  
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
