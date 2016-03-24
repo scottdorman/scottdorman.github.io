@@ -5,5 +5,5 @@
     {% assign disqus_identifier = page.disqus_identifier %}
   {% endif %}
   
-  <li><span class="fa fa-comment"> <a href="{{ post.url }}#disqus_thread"{% if disqus_identifier %} data-disqus-identifier="{{ disqus_identifier }}"{% endif %}> comments</a></span></li>
+  <li><span class="fa fa-comment"></span> <a href="{{ post.url }}#disqus_thread"{% if disqus_identifier %} data-disqus-identifier="{{ disqus_identifier }}"{% endif %}> comments</a></li>
 {% endif %}
