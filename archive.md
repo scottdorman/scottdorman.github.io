@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archives
+title: Archives
 ---
 
 <div class="archives" itemscope itemtype="http://schema.org/Blog">
