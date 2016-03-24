@@ -7,13 +7,6 @@ feedburner: http://feeds.feedburner.com/ScottDorman
 
 google_analytics: "UA-2662385-1"
 
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/img/scottdorman_1457462373_45.jpg"
-gravatar:
-   hash: e74e26bfd345fdd80bedf436178c5829
-   size: 80
-
 disqus:
   shortname: "scottdorman-blog"
   show_comment_count: true
