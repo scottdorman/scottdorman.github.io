@@ -7,6 +7,10 @@ feedburner: http://feeds.feedburner.com/ScottDorman
 
 google_analytics: "UA-2662385-1"
 
+gravatar:
+   hash: e74e26bfd345fdd80bedf436178c5829
+   size: 80
+
 disqus:
   shortname: "scottdorman-blog"
   show_comment_count: true
