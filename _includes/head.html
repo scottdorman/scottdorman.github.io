@@ -1,17 +1,21 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta name="author" content="{{ site.author.name }}" />
+	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
 
   <title>
     {% if page.title == "Home" %}
-       {{ site.title }} &middot; {{ site.tagline }}
+       {{ site.title }} &middot; {{ site.subtitle }}
     {% else %}
        {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
 
-  <meta name="author" content="{{ site.author.name }}" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="http://feeds.feedburner.com/ScottDorman" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" integrity="sha384-XdYbMnZ/QjLh6iI4ogqCTaIjrFk87ip+ekIjefZch0Y+PvJ8CDYtEs1ipDmPorQ+" crossorigin="anonymous">
