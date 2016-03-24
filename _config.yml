@@ -20,7 +20,9 @@ github:
 
 gems:
   - jekyll-feed
-  
+  - jekyll-mentions
+  - jekyll-sitemap
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
