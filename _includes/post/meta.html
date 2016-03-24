@@ -1,6 +1,6 @@
 <div class="post-meta text-muted small"> 
 	<ul class="list-inline">
-  		<li><span class="fa fa-calendar">{% include post/date.html %}{{ time }}</span></li>
+  		{% include post/date.html %}{{ time }}
 		{% include post/categories.html %}
 		{% include post/comments_link.html %} 
 		{% include post/edit.html %}
