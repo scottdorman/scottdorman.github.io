@@ -52,7 +52,7 @@ namespace WebApplication1
 }
 ```
 
-The `[AddOptions](http://docs.asp.net/en/latest/fundamentals/configuration.html#using-options-and-configuration-objects)` method adds the support for injecting the options classes using the `IOptions<TOptions>` service. The `AddConfiguration` method tells the configuration system where to get its configuration data and can be added by including the following extensions class. (If you already have one, just add the `AddConfiguration` method and namespace reference.)
+The [`AddOptions`](http://docs.asp.net/en/latest/fundamentals/configuration.html#using-options-and-configuration-objects) method adds the support for injecting the options classes using the `IOptions<TOptions>` service. The `AddConfiguration` method tells the configuration system where to get its configuration data and can be added by including the following extensions class. (If you already have one, just add the `AddConfiguration` method and namespace reference.)
 
 ```csharp
 public static class ServiceProviderExtensions
