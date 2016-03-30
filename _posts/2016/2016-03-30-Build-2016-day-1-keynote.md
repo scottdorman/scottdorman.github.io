@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Build 2016 Day 1 Keynote
-date: 2016-03-30 14:26:00 -05:00
+date: 2016-03-30 -05:00
 ---
 
 [Build 2016](http://build.microsoft.com/) opened today. Although I'm not in attendence, the keynote was live-streamed so I was able to watch it. If you missed the keynote, be sure to [check it out](https://channel9.msdn.com/Events/Build/2016/KEY01) once it's available on Channel 9.
