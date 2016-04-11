@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "XML Comments: filterpriority"
-date: 2009-01-08 20:55:15 -05:00
+date: "2009-01-08 20:55:15 -05:00"
 ---
 
 I am a big fan of using XML comments in code and actually have a few Visual Studio macros which allow me to “inherit” the documentation from an overridden member. Every once in a while, I end up pulling in a comment with a *filterpriority* XML tag. This tag is very prevalent in the BCL but I have never been able to find documentation on what it actually means.
