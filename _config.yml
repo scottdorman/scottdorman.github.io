@@ -52,7 +52,7 @@ footer-links-active:
 url-pretty: "http://scottdorman.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Output options (more information on Jekyll's site)
-timezone: "America/New York"
+timezone: America/New_York
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
