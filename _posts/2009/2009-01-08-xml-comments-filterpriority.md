@@ -11,25 +11,23 @@ To see what I mean, let’s take a look at part of the definition for `System.Ob
 ```csharp
 namespace System   
 {
-  /// <summary>Supports all classes in the .NET Framework class hierarchy
-  /// and provides low-level services to derived classes. This is the
-  /// ultimate base class of all classes in the .NET Framework; it is the
-  /// root of the type hierarchy.</summary>
+  /// <summary>
+  /// Supports all classes in the .NET Framework class hierarchy and provides
+  /// low-level services to derived classes. This is the ultimate base class
+  /// of all classes in the .NET Framework; it is the root of the type hierarchy.
+  /// </summary>
   /// <filterpriority>1</filterpriority>
   [System.Runtime.InteropServices.ClassInterfaceAttribute(2)]
   public Object    
   {    
-    /// <summary>Determines whether the specified </span>
-    /// <see cref="T:System.Object" /> </span>
-    /// instances are considered equal.</summary>  </span>
-    /// <returns>true if objA is the same instance as objB or</span>
-    /// if both are null</span>
-    /// references or if objA.Equals(objB) returns true; </span>
-    /// otherwise, false.</returns></span>
-    /// <param name="objB">The second <see cref="T:System.Object" /> </span>
-    /// to compare. </param></span>
-    /// <param name="objA">The first <see cref="T:System.Object" /> </span>
-    /// to compare. </param></span>
+    /// <summary>
+    /// Determines whether the specified <see cref="T:System.Object" /> instances
+    /// are considered equal.
+    /// </summary>
+    /// <returns>true if objA is the same instance as objB or if both are null 
+    /// references or if objA.Equals(objB) returns true; otherwise, false.</returns>
+    /// <param name="objB">The second <see cref="T:System.Object" /> to compare.</param>
+    /// <param name="objA">The first <see cref="T:System.Object" /> to compare.</param>
     /// <filterpriority>2</filterpriority>
     public static bool  Equals(object objA, object objB);
   }
