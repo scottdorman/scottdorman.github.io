@@ -7,6 +7,7 @@ categories:  [windows10 uwp android requests]
 [WPCentral](http://www.windowscentral.com/microsoft-encouraging-android-windows-10-app-ports-cortana-notifications) and [MS Power User](http://mspoweruser.com/microsoft-using-cortana-android-notification-sync-encourage-developers-make-uwp-apps/) both reported that Microsoft is using the notification sync feature of Cortana in Windows 10 to add a "Request app" button if the notification comes from an Android phone. (This is currently only available if you're running the Insider builds of 'Redstone', but should presumably be coming to all Windows users with the Anniversary Update later this summer.) 
 
 {% include post/imagecaption.html url="/img/posts/android-request.jpg" description="source: Windows Central" %}
+
 {% include post/imagecaption.html url="/img/posts/android-request(mspoweruser).png" description="source: MSPowerUser" %}
 
 The idea is to encourage more Android apps to come to the Windows Store by showing the level of use/interest for the app to the developers and the "Request app" link goes to the [WinStore Requests UserVoice](https://winstorerequests.uservoice.com/) page where anyone can recommend that an app be added to the Windows Store. 
