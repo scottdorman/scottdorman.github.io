@@ -6,7 +6,7 @@ date: 2008-04-19 15:43:50 -05:00
 
 ![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/BookReviewWikipediaTheMissingManual_DA67/41xTiVltdLL__SL500_AA240__3.jpg)  
 
-I have always been a big fan of the O'Reilly books, and the Missing Manual series is no exception. I recently had the opportunity to read [Wikipedia: The Missing Manual](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWikipedia-Missing-Manual-John-Broughton%2Fdp%2F0596515162%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1208633454%26sr%3D8-1&tag=scotdorm-20&linkCode=ur2&camp=1789&creative=9325) by ![](http://www.assoc-amazon.com/e/ir?t=scotdorm-20&l=ur2&o=1)John Broughton.
+I have always been a big fan of the O'Reilly books, and the Missing Manual series is no exception. I recently had the opportunity to read [Wikipedia: The Missing Manual](http://amzn.to/28JtcWE) by John Broughton.
 
 If you have ever thought about contributing to Wikipedia, or have done so in the past, this is **the** definitive book on how to contribute and become a successful Wikipedia editor.
 

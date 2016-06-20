@@ -4,14 +4,13 @@ title: "Book Review: ASP.NET Data Presentation Controls Essentials"
 date: 2008-03-28 18:52:08 -05:00
 ---
 
-[![1847193951](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/Boo.NETDataPresentationControlsEssential_103C1/1847193951_3.png)](http://www.packtpub.com/#)If you are an ASP.NET developer or want to become one,  there are numerous books available that talk about the ASP.NET framework and/or how to build web sites using ASP.NET. [Pact Publishing](http://www.packtpub.com) has a book that focuses specifically on the data presentation controls that are available in ASP.NET, including ASP.NET 3.5 called <u>[ASP.NET Data Presentation Controls Essentials](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fexec%2Fobidos%2FASIN%2F1847193951&tag=scotdorm-20&linkCode=ur2&camp=1789&creative=9325)</u> by Joydip Kanjilal.
+[![1847193951](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/Boo.NETDataPresentationControlsEssential_103C1/1847193951_3.png)](http://www.packtpub.com/#)If you are an ASP.NET developer or want to become one, there are numerous books available that talk about the ASP.NET framework and/or how to build web sites using ASP.NET. [Pact Publishing](http://www.packtpub.com) has a book that focuses specifically on the data presentation controls that are available in ASP.NET, including ASP.NET 3.5 called [ASP.NET Data Presentation Controls Essentials](http://amzn.to/28IKxia) by Joydip Kanjilal.
 
 The book provides a good introduction to the basics of how data binding in ASP.NET works and then expands on that introduction to cover the new (in ASP.NET 2.0) data source controls, including the Object, SQL, and XML data source controls.
 
 From there, the book focuses a separate chapter on the working with each of the different types of data presentation controls:
 
 *   List Controls      
-
     *   ListBox 
     *   DropDownList 
     *   CheckBoxList 

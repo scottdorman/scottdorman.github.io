@@ -10,7 +10,7 @@ I know that calling StyleCop that name caused a lot of confusion since it was be
 
 Here is what has happened:
 
-First, Microsoft releases a tool called FxCop on GotDotNet. This tool is a “static analysis tool” that looks at a compiled assembly and analyzes it for various violations of “best practice” design guidelines (mostly those spelled out in the [Framework Design Guidelines](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FFramework-Design-Guidelines-Conventions-Development%2Fdp%2F0321246756%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1216257857%26sr%3D8-1&tag=scotdorm-20&linkCode=ur2&camp=1789&creative=9325). Then, Visual Studio 2005 Team Edition is released, which includes a built-in utility to perform static analysis. This built-in package uses (at a guess) 90% of the standalone FxCop release (the rules assemblies can be shared, the settings/options are almost the same, the analysis engines are almost the same as well), but includes some extra rules that weren’t part of the FxCop release and drops others that were. 
+First, Microsoft releases a tool called FxCop on GotDotNet. This tool is a “static analysis tool” that looks at a compiled assembly and analyzes it for various violations of “best practice” design guidelines (mostly those spelled out in the [Framework Design Guidelines](http://amzn.to/28JOJA1). Then, Visual Studio 2005 Team Edition is released, which includes a built-in utility to perform static analysis. This built-in package uses (at a guess) 90% of the standalone FxCop release (the rules assemblies can be shared, the settings/options are almost the same, the analysis engines are almost the same as well), but includes some extra rules that weren’t part of the FxCop release and drops others that were. 
 
 At this point we have two tools that are designed to do the exact same thing which yield different results. One is tightly integrated in to Visual Studio and the other isn’t integrated at all. To remedy this situation, FxCop 1.36 Beta is released which brings FxCop closer in-line with the integrated analysis.
 
@@ -28,32 +28,35 @@ I think tools like FxCop and StyleCop are absolutely critical to good developmen
 
 There are actually several small failures, any one taken by itself is not a big issue but taken together they form a complete picture:
 
-1.  Visual Studio Integration (FxCop): It’s great that there is a version/variant of FxCop integrated with Visual Studio (at least the more expensive Team Edition SKUs). At the same time, that’s also one of the problems.        
+1. Visual Studio Integration (FxCop): It’s great that there is a version/variant of FxCop integrated with Visual Studio (at least the more expensive Team Edition SKUs). At the same time, that’s also one of the problems.        
+   
+   As an MVP, I present a lot of talks to the community about code style and standards. I can’t talk about the integrated code analysis since at least half of my audience generally does not have one of the Team Edition SKUs. That means they don’t have the integrated analysis, so all of the “cool features” that provides (that Microsoft heavily advertised to the developer community as a big selling point for upgrading to VS2005) aren’t available to them.         
 
-As an MVP, I present a lot of talks to the community about code style and standards. I can’t talk about the integrated code analysis since at least half of my audience generally does not have one of the Team Edition SKUs. That means they don’t have the integrated analysis, so all of the “cool features” that provides (that Microsoft heavily advertised to the developer community as a big selling point for upgrading to VS2005) aren’t available to them.         
+   What they do have available is the stand-alone FxCop tool. The problem here is that it doesn’t integrate with Visual Studio (unless you want to do extra work, and even then you don’t get a good integrated experience). The other problems are:         
 
-What they do have available is the stand-alone FxCop tool. The problem here is that it doesn’t integrate with Visual Studio (unless you want to do extra work, and even then you don’t get a good integrated experience). The other problems are:         
+   *   The stand-alone FxCop still generates slightly different results than the integrated analysis. 
+   *   The settings are stored in a separate .fxcop file and aren’t integrated in any way with the actual Visual Studio project file. 
+   *   Running an analysis is a completely separate (and generally manual) step.    
 
-    *   The stand-alone FxCop still generates slightly different results than the integrated analysis. 
-    *   The settings are stored in a separate .fxcop file and aren’t integrated in any way with the actual Visual Studio project file. 
-    *   Running an analysis is a completely separate (and generally manual) step.    
-2.  Visual Studio Integration (StyleCop): Again, like the integration for FxCop, this is both good and bad. StyleCop fixes some of the failings with the FxCop integration by providing a stand-alone tool that can also integrate with Visual Studio. While the settings are stored in an external file, you can modify them through Visual Studio. You can also run an analysis through Visual Studio, although you can’t make it an automatic part of the build. The failures here are:        
+2. Visual Studio Integration (StyleCop): Again, like the integration for FxCop, this is both good and bad. StyleCop fixes some of the failings with the FxCop integration by providing a stand-alone tool that can also integrate with Visual Studio. While the settings are stored in an external file, you can modify them through Visual Studio. You can also run an analysis through Visual Studio, although you can’t make it an automatic part of the build. The failures here are:        
 
     *   The integration puts the code analysis menu options under the “Tools” menu. While this doesn’t sound like a big deal, if you have one of the Team Edition SKUs, you also get an “Analyze” menu (for the built-in FxCop analysis). Intuitively one would expect the source analysis (StyleCop) menus to be under the Analyze menu (see my earlier point about the definition of code analysis).
     *   The rules documentation is not integrated with the rest of the Visual Studio documentation.
     *   There is no actual stand-alone GUI, so you either run through Visual Studio or MSBuild.   
+
 3.  Competing rules: Even though FxCop and StyleCop have completely different reasons for existing, there is some overlap in what they analyze. That means that you can get duplicate rule violations for the same thing if you run both tools, but it also means you can get conflicting rule violations.       
 
-In the cases where both tools analyze for the same rule, that rule should be consistent. This goes for the actual definition of the rule as well as the documentation. The fact that these tools use different documentation styles for the rules simply adds to a feeling of inconsistent branding across these tools and within Microsoft’s developer products.
+   In the cases where both tools analyze for the same rule, that rule should be consistent. This goes for the actual definition of the rule as well as the documentation. The fact that these tools use different documentation styles for the rules simply adds to a feeling of inconsistent branding across these tools and within Microsoft’s developer products.
+   
 4.  Different “SDKs” to create custom rules: (I’m guessing here since the StyleCop SDK hasn’t been released, but I’m reasonably sure this is the case.)  Just because these are different products, with different analysis engines and different rule sets doesn’t mean that I should learn two completely different SDKs to create a code analysis rule.  
 
 So, what can Microsoft do to correct these issues? A lot, actually…and none of it should conflict with any of Microsoft’s internal goals for the products or teams.
 
 1.  Make FxCop and StyleCop consume at least the System.AddIn namespace, or ideally the new Managed Extensibility Framework. This allows both products to:
-2.  *   use a consistent and common way to handle the rules assemblies and will help provide an environment where there is a single way to create a custom rule for either product
-    *   use a consistent and common GUI (ideally patterned after the current FxCop GUI).    Provide consistent rules across both products. There is absolutely a need for certain rules to exist in both products and that shouldn’t be changed; what should be changed is that those rules should not contradict each other.
+   *   use a consistent and common way to handle the rules assemblies and will help provide an environment where there is a single way to create a custom rule for either product
+   *   use a consistent and common GUI (ideally patterned after the current FxCop GUI).    Provide consistent rules across both products. There is absolutely a need for certain rules to exist in both products and that shouldn’t be changed; what should be changed is that those rules should not contradict each other.
 3.  Allow FxCop to integrate with Visual Studio the same way StyleCop integrates, but expand that integration to:
-4.  *   allow controlling the analysis settings through the project properties (still store them in an external file so the GUI can use the same settings; or allow the GUI to read the VS project files)
+    *   allow controlling the analysis settings through the project properties (still store them in an external file so the GUI can use the same settings; or allow the GUI to read the VS project files)
     *   allow controlling the actual analysis through project settings (like the integrated FxCop analysis)
     *   put all of the menu options under a single “Analyze” menu.    **Allow both FxCop and StyleCop to integrate with *all* Visual Studio SKUs, *including* the Express Editions.**
 5.  Provide consistently formatted documentation for the rules. From a developer perspective, especially with point #3, the rules should look like they came from a single product.
@@ -63,4 +66,3 @@ So, what can Microsoft do to correct these issues? A lot, actually…and none of
 9.  Allow StyleCop to work with more than just C# code. Just like FxCop, it needs to be able to analyze any .NET language (or at least the mainstream ones initially).  
 
 These changes would provide a consistent developer experience around any type of code analysis activity that can be run as a stand-alone GUI, integrated in to Visual Studio (all SKUs), or as part of MSBuild. It also further reinforces the idea that performing code analysis is a general best practice for all developers, not just certain segments of the developer community.
-  <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:e85e4f1b-6bac-49cf-92cc-7de8bbe28ce5" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">*Technorati Tags: [FxCop](http://technorati.com/tags/FxCop), [StyleCop](http://technorati.com/tags/StyleCop)*</div><div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 0px 4px 0px;">[![Digg This](http://digg.com/img/badges/100x20-digg-button.png "Digg This")](http://digg.com/submit?url=http%3a%2f%2fgeekswithblogs.net%2fsdorman%2farchive%2f2008%2f08%2f19%2fvisual-studio-and-code-analysis.aspx&title=Visual+Studio+and+Code+Analysis)</div><div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 4px 4px 4px;">[![DotNetKicks Image](http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://geekswithblogs.net/sdorman/archive/2008/08/19/visual-studio-and-code-analysis.aspx&bgcolor=0080C0&fgcolor=FFFFFF&border=000000&cbgcolor=D4E1ED&cfgcolor=000000)]({% post_url /2008/2008-08-19-visual-studio-and-code-analysis %})</div>

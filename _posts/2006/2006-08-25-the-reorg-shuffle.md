@@ -12,4 +12,4 @@ To me, a development manager is the first and last line of defense and sanity fo
 
 It seems I'm better off being a simple developer, rather than a developer who manages in has spare time.
 
-For those of you who find yourself in similar situations, there is a great book written for developers who find themselves being managers called [Herding Cats](http://www.amazon.com/gp/product/1590590171/sr=1-3/qid=1156564588/ref=pd_bbs_3/102-6409103-8716925?ie=UTF8&s=books) by J. Hank Rainwater. I highly recommend it.
+For those of you who find yourself in similar situations, there is a great book written for developers who find themselves being managers called [Herding Cats](http://amzn.to/28JJVdl) by J. Hank Rainwater. I highly recommend it.
