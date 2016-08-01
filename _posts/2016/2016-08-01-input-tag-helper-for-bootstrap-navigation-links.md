@@ -4,7 +4,7 @@ title: Input Tag Helper For Bootstrap Navigation Links
 date: 2016-08-01 -05:00
 ---
 
-I've already [written about]{% post_url 2016-08-01-tag-helpers %} Tag Helpers and [showed]({% post_url 2016-08-01-input-tag-helper-with-placeholder-support}) how easy it is to extend an existing Tag Helper. Now let's look at how to create a new Tag Helper for generating Bootstrap 3 navigation links.
+I've already [written about]{% post_url 2016-08-01-tag-helpers %} Tag Helpers and [showed]({% post_url 2016-08-01-input-tag-helper-with-placeholder-support %}) how easy it is to extend an existing Tag Helper. Now let's look at how to create a new Tag Helper for generating Bootstrap 3 navigation links.
 
 One of the nice things with Bootstrap's `navbar` classes is the ability to indicate the active link by adding the `active` class to the `li` element. Unfortunately, this has always meant a lot of work for an ASP.NET MVC site to figure out when the class should be added. There have been a lot of solutions to this problem over the years, but those were all before Tag Helpers.
 
