@@ -24,7 +24,7 @@ Let's do that, and extend `InputTagHelper` to add support for an `asp-placeholde
 
 The code for doing that is:
 
-```c#
+```csharp
 using System;
 using Microsoft.AspNetCore.Mvc.TagHelpers;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;

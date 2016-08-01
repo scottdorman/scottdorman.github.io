@@ -24,7 +24,7 @@ This looks like standard HTML markup, with a new attribute. This attribute is pr
 
 Where Tag Helpers really show off is in forms, and Microsoft has provided a lot of Tag Helpers for forms. For example, consider the standard Register.cshtml Razor view generated with the legacy ASP.NET 4.5.x MVC template:
 
-```c#
+```
 @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
 {
     @Html.AntiForgeryToken()
@@ -66,7 +66,7 @@ Where Tag Helpers really show off is in forms, and Microsoft has provided a lot 
 
 Looking at that code, the majority of it isn't HTML markup at all. It's Html Helpers. Compare that to the same form written using Tag Helpers
 
-```c#
+```
 <form asp-action="Register" asp-controller="Account" method="post" class="form-horizontal" role="form">
     <h4>Create a new account.</h4>
     <hr/>

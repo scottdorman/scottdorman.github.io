@@ -32,7 +32,7 @@ To do this, we're going to extend the `AnchorTagHelper`. In this case, we're not
 
 The code for doing that is:
 
-```c#
+```csharp
 using System;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc.Rendering;
