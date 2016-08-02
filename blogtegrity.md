@@ -10,7 +10,7 @@ Intro
 -----
 
 This is a statement about the integrity of this blog or its
-“blogtegrity”. I saw this idea on [Phil Haack's blog](http://haacked.com/)
+"blogtegrity". I saw this idea on [Phil Haack's blog](http://haacked.com/)
 and liked it, so I'm borrowing the concept and applying it my blog as well.
 
 Simply put, this is a promise that any content of this blog under my control
@@ -36,7 +36,7 @@ Endorsements and Advertising
 ----------------------------
 
 I will not personally endorse a product, company, or service that I
-haven’t personally experienced and believe in. That said, just because
+haven't personally experienced and believe in. That said, just because
 I once endoresed a product doesn't necessarily mean that I still endorse it.
 At times, I may mention that a trusted person I know recommends something, 
 but I will not endorse that product or service unless I have tried it out myself.
@@ -54,4 +54,4 @@ I promise to promptly and noticeably correct any mistakes brought to my attentio
 and have no problem admitting them.
 
 If any significant changes to this promise (apart from
-fixing typos, grammar, etc.), I’ll be sure to mention it in my blog.
+fixing typos, grammar, etc.), I'll be sure to mention it in my blog.

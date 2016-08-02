@@ -4,9 +4,9 @@ title: More Trouble with Programming
 date: 2006-12-09 20:36:00 -05:00
 ---
 
-The Technology Review [interview](http://www.technologyreview.com/InfoTech/17831/page1/ "Technology Review: The Problem with Programming") with [Bjarne Stroustrup](http://parasol.tamu.edu/people/bs/ "Bjarne Stroustrup") last month apparently caused a great deal of trouble for the Technology Review...something I have a feeling they weren't counting on.
+The Technology Review [interview](http://www.technologyreview.com/InfoTech/17831/page1/) with [Bjarne Stroustrup](http://parasol.tamu.edu/people/bs/) last month apparently caused a great deal of trouble for the Technology Review...something I have a feeling they weren't counting on.
 
-In an effort to address the comments left by readers and on [Slashdot,](http://it.slashdot.org/article.pl?sid=06/12/05/0045234 "Bjarne Stroustrup on the Problems With Programming") they followed up the interview. I'm not sure they did themselves a favor.
+In an effort to address the comments left by readers and on [Slashdot,](http://it.slashdot.org/article.pl?sid=06/12/05/0045234) they followed up the interview. I'm not sure they did themselves a favor.
 
 The controversy from the first interview mostly focused on the second half where the interviewer essentially tried to get Bjarne to admit he made a mistake by creating the C++ language.
 

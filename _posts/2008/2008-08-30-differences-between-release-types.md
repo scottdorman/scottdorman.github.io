@@ -4,7 +4,7 @@ title: Differences between release types
 date: 2008-08-30 14:15:08 -05:00
 ---
 
-Phil has an excellent post that builds on Jeff Atwood’s explanation which very clearly describes the differences between the various release types:
+Phil has an excellent post that builds on Jeff Atwood's explanation which very clearly describes the differences between the various release types:
 
 *   Beta 
 *   CTP 
@@ -28,5 +28,3 @@ Summarizing what both Phil and Jeff said:
 > **RTM (Released to Manufacturing) / RTW (Released to Web) Releases**: The software is finished -- and by finished, we mean there are no show-stopping, little-children-killing bugs in it. *That we know of*. There are probably numerous lower-prority bugs [triaged into](http://www.codinghorror.com/blog/archives/000498.html) the next point release or service pack, as well.
 > 
 > **Service Pack Releases:** A Service Pack (or SP) is simply an RTM (or RTW) release of fixes and/or improvements to some software. It used to be that SPs rarely included new features, but it seems to be the norm now that they do. Service Packs tend to include all the hotfixes and patches released since the product originally was released, which is convenient for the end user in not having to install every fix individually.
-
-<div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 0px 4px 0px;">[![Digg This](http://digg.com/img/badges/100x20-digg-button.png "Digg This")](http://digg.com/submit?url=http%3a%2f%2fgeekswithblogs.net%2fsdorman%2farchive%2f2008%2f08%2f30%2fdifferences-between-release-types.aspx&title=Differences+between+release+types)</div><div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 4px 4px 4px;">[![DotNetKicks Image](http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://geekswithblogs.net/sdorman/archive/2008/08/30/differences-between-release-types.aspx&bgcolor=0080C0&fgcolor=FFFFFF&border=000000&cbgcolor=D4E1ED&cfgcolor=000000)]({% post_url /2008/2008-08-30-differences-between-release-types %})</div>

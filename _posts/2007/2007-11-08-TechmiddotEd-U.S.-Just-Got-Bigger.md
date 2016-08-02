@@ -4,7 +4,7 @@ title: Tech&middot;Ed U.S. Just Got Bigger
 date: 2007-11-08 08:06:53 -05:00
 ---
 
-[![Tech·Ed 2008](http://www.microsoft.com/events/teched2007/images/teched_hero.JPG "Tech·Ed 2008")](http://switch.atdmt.com/action/mrtity_FY08TechEd2008Signtheguestbook2_1)
+[![Tech·Ed 2008](http://www.microsoft.com/events/teched2007/images/teched_hero.JPG)](http://switch.atdmt.com/action/mrtity_FY08TechEd2008Signtheguestbook2_1)
 
 Following the lead of Tech·Ed Barcelona, Tech·Ed U.S. 2008 will also be expanded into a "split event". For the first time, Tech·Ed U.S. is evolving from a one week conference to two separate back-to-back conferences: Tech·Ed U.S. 2008 Developers, June 3-6, and Tech·Ed U.S. 2008 IT Professionals, June 10-13, in Orlando, FL. Each event is priced separately, but there will be special package pricing for those that want to attend both events.
 

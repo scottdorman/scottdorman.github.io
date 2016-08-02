@@ -8,7 +8,7 @@ date: 2007-05-10 19:31:45 -05:00
 
 I use [Windows Live Writer](http://windowslivewriter.spaces.live.com/) for writing almost all of my blog posts. It has been in beta for a long time and isn't showing any signs of being released any time soon. 
 
-As a result, there was a lot of speculation that the product was dying a slow death. I'm very happy to say that is **not** the case. [Simone](http://www.codeclimber.net.nz/archive/2007/05/08/Windows-Live-Writer-vNext.aspx "Climbing the cliffs of C#") pointed me to some screenshots showing a new version of WLW that is in the works.
+As a result, there was a lot of speculation that the product was dying a slow death. I'm very happy to say that is **not** the case. [Simone](http://www.codeclimber.net.nz/archive/2007/05/08/Windows-Live-Writer-vNext.aspx) pointed me to some screenshots showing a new version of WLW that is in the works.
 
 There are a lot of updates in the new release, including the ability to add tables, insert images from the web, inline spell checking, extended entry support, SharePoint support, and an updated look and feel.
 

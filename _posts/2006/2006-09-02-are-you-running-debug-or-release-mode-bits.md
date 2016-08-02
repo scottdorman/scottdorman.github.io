@@ -11,13 +11,11 @@ I came across a post on [Computer Zen](http://www.hanselman.com/blog/HowToProgra
 For my part, I always make sure that the following snippet of code is in my AssemblyInfo.cs
 
 ```
-#<span style="COLOR: #0000ff">if</span> (Debug || DEBUG)
-[assembly: AssemblyConfiguration("<span style="COLOR: #8b0000">Debug</span>")]
-#<span style="COLOR: #0000ff">else</span>
-[assembly: AssemblyConfiguration("<span style="COLOR: #8b0000">Release</span>")]
-#<span style="COLOR: #0000ff">endif</span>
+#if (Debug || DEBUG)
+[assembly: AssemblyConfiguration("Debug")]
+#else
+[assembly: AssemblyConfiguration("Release")]
+#endif
 ```
-
-<span style="COLOR: #0000ff"></span>
 
 This attribute doesn't show up in the file properties (when viewed from Explorer) but it can be queried programmatically.

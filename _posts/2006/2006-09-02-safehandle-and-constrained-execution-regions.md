@@ -8,4 +8,4 @@ As a follow up to my [Implementing IDisposable and the Dispose pattern](http://w
 
 This article explains the new SafeHandle class, introduced in .NET 2.0, and how to use it. I also cover CERs and how they are used.
 
-*<font size="1">[Update, 22-Jan-2008: Updated the article link for Code Project.]</font>*
+*<small>[Update, 22-Jan-2008: Updated the article link for Code Project.]</small>*

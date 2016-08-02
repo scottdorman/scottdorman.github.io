@@ -4,7 +4,7 @@ title: Racing Balloon
 date: 2008-05-25 19:00:01 -05:00
 ---
 
-![background](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/RacingBalloon_109AC/background_thumb.jpg) My friend and fellow MVP [Richard](http://binaryrefinery.com) has a unique project that he started to help raise money for one of his local primary school's swimming pool repair fund, which needs to raise £40K. 
+My friend and fellow MVP [Richard](http://binaryrefinery.com) has a unique project that he started to help raise money for one of his local primary school's swimming pool repair fund, which needs to raise £40K. 
 
 He's running a balloon race, which is being combined with Microsoft Virtual Earth to allow people to record and track where the balloons are found. Prizes are being offered (courtesy of Microsoft) for the finder of the balloon that has traveled the farthest and the person who launched that balloon.
 

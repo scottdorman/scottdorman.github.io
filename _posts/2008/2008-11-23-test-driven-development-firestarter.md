@@ -4,11 +4,11 @@ title: Test Driven Development Firestarter
 date: 2008-11-23 11:39:11 -05:00
 ---
 
-**Event Date: **Saturday, January 19, 2009       
-**Event Time: **08:30 (registration), 09:00 – 17:00       
-**Event Location: **[Microsoft Tampa Office](http://www.microsoft.com/about/companyinformation/usaoffices/southeast/tampa.mspx)       
+**Event Date:** Saturday, January 19, 2009       
+**Event Time:** 08:30 (registration), 09:00 – 17:00       
+**Event Location:** [Microsoft Tampa Office](http://www.microsoft.com/about/companyinformation/usaoffices/southeast/tampa.mspx)       
 
-If you want to learn what TDD is all about, this is the event to attend. It’s a day-long event where you will go from start to finish with a sample domain problem and learn how to write tests to drive functionality of the system.
+If you want to learn what TDD is all about, this is the event to attend. It's a day-long event where you will go from start to finish with a sample domain problem and learn how to write tests to drive functionality of the system.
 
 This promises to be an excellent event and will be good for both beginners and those experienced with TDD. There will be two tracks running simultaneously, with an hour long presentation at the end of the day to reinforce what you have learned.
 

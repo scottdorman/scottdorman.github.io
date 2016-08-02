@@ -19,4 +19,4 @@ The latest custom shot leverages Reuters' global news capabilities and the Snap 
 
 In addition to the new Shots, VideoShots™ now supports Google Video, Metacafe, Current.tv, and Revver, in addition to YouTube. 
 
-If you aren't using SnapShots, [![Get Started Now](http://i.snap.com/images/lang/en-us/btn-getstarted.gif)](http://www.snap.com/shots1.php "Get Started Now")
+If you aren't using SnapShots, [![Get Started Now](http://i.snap.com/images/lang/en-us/btn-getstarted.gif)](http://www.snap.com/shots1.php)

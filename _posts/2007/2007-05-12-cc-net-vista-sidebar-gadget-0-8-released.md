@@ -4,7 +4,7 @@ title: CC.NET Vista Sidebar Gadget 0.8 Released
 date: 2007-05-12 10:07:59 -05:00
 ---
 
-Earlier this month, I [talked]({% post_url 2007-05-02-cc-net-vista-sidebar-gadget-updates %}) about the upcoming release of [Simone's](http://www.codeclimber.net.nz "Climbing the cliffs of C#") CC.NET Monitor Gadget for the Vista Sidebar. I'm very pleased to announce now that version 0.8 has been [released](http://ccnet-monitor-sidebar-gadget.googlecode.com/files/ccnetmonitor-0.8.gadget). This release adds the following features:
+Earlier this month, I [talked]({% post_url 2007-05-02-cc-net-vista-sidebar-gadget-updates %}) about the upcoming release of [Simone's](http://www.codeclimber.net.nz) CC.NET Monitor Gadget for the Vista Sidebar. I'm very pleased to announce now that version 0.8 has been [released](http://ccnet-monitor-sidebar-gadget.googlecode.com/files/ccnetmonitor-0.8.gadget). This release adds the following features:
 
 *   new tab style settings page  
 *   ability to monitor more than one CC.NET dashboard  
@@ -17,8 +17,6 @@ The next release will most likely feature automatic scrolling and a "force build
 
 If you are interested in seeing the source code or helping Simone on development, he has created a [Google Code](http://code.google.com/p/ccnet-monitor-sidebar-gadget/) project which provides a source code repository, documentation, issue tracking system, and release downloads.
 
-For those of use who don't have Vista yet (thanks Simo!), or anyone who just wants to see it in action before installing, you can watch a short video showing how it works.
-
-<div class="wlWriterSmartContent" id="53357c8b-5919-4e32-8c25-305d27c17a37:7b0584d0-79c0-4622-87bb-2be639da7b85" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px"><embed src="http://www.youtube.com/v/IQmBEDB-ZWI" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></div> 
+For those of use who don't have Vista yet (thanks Simo!), or anyone who just wants to see it in action before installing, you can watch a short [video](http://www.youtube.com/v/IQmBEDB-ZWI) showing how it works.
 
 As always, this is turning in to an excellent replacement for CCTray on Vista.

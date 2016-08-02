@@ -16,8 +16,8 @@ To put it simply:
 
 > **My Los Techies blog is a mirror of my GWB blog and will contain no new/exclusive content.**
 
-(Sorry Los Techies, but I have a loyal following here and feel a certain amount of loyalty to GWB since I’ve been blogging here for the last 2 1/2 years.)
+(Sorry Los Techies, but I have a loyal following here and feel a certain amount of loyalty to GWB since I've been blogging here for the last 2 1/2 years.)
 
-Right now I realize there is a certain “air of exclusivity” about the Los Techies site as you must be invited in order to host a blog. I hope that will eventually change and the site becomes a more open community.
+Right now I realize there is a certain "air of exclusivity" about the Los Techies site as you must be invited in order to host a blog. I hope that will eventually change and the site becomes a more open community.
 
 If anyone feels strongly enough that I should only maintain one blog or has any other questions/concerns, please let me know.

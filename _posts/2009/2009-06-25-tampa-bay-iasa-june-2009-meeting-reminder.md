@@ -4,15 +4,15 @@ title: Tampa Bay IASA June 2009 Meeting Reminder
 date: 2009-06-25 08:39:03 -05:00
 ---
 
-Just a quick reminder that the June 2009 meeting is tonight from 6:30 PM - 8:30 PM (ET) at the Microsoft office. **Please *be sure to register *so we have a good idea of how much pizza to order.**
+Just a quick reminder that the June 2009 meeting is tonight from 6:30 PM - 8:30 PM (ET) at the Microsoft office. **Please _be sure to register_ so we have a good idea of how much pizza to order.**
 
-**<u>Enterprise Architecture</u>**
+## Enterprise Architecture
 
 What is it? Why is it important? An overview of Enterprise Architecture as a discipline, its principles, methods, frameworks and tools. This session will explore the growing role and importance of enterprise architecture in the management of organizations.
 
-**<u>Speaker:</u>** Bob Otterberg is the Chief Technologist for the US Applications organization at EDS, an HP company. In this role Bob determines, supports and influences the technical direction of the Applications Delivery to meet business requirements through appropriate implementation of technology and process. He aligns technology strategy with business needs and investigates innovative process and technology opportunities based on strategic business goals. Otterberg also oversees consistency across Applications Delivery within the US.
+**Speaker:** Bob Otterberg is the Chief Technologist for the US Applications organization at EDS, an HP company. In this role Bob determines, supports and influences the technical direction of the Applications Delivery to meet business requirements through appropriate implementation of technology and process. He aligns technology strategy with business needs and investigates innovative process and technology opportunities based on strategic business goals. Otterberg also oversees consistency across Applications Delivery within the US.
 
-***When & Where:***       
+### When & Where:       
 Thursday, June 26, 2009 from 06:30 PM - 08:30 PM (ET)
 
 **Microsoft Corporation**       
@@ -24,4 +24,4 @@ Tampa, FL 33609
 
 [![](http://www.eventbrite.com/img/btn_ext/register_now.gif)](http://www.eventbrite.com/event/175217079/scottdorman)
 
-**Please *be sure to register *so we have a good idea of how much pizza to order.**
+**Please _be sure to register_ so we have a good idea of how much pizza to order.**

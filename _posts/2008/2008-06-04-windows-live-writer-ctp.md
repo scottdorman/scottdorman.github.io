@@ -19,4 +19,4 @@ I have been a big fan of Windows Live Writer since it was first available, and t
 
 There are also some SDK updates that will provide a lot of flexibility for plug-ins, including a new set of experimental API hooks for pre- and post-publish events. For more details about the SDK, check out the blog post on [Windows Live Dev](http://writerdevzone.spaces.live.com/blog/cns!FF912D98C958E9D3!170.entry). 
 
-I’ll be updating my [XFN Link Editor](http://gallery.live.com/liveItemDetail.aspx?li=217b89d0-30cb-4370-958e-f22307173ae0&bt=9&pl=8) shortly to work with the new SDK.
+I'll be updating my [XFN Link Editor](http://gallery.live.com/liveItemDetail.aspx?li=217b89d0-30cb-4370-958e-f22307173ae0&bt=9&pl=8) shortly to work with the new SDK.

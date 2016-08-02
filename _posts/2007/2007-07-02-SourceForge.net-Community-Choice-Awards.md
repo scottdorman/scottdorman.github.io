@@ -4,7 +4,7 @@ title: SourceForge.net Community Choice Awards
 date: 2007-07-02 20:35:57 -05:00
 ---
 
-[![](http://static.sourceforge.net/images/cca/cca.png)](http://sourceforge.net/community/index.php/landing-pages/cca07/)Thank you to everyone who nominated Subtext for a Community Choice Award.
+Thank you to everyone who nominated Subtext for a Community Choice Award.
 
 Your nominations have made Subtext a finalist in the following categories:
 

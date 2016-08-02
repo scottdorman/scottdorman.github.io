@@ -20,7 +20,6 @@ DreamSpark currently offers the following:
 ***Designer tools***
 
 *   Expression Studio, which includes  
-
     *   Expression Web  
     *   Expression Blend  
     *   Expression Design  
@@ -31,4 +30,4 @@ DreamSpark currently offers the following:
 *   SQL Server 2005 Developer Edition  
 *   Windows Server 2003, Standard Edition 
 
-For more information about DreamSpark check out this [Channel 8 video](http://channel8.msdn.com/Posts/2047/) of Bill Gates or go to [Channel 8](http://channel8.msdn.com/ "channel8.msdn.com"). To sign up, go to [https://downloads.channel8.msdn.com](https://downloads.channel8.msdn.com).
+For more information about DreamSpark check out this [Channel 8 video](http://channel8.msdn.com/Posts/2047/) of Bill Gates or go to [Channel 8](http://channel8.msdn.com/). To sign up, go to [https://downloads.channel8.msdn.com](https://downloads.channel8.msdn.com).

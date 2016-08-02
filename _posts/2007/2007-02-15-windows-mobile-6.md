@@ -10,7 +10,7 @@ There are a lot of changes in this release, but Microsoft has really focused on 
 
 The most interesting feature is that this version of Windows Mobile will support Windows Update, which is a big departure from Microsoft's past position on updating the operating system. This release will also come with the .NET Compact Framework 2.0 SP1 and Microsoft SQL Server 2005 Compact Edition installed in the ROM.
 
-There is a great overview showing [What's New for Developers in Windows Mobile 6](http://msdn2.microsoft.com/en-us/library/bb278115.aspx "What's New for Developers in Windows Mobile 6") on MSDN. The biggest change is that with this release, the naming conventions have changed. We now have Windows Mobile 6 Standard, Professional, and Classic editions along with two new SDKs (Standard and Professional). Confused yet?
+There is a great overview showing [What's New for Developers in Windows Mobile 6](http://msdn2.microsoft.com/en-us/library/bb278115.aspx) on MSDN. The biggest change is that with this release, the naming conventions have changed. We now have Windows Mobile 6 Standard, Professional, and Classic editions along with two new SDKs (Standard and Professional). Confused yet?
 
 The Windows Mobile 6 Standard edition uses the Windows Mobile 6 Standard SDK, so this is a one-to-one mapping and replaces Windows Mobile 5 for Smartphone.
 

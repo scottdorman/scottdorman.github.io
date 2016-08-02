@@ -4,7 +4,7 @@ title: What Is a Build System?
 date: 2007-12-27 15:58:40 -05:00
 ---
 
-A few days ago, I talked about my [views]({% post_url 2007-12-24-msbuild-or-nant %}) on MSBuild and NAnt. In that post I mentioned the phrase "build system" several times. That, combined with catching up and re-reading some blog posts that I had flagged led me to Jeff Atwood's post "[The F5 Key Is Not a Build Process](http://www.codinghorror.com/blog/archives/000988.html "The F5 Key Is Not a Build Process")". While some of Jeff's post is a bit of [tongue-in-cheek](http://en.wikipedia.org/wiki/Tongue-in-cheek) humor, the points he makes are extremely valid.
+A few days ago, I talked about my [views]({% post_url 2007-12-24-msbuild-or-nant %}) on MSBuild and NAnt. In that post I mentioned the phrase "build system" several times. That, combined with catching up and re-reading some blog posts that I had flagged led me to Jeff Atwood's post "[The F5 Key Is Not a Build Process](http://www.codinghorror.com/blog/archives/000988.html)". While some of Jeff's post is a bit of [tongue-in-cheek](http://en.wikipedia.org/wiki/Tongue-in-cheek) humor, the points he makes are extremely valid.
 
 In order to understand what a "build system" is, you must first understand how you build code. This applies not just to individual developers, but to the development team as a whole. Even if you are a team of one developer and you do everything, you still have a series of steps you go through in order to build the code.
 
@@ -37,27 +37,23 @@ Now that you have an understanding of what a build script it, we can start to lo
 For instance, if you use InstallShield to author your installer projects the steps you will go through to compile the installer for Project A will be identical to the steps needed for Project B. The only difference will be the name of the InstallShield project file.
 
 A build system takes these identical (or nearly identical) pieces and abstracts them into a common script file. This script file is then included by your project build scripts. If you take a look at any Visual Studio 2005 or 2008 project file, you will see a line that looks like this:
- <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">
 
-<span style="color: #0000ff"><</span><span style="color: #800000">Import</span> <span style="color: #ff0000">Project</span><span style="color: #0000ff">="$(MSBuildToolsPath)\Microsoft.CSharp.targets"</span> <span style="color: #0000ff">/></span>
+```xml
+<Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </div>
-
+```
 
 If you then look at that file, you will see a similar line:
 
-<div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">
-
-<span style="color: #0000ff"><</span><span style="color: #800000">Import</span> <span style="color: #ff0000">Project</span><span style="color: #0000ff">="Microsoft.Common.targets"</span> <span style="color: #0000ff">/></span>
-</div>
-
+```xml`
+<Import Project="Microsoft.Common.targets" />
+```
 
 These imported projects define the standard (think "core") features of any MSBuild build script. If you take another look at the project file, you will notice that it really is nothing more than the definition of what files and references make up that project. There is no target named "Build", yet you can run the following command line:
 
-<div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">
-
+```
 msbuild ProjectA.csproj /target:Build
-</div>
-
+```
 
 and MSBuild will compile your project.
 

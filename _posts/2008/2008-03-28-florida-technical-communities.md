@@ -12,7 +12,6 @@ Taking what he has started, I have put together a similar list (based on the inf
 
 *   Central Florida .NET Users Group (Lakeland) - [http://www.cfdotnet.org](http://www.cfdotnet.org) 
 *   Florida .NET Developers Group - [http://www.fladotnet.net](http://www.fladotnet.net)       
-
     *   Boca Raton 
     *   Fort Lauderdale 
     *   Miramar User Group 
@@ -81,5 +80,5 @@ Taking what he has started, I have put together a similar list (based on the inf
 
 **User Interface/Design Focused Groups**
 
-*   Rich Application Developers of Melbourne - [http://itsrandom.info/](http://itsrandom.info/ "itsrandom.info") 
+*   Rich Application Developers of Melbourne - [http://itsrandom.info/](http://itsrandom.info/) 
 *   Tampa Bay User Experience (TUX) User Group – [http://www.tampatux.org](http://www.tampatux.org) 

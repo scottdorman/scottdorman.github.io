@@ -8,4 +8,4 @@ About two years ago I [talked]({% post_url /2007/2007-12-31-disappearing-system-
 
 Jump ahead to today and Microsoft has a [Fix it solution](http://support.microsoft.com/kb/945011) for this problem.
 
-[![Fix this problem](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/MicrosoftFixitSolutionforDisappearingSys_8C4F/image_3.png "Fix this problem")](http://go.microsoft.com/?linkid=9646677) [Fix this problem](http://support.microsoft.com/kb/945011)
+[![](/img/posts/{ page.id }/image_3.png)](http://go.microsoft.com/?linkid=9646677) [Fix this problem](http://support.microsoft.com/kb/945011)

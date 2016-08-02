@@ -14,7 +14,7 @@ Combining the broad reach of Windows, best-in-class developer tools, a re-imagin
 
 **What is a hackathon?**
 
-These hackathons are a really fun way to get “down and dirty” with the technology and experience development along side others in the same room. It's an open Windows 8 code fest, where you’ll put what you know into practice and be eligible to win some great cash prizes! Code to your heart’s content, with Windows 8 experts available to guide you through every step of the process. It’s the perfect opportunity to get your dream application underway, or to finish that app you’ve already started.
+These hackathons are a really fun way to get "down and dirty" with the technology and experience development along side others in the same room. It's an open Windows 8 code fest, where you'll put what you know into practice and be eligible to win some great cash prizes! Code to your heart's content, with Windows 8 experts available to guide you through every step of the process. It's the perfect opportunity to get your dream application underway, or to finish that app you've already started.
 
 **What do I need to bring to the event?**
 

@@ -4,7 +4,7 @@ title: Tampa Bay IASA - January 2008 Meeting
 date: 2007-12-29 07:55:08 -05:00
 ---
 
-[![n5018289123_9890](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/1ba0336ad314_14C3C/n5018289123_9890_thumb.jpg)](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/1ba0336ad314_14C3C/n5018289123_9890_2.jpg) The Tampa Bay chapter of the International Association of Software Architects ([IASA](http://www.iasahome.org/web/home/home)) is dedicated to building a community of professionals interested in topics related to software architecture. This organization welcomes all interested professionals. Whether you are a senior enterprise architect at a fortune 100 company or an aspiring architect with only a few years of experience.  
+ The Tampa Bay chapter of the International Association of Software Architects ([IASA](http://www.iasahome.org/web/home/home)) is dedicated to building a community of professionals interested in topics related to software architecture. This organization welcomes all interested professionals. Whether you are a senior enterprise architect at a fortune 100 company or an aspiring architect with only a few years of experience.  
 
 
 <table cellspacing="0" cellpadding="2" width="740" border="0">
@@ -110,10 +110,10 @@ Microsoft Corporation
             
 
 
-            <div class="wlWriterSmartContent" id="scid:84E294D0-71C9-4bd0-A0FE-95764E0368D9:a2051678-3b50-4ef9-8f63-2bc8b65ac67b" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">[![Map image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/1ba0336ad314_14C3C/map-decf4ba840b3.jpg)](http://maps.live.com/default.aspx?v=2&cp=27.96689~-82.55096&lvl=15&style=r&sp=aN.27.96689_-82.54947_Microsoft%2520Office_&mkt=en-US&FORM=LLWR "Click to view this map on Live.com")</div>
+            <div class="wlWriterSmartContent" id="scid:84E294D0-71C9-4bd0-A0FE-95764E0368D9:a2051678-3b50-4ef9-8f63-2bc8b65ac67b" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">[![Map image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/1ba0336ad314_14C3C/map-decf4ba840b3.jpg)](http://maps.live.com/default.aspx?v=2&cp=27.96689~-82.55096&lvl=15&style=r&sp=aN.27.96689_-82.54947_Microsoft%2520Office_&mkt=en-US&FORM=LLWR)</div>
               
 
-            [View a larger map](http://maps.live.com/default.aspx?cp=27.966888~-82.549685&lvl=14&style=r&v=2&sp=Point.27.966888_-82.549685_Microsoft+Corp "View a larger map")   
+            [View a larger map](http://maps.live.com/default.aspx?cp=27.966888~-82.549685&lvl=14&style=r&v=2&sp=Point.27.966888_-82.549685_Microsoft+Corp)   
 
             [View 1-Click Directions](http://maps.live.com/OneClickDirections.aspx?mkt=en-us&rtp=~pos.27.968023982861645_-82.549467086792&FORM=LLMP)
             

@@ -4,7 +4,7 @@ title: Visual Studio 2008 Beta 2 - Now Available
 date: 2007-07-28 09:19:24 -05:00
 ---
 
-[![image](http://blogs.msdn.com/blogfiles/brada/WindowsLiveWriter/VS2008.NET3.5Silv.NETFuturesandAcropolis_B9B5/image_thumb.png)](http://blogs.msdn.com/blogfiles/brada/WindowsLiveWriter/VS2008.NET3.5Silv.NETFuturesandAcropolis_B9B5/image.png)Visual Studio 2008 Beta 2 has been officially [released](http://msdn2.microsoft.com/en-us/vstudio/aa700831.aspx) as both disc images and Virtual PC (VPC) images.  After the installation has finished, you should run this [script](http://go.microsoft.com/fwlink/?linkid=95792) to ensure that the installation of .NET Framework 3.5 Beta 2 will not affect the development of ASP.NET AJAX 1.0 applications. 
+Visual Studio 2008 Beta 2 has been officially [released](http://msdn2.microsoft.com/en-us/vstudio/aa700831.aspx) as both disc images and Virtual PC (VPC) images.  After the installation has finished, you should run this [script](http://go.microsoft.com/fwlink/?linkid=95792) to ensure that the installation of .NET Framework 3.5 Beta 2 will not affect the development of ASP.NET AJAX 1.0 applications. 
 
 To go along with this, the [Microsoft .NET Framework 3.5 Beta 2](http://go.microsoft.com/?linkid=7171923) is also available and includes a go-live license. The Framework is expected to be released near the end of 2007. It will be included in Visual Studio 2008 and will also continue to be available for separate download on MSDN. You can also download the [Visual Studio 2008 Express Editions](http://msdn2.microsoft.com/en-us/express/future/bb421473.aspx).
 

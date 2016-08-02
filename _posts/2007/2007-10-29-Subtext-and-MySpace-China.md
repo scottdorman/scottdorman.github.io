@@ -4,7 +4,7 @@ title: Subtext and MySpace China
 date: 2007-10-29 10:06:00 -05:00
 ---
 
-![MySpace China Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/NihaoMySpaceChinaHowisSubtextWorkingOutF_6BA/logo_3.png)[Phil](http://haacked.com/archive/2007/10/29/subtext-powers-myspace-china-blogs.aspx) and [Steve](http://stevenharman.net/blog/archive/2007/10/29/myspace-china-blogs-are-now-subtexting.aspx) beat me to announcing, but Phil has officially confirmed that [MySpace China](http://myspace.cn/ "MySpace China") is using a modified version of [Subtext](http://subtextproject.com) for it's blogging engine.
+![MySpace China Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/NihaoMySpaceChinaHowisSubtextWorkingOutF_6BA/logo_3.png)[Phil](http://haacked.com/archive/2007/10/29/subtext-powers-myspace-china-blogs.aspx) and [Steve](http://stevenharman.net/blog/archive/2007/10/29/myspace-china-blogs-are-now-subtexting.aspx) beat me to announcing, but Phil has officially confirmed that [MySpace China](http://myspace.cn/) is using a modified version of [Subtext](http://subtextproject.com) for it's blogging engine.
 
 This is incredible news as MySpace China gets around 100 million page views, of which about 1 million go to the blog. What does that mean? Well, for starters it means that Subtext is definitely a scalable and robust blogging engine. It also means that Subtext and it's skinning capabilities can support double-byte Kanji based character sets with apparent ease.
 

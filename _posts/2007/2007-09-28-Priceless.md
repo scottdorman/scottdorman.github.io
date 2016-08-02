@@ -14,54 +14,41 @@ In the process of cleaning up some of the source code for one of the projects I 
 
  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 400px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; height: 195px; background-color: #f4f4f4">
 
-```
-<span style="color: #008000">/*</span>
-<span style="color: #008000">    MAB 08-05-2004: Who wrote this routine? When did they do it? Who should I</span>
-<span style="color: #008000">    call if I have questions about it? It's worth it to have a good header here.</span>
-<span style="color: #008000">    It should helps to set context, it should identify the author (hero or </span>
-<span style="color: #008000">    culprit!), including contact information, so that anyone who has questions can</span>
-<span style="color: #008000">    call or email. It's useful to have the date noted, and a brief statement of</span>
-<span style="color: #008000">    intention. On the other hand, this isn't meant to be busy work; it's meant to</span>
-<span style="color: #008000">    make maintenance easier--so don't go overboard.</span>
-<span style="color: #008000"></span>
-<span style="color: #008000">    One other good reason to put your name on it: take credit! This is your craft</span>
-<span style="color: #008000">*/</span>
-```
-</div>
+```c
+/*
+    MAB 08-05-2004: Who wrote this routine? When did they do it? Who should I
+    call if I have questions about it? It's worth it to have a good header here.
+    It should helps to set context, it should identify the author (hero or 
+    culprit!), including contact information, so that anyone who has questions can
+    call or email. It's useful to have the date noted, and a brief statement of
+    intention. On the other hand, this isn't meant to be busy work; it's meant to
+    make maintenance easier--so don't go overboard.
 
-
+    One other good reason to put your name on it: take credit! This is your craft
+*/
+```
 and then a little further down:
 
-
-<div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 600px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">
-
+```c
+#include "xxxMsg.h" // xxx messages
+/*
+    MAB 08-05-2004: With respect to the comment above, I gathered that
+    from the filename. I think I need either more or less here. For one
+    thing, xxxMsg.h is automatically generated from the .mc file. That might
+    be interesting information. Another thing is that xxxMsg.h should NOT be
+    added to source control, because it's auto-generated. Alternatively, don't
+    bother with a comment at all.
+*/
 ```
-#include <span style="color: #006080">"xxxMsg.h"</span> <span style="color: #008000">// xxx messages</span>
-<span style="color: #008000">/*</span>
-<span style="color: #008000">    MAB 08-05-2004: With respect to the comment above, I gathered that</span>
-<span style="color: #008000">    from the filename. I think I need either more or less here. For one</span>
-<span style="color: #008000">    thing, xxxMsg.h is automatically generated from the .mc file. That might</span>
-<span style="color: #008000">    be interesting information. Another thing is that xxxMsg.h should NOT be</span>
-<span style="color: #008000">    added to source control, because it's auto-generated. Alternatively, don't</span>
-<span style="color: #008000">    bother with a comment at all.</span>
-<span style="color: #008000">*/</span>
-```
-</div>
-
 
 and then yet again:
 
-
-<div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 400px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; height: 89px; background-color: #f4f4f4">
-
+```c
+/*
+    MAB 08-05-2004: Defining a keyword?? This seems problemmatic [sic],
+    in principle if not in practice. Is this a common idiom? 
+*/
 ```
-<span style="color: #008000">/*</span>
-<span style="color: #008000">    MAB 08-05-2004: Defining a keyword?? This seems problemmatic [sic],</span>
-<span style="color: #008000">    in principle if not in practice. Is this a common idiom? </span>
-<span style="color: #008000">*/</span>
-```
-</div>
-
 
 So, what does this tell us? Well, for starters it sounds like MAB wasn't very happy about having to work on this particular file and was doing some serious ranting. I can rant about things as well, such as the benefit of good, pertinent code comments. I've maintained enough code (both someone else's code and my own) that I understand the value of good comments.
 

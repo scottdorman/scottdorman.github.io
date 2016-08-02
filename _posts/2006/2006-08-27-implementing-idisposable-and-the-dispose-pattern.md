@@ -10,4 +10,4 @@ Implementing IDisposable is something that often times gets skipped over and whe
 
 Unfortunately, this doesn't cover all of the situations where the class's resources should be released. This article hopes to dispel some of the myths around implementing the Dispose pattern and provides the rules to implement it properly.
 
-*<font size="1">[Update, 22-Jan-2008: Updated the article link for Code Project.]</font>*
+*<small>[Update, 22-Jan-2008: Updated the article link for Code Project.]</small>*

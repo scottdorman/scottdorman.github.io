@@ -13,6 +13,4 @@ As part of the new experience, the site has undergone a major facelift, and the 
 3.  Tech·Ed RSS Feeds
 4.  Other Resources 
 
-![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/VirtualTechEdislive_BB2B/image%7B0%7D4.png) 
-
 As I was browsing the site, I noticed that I'm listed under the Tech·Ed RSS Feeds section. Be sure to check it out.

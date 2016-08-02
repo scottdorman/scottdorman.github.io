@@ -10,12 +10,8 @@ Secunia, a Danish security vendor, has found a vulnerability in the WMI Object
 
 Read the full [Computerworld Security article](http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9004666&intsrc=article_more_side) for more details.
 
-**Advisory References**:  
-Microsoft:  
-[http://www.microsoft.com/technet/security/advisory/927709.mspx](http://www.microsoft.com/technet/security/advisory/927709.mspx)  
-**  
-**US-CERT VU#854856:  
-[http://www.kb.cert.org/vuls/id/854856](http://www.kb.cert.org/vuls/id/854856)  
+### Advisory References:  
 
-Secunia SA22603:  
-[http://secunia.com/advisories/22603/](http://secunia.com/advisories/22603/ "http://secunia.com/advisories/22603/")
+* Microsoft: [http://www.microsoft.com/technet/security/advisory/927709.mspx](http://www.microsoft.com/technet/security/advisory/927709.mspx)  
+* US-CERT VU#854856: [http://www.kb.cert.org/vuls/id/854856](http://www.kb.cert.org/vuls/id/854856)  
+* Secunia SA22603: [http://secunia.com/advisories/22603/](http://secunia.com/advisories/22603/)

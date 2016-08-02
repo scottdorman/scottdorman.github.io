@@ -4,11 +4,9 @@ title: TechEd for Novices, 2012 Edition
 date: 2012-02-24 10:06:53 -05:00
 ---
 
-<div class="wlWriterHeaderFooter" style="float:none; margin:0px; padding:4px 0px 4px 0px;"><iframe src="http://www.facebook.com/widgets/like.php?href=http://geekswithblogs.net/sdorman/archive/2012/02/24/teched-for-novices-2012-edition.aspx" scrolling="no" frameborder="0" style="border:none; width:450px; height:80px"></iframe></div>
-
 In 2007, Microsoft created a "Tips for the Newbie" page for TechEd (which is apparently no longer available) and I created a follow-on post called [Tech·Ed for Novices]({% post_url /2007/2007-05-19-TechmiddotEd-for-novices %}). I created a similar post in [2008]({% post_url /2008/2008-02-25-techmiddoted-for-novices-2008-edition %})  as well. With [TechEd 2012](http://northamerica.msteched.com/) around the corner, I thought it would be good to bring it back.
 
-TechEd is a huge event, topping out at over 14000 people (usually), with an equally huge amount of content. This post is designed to give first time TechEd attendees a fighting chance of finding their way around. *(As Microsoft updates the content catalog, I’ll make sure this post is kept up to date with any change to session types, etc.)*
+TechEd is a huge event, topping out at over 14000 people (usually), with an equally huge amount of content. This post is designed to give first time TechEd attendees a fighting chance of finding their way around. *(As Microsoft updates the content catalog, I'll make sure this post is kept up to date with any change to session types, etc.)*
 
 # Session Types
 
@@ -40,7 +38,7 @@ Lunch sessions, as their name implies, occur during the lunch break and are usua
 
 # Building Your Schedule
 
-While Microsoft generally considers the "Communications Network", also known as CommNet, as the place to start for TechEd, I think the place to start is with the online schedule builder **before** you get to the event. Hopefully the schedule builder will get a much needed overhaul to make it more user-friendly, similar to the current Content Catalog, but we won’t know until it’s available.
+While Microsoft generally considers the "Communications Network", also known as CommNet, as the place to start for TechEd, I think the place to start is with the online schedule builder **before** you get to the event. Hopefully the schedule builder will get a much needed overhaul to make it more user-friendly, similar to the current Content Catalog, but we won't know until it's available.
 
 No matter what, the point is that you need to have an idea of what sessions you are going to before you get there. There are 12 technical tracks, making it difficult to figure out what is important. Fortunately, Microsoft provides a summary of the track content to help you focus on which tracks are important to you.
 
@@ -58,7 +56,7 @@ Don't forget that some of the sessions repeat on a different day. If the session
 
 ### Session Codes
 
-While we're talking about session codes, you should realize that they are just as important as the session titles and descriptions; they give you the "quick glance" way to see some basic information about the session. *(Since the session builder isn’t available yet, I don’t know if this information is still correct. Once the session builder is available I should be able to confirm and correct anything here that needs it.)*
+While we're talking about session codes, you should realize that they are just as important as the session titles and descriptions; they give you the "quick glance" way to see some basic information about the session. *(Since the session builder isn't available yet, I don't know if this information is still correct. Once the session builder is available I should be able to confirm and correct anything here that needs it.)*
 
 The session code has the following format:
 
@@ -134,9 +132,9 @@ To be safe, follow the following steps:
 
 ### myTechEd
 
-![myTechEdLogo[1]](http://gwb.blob.core.windows.net/sdorman/Windows-Live-Writer/TechEd-for-Novices-2012-Edition_845D/myTechEdLogo1_3.jpg "myTechEdLogo[1]")
+![](img/posts/{ page.id }/myTechEdLogo1_3.jpg)
 
-In 2007, Microsoft introduced Virtual Tech·Ed, which was the "one-stop" shop to extend the TechEd experience before, during, and after the event. This has subsequently been replaced by myTechEd, which has both an [online portal](http://northamerica.msteched.com/myportal) and a [Windows Phone app](http://www.windowsphone.com/en-us/apps/10051734-a87d-e011-986b-78e7d1fa76f8) (if you don’t have a Windows Phone (**you should **[**get one**](http://www.microsoft.com/windowsphone/en-US/buy/7/default.aspx)**!)** you can use the [myTechEd Mobile Web](http://m.myteched.com/) site. Using myTechEd, you can quickly:
+In 2007, Microsoft introduced Virtual Tech·Ed, which was the "one-stop" shop to extend the TechEd experience before, during, and after the event. This has subsequently been replaced by myTechEd, which has both an [online portal](http://northamerica.msteched.com/myportal) and a [Windows Phone app](http://www.windowsphone.com/en-us/apps/10051734-a87d-e011-986b-78e7d1fa76f8). If you don't have a Windows Phone (**you should [get one](http://www.microsoft.com/windowsphone/en-US/buy/7/default.aspx)!**) you can use the [myTechEd Mobile Web](http://m.myteched.com/) site. Using myTechEd, you can quickly:
 
 *   Identify other attendees with whom you would like to meet 
 *   Share information about yourself and your background 

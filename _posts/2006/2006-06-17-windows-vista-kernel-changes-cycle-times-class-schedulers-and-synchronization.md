@@ -4,7 +4,7 @@ title: "Windows Vista: Kernel Changes - Cycle Times, Class Schedulers and Synchr
 date: 2006-06-17 15:08:00 -05:00
 ---
 
-##Cycle Time Counter
+## Cycle Time Counter
  
 Prior to **Vista, the kernel accounted for CPU time based on the interval clock timer which had a resolution of between 10-15ms. This timing interval was not always fair or accurate since threads where charged for interrupts that occurred while they were running and a thread might not get a turn to execute or could get up to three turns to execute.
  
@@ -17,7 +17,7 @@ This new time accounting is handled by the following API functions:
  * QueryProcessCycleTime 
  * QueryIdleProcessorCycleTime
 
-##Multimedia Class Scheduler
+## Multimedia Class Scheduler
  
 The multimedia class scheduler is a new service that boost the thread priorities of multimedia applications to support glitch-free audio and video streaming. This service runs in a Svchost process and is implemented in the Mmcss.dll used by Media Player 11.
  
@@ -28,9 +28,11 @@ In order to make use of this service, threads must declare themselves as multime
 
 Multimedia threads are boosted into real-time for 80% of a task's clock rate (default is 1ms). If they consume all of that time, they are lowered so other threads can run. The percentage can be reconfigured through the following registry key:
 
-`HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile`
+```
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile
+```
 
-##New Synchronization APIs
+## New Synchronization APIs
 
 Vista also introduces some new kernel synchronization methods such as:
 
@@ -40,7 +42,7 @@ Vista also introduces some new kernel synchronization methods such as:
 * Extended version of Create object APIs to allow specification of desired access 
   * Mutex, Semaphore, Waitable Timer
 
-##Protected Processes
+## Protected Processes
 
 Protected processes prevent unauthorized access to media content and can only be created through the new Protected Media Path APIs that are part of Media Foundation. This is used to enforce a secure path to the output devices and allows only signed images to be mapped into a secure process. Images must be signed by Microsoft and third-party codes must be signed with a Windows Media DRM certificate.
 

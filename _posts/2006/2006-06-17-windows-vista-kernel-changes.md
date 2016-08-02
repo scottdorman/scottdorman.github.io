@@ -6,7 +6,7 @@ date: 2006-06-17 15:01:00 -05:00
 
 Windows Vista is coming and will be here sooner than some might think. By now you have probably seen the graphical changes coming in Vista with the new Aero and Aero Glass user interfaces (and the associated hardware needed to support them) and heard all about the new user account controls in Vista that are designed to make the operating system more secure.
 
-But what about the “under-the-hood” changes in the Vista kernel? Lots of exciting changes in Windows Vista kernel are being made in the areas of performance, scalability, reliability, and security. 
+But what about the "under-the-hood" changes in the Vista kernel? Lots of exciting changes in Windows Vista kernel are being made in the areas of performance, scalability, reliability, and security. 
 
 Early in the week, Mark Russinovich and David Solomon presented a talk on some of the new kernel features, including:
 
@@ -36,7 +36,7 @@ Early in the week, Mark Russinovich and David Solomon presented a talk on some o
  * Service Security Improvements 
  * User Account Controls
 
-Windows Server “Longhorn” will be a superset of the changes being made in Vista. Many of the changes made in “Longhorn” will be merged back in to Vista with Vista Service Pack 1. So right off the bat, we have the beginnings of the first service pack and the operating system hasn't even shipped.
+Windows Server "Longhorn" will be a superset of the changes being made in Vista. Many of the changes made in "Longhorn" will be merged back in to Vista with Vista Service Pack 1. So right off the bat, we have the beginnings of the first service pack and the operating system hasn't even shipped.
 
 For more information:
 

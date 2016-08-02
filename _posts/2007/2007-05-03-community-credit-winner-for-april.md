@@ -4,12 +4,9 @@ title: Community Credit Winner for April
 date: 2007-05-03 00:09:59 -05:00
 ---
 
-![](http://www.community-credit.com/images/prizes/my_other_shirt_is_clever.jpg)
-
-
 I was just awarded 5th prize for April 2007. This goes along with the 16th place prize I won back in February.
 
-“ This shirt may be, according to various scientific research councils we paid off, the World's Most Clever Shirt ever. It's quite possibly the World's Most Clever Shirt Ever. EVAR! That's like forever, without the for part. ”
+" This shirt may be, according to various scientific research councils we paid off, the World's Most Clever Shirt ever. It's quite possibly the World's Most Clever Shirt Ever. EVAR! That's like forever, without the for part. "
 
 The great thing about it is that I get some cool prizes for doing what I normally do every day. The even better thing is that I was able to get 5th place out of just over 7000 people.
 

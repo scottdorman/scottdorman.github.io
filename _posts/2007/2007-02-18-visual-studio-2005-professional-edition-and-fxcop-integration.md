@@ -17,9 +17,10 @@ You can create an external tool to run FxCop and put the output in the Output wi
 1.  Go to Tools -> External Tools  Click "Add" and fill in the following details  
 
     **Title:** FxCop  
-    **Command:** C:\Program Files\Microsoft FxCop 1.35\FxCopCmd(.)exe  
-    **Arguments: ** /c /f:"$(TargetPath)" /r:"C:\Program Files\Microsoft FxCop 1.35\Rules" /consolexsl:"C:\Program Files\Microsoft FxCop 1.35\Xml\VSConsoleOutput.xsl"   
-    **Initial Directory:** C:\Program Files\Microsoft FxCop 1.35  
+    **Command:** `C:\Program Files\Microsoft FxCop 1.35\FxCopCmd(.)exe`  
+    **Arguments:** `/c /f:"$(TargetPath)" /r:"C:\Program Files\Microsoft FxCop 1.35\Rules" /consolexsl:"C:\Program Files\Microsoft FxCop 1.35\Xml\VSConsoleOutput.xsl"`  
+    **Initial Directory:** `C:\Program Files\Microsoft FxCop 1.35` 
+
 Check the "Use Output window" checkbox 
 
 > *Apparently, there is a bug in the Metaweblog API that prevents me from putting the correct path to the FxCopCmd executable. In the path shown above, remove the parenthesis characters surrounding the period.*
@@ -44,7 +45,7 @@ There is a very good open source Visual Studio [add-in](http://fxcopaddin.tigris
 
 Since this add-in modifies the project file, as soon as you add support to the project, Visual Studio prompts you to reload the project. Once you reload the project, you are presented with a security dialog:
 
-![](http://gwb.blob.core.windows.net/sdorman/5006/o_sshot-2.png) 
+![](http://gwb.blob./img/posts/{ page.id }.windows.net/sdorman/5006/o_sshot-2.png) 
 
 You will receive this dialog the first time the project is opened. You want to select the "Load project normally" option. Fortunately, you should only need to do this once; however, if you send the solution or project to someone else, they will also see this warning.
 
@@ -55,21 +56,24 @@ Unfortunately, the add-in also does not provide a way to customize the list of r
 #### Visual Studio 2005 Team Edition Static Analysis
 
 This is almost like the [holy grail](http://en.wikipedia.org/wiki/Holy_grail#Casual_metaphor) of static analysis solutions. Everything I have found on the Internet has pretty much said that it wasn't possible to enable the same type of static analysis that the Visual Studio Team editions have in Visual Studio Professional. In one sense, they are correct. However, it is possible to get 99% of the functionality working.
- <div style="border-right: black 1px solid; border-top: black 1px solid; border-left: black 1px solid; border-bottom: black 1px solid"><font color="#ff0000">Disclaimer:   
 
-This is neither a supported nor sanctioned solution by Microsoft and involves registry changes as well as additional Microsoft DLLs that are not part of Visual Studio 2005 Professional.</font></div> 
+<div class="alert alert-danger"><h3>Disclaimer:</h3>
 
- Since I'm not 100% sure on the redistributable concerns of these files, I am not going to make them available as part of this post. I will give step-by-step instructions on how to get this working under the assumption that you already have these files from some other means. All of the files required for this solution are part of Visual Studio Team Edition for Software Developers (and probably part of any of the Team Edition versions).
+This is neither a supported nor sanctioned solution by Microsoft and involves registry changes as well as additional Microsoft DLLs that are not part of Visual Studio 2005 Professional.
+</div> 
 
-*   Copy the C:\Program Files\MSBuild\Microsoft\VisualStudio\v8.0\CodeAnalysis folder.  Copy the C:\Program Files\Microsoft Visual Studio 8\Team Tools\Static Analysis Tools folder. 
+Since I'm not 100% sure on the redistributable concerns of these files, I am not going to make them available as part of this post. I will give step-by-step instructions on how to get this working under the assumption that you already have these files from some other means. All of the files required for this solution are part of Visual Studio Team Edition for Software Developers (and probably part of any of the Team Edition versions).
+
+* Copy the `C:\Program Files\MSBuild\Microsoft\VisualStudio\v8.0\CodeAnalysis` folder.  
+* Copy the `C:\Program Files\Microsoft Visual Studio 8\Team Tools\Static Analysis Tools` folder. 
 
 These folders should be copied to the same locations on your Visual Studio 2005 Professional system. The simplicity of this approach works because the Microsoft.Common.targets file already includes all of the necessary logic to include the Code Analysis targets file if it exists.
 
 Unfortunately, this only gets us half way there. To complete the picture, we need to make some registry changes. The registry changes are what tell Visual Studio to load the Static Analysis Tools package. It is this package that governs the interaction between Visual Studio and the build process.
 
 The easiest way is to copy the following code into Notepad and save it with a .reg extension. Then you can merge the file into the registry.
- <div style="border-right: black 1px solid; border-top: black 1px solid; border-left: black 1px solid; border-bottom: black 1px solid"> 
 
+```
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\8.0\Packages\{72391CE3-743A-4a55-8927-4217541F6517}]  
@@ -108,7 +112,7 @@ Windows Registry Editor Version 5.00
 "StanDir"="C:\\Program Files\\Microsoft Visual Studio 8\\Team Tools\\Static Analysis Tools\\"  
 "FxCopDir"="C:\\Program Files\\Microsoft Visual Studio 8\\Team Tools\\Static Analysis Tools\\FxCop\\"  
 "CodeAnalysisErrorListViolationLimit"=dword:000000c8
-</div> 
+```
 
 Open Visual Studio (if you had Visual Studio open, you will need to restart it) and you will now have the "Code Analysis" tab in your project properties. The only thing this solution does also provide is the ability to select a message in the error list window and create the supression messages for it.
 

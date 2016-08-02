@@ -4,19 +4,46 @@ title: Visual Studio, .NET Framework, and language versions
 date: 2010-04-23 16:03:49 -05:00
 ---
 
-Every so often a question comes up about how Visual Studio, the .NET Framework, and a .NET programming language relate to each other. Mostly, these questions have to do with versions. The reality is that these are actually three different “products” that are versioned independently of each other but are related.
+Every so often a question comes up about how Visual Studio, the .NET Framework, and a .NET programming language relate to each other. Mostly, these questions have to do with versions. The reality is that these are actually three different "products" that are versioned independently of each other but are related.
 
 Looking at how Visual Studio, the .NET Framework version, and the CLR versions relate to each other results in the following:
-  <table width="590" border="0" cellspacing="0" cellpadding="2"><tbody>     <tr>       <td width="295" valign="top">**<u>Visual Studio</u>**</td>        <td width="110" valign="top">**<u>CLR</u>**</td>        <td width="183" valign="top">**<u>.NET Framework</u>**</td>     </tr>      <tr>       <td width="295" valign="top">Visual Studio .NET (Ranier)</td>        <td width="110" valign="top">1.0.3705</td>        <td width="187" valign="top">1.0</td>     </tr>      <tr>       <td width="295" valign="top">Visual Studio 2003 (Everett)</td>        <td width="110" valign="top">1.1.4322</td>        <td width="187" valign="top">1.1</td>     </tr>      <tr>       <td width="295" valign="top">Visual Studio 2005 (Whidbey)</td>        <td width="110" valign="top">2.0.50727</td>        <td width="187" valign="top">2.0</td>     </tr>      <tr>       <td width="295" valign="top">Visual Studio 2005 with .NET 3.0 Extensions</td>        <td width="110" valign="top">2.0.50727</td>        <td width="187" valign="top">2.0, 3.0</td>     </tr>      <tr>       <td width="295" valign="top">Visual Studio 2008 (Orcas)</td>        <td width="110" valign="top">2.0.50727</td>        <td width="187" valign="top">2.0 SP1, 3.0 SP1, 3.5</td>     </tr>      <tr>       <td width="295" valign="top">Visual Studio 2008 SP1</td>        <td width="110" valign="top">2.0.50727</td>        <td width="187" valign="top">2.0 SP2, 3.0 SP2, 3.5 SP1</td>     </tr>      <tr>       <td width="295" valign="top">Visual Studio 2010 (Hawaii)</td>        <td width="110" valign="top">4.0.30319</td>        <td width="187" valign="top">4.0</td>     </tr>   </tbody></table>  
+
+| **Visual Studio** | **CLR** | **.NET Framework** |
+| ----------------- | ------- | ------------------ |
+| Visual Studio .NET (Ranier) | 1.0.3705 | 1.0 |
+| Visual Studio 2003 (Everett) | 1.1.4322 | 1.1 |
+| Visual Studio 2005 (Whidbey) | 2.0.50727 |2.0 |
+| Visual Studio 2005 with .NET 3.0 Extensions | 2.0.50727 | 2.0, 3.0 |
+| Visual Studio 2008 (Orcas) | 2.0.50727 | 2.0 SP1, 3.0 SP1, 3.5 |
+| Visual Studio 2008 SP1 | 2.0.50727 | 2.0 SP2, 3.0 SP2, 3.5 SP1 |
+| Visual Studio 2010 (Hawaii) | 4.0.30319 | 4.0 |
 
 The actual Visual Studio version numbers are:
-  <table width="590" border="0" cellspacing="0" cellpadding="2"><tbody>     <tr>       <td width="293" valign="top">**<u>Product Name</u>**</td>        <td width="108" valign="top">**<u>Version</u>**</td>        <td width="187" valign="top">**<u>Ship Date</u>**</td>     </tr>      <tr>       <td width="293" valign="top">Visual Studio .NET</td>        <td width="108" valign="top">7.0.????</td>        <td width="187" valign="top">02/2002</td>     </tr>      <tr>       <td width="293" valign="top">Visual Studio .NET 2002 SP1</td>        <td width="108" valign="top">7.0.????</td>        <td width="187" valign="top"> </td>     </tr>      <tr>       <td width="293" valign="top">Visual Studio 2003</td>        <td width="108" valign="top">7.1.????</td>        <td width="187" valign="top">04/2003</td>     </tr>      <tr>       <td width="293" valign="top">Visual Studio 2003 SP1</td>        <td width="108" valign="top">7.1.6030</td>        <td width="187" valign="top">09/13/2006</td>     </tr>      <tr>       <td width="293" valign="top">Visual Studio 2005</td>        <td width="108" valign="top">8.0.5072</td>        <td width="187" valign="top"> </td>     </tr>      <tr>       <td width="293" valign="top">Visual Studio 2005 SP1</td>        <td width="108" valign="top"> </td>        <td width="187" valign="top">12/14/2006</td>     </tr>      <tr>       <td width="293" valign="top">Visual Studio 2008</td>        <td width="108" valign="top">9.0.21022.8</td>        <td width="187" valign="top">11/19/2007</td>     </tr>      <tr>       <td width="293" valign="top">Visual Studio 2008 SP1</td>        <td width="108" valign="top">9.0.30729.1</td>        <td width="187" valign="top"> </td>     </tr>      <tr>       <td width="293" valign="top">Visual Studio 2010</td>        <td width="108" valign="top">10.0.30319.1</td>        <td width="187" valign="top">04/12/2010</td>     </tr>   </tbody></table>  
 
-(For those entries that are missing information, it simply means that I didn’t already know it and/or couldn’t easily find it online.)
+| **Product Name** | **Version** | **Ship Date** |
+| ----------------- | ------- | ------------------ |
+| Visual Studio .NET | 7.0.???? | 02/2002 |
+| Visual Studio .NET 2002 SP1 | 7.0.???? |   |
+| Visual Studio 2003 | 7.1.???? | 04/2003 |
+| Visual Studio 2003 SP1 | 7.1.6030 | 09/13/2006 |
+| Visual Studio 2005 | 8.0.5072 |   |
+| Visual Studio 2005 SP1 |   | 12/14/2006 |
+| Visual Studio 2008 | 9.0.21022.8 | 11/19/2007 |
+| Visual Studio 2008 SP1 | 9.0.30729.1 |   | 
+| Visual Studio 2010 | 10.0.30319.1 | 04/12/2010 |
 
-So far, everything seems fairly reasonable and isn’t terribly difficult to keep coordinated. However, when you start trying to find language versions and how those relate to .NET Framework, CLR, or Visual Studio releases it becomes more difficult.
+(For those entries that are missing information, it simply means that I didn't already know it and/or couldn't easily find it online.)
+
+So far, everything seems fairly reasonable and isn't terribly difficult to keep coordinated. However, when you start trying to find language versions and how those relate to .NET Framework, CLR, or Visual Studio releases it becomes more difficult.
 
 The breakdown for the programming languages that are part of Visual Studio are:
-  <table width="400" border="0" cellspacing="0" cellpadding="2"><tbody>     <tr>       <td width="100" valign="top">**<u>Framework</u>**</td>        <td width="100" valign="top">**<u>CLR</u>**</td>        <td valign="top" colspan="3"><center>**<u>Language</u>**</center></td>     </tr>      <tr>       <td width="100" valign="top"> </td>        <td width="100" valign="top"> </td>        <td width="100" valign="top">***C#***</td>        <td width="100" valign="top">***VB***</td>        <td width="100" valign="top">***F#***</td>     </tr>      <tr>       <td width="100" valign="top">1.0</td>        <td width="100" valign="top">1.0.3705</td>        <td width="100" valign="top">1.0</td>        <td width="100" valign="top">7.0</td>        <td width="100" valign="top">-</td>     </tr>      <tr>       <td width="100" valign="top">1.1</td>        <td width="100" valign="top">1.1.4322</td>        <td width="100" valign="top">1.1</td>        <td width="100" valign="top">7.1</td>        <td width="100" valign="top">-</td>     </tr>      <tr>       <td width="100" valign="top">2.0</td>        <td width="100" valign="top">2.0.50727</td>        <td width="100" valign="top">2.0</td>        <td width="100" valign="top">8.0</td>        <td width="100" valign="top">-</td>     </tr>      <tr>       <td width="100" valign="top">3.0</td>        <td width="100" valign="top">2.0.50727</td>        <td width="100" valign="top">2.0</td>        <td width="100" valign="top">8.0</td>        <td width="100" valign="top">-</td>     </tr>      <tr>       <td width="100" valign="top">3.5</td>        <td width="100" valign="top">2.0.50727</td>        <td width="100" valign="top">3.0</td>        <td width="100" valign="top">9.0</td>        <td width="100" valign="top">-</td>     </tr>      <tr>       <td width="100" valign="top">4.0</td>        <td width="100" valign="top">4.0.30319</td>        <td width="100" valign="top">4.0</td>        <td width="100" valign="top">10.0</td>        <td width="100" valign="top">2.0</td>     </tr>   </tbody></table>  
 
-  <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:398576e3-b26c-40dc-b9fc-87bc8eb66626" style="margin: 0px; padding: 0px; float: none; display: inline;">Technorati Tags: [Visual Studio](http://technorati.com/tags/Visual+Studio),[.NET](http://technorati.com/tags/.NET)</div><div class="wlWriterHeaderFooter" style="margin: 0px; padding: 4px 0px; text-align: right;">[![Digg This](http://digg.com/img/badges/100x20-digg-button.png "Digg This")](http://digg.com/submit?url=http%3a%2f%2fgeekswithblogs.net%2fsdorman%2farchive%2f2010%2f04%2f23%2fvisual-studio-.net-framework-and-language-versions.aspx&title=Visual+Studio%2c+.NET+Framework%2c+and+language+versions)</div>
+| **Framework** | **CLR**  | **C#** | **VB** | **F#** |
+| ------------- | _------- | ------ | ------ | ------ |
+| 1.0 | 1.0.3705 | 1.0 | 7.0 | |
+| 1.1 | 1.1.4322 | 1.1 | 7.1 | |
+| 2.0 | 2.0.50727 | 2.0 | 8.0 | |
+| 3.0 | 2.0.50727 | 2.0 | 8.0 | |
+| 3.5 | 2.0.50727 | 3.0 | 9.0 | |
+| 4.0 | 4.0.30319 | 4.0 | 10.0 | 2.0 |
+  

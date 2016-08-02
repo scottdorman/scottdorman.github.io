@@ -13,4 +13,4 @@ Team Foundation Server Power Tools includes the following tools:
 *   [Process Template Editor](http://msdn2.microsoft.com/#pte) 
 *   [Custom Check-In Policy Pack](http://msdn2.microsoft.com/#checkin) 
 *   [Team Foundation Server Best Practices Analyzer](http://msdn2.microsoft.com/#bpa) 
-*   [Work Item Templates](http://msdn2.microsoft.com/#wit) <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:a784d721-95cd-4692-8cc1-523ab2f1e7b5" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [TFS](http://technorati.com/tags/TFS)</div>
+*   [Work Item Templates](http://msdn2.microsoft.com/#wit)

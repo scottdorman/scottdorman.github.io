@@ -12,7 +12,7 @@ This is a nice addition to the IM button functionality announced in [Ali's post]
 
 There are a few things to watch out for, however. If you choose the actual IM Control (and not just the presence icon) it really needs to be in an area no less than 300px wide in order to display correctly. For the most part, this probably won't be an issue but it did prevent me from using it on my blog (my sidebar is set to 160px and I don't want to make it wider).  
 
-If you choose just the presence icon, the only thing you get is the actual presence icon: ![](http://messenger.services.live.com/users/8dbf2e7ca0b7abcb%40apps.messenger.live.com/presenceimage?mkt=en-AU)or ![Online](http://settings.messenger.live.com/static/w13r1/Conversation/img/Status_Online.gif "Online"). This isn't terribly useful at the moment. It would actually be nicer if the IM button styles were incorporated into the presence information. This would end up looking something like this:
+If you choose just the presence icon, the only thing you get is the actual presence icon: ![](http://messenger.services.live.com/users/8dbf2e7ca0b7abcb%40apps.messenger.live.com/presenceimage?mkt=en-AU)or ![Online](http://settings.messenger.live.com/static/w13r1/Conversation/img/Status_Online.gif). This isn't terribly useful at the moment. It would actually be nicer if the IM button styles were incorporated into the presence information. This would end up looking something like this:
 
 ![](http://global.msads.net/ads/pronws/A_Gray_Connect.png) or ![](http://global.msads.net/ads/pronws/A_Blue_Connect.png)
 

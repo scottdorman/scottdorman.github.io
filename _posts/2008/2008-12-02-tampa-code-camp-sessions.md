@@ -4,7 +4,7 @@ title: Tampa Code Camp Sessions
 date: 2008-12-02 20:28:42 -05:00
 ---
 
-[Tampa Code Camp](http://www.tampacodecamp.com) is this weekend and I’m presenting 3 sessions:
+[Tampa Code Camp](http://www.tampacodecamp.com) is this weekend and I'm presenting 3 sessions:
 
 **Understanding Lambda Expressions**
 
@@ -16,6 +16,6 @@ date: 2008-12-02 20:28:42 -05:00
 
 **Memory Management Fundamentals – IDisposable and the Dispose Pattern**
 
-> Continuing the discussion on memory management in .NET, we’ll re-cap the basics of how the garbage collection system works and then talk about the IDisposable interface and the Dispose pattern. This will cover not just how to use the pattern but also how to implement the pattern into your own classes.
+> Continuing the discussion on memory management in .NET, we'll re-cap the basics of how the garbage collection system works and then talk about the IDisposable interface and the Dispose pattern. This will cover not just how to use the pattern but also how to implement the pattern into your own classes.
 
 For those of you who have attended my previous talks on memory management, be sure not to miss these as they have been updated and expanded with a lot of new content. The slide decks are available on [SkyDrive](http://skydrive.live.com/) in my public [Presentations](http://snipurl.com/5leeg) folder.

@@ -9,4 +9,3 @@ In a [previous post]({% post_url 2008-03-06-internet-explorer-8-beta-1 %}) I tal
 After doing some more quick testing, I actually noticed that the Snap preview windows and the Live Search display panel also have problems. The Live Search window actually doesn't display any results while the Snap preview window has some visual issues.
 
 In using IE7 compatibility mode, a few things that I hope the IE team will change are to make it a per-process setting which doesn't require a restart in order to take effect.
- <div style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px; display: inline" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:c8682eff-c726-4862-8c34-6f8a17e906c0" class="wlWriterSmartContent">Technorati Tags: [IE8](http://technorati.com/tags/IE8)</div>

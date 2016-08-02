@@ -4,7 +4,7 @@ title: PatchGuard, the eWEEK opinion
 date: 2006-11-02 16:44:00 -05:00
 ---
 
-eWEEK Security Center Editor [Larry Seltzer](http://www.eweek.com/author_bio/0,1908,a=2299,00.asp "eWEEK - Author Bio") just published an [article](http://www.eweek.com/article2/0,1895,2049960,00.asp "What PatchGuard Really Breaks") on eWEEK.com providing his opinion on the benefits, and limitations, of PatchGuard.
+eWEEK Security Center Editor [Larry Seltzer](http://www.eweek.com/author_bio/0,1908,a=2299,00.asp) just published an [article](http://www.eweek.com/article2/0,1895,2049960,00.asp) on eWEEK.com providing his opinion on the benefits, and limitations, of PatchGuard.
 
 In the article, Larry reiterates some of the points I made in my [post]({% post_url /2006/2006-10-30-kernel-patch-protection-aka-quotpatchguardquot %}) on PatchGuard a few days ago, namely:
 
@@ -20,9 +20,9 @@ The important thing to realize here is that most of the current security product
 
 Yes, the security vendors that rely on HIPS do run in to the proverbial "brick wall" with PatchGuard. However, by removing the restrictions put in place by PatchGuard we are creating an inherently less secure environment. As I mentioned in my earlier post, one of the primary goals of PatchGuard is to ensure the integrity and security of the kernel.
 
-The reality of the story is that as Microsoft is working to make Windows more secure by restricting the amount of access to kernel, the security industry publicly says "great" but internally cringes as it directly impacts their business. The unfortunate truth of this is that while some vendors are working to create products that [circumvent PatchGuard](http://www.eweek.com/article2/0,1895,2037052,00.asp "Microsoft Decries Vista PatchGuard Hack") (essentially hacking their way in to the kernel) they are giving credibility to the hacker community and proving in no uncertain terms that PatchGuard is vulnerable.
+The reality of the story is that as Microsoft is working to make Windows more secure by restricting the amount of access to kernel, the security industry publicly says "great" but internally cringes as it directly impacts their business. The unfortunate truth of this is that while some vendors are working to create products that [circumvent PatchGuard](http://www.eweek.com/article2/0,1895,2037052,00.asp) (essentially hacking their way in to the kernel) they are giving credibility to the hacker community and proving in no uncertain terms that PatchGuard is vulnerable.
 
-The fact that PatchGuard is vulnerable should not come as a surprise. It is virtually impossible to write an operating system that is actually usable and not have some level of vulnerabilities. According to [CERT](http://www.cert.org/stats/ "CERT/CC Statistics"), for this year alone (Q1-Q3) there have been 5,340 vulnerabilities reported. Compare this to 345 reported 10 years ago.
+The fact that PatchGuard is vulnerable should not come as a surprise. It is virtually impossible to write an operating system that is actually usable and not have some level of vulnerabilities. According to [CERT](http://www.cert.org/stats/), for this year alone (Q1-Q3) there have been 5,340 vulnerabilities reported. Compare this to 345 reported 10 years ago.
 
 All this is telling us is that as the complexity in operating systems and applications increases, so does the number of vulnerabilities. As the malware vendors have almost limitless amounts of time and resources to create malware, this trend will only increase (at least for the foreseeable future).
 

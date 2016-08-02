@@ -132,8 +132,6 @@ To be safe, follow the following steps:
 
 ### Virtual Tech·Ed
 
-![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TechEdfornovices_941A/logo_virtualteched8.jpg)
-
 Starting with Tech·Ed 2007, Microsoft introduced [Virtual Tech·Ed](http://www.virtualteched.com/), which is the "one-stop" shop to extend the Tech·Ed experience before, during, and after the event. In addition to Virtual Tech·Ed, you also have [Tech·Ed Connect](http://teched2008.leveragesoftware.com/), which allows you to connect with other Tech·Ed attendees before the conference starts. 
 
 Using Tech·Ed Connect, you can quickly:
@@ -154,4 +152,3 @@ As you can see, there is a ton of information and it can be quite overwhelming f
 *   Go to the Jam Sessions and the event party. They are worth it. I make it a point to go each year and usually bring my family to it. Having them around helps decompress at the end of the day and gives them a nice mini-vacation.  
 
 In the end, enjoy the conference. It's a great way to get some excellent technical information and some excellent networking opportunities.
- <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:a3a13d4e-7ac8-4c49-a985-50b674540d0a" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: [TechEd](http://technorati.com/tags/TechEd)</div>

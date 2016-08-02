@@ -14,5 +14,4 @@ To quickly summarize:
 *   Projects created in Visual Studio 2008 **<u>can</u>** be opened in Visual Studio 2005.
 *   Solutions and projects created in Visual Studio 2005 **<u>can</u>** be opened in Visual Studio 2008.  
 
-Be sure to take a look at DJ’s post as well if you want to know the specific differences in the solution and project files between the versions. He does an excellent job explaining the differences and shows some ways to work around some of the restrictions.
-  <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:2f1f5406-f9cf-4395-a22e-69be4bcb0f64" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">*Technorati Tags: [Visual Studio](http://technorati.com/tags/Visual+Studio)*</div>
+Be sure to take a look at DJ's post as well if you want to know the specific differences in the solution and project files between the versions. He does an excellent job explaining the differences and shows some ways to work around some of the restrictions.

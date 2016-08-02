@@ -12,7 +12,7 @@ Just a reminder that the Tampa Bay IASA September meeting is tonight starting at
 > 
 > **Speaker:** David McNamee, SharePoint Technical Specialist, Microsoft Corp.
 
-***When & Where:***       
+### When & Where:    
 Thursday, September 25, 2008 from 06:30 PM - 08:30 PM (ET)       
 Kforce Corporate Headquarters       
 1001 East Palm Avenue       
@@ -22,7 +22,4 @@ Tampa, FL 33605
 
 **Please be aware that the location has changed from the Microsoft office to Kforce. The Kforce office is near Ybor City, so make sure to allow some extra time for traffic.**
 
-*****[![](http://www.eventbrite.com/img/button/register_blue.gif)](http://www.eventbrite.com/event/120521483/sdorman)*****
-
-**Please **[be sure to register](http://www.eventbrite.com/event/120521483/sdorman)**** so we have an idea of how many pizzas to order.
-  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:0d8bd4c8-4735-44ce-95ba-a96c0c5c32c1" class="wlWriterSmartContent">*Technorati Tags: [IASA](http://technorati.com/tags/IASA), [Meetings](http://technorati.com/tags/Meetings)*</div><div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 0px 4px 0px;">[![Digg This](http://digg.com/img/badges/100x20-digg-button.png "Digg This")](http://digg.com/submit?url=http%3a%2f%2fgeekswithblogs.net%2fsdorman%2farchive%2f2008%2f09%2f25%2freminder-september-2008-tampa-bay-iasa-meeting.aspx&title=Reminder%3a+September+2008+Tampa+Bay+IASA+Meeting)</div>
+**Please _[be sure to register](http://www.eventbrite.com/event/120521483/sdorman)_ so we have an idea of how many pizzas to order.

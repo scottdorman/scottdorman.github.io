@@ -4,7 +4,7 @@ title: Windows Vista Application Compatability Labs
 date: 2007-05-24 12:01:25 -05:00
 ---
 
-![Windows Vista](http://www.microsoft.com/library/media/1033/windows/images/products/windowsvista/quick_vista.gif)I won't be able to attend these labs as I have other schedule conflicts, but the Windows Vista team is providing two training labs at Tech·Ed 2007. Both labs are free for Tech·Ed attendees, but you must register to reserve your spot.
+I won't be able to attend these labs as I have other schedule conflicts, but the Windows Vista team is providing two training labs at Tech·Ed 2007. Both labs are free for Tech·Ed attendees, but you must register to reserve your spot.
 
 The first lab is an Instructor led Lab in Room S331-C and is broken up into two 90 minute parts. Part 1 takes an in-depth look at the most common application compatability issues and the ramifications of the new security enhancements in Windows Vista. This covers topics such as User Account Control (UAC), running as Standard User, accessing Administrative Rights, and Administrators running as Standard User. Part 2 is a walk-through of the tools commonly used to diagnose, analyze, and mitigate application compatability issues and covers Application Compatability Toolkit (ACT) 5.0, Standard User Analyzer (SUA), shim infrastructure, and Compatability Administrator.
 

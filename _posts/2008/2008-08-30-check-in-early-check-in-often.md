@@ -4,7 +4,7 @@ title: Check In Early, Check In Often
 date: 2008-08-30 11:32:40 -05:00
 ---
 
-[Jeff Atwood](http://www.codinghorror.com/blog/archives/001165.html) talks about what he considers the “Golden Rule” of source control:
+[Jeff Atwood](http://www.codinghorror.com/blog/archives/001165.html) talks about what he considers the "Golden Rule" of source control:
 
 > Check in early, check in often.
 
@@ -15,4 +15,3 @@ Ordinarily, you would think that these large changes should absolutely be in sou
 There are, obviously, drawbacks to this approach as well. You will almost certainly run in to merge conflicts down the road when you are ready to check in against the main development trunk. There may also be cases where a bug needs to be fixed in multiple locations. Sometimes, problems like this just can't be avoided.
 
 I think making blanket statements such as "don't go dark" and having "empty stubs and basic API skeletons in place" are ideals but they should be tempered by the realities of your project, the scope of the changes being made and the maturity (age) of the code base.
-<div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 0px 4px 0px;">[![Digg This](http://digg.com/img/badges/100x20-digg-button.png "Digg This")](http://digg.com/submit?url=http%3a%2f%2fgeekswithblogs.net%2fsdorman%2farchive%2f2008%2f08%2f30%2fcheck-in-early-check-in-often.aspx&title=Check+In+Early%2c+Check+In+Often)</div><div class="wlWriterHeaderFooter" style="text-align:left; margin:0px; padding:4px 4px 4px 4px;">[![DotNetKicks Image](http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://geekswithblogs.net/sdorman/archive/2008/08/30/check-in-early-check-in-often.aspx&bgcolor=0080C0&fgcolor=FFFFFF&border=000000&cbgcolor=D4E1ED&cfgcolor=000000)]({% post_url /2008/2008-08-30-check-in-early-check-in-often %})</div>

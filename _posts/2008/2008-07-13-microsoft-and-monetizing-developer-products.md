@@ -4,9 +4,9 @@ title: Microsoft and monetizing developer products
 date: 2008-07-13 09:38:32 -05:00
 ---
 
-I’m catching up on blog posts and saw this [one](http://blogs.msdn.com/bharry/archive/2008/07/05/power-tools-and-software-assurance.aspx) from Brian Harry about the [TFS Power Tools](http://msdn.microsoft.com/en-us/vs2005/aa718351.aspx) and Software Assurance. In that post he asks “How are Power Tools monetized?” and goes on to mention that there is a possibility that the power tools will become a paid feature and part of the Software Assurance (SA) program.
+I'm catching up on blog posts and saw this [one](http://blogs.msdn.com/bharry/archive/2008/07/05/power-tools-and-software-assurance.aspx) from Brian Harry about the [TFS Power Tools](http://msdn.microsoft.com/en-us/vs2005/aa718351.aspx) and Software Assurance. In that post he asks "How are Power Tools monetized?" and goes on to mention that there is a possibility that the power tools will become a paid feature and part of the Software Assurance (SA) program.
 
-My response (which I tried to post as a comment, but since it didn’t save I’m turning it into this blog post instead) is this:
+My response (which I tried to post as a comment, but since it didn't save I'm turning it into this blog post instead) is this:
 
 **Absolutely not!** While I understand the desire to monetize every "product" coming out of Microsoft, it sometimes ends up hurting the community as a whole. The Power Tools are a great set of extensions to Visual Studio and TFS and should continue to be available to anyone who needs them, regardless as to whether they have purchased SA or not. 
 

@@ -14,7 +14,7 @@ Looking at the diagram above, you might notice that the full version number for 
 
 The end result of this is that the .NET Framework v3.0 is at a different service pack on Vista then it is on other versions of Windows. The .NET Framework v3.5 includes updates to both the v2.0 and v3.0 frameworks. These updates are not new changes or features, but are really a service pack with bug fixes and performance improvements.
 
-As was mentioned, the green bits add new assemblies with new types. These simply add to the .NET Framework without changing the CLR engine. In [Beta 1](http://www.microsoft.com/downloads/details.aspx?familyid=36b6609e-6f3d-40f4-8c7d-ad111679d8dc&displaylang=en&tm "here") of Orcas, the new assembles are:
+As was mentioned, the green bits add new assemblies with new types. These simply add to the .NET Framework without changing the CLR engine. In [Beta 1](http://www.microsoft.com/downloads/details.aspx?familyid=36b6609e-6f3d-40f4-8c7d-ad111679d8dc&displaylang=en&tm) of Orcas, the new assembles are:
 
 1.  System.Data.Linq.dll - Implementation for LINQ to SQL.
 2.  System.Xml.Linq.dll - Implementation for LINQ to XML.

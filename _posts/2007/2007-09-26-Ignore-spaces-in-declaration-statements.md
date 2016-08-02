@@ -8,7 +8,7 @@ One of the new features coming up in Visual Studio 2008, is the ability to ignor
 
 Unfortunately, even in Visual Studio 2008, we won't have full alignment options like the ability to control how individual symbols are aligned in the editor, but there will be some help for aligning declaration statements. This isn't in the Beta 2 release, but it will be in the final release (and any other Beta or RC releases).
 
-According to [Karen Liu](http://blogs.msdn.com/karenliu/archive/2007/09/24/auto-formatting-removes-tabs.aspx?CommentPosted=true#commentmessage "http://blogs.msdn.com/karenliu/archive/2007/09/24/auto-formatting-removes-tabs.aspx?CommentPosted=true#commentmessage"), there is a new option added to the Tools | Options | Text Editor | C# | Formatting | Spacing | Set other spacing options. This new option is a check box titled "Ignore spaces in declaration statements" and applies to:
+According to [Karen Liu](http://blogs.msdn.com/karenliu/archive/2007/09/24/auto-formatting-removes-tabs.aspx?CommentPosted=true#commentmessage), there is a new option added to the Tools | Options | Text Editor | C# | Formatting | Spacing | Set other spacing options. This new option is a check box titled "Ignore spaces in declaration statements" and applies to:
 
 *   Constants and Fields  
 *   Local variables  

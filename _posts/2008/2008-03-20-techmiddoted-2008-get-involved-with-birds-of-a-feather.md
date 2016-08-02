@@ -12,7 +12,7 @@ date: 2008-03-20 14:11:43 -05:00
 
 **June 3-6 Orlando, FL** 
 
-INETA is [once again coordinating](http://www.ineta.org/newsletters/2008_02.htm#A10 "February Newsletter") the Birds-of-a-Feather (BOF) sessions at Tech·Ed 2008. Based upon feedback, the deadline for [topic submissions](https://www.msteched.com/dev/submitbof.aspx) has been **extended** to Wed 4/2/2008 and the [voting](https://www.msteched.com/dev/voting.aspx) deadline to Mon 4/7/2008. 
+INETA is [once again coordinating](http://www.ineta.org/newsletters/2008_02.htm#A10) the Birds-of-a-Feather (BOF) sessions at Tech·Ed 2008. Based upon feedback, the deadline for [topic submissions](https://www.msteched.com/dev/submitbof.aspx) has been **extended** to Wed 4/2/2008 and the [voting](https://www.msteched.com/dev/voting.aspx) deadline to Mon 4/7/2008. 
 
 If you sign up to host two sessions and moderate one session OR host three sessions, you will get the following special BOF Volunteer Package including: 
 
@@ -27,6 +27,8 @@ If you sign up to host two sessions and moderate one session OR host three sessi
 
 Additional Resources:  
 
-[BOF Flyer](http://www.ineta.org/newsletters/BOFTechEdUserGroupFlyer.pdf), [February newsletter](http://www.ineta.org/newsletters/2008_02.htm), [topic submissions](https://www.msteched.com/dev/submitbof.aspx), [voting](https://www.msteched.com/dev/voting.aspx), [moderator instructions/guidelines](http://www.ineta.org/newsletters/misc/2008-02/bof_instructions.pdf) 
-
-<div style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px; display: inline" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:f332bb89-6efb-4328-8fb4-6449b7b8d1d1" class="wlWriterSmartContent">Technorati Tags: [TechEd](http://technorati.com/tags/TechEd), [BOF](http://technorati.com/tags/BOF)</div>
+* [BOF Flyer](http://www.ineta.org/newsletters/BOFTechEdUserGroupFlyer.pdf)
+* [February newsletter](http://www.ineta.org/newsletters/2008_02.htm)
+* [topic submissions](https://www.msteched.com/dev/submitbof.aspx)
+* [voting](https://www.msteched.com/dev/voting.aspx)
+* [moderator instructions/guidelines](http://www.ineta.org/newsletters/misc/2008-02/bof_instructions.pdf) 

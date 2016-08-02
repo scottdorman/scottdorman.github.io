@@ -10,4 +10,4 @@ Fortran is regarded as the first widely used programming language, and helped op
 
 The [full article](http://www.nytimes.com/2007/03/20/business/20backus.html?ex=1332129600&en=c5d2d73907749f77&ei=5124&partner=permalink&exprod=permalink) is available from The New York Times. I think Mr. Backus' outlook on life and computer programming is summed up best by his definition of innovation:
 
-> “You need the willingness to fail all the time. You have to generate many ideas and then you have to work very hard only to discover that they don’t work. And you keep doing that over and over until you find one that does work.”
+> "You need the willingness to fail all the time. You have to generate many ideas and then you have to work very hard only to discover that they don't work. And you keep doing that over and over until you find one that does work."

@@ -14,12 +14,10 @@ Just in case you didn't "get the memo", here are the relevant parts:
 > 
 > Most applications that use these affected classes will not need to be modified as this update will ensure that the correct data is provided seamlessly to the application. However, applications that use these classes or the underlying [Windows API](http://response.microsoft.com/P/v3/r.asp?r=T1_Url2&e=102271%3B173375%3B30117911%3B2%3B02&a=1007) to perform historical time look-ups will need to be modified.
 > 
-> In most cases, developers who have extended the .NET Framework’s time zone support by creating custom time zone classes derived from System.TimeZone, or by direct access to the Win32 API, will not have to update their applications as long as the available updates to the operating system are applied. However, solutions that rely on private time zone data, or that retrieve system time zone information by accessing the registry directly, may need to be updated. Applications that deal with historical time zone data may also need to be updated.
+> In most cases, developers who have extended the .NET Framework's time zone support by creating custom time zone classes derived from System.TimeZone, or by direct access to the Win32 API, will not have to update their applications as long as the available updates to the operating system are applied. However, solutions that rely on private time zone data, or that retrieve system time zone information by accessing the registry directly, may need to be updated. Applications that deal with historical time zone data may also need to be updated.
 
 More information is available at the following links:
 
-[http://msdn2.microsoft.com/en-us/vstudio/bb264729.aspx](http://msdn2.microsoft.com/en-us/vstudio/bb264729.aspx)
-
-[Preparing for daylight saving time changes in 2007](http://response.microsoft.com/P/v3/r.asp?r=T1_Url4&e=102271%3B173375%3B30117911%3B2%3B02&a=1007)
-
-[KB928388: 2007 time zone update for Microsoft Windows operating systems](http://response.microsoft.com/P/v3/r.asp?r=T1_Url5&e=102271%3B173375%3B30117911%3B2%3B02&a=1007).
+* [http://msdn2.microsoft.com/en-us/vstudio/bb264729.aspx](http://msdn2.microsoft.com/en-us/vstudio/bb264729.aspx)
+* [Preparing for daylight saving time changes in 2007](http://response.microsoft.com/P/v3/r.asp?r=T1_Url4&e=102271%3B173375%3B30117911%3B2%3B02&a=1007)
+* [KB928388: 2007 time zone update for Microsoft Windows operating systems](http://response.microsoft.com/P/v3/r.asp?r=T1_Url5&e=102271%3B173375%3B30117911%3B2%3B02&a=1007).

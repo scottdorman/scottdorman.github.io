@@ -8,30 +8,34 @@ Anonymous types are a new language feature introduced in the C# 3.0 release. For
 
 All of this happens at compile time, so anonymous types are still strongly typed. In reality, the compiler automatically creates a class that represents the anonymous type. For example, 
 
-> <font face="Courier New" color="#000080">var product = new {Name = "C# Rocks!", Price = 3};</font>
+```
+var product = new {Name = "C# Rocks!", Price = 3};
+```
 
 automatically gets translated by the compiler to something that looks like this:
 
-> <font face="Courier New" color="#000080">class __Anonymous1
-> {
->    private string name;
->    private int price;
-> 
->    public string Name
->    {
->       get { return name; }
->       set { name = value; }
->    }
-> 
->    public int Price
->    {
->       get { return price; }
->       set { price = value; }
->    }
-> }
-> 
-> __Anonymous1 product = new __Anonymous1();
-> product.Name = "C# Rocks!";
-> product.Price = 3;</font>
+```
+<class __Anonymous1
+{
+   private string name;
+   private int price;
+
+   public string Name
+   {
+      get { return name; }
+      set { name = value; }
+   }
+
+   public int Price
+   {
+      get { return price; }
+      set { price = value; }
+   }
+}
+
+__Anonymous1 product = new __Anonymous1();
+product.Name = "C# Rocks!";
+product.Price = 3;</font>
+```
 
 While anonymous types might not seem all that useful on the surface, they are the cornerstone for LINQ. Without anonymous types, LINQ would not be able to create types dynamically. This is what allows LINQ to query for an arbitrary set of data, without first having the structure declared.

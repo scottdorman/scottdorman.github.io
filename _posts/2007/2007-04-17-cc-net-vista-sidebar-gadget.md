@@ -4,7 +4,7 @@ title: CC.NET Vista Sidebar Gadget
 date: 2007-04-17 00:54:43 -05:00
 ---
 
-[Simone Chiaretta](http://www.codeclimber.net.nz "Climbing the cliffs of C#") has just released a beta version of his new [Vista Sidebar Gadget for monitoring Cruise Control.NET](http://www.codeclimber.net.nz/archive/2007/04/17/Vista-Gadget-for-CruiseControl.NET---CC.NET-Monitor-for-Vista-Sidebar.aspx). This gadget uses the CC.NET [REST-like API](http://en.wikipedia.org/wiki/REST "REST-like API") and connects to the XmlStatusReport service that comes as part of CC.NET.
+[Simone Chiaretta](http://www.codeclimber.net.nz) has just released a beta version of his new [Vista Sidebar Gadget for monitoring Cruise Control.NET](http://www.codeclimber.net.nz/archive/2007/04/17/Vista-Gadget-for-CruiseControl.NET---CC.NET-Monitor-for-Vista-Sidebar.aspx). This gadget uses the CC.NET [REST-like API](http://en.wikipedia.org/wiki/REST) and connects to the XmlStatusReport service that comes as part of CC.NET.
 
 ![](http://codeclimber.net.nz/images/codeclimber_net_nz/WindowsLiveWriter/VistaGadgetforCruiseControl.NET_D099/CCNetGadgetDocket%5B8%5D.jpg)
 

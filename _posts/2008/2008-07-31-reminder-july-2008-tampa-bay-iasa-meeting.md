@@ -6,7 +6,7 @@ date: 2008-07-31 11:23:01 -05:00
 
 Just a reminder that the Tampa Bay IASA March meeting is tonight starting at 6:30 PM. We have a great group of members with a variety of experience, so bring your architecture problems and leverage those experiences and creativity to help solve them. This is an open discussion format and depending on how many people we have and how many problems we may split up into small groups or try to solve problems one at a time.
 
-***When & Where:***       
+### When & Where:
 Thursday, July 31, 2008 from 06:30 PM - 08:30 PM (ET)       
 Kforce Corporate Headquarters       
 1001 East Palm Avenue       
@@ -19,4 +19,3 @@ Tampa, FL 33605
 *****[![](http://www.eventbrite.com/img/button/register_blue.gif)](http://www.eventbrite.com/event/120451273/sdorman)*****
 
 **Please **[be sure to register](http://www.eventbrite.com/event/120451273/sdorman)**** so we have an idea of how many pizzas to order.
-  <div style="padding-right: 0px; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px; display: inline" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:0d8bd4c8-4735-44ce-95ba-a96c0c5c32c1" class="wlWriterSmartContent">*Technorati Tags: [IASA](http://technorati.com/tags/IASA), [Meetings](http://technorati.com/tags/Meetings)*</div>

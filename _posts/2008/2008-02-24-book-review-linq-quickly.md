@@ -4,8 +4,6 @@ title: "Book Review: LINQ Quickly"
 date: 2008-02-24 19:40:59 -05:00
 ---
 
-[![LINQ Quickly](http://images.packtpub.com/images/100x123/1847192548.png "LINQ Quickly")](http://www.packtpub.com/#)
-
 I was recently introduced to a UK based publisher called [Pact Publishing](http://www.packtpub.com). They are a UK based publisher and have a book focused on the new Language Integrated Query (LINQ) features available in .NET 3.5 called [LINQ Quickly: A practical guide to programming Language Integrated Query with C#](http://amzn.to/28KvxCq) by N Satheesh Kumar.
 
 The book provides a good overview of LINQ and it's supporting language features, such as anonymous types, implicit typing, object initializers, extension methods, and expressions. It then builds on that introduction to cover the various LINQ implementations, such as LINQ to Objects, LINQ to XML, and LINQ to SQL. A very thorough look at the different Standard Query Operators closes the book.

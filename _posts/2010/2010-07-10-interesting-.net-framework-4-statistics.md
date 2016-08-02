@@ -8,8 +8,8 @@ Last September while I was working on my [Teach Yourself Visual C# 2010 in 24 Ho
 
 There were a total of 44,346 types (loaded from 130 assemblies), with 33,152 classes, 2,398 interfaces, 4,828 enums, and 8,796 value types. The complete breakdown is shown below.
 
-[![image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/Interesting.NETFramework4Statistics_13707/image_thumb.png "image")](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/Interesting.NETFramework4Statistics_13707/image_2.png)
+![](/img/posts/{ page.id }/image_2.png)
 
 Of the 33,152 classes, 564 of them are exceptions. There are 428 public and 136 non-public exceptions. The complete breakdown is shown below.
 
-[![image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/Interesting.NETFramework4Statistics_13707/image_thumb_1.png "image")](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/Interesting.NETFramework4Statistics_13707/image_4.png)       
+![](/img/posts/{ page.id }/image_4.png)       

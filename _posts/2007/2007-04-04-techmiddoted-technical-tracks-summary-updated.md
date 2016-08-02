@@ -8,287 +8,213 @@ There are 14 core tracks and 2 virtual tracks at Tech·Ed this year, which will
 
 Microsoft has revised the technical tracks slightly since my original [post]({% post_url /2007/2007-02-17-techmiddoted-technical-tracks-summary %}), so I have updated my summary.
 
-<table style="BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; FONT-SIZE: 10pt! important; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; BORDER-COLLAPSE: collapse" cellspacing="2" border="1">
-<tbody>
-<tr>
-<td valign="top" width="48%">
+## Architecture
 
+* Service Oriented Architecture (SOA) 
+* Office Business Applications 
+* Software as a Service (SaaS) 
+* Business Capabilities 
+* Software+Services 
+* Industry Architecture 
+    * Retail 
+    * Manufacturing 
+    * Financial Services
+* Software Factories 
+* Patterns and Practices
 
-<strong>Architecture</strong>
+## Business Applications
 
-<ul>
-<li>Service Oriented Architecture (SOA) 
-<li>Office Business Applications 
-<li>Software as a Service (SaaS) 
-<li>Business Capabilities 
-<li>Software+Services 
-<li>Industry Architecture 
-<ul>
-<li>Retail 
-<li>Manufacturing 
-<li>Financial Services</li></li></li></ul>
-<li>Software Factories 
-<li>Patterns and Practices</li></li></li></li></li></li></li></li></ul></td>
-<td rowspan="8"> </td>
-<td valign="top" width="48%">
+* CRM and ERP 
+* Microsoft Dynamics 
+    * GP 
+    * NAV 
+    * AX 
+    * CRM
 
+## Business Intelligence
 
-<strong>Business Applications</strong>
+* SQL Server 2005 
+* PerformancePoint Server 2007 
+* ProClarity 6.3 
+* Business Scorecard Manager 2005 
+* Office System 2007 
+* SharePoint Portal Server 2007 
+* Excel for Business Intelligence
 
-<ul>
-<li>CRM and ERP 
-<li>Microsoft Dynamics 
-<ul>
-<li>GP 
-<li>NAV 
-<li>AX 
-<li>CRM</li></li></li></li></ul></li></li></ul></td></tr>
-<tr>
-<td valign="top">
+## Database Development and Administration
 
+* SQL Server 2005 
+    * Standard Edition 
+    * Enterprise Edition 
+    * Workgroup Edition 
+    * Compact Edition
+* SQL Server code-named "Katmai" (the next release of SQL Server) 
+* SQL Server Always On Technologies 
+* ADO.NET 2.0 
+* SQLCLR 
+* LINQ
 
-<strong>Business Intelligence</strong>
+## Developer Tools and Technologies
 
-<ul>
-<li>SQL Server 2005 
-<li>PerformancePoint Server 2007 
-<li>ProClarity 6.3 
-<li>Business Scorecard Manager 2005 
-<li>Office System 2007 
-<li>SharePoint Portal Server 2007 
-<li>Excel for Business Intelligence</li></li></li></li></li></li></li></ul></td>
-<td valign="top">
+* Visual C#, Visual Basic, Visual C++ 
+* Visual Studio 
+    * Visual Studio Team System 
+    * Visual Studio "Orcas"
+* Debugging 
+* .NET Framework 
+* LINQ 
+* CLR 
+* Windows Forms 
+* Windows Presentation Foundation (WPF) 
+* Windows Vista
 
+## Identity and Access (Virtual Track)
 
-<strong>Database Development and Administration</strong>
+* Windows CardSpace 
+* Active Directory Federated Services 
+* Active Directory Domain Services 
+* Microsoft Identity Integration Server (MIIS) 
+* Certificate Lifecycle Manager (LCM) 
+* Rights Management Services
 
-<ul>
-<li>SQL Server 2005 
-<ul>
-<li>Standard Edition 
-<li>Enterprise Edition 
-<li>Workgroup Edition 
-<li>Compact Edition</li></li></li></li></ul>
-<li>SQL Server code-named "Katmai" (the next release of SQL Server) 
-<li>SQL Server Always On Technologies 
-<li>ADO.NET 2.0 
-<li>SQLCLR 
-<li>LINQ</li></li></li></li></li></li></ul></td></tr>
-<tr>
-<td valign="top">
+## Management and Operations
 
+* Microsoft Operations Manager 2007 
+* Microsoft Systems Center 
+    * Operations Manager (MOM v3) 
+    * Configuration Manager (SMS v4) 
+    * Capacity Planner 
+    * "Service Desk" 
+    * Essentials 
+    * Virtual Machine Manager 
+    * Data Protection Manager (v2) 
+    * Reporting Manager
+* Microsoft Virtual Server 
+* Microsoft Operations Framework 
+* Windows Management Instrumentation (WMI) 
+* Microsoft Update Services 
+* Windows Server Update Services 
+* Windows Event and Task Subsystem 
+* WS-Management/WinRM 
+* Scripting 
+* Group Policy
 
-<strong>Developer Tools and Technologies</strong>
+## Microsoft IT (Virtual Track)
 
-<ul>
-<li>Visual C#, Visual Basic, Visual C++ 
-<li>Visual Studio 
-<ul>
-<li>Visual Studio Team System 
-<li>Visual Studio "Orcas"</li></li></ul>
-<li>Debugging 
-<li>.NET Framework 
-<li>LINQ 
-<li>CLR 
-<li>Windows Forms 
-<li>Windows Presentation Foundation (WPF) 
-<li>Windows Vista</li></li></li></li></li></li></li></li></li></ul></td>
-<td valign="top">
+*This is a virtual track that doesn't really cover any key products and technologies. It should cover best practices and strategies for deploying:*
 
+* *Windows Vista* 
+* *Office 2007* 
+* *Microsoft Forefront* 
+* *Exchange 2007* 
+* *Microsoft Operations Manager 2007* 
+* *other products*
 
-<strong>Identity and Access (Virtual Track)</strong>
+## Mobility (new track)
 
-<ul>
-<li>Windows CardSpace 
-<li>Active Directory Federated Services 
-<li>Active Directory Domain Services 
-<li>Microsoft Identity Integration Server (MIIS) 
-<li>Certificate Lifecycle Manager (LCM) 
-<li>Rights Management Services</li></li></li></li></li></li></ul></td></tr>
-<tr>
-<td valign="top">
+* Windows Mobile 6 
+* Windows Embedded CE 6.0 
+* Windows XP Embedded (XPe) 
+* Exchange Server 2007 
+* Live Services Integration 
+* SQL Server 2005 Compact Edition 
+* .NET Micro Framework 
+* .NET Compact Framework 2.0 (.NET CF) 
+* Visual Studio 2005
 
+## Office System
 
-<strong>Management and Operations</strong>
+* SharePoint Server 2007 
+* Project Server 2007 
+* Microsoft Office client suites and applications 
+* Visual Studio Tools for Office (VSTO) SE 
+* Visual Studio 2005 Extensions for SharePoint 
+* Open XML File Formats 
+* Windows Workflow Foundation (WF)<
 
-<ul>
-<li>Microsoft Operations Manager 2007 
-<li>Microsoft Systems Center 
-<ul>
-<li>Operations Manager (MOM v3) 
-<li>Configuration Manager (SMS v4) 
-<li>Capacity Planner 
-<li>"Service Desk" 
-<li>Essentials 
-<li>Virtual Machine Manager 
-<li>Data Protection Manager (v2) 
-<li>Reporting Manager</li></li></li></li></li></li></li></li></ul>
-<li>Microsoft Virtual Server 
-<li>Microsoft Operations Framework 
-<li>Windows Management Instrumentation (WMI) 
-<li>Microsoft Update Services 
-<li>Windows Server Update Services 
-<li>Windows Event and Task Subsystem 
-<li>WS-Management/WinRM 
-<li>Scripting 
-<li>Group Policy</li></li></li></li></li></li></li></li></li></li></li></ul></td>
-<td valign="top">
+## Security
 
+* Forefront Client Security 
+* Forefront Server for Exchange and SharePoint 
+* Exchange Server 2003 
+* SQL Server 2005 
+* Microsoft management technologies 
+* Information on the latest security resources and technologies
 
-<strong>Microsoft IT (Virtual Track)</strong>
+## SOA and Web Services
 
-<em>This is a virtual track that doesn't really cover any key </em><em>products and technologies. It should cover best practices and strategies </em><em>for deploying:</em>
+* BizTalk Server 2006 R2 
+* .NET Framework 3.0 
+    * Windows Communication Foundation (WCF) 
+    * Windows Workflow Foundation (WF) 
+    * Windows CardSpace
+* Host Integration Server 2006
 
-<ul>
-<li><em>Windows Vista</em> 
-<li><em>Office 2007</em> 
-<li><em>Microsoft Forefront</em> 
-<li><em>Exchange 2007</em> 
-<li><em>Microsoft Operations Manager 2007</em> 
-<li><em>other products</em></li></li></li></li></li></li></ul></td></tr>
-<tr>
-<td valign="top">
+## Unified Communications
 
+* Exchange Server 2003/2007 
+* Exchange Server 2007 Unified Messaging 
+* Live Communications Server 2005 
+* Office Outlook 2007, Outlook Web Access (OWA) 
+* Office Communications Server 2007 
+* Office Communicator 2007 
+    * Office Communicator 
+    * Office Communicator Mobile 
+    * Office Communicator Web Access
+* Forefront Security for Exchange Server 
+* Exchange Hosted Services 
+* Office Live Meeting 2007 
+* Office RoundTable (for Video Conferencing) 
+* Telephony Devices
 
-<strong>Mobility (new track)</strong>
+## Web Development and Infrastructure
 
-<ul>
-<li>Windows Mobile 6 
-<li>Windows Embedded CE 6.0 
-<li>Windows XP Embedded (XPe) 
-<li>Exchange Server 2007 
-<li>Live Services Integration 
-<li>SQL Server 2005 Compact Edition 
-<li>.NET Micro Framework 
-<li>.NET Compact Framework 2.0 (.NET CF) 
-<li>Visual Studio 2005</li></li></li></li></li></li></li></li></li></ul></td>
-<td valign="top">
+* IIS 6.0/7.0 
+* ASP.NET 2.0 
+* ASP.NET AJAX Library 
+    * ASP.NET 2.0 AJAX Extensions 
+    * ASP.NET AJAX Control Toolkit
+* RSS 
+* IE7 
+* Windows Live Platform 
+* Expression 
+* Commerce Server 2007
 
+## Windows Client
 
-<strong>Office System</strong>
+* Windows Vista and Windows Vista SP1 
+    * Windows Vista Security 
+    * Windows Vista Networking 
+    * Windows Vista Mobility
+* Application Compatibility Toolkit 
+* IE 7.0 
+* Windows Installer 
+* Volume Activation 2.0 
+* Virtual PC 
+* Business Desktop Deployment (BDD) 
+* Windows Desktop Management 
+* BitLocker Drive Encryption 
+* User Account Control 
+* Reliability 
+* Search 
+* Performance 
+* Virtualization/SoftGrid 
+* Microsoft Desktop Optimization Pack 
+* Windows Vista and "Longhorn" Server Better Together
 
-<ul>
-<li>SharePoint Server 2007 
-<li>Project Server 2007 
-<li>Microsoft Office client suites and applications 
-<li>Visual Studio Tools for Office (VSTO) SE 
-<li>Visual Studio 2005 Extensions for SharePoint 
-<li>Open XML File Formats 
-<li>Windows Workflow Foundation (WF)</li></li></li></li></li></li></li></ul></td></tr>
-<tr>
-<td valign="top">
+## Windows Server Infrastructure
 
-
-<strong>Security</strong>
-
-<ul>
-<li>Forefront Client Security 
-<li>Forefront Server for Exchange and SharePoint 
-<li>Exchange Server 2003 
-<li>SQL Server 2005 
-<li>Microsoft management technologies 
-<li>Information on the latest security resources and technologies</li></li></li></li></li></li></ul></td>
-<td valign="top">
-
-
-<strong>SOA and Web Services</strong>
-
-<ul>
-<li>BizTalk Server 2006 R2 
-<li>.NET Framework 3.0 
-<ul>
-<li>Windows Communication Foundation (WCF) 
-<li>Windows Workflow Foundation (WF) 
-<li>Windows CardSpace</li></li></li></ul>
-<li>Host Integration Server 2006</li></li></li></ul></td></tr>
-<tr>
-<td valign="top">
-
-
-<strong>Unified Communications</strong>
-
-<ul>
-<li>Exchange Server 2003/2007 
-<li>Exchange Server 2007 Unified Messaging 
-<li>Live Communications Server 2005 
-<li>Office Outlook 2007, Outlook Web Access (OWA) 
-<li>Office Communications Server 2007 
-<li>Office Communicator 2007 
-<li>
-<ul>
-<li>Office Communicator 
-<li>Office Communicator Mobile 
-<li>Office Communicator Web Access</li></li></li></ul>
-<li>Forefront Security for Exchange Server 
-<li>Exchange Hosted Services 
-<li>Office Live Meeting 2007 
-<li>Office RoundTable (for Video Conferencing) 
-<li>Telephony Devices</li></li></li></li></li></li></li></li></li></li></li></li></ul></td>
-<td valign="top">
-
-
-<strong>Web Development and Infrastructure</strong>
-
-<ul>
-<li>IIS 6.0/7.0 
-<li>ASP.NET 2.0 
-<li>ASP.NET AJAX Library 
-<ul>
-<li>ASP.NET 2.0 AJAX Extensions 
-<li>ASP.NET AJAX Control Toolkit</li></li></ul>
-<li>RSS 
-<li>IE7 
-<li>Windows Live Platform 
-<li>Expression 
-<li>Commerce Server 2007</li></li></li></li></li></li></li></li></ul></td></tr>
-<tr>
-<td valign="top">
-
-
-<strong>Windows Client</strong>
-
-<ul>
-<li>Windows Vista and Windows Vista SP1 
-<ul>
-<li>Windows Vista Security 
-<li>Windows Vista Networking 
-<li>Windows Vista Mobility</li></li></li></ul>
-<li>Application Compatibility Toolkit 
-<li>IE 7.0 
-<li>Windows Installer 
-<li>Volume Activation 2.0 
-<li>Virtual PC 
-<li>Business Desktop Deployment (BDD) 
-<li>Windows Desktop Management 
-<li>BitLocker Drive Encryption 
-<li>User Account Control 
-<li>Reliability 
-<li>Search 
-<li>Performance 
-<li>Virtualization/SoftGrid 
-<li>Microsoft Desktop Optimization Pack 
-<li>Windows Vista and "Longhorn" Server Better Together</li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul></td>
-<td valign="top">
-
-
-<strong>Windows Server Infrastructure</strong>
-
-<ul>
-<li>Windows Server code-named "Longhorn" 
-<li>Microsoft Virtual Server R2 SP1 
-<li>Windows Server Virtualization 
-<li>Branch Office Solutions 
-<li>Terminal Services 
-<li>Active Directory 
-<ul>
-<li>Directory Services 
-<li>Federation Services 
-<li>Certificate Services</li></li></li></ul>
-<li>Networking 
-<li>Server Clustering 
-<li>Windows Server Update Services 
-<li>Windows PowerShell 
-<li>Windows Storage Server</li></li></li></li></li></li></li></li></li></li></li></ul>
-
-
-</td></tr></tbody></table>
+* Windows Server code-named "Longhorn" 
+* Microsoft Virtual Server R2 SP1 
+* Windows Server Virtualization 
+* Branch Office Solutions 
+* Terminal Services 
+* Active Directory 
+    * Directory Services 
+    * Federation Services 
+    * Certificate Services
+* Networking 
+* Server Clustering 
+* Windows Server Update Services 
+* Windows PowerShell 
+* Windows Storage Server

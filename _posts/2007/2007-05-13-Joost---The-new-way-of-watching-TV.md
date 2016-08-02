@@ -4,8 +4,6 @@ title: Joost - The new way of watching TV
 date: 2007-05-13 02:13:35 -05:00
 ---
 
-[![Countdown to Joost - Be first to know when Joost goes live](http://static.joost.com/rsc/images/signup-home.jpg)](http://www.joost.com/newsletter/alert/)  
-
 [Joost](http://www.joost.com/) is a new way of watching TV on the internet. With Joost, you get all the things you love about TV, including a high-quality full-screen picture, hundreds of full-length shows and easy channel-flipping.
 
 You get great internet features too, such as search, chat and instant messaging, built right into the program - so you find shows quickly and talk to your friends while you watch. And with no schedules to worry about, you can watch whatever you want, whenever you like - as often as you want. Joost is completely free, and works with most modern PCs and Intel Mac-based computers with a broadband connection.

@@ -12,13 +12,13 @@ What does this have to do with the title of the post? Everything, actually. One 
 
 The problem is that every so often the icon disappears. On Windows versions prior to Vista, this icon was controlled by the lights.exe application. However, Windows Vista incorporated this capability directly into the OS and is controlled by the Taskbar and Start Menu Properties dialog.
 
-[![image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/DisappearingSystemTrayIconsonWindowsVist_14CD/image_thumb.png)](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/DisappearingSystemTrayIconsonWindowsVist_14CD/image_2.png) 
+![image](/img/posts/{ page.id }/image_2.png) 
 
 This is great, except for the fact that when the icon disappears from the notification area, the checkbox becomes disabled on the property dialog. This tends to make it a bit difficult to re-enable.
 
 Fortunately the work-around until this problem actually gets fixed is relatively simple. (If you experience this problem, be sure to [vote](https://connect.microsoft.com/feedback/ViewFeedback.aspx?FeedbackID=320435&SiteID=480) for the bug on Microsoft Connect.)
 
-Vista keeps a cache of the recently used icons in the registry under the HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify key.
+Vista keeps a cache of the recently used icons in the registry under the `HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify` key.
 
 ![](http://www.colincochrane.com/image.axd?picture=registry-location.JPG)
 

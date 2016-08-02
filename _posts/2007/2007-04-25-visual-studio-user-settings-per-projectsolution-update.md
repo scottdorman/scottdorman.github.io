@@ -39,7 +39,7 @@ It turns out that a [similar request](https://connect.microsoft.com/VisualStudio
 > 3. Double-click on "EnvironmentEvents" to show the source code
 > 4. Add this code just above the "End Module" statement at the end of the file:
 > 
-> '''''''''''''
+> ````
 >     Private Sub SolutionEvents_Opened() Handles SolutionEvents.Opened
 >         Dim item As ProjectItem = DTE.Solution.FindProjectItem("VsEditorFormatting.vssettings")
 >         If Not item Is Nothing Then
@@ -47,7 +47,7 @@ It turns out that a [similar request](https://connect.microsoft.com/VisualStudio
 >             DTE.ExecuteCommand("Tools.ImportandExportSettings", "/import:""" & name & """")
 >         End If
 >     End Sub
-> '''''''''''''
+> ````
 > 
 > What this does is hook up a handler for the "Solution.Opened" event. When it fires, the code looks for your "VsEditorFormatting.vssettings" file in the solution and, if it's found, it imports that file.
 > 
@@ -56,7 +56,7 @@ It turns out that a [similar request](https://connect.microsoft.com/VisualStudio
 > 
 > Now, every time you open a solution containing a "VsEditorFormatting.vssettings" file, it will be automatically imported for you. You will can need to share this macro with your co-workers so that they can take advantage of it.
 
-Another solution, sent to the [Subtext](http://subtextproject.com/) mailing list by [Andrew Connell](http://andrewconnell.com/blog/ "Andrew Connell"), uses multiple shortcuts that launch Visual Studio 2005 and automatically load a settings file. The command line is:
+Another solution, sent to the [Subtext](http://subtextproject.com/) mailing list by [Andrew Connell](http://andrewconnell.com/blog/), uses multiple shortcuts that launch Visual Studio 2005 and automatically load a settings file. The command line is:
 
 > devenv.exe /resetsettings settingsfile.vssettings
 

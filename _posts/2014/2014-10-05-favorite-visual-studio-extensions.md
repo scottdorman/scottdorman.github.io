@@ -4,9 +4,9 @@ title: Favorite Visual Studio Extensions
 date: 2014-10-05 11:10:58 -05:00
 ---
 
-The [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/) is the best place to find tools, controls, and templates to help make your life as a developer easier and more productive. Every so often, I publish my personal list of favorite extensions. This is something I started back when Visual Studio 2010 was first released. A lot has changed since then. I have already published my favorites list for Visual Studio 2013 several times. As new extensions are released, old ones updated or removed, the list does change a bit from time to time. This time, I’m going to separate the list into two sections, those extensions I feel are “must haves” and those I feel are “really nice to have”.
+The [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/) is the best place to find tools, controls, and templates to help make your life as a developer easier and more productive. Every so often, I publish my personal list of favorite extensions. This is something I started back when Visual Studio 2010 was first released. A lot has changed since then. I have already published my favorites list for Visual Studio 2013 several times. As new extensions are released, old ones updated or removed, the list does change a bit from time to time. This time, I'm going to separate the list into two sections, those extensions I feel are "must haves" and those I feel are "really nice to have".
 
-## The “Must Haves”
+## The "Must Haves"
 
 These extensions are almost always language/platform agnostic and just make Visual Studio better and/or easier to work in. A lot of these, but not all, are from Microsoft, Microsoft DevLabs, or Microsoft employees (current and former).
 
@@ -31,7 +31,7 @@ These extensions are almost always language/platform agnostic and just make Visu
 *   [VSCommands for Visual Studio 2013](http://visualstudiogallery.msdn.microsoft.com/c6d1c265-7007-405c-a68b-5606af238ece)
 *   [Trailing Whitespace Visualizer](http://visualstudiogallery.msdn.microsoft.com/a204e29b-1778-4dae-affd-209bea658a59)  
 
-## The “Really Nice to Haves”
+## The "Really Nice to Haves"
 
 These extensions generally fall into language specific or technology specific extensions. That really means they may only b useful to you at certain times.
 

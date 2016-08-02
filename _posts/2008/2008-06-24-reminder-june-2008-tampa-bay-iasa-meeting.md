@@ -15,7 +15,7 @@ Just a reminder that the Tampa Bay IASA June meeting is this Thursday night (Jun
 
 ***Speaker:*** *Randy Patterson has spent over 15 years as a software developer and is currently working for Catapult Systems as a Senior Lead Consultant. He has spoken at several Code Camps and Users Groups throughout Florida. He also started the Tampa .NET Users group in 2000 when .NET was in beta and is currently helping to start the International Association of Software Architects, Tampa Chapter.*
 
-***When & Where:***       
+### When & Where:
 Thursday, June 26, 2008 from 06:30 PM - 08:30 PM (ET)       
 Microsoft Corporation       
 3000 Bayport Drive       
@@ -24,5 +24,3 @@ Tampa, FL 33607
 
 [View a map](http://list-manage.com/track/click?u=def661e5fb5b51ddb3bafdd75&id=623dad369a&e=5d2dfec64d)       
 [View 1-Click Directions](http://list-manage.com/track/click?u=def661e5fb5b51ddb3bafdd75&id=dcbf1f84de&e=5d2dfec64d)
-
-  <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:002d62ca-0e10-468c-b69b-2bc42fa8b3d9" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">*Technorati Tags: [IASA](http://technorati.com/tags/IASA), [Meetings](http://technorati.com/tags/Meetings)*</div>

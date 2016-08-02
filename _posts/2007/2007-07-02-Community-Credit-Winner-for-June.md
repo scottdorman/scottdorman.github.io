@@ -4,7 +4,7 @@ title: Community Credit Winner for June
 date: 2007-07-02 19:01:12 -05:00
 ---
 
-![](http://www.community-credit.com/images/prizes/green-laser-pointer2_large.jpg)I am pleased to announce that I just won 4th place for the June 2007 Community Credit competition. This is 4th place out of a total of 7214 members.
+I am pleased to announce that I just won 4th place for the June 2007 Community Credit competition. This is 4th place out of a total of 7214 members.
 
 The even more amazing thing, at least to me, is that I managed to win 4th place with an 85% curve on my points as part of the handicapping system. The worst is that now I have an even higher handicap to beat.
 

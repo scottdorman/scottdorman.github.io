@@ -36,6 +36,6 @@ Earlier this month, the Code Analysis Team [talked](http://blogs.msdn.com/fxcop/
 
 *   CA2110 [SecureGetObjectDataOverrides](http://msdn2.microsoft.com/en-us/library/ms182315(VS.80).aspx) 
 
-The part that I find most surprising and troubling are the rules that were removed because of the removal of the data flow engine. I understand the reasoning and look forward to seeing the new engine based on the [Phoenix](http://research.microsoft.com/phoenix/ "Phoenix") technology.
+The part that I find most surprising and troubling are the rules that were removed because of the removal of the data flow engine. I understand the reasoning and look forward to seeing the new engine based on the [Phoenix](http://research.microsoft.com/phoenix/) technology.
 
 The other interesting thing is how similar the rules are between the integrated code analysis in Visual Studio and the stand-alone FxCop 1.36 release. It's good to see Microsoft continuing to keep these in sync, although it would be good if the code metrics related rules were also included in FxCop.

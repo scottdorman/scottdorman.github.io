@@ -12,7 +12,7 @@ That sounds vaguely important, so let me say it again:
 
 > It is more important to understand how to use the garbage collection system in .NET than it is to understand how it works.
 
-Knowing how the garbage collection system works is important, especially if you are writing your own class libraries or working with a lot of unmanaged code. In that case, you also need to know how to [Implement IDisposable and the Dispose Pattern properly](http://www.codeproject.com/KB/dotnet/idisposable.aspx "Implementing IDisposable and the Dispose Pattern Properly").
+Knowing how the garbage collection system works is important, especially if you are writing your own class libraries or working with a lot of unmanaged code. In that case, you also need to know how to [Implement IDisposable and the Dispose Pattern properly](http://www.codeproject.com/KB/dotnet/idisposable.aspx).
 
 However, knowing how to properly use the garbage collection system is more important. Using the garbage collection system correctly is critical to ensure the proper, timely cleanup of resources. Unfortunately, there is nothing in .NET that forces you to call **Dispose** when you are done using a class instance and nothing that forces you to use proper exception handling to make sure that **Dispose** is called even when an exception is thrown.
 
@@ -65,7 +65,7 @@ The bottom line is this:
 
 > If the class implements **IDisposable**, there's a reason for it and any instances should have their lifetime properly scoped to help the garbage collector do it's job. Unless there is a **very** compelling reason not to, you should call **Dispose** as early as possible and ensure that it will be called even if there are exceptions.
 
-If you want to understand the internals of how garbage collection works, there are numerous resources available, including two articles written by Jeffery Richter for MSDN Magazine, that do an excellent job. If you want more information on how to implement the **IDisposable** pattern, look at my [article](http://www.codeproject.com/KB/dotnet/idisposable.aspx "Implementing IDisposable and the Dispose Pattern Properly"), [Joe Duffy's blog post](http://www.bluebytesoftware.com/blog/PermaLink,guid,88e62cdf-5919-4ac7-bc33-20c06ae539ae.aspx), or the *[Framework Design Guidelines](http://amzn.to/28JOJA1)*.
+If you want to understand the internals of how garbage collection works, there are numerous resources available, including two articles written by Jeffery Richter for MSDN Magazine, that do an excellent job. If you want more information on how to implement the **IDisposable** pattern, look at my [article](http://www.codeproject.com/KB/dotnet/idisposable.aspx), [Joe Duffy's blog post](http://www.bluebytesoftware.com/blog/PermaLink,guid,88e62cdf-5919-4ac7-bc33-20c06ae539ae.aspx), or the *[Framework Design Guidelines](http://amzn.to/28JOJA1)*.
 
 Here is a partial list of references:
 
@@ -80,4 +80,4 @@ Here is a partial list of references:
 * [DG Update: Dispose, Finalization, and Resource Management](http://www.bluebytesoftware.com/blog/PermaLink,guid,88e62cdf-5919-4ac7-bc33-20c06ae539ae.aspx)
 * [Implementing IDisposable and the Dispose Pattern properly](http://www.codeproject.com/KB/dotnet/idisposable.aspx)
 
-*<font size="1">[Update, 22-Jan-2008: Updated the article link for Code Project.]</font>*
+*<small>[Update, 22-Jan-2008: Updated the article link for Code Project.]</small>*

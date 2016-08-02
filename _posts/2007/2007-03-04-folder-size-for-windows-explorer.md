@@ -4,12 +4,12 @@ title: Folder Size for Windows Explorer
 date: 2007-03-04 11:49:00 -05:00
 ---
 
-![](http://gwb.blob.core.windows.net/sdorman/5006/o_foldersize.jpg) If you have ever wanted to know how big a folder was, you had two options:
+![](/img/posts/{ page.id }/o_foldersize.jpg) 
 
-1.  Open a dos prompt and get a directory listing 
+If you have ever wanted to know how big a folder was, you had two options:
 
-    Open the properties for the folder
-
+1. Open a dos prompt and get a directory listing 
+2. Open the properties for the folder
 
 Wouldn't it be great if the folder size could be displayed right in Windows Explorer, just like it does for file size? Well, thanks to this [post](http://blogs.msdn.com/noahc/archive/2007/02/26/folder-size-for-windows-explorer.aspx) on [Noah's](http://blogs.msdn.com/noahc/default.aspx) blog, it is now possible! 
 

@@ -20,7 +20,3 @@ For sites that aren't on the profile list, you can still get our enhanced shots:
 *   However, links to standard web content generally **will not** receive Snap Shots. 
 
 Currently, Snap Shots Add-On is only available for Firefox (Mac and Windows) and Internet Explorer (Windows). A Safari version will be released soon. 
-
-[<a href="http://www.snap.com/about/shotsdownload.php">![](http://blog.snap.com/wp-content/uploads/DownloadSnapShotsAddOn.png)</a>](http://www.snap.com/about/shotsdownload.php)
-
-[![](http://i.snap.com/images/btn_downloadFF.gif)](http://www.snap.com/about/shotsdownload.php)

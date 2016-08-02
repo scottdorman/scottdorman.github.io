@@ -8,8 +8,8 @@ date: 2007-10-26 21:40:30 -05:00
 
 Some of the key features of Microsoft SharedView are:
 
-*   Hold more effective meetings and conference calls
-*   *   Connect with up to 15 people in different locations and get your point across by showing them what's on your screen. Work together in real time
-*   *   Share, review, and update documents with multiple people in real time. Use when and where you want
-*   *   SharedView is easy to use, from anywhere, at a moment's notice. New in Beta 2!
-*   *   Improved performance, sign-in and join experiences. Group chat has been added so you can to send messages to the other people in a session.
+* Hold more effective meetings and conference calls
+* Connect with up to 15 people in different locations and get your point across by showing them what's on your screen. Work together in real time
+* Share, review, and update documents with multiple people in real time. Use when and where you want
+* SharedView is easy to use, from anywhere, at a moment's notice. New in Beta 2!
+* Improved performance, sign-in and join experiences. Group chat has been added so you can to send messages to the other people in a session.

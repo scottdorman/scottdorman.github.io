@@ -21,7 +21,7 @@ date: 2008-03-12 13:15:43 -05:00
 **Topic:**
        </td>        <td valign="top" colspan="2">         
 
-My 10 Years In Identity – A Veteran’s Experience Succeeding With Identity Management
+My 10 Years In Identity – A Veteran's Experience Succeeding With Identity Management
        </td>     </tr>      <tr>       <td valign="top" width="175">         
 
        </td>        <td style="padding-left: 20px" colspan="2">         
@@ -33,7 +33,7 @@ My 10 Years In Identity – A Veteran’s Experience Succeeding With Identity Ma
        </td>        <td valign="top" colspan="2">         
 
 Mark Willoughby, Product Marketing Manager, CISSP, [Symplified, Inc.](http://symplified.com)
-         *At Symplified, Mark Willoughby manages product Marketing. With more than 20 years’ experience in information technology, information security and the media, he was the ideal person to fill this position. His background includes stints as a reporter and editor, a political aide, and business development and marketing positions at AT&T, Cray Research, Hewlett Packard Co. and Verizon Business. Mark also managed sales and marketing for startups in security and identity products and services. With degrees in both journalism and computer science, Mark is a Certified Information Systems Security Professional (CISSP), a U.S. Air Force veteran, and has published numerous articles in the information security and IT trade media.* </td>     </tr>      <tr>       <td valign="top" width="175">         
+         *At Symplified, Mark Willoughby manages product Marketing. With more than 20 years' experience in information technology, information security and the media, he was the ideal person to fill this position. His background includes stints as a reporter and editor, a political aide, and business development and marketing positions at AT&T, Cray Research, Hewlett Packard Co. and Verizon Business. Mark also managed sales and marketing for startups in security and identity products and services. With degrees in both journalism and computer science, Mark is a Certified Information Systems Security Professional (CISSP), a U.S. Air Force veteran, and has published numerous articles in the information security and IT trade media.* </td>     </tr>      <tr>       <td valign="top" width="175">         
 
 **Location:**
        </td>        <td valign="top" width="250">         
@@ -44,8 +44,8 @@ Suite 480
 Tampa, FL 33607 
        </td>        <td valign="top">         
 
-          <div class="wlWriterSmartContent" id="scid:84E294D0-71C9-4bd0-A0FE-95764E0368D9:fafe0254-cc61-4202-94a3-eacbed2d41d1" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[![Map image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/map-454da217f631.jpg)](http://maps.live.com/default.aspx?v=2&cp=27.96632~-82.54968&lvl=15&style=r&scene=9531687&sp=aN.27.96704_-82.54985_Untitled%2520pushpin_&mkt=en-US&FORM=LLWR "Click to view this map on Live.com")</div>            
-[View a larger map](http://maps.live.com/default.aspx?cp=27.966888~-82.549685&lvl=14&style=r&v=2&sp=Point.27.966888_-82.549685_Microsoft+Corp "View a larger map")             
+          <div class="wlWriterSmartContent" id="scid:84E294D0-71C9-4bd0-A0FE-95764E0368D9:fafe0254-cc61-4202-94a3-eacbed2d41d1" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[![Map image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/map-454da217f631.jpg)](http://maps.live.com/default.aspx?v=2&cp=27.96632~-82.54968&lvl=15&style=r&scene=9531687&sp=aN.27.96704_-82.54985_Untitled%2520pushpin_&mkt=en-US&FORM=LLWR)</div>            
+[View a larger map](http://maps.live.com/default.aspx?cp=27.966888~-82.549685&lvl=14&style=r&v=2&sp=Point.27.966888_-82.549685_Microsoft+Corp)             
 [View 1-Click Directions](http://maps.live.com/OneClickDirections.aspx?mkt=en-us&rtp=~pos.27.968023982861645_-82.549467086792&FORM=LLMP)           
 
        </td>     </tr>      <tr>       <td valign="top" colspan="3">         

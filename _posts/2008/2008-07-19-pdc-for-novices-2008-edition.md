@@ -8,7 +8,7 @@ I started doing these a few years ago for Tech·Ed ([2008]({% post_url /2008/200
 
 # Session Types
 
-This year PDC is offering a slightly different mix of session types with what they are calling “UnSessions”. The bottom line is that UnSessions are everything that isn’t an official breakout session. If you’re still a bit confused, keep reading to see the differences. There may be some other session types once the schedule has been finalized, and if so, I’ll update this post with the new information.
+This year PDC is offering a slightly different mix of session types with what they are calling "UnSessions". The bottom line is that UnSessions are everything that isn't an official breakout session. If you're still a bit confused, keep reading to see the differences. There may be some other session types once the schedule has been finalized, and if so, I'll update this post with the new information.
 
 ### Breakout Session
 
@@ -16,7 +16,7 @@ Breakout sessions are what everyone probably thinks of when they think of a conv
 
 ### Open Space
 
-If you’ve been to a Tech·Ed conference and participated in a “Birds of a Feather” session or any of the Alt.NET conferences you already know what Open Space is. Simply put, Open Space is a way to bring together groups of people who share a common interest to have an interactive discussion.
+If you've been to a Tech·Ed conference and participated in a "Birds of a Feather" session or any of the Alt.NET conferences you already know what Open Space is. Simply put, Open Space is a way to bring together groups of people who share a common interest to have an interactive discussion.
 
 ### Hands-on Lab (HOL)
 
@@ -24,15 +24,15 @@ The Hands-on Labs are self-paced technical labs. They are a great way to get dir
 
 ### Other UnSessions
 
-The rest of the UnSessions are either one-time events or don’t fall into any specific categorization. They are:
+The rest of the UnSessions are either one-time events or don't fall into any specific categorization. They are:
 
 **Amazing Scenarios**: These are real customer examples of extreme technology use and are showcased in the Expo area.
 
 **Ask-the-Experts**: An evening with Microsoft technical experts representing all of the major technologies and areas of the Microsoft platform. This is your chance to have some one-on-one time to get questions answered, provide feedback or find out more details on a topic.
 
-**Microsoft Product Pavilion:** Think of this as the Microsoft product showcase. It’s your chance to learn about existing products or technologies as well as new ones that will be released in the coming year.
+**Microsoft Product Pavilion:** Think of this as the Microsoft product showcase. It's your chance to learn about existing products or technologies as well as new ones that will be released in the coming year.
 
-**PDC Lounges:** These are a great way to unwind and help deal with the information overload. It’s an open area to relax and talk with people. They are located in the “Big Room”, next to the Hands-on-Labs, Expo area and Microsoft Pavilion.
+**PDC Lounges:** These are a great way to unwind and help deal with the information overload. It's an open area to relax and talk with people. They are located in the "Big Room", next to the Hands-on-Labs, Expo area and Microsoft Pavilion.
 
 # Building Your Schedule
 
@@ -98,12 +98,10 @@ As you can see, there is a ton of information and it can be quite overwhelming f
 
 ### Some other Odds and Ends
 
-*   Don’t miss the keynote, but get there early if you want a good seat.
+*   Don't miss the keynote, but get there early if you want a good seat.
 *   If you want to buy anything from the conference store, wait until the end of the week when the prices drop.
-*   Take advantage of the networking opportunities presented. There will be some big names at the conference who are more than happy to talk to you…but they aren’t going to come to you.
-*   You can should be able to get the food “to go”, but you will have to ask one of the catering staff.
-*   The wireless “lounges” fill up quickly so you may have to sit on the floor near one of the tables, or just find any convenient area that still has connectivity.  
+*   Take advantage of the networking opportunities presented. There will be some big names at the conference who are more than happy to talk to you...but they aren't going to come to you.
+*   You can should be able to get the food "to go", but you will have to ask one of the catering staff.
+*   The wireless "lounges" fill up quickly so you may have to sit on the floor near one of the tables, or just find any convenient area that still has connectivity.  
 
 In the end, enjoy the conference. It's a great way to get some excellent technical information and some excellent networking opportunities.
-
-  <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d713273b-2a13-4002-a6d6-7e7ce8980cf6" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">*Technorati Tags: [PDC](http://technorati.com/tags/PDC)*</div>

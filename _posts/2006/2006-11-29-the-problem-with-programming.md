@@ -4,7 +4,7 @@ title: The Problem with Programming
 date: 2006-11-29 13:37:00 -05:00
 ---
 
-Yesterday, the Technology Review published an [interview](http://www.technologyreview.com/InfoTech/17831/page1/ "Technology Review: The Problem with Programming") with [Bjarne Stroustrup](http://parasol.tamu.edu/people/bs/ "Bjarne Stroustrup"). It is an interesting interview, but I think it leaves out some important aspects of the real problems.
+Yesterday, the Technology Review published an [interview](http://www.technologyreview.com/InfoTech/17831/page1/ ) with [Bjarne Stroustrup](http://parasol.tamu.edu/people/bs/). It is an interesting interview, but I think it leaves out some important aspects of the real problems.
 
 > I think the real problem is that "we" (that is, we software developers) are in a permanent state of emergency, grasping at straws to get our work done. We perform many minor miracles through trial and error, excessive use of brute force, and lots and lots of testing, but--so often--it's not enough.
 

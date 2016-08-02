@@ -4,9 +4,9 @@ title: The history of C#
 date: 2007-09-26 12:13:39 -05:00
 ---
 
-I just came across a very interesting post from [James Kovacs](http://www.jameskovacs.com/blog/CNETHistoryLesson.aspx ".NET History Lesson") that describes how C# and .NET evolved. I had [blogged]({% post_url /2006/2006-11-27-the-birth-of-the-clr %}) about this almost a year ago, but James' post adds some additional background.
+I just came across a very interesting post from [James Kovacs](http://www.jameskovacs.com/blog/CNETHistoryLesson.aspx) that describes how C# and .NET evolved. I had [blogged]({% post_url /2006/2006-11-27-the-birth-of-the-clr %}) about this almost a year ago, but James' post adds some additional background.
 
-Around 1997, Microsoft started a project that was internally known as [Project Lightning](http://en.wikipedia.org/wiki/List_of_Microsoft_codenames "http://en.wikipedia.org/wiki/List_of_Microsoft_codenames") (and also known as Project 42). The name "Project 42" was most likely because DevDiv (the Microsoft Developer Division) is in Building 42, which (as James points out) is probably an homage to [The Hitchhiker's Guide to the Galaxy](http://amzn.to/28JSQMi) by Douglas Adams.
+Around 1997, Microsoft started a project that was internally known as [Project Lightning](http://en.wikipedia.org/wiki/List_of_Microsoft_codenames) (and also known as Project 42). The name "Project 42" was most likely because DevDiv (the Microsoft Developer Division) is in Building 42, which (as James points out) is probably an homage to [The Hitchhiker's Guide to the Galaxy](http://amzn.to/28JSQMi) by Douglas Adams.
 
 There were several names being considered, one of which was the COM Object Runtime (COR), which is where the name for the mscorlib.dll assembly came from. This is the assembly which contains all of the CLR's main types and is really the only one that must be loaded by every .NET app domain.
 

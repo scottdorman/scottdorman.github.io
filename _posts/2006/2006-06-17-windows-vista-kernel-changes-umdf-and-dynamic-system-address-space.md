@@ -4,13 +4,13 @@ title: "Windows Vista: Kernel Changes - UMDF and Dynamic System Address Space"
 date: 2006-06-17 15:30:00 -05:00
 ---
 
-##User-Mode Driver Framework (UMDF)
+## User-Mode Driver Framework (UMDF)
 
 > Everyone has seen at least one Blue Screen of Death (BSOD) when it comes to buggy kernel-mode drivers causing a crash or allowing privilege escalation.
  
 UMDF is Vista's attempt to solve at least some of these problems and supports migration of some USB, Bluetooth, and IP drivers to user mode.
  
-Why is this good? Bugs in the driver won't crash the operating system and user-mode drivers can be transparently “restarted“.
+Why is this good? Bugs in the driver won't crash the operating system and user-mode drivers can be transparently "restarted".
  
 Devices that are currently supporting UMDF are:
 
@@ -21,7 +21,7 @@ Devices that are currently supporting UMDF are:
 
 A UMDF driver runs in a dedicated host process created by the UMDF service under the Local Service account to prevent privilege escalation and cannot directly access hardware or kernel memory. The UMDF Reflector manages the interface to system kernel-mode drivers.
 
-##Dynamic System Address Space
+## Dynamic System Address Space
 
 > In 32-bit Vista virtual memory is assigned as needed which permits larger paged, non-paged and session pools. This supports larger terminal servers, desktop heaps, etc., but components still cannot exceed 2 GB.
  

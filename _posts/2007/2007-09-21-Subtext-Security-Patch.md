@@ -8,7 +8,7 @@ date: 2007-09-21 23:24:47 -05:00
 
 If you are running Subtext 1.9.x, a patched version of the *Subtext.Providers.BlogEntryEditor.FCKeditor.dll* is available as a zip file. After you [download the patch (*Subtext1.9.5-PATCH.zip 7.72KB*)](http://downloads.sourceforge.net/subtext/Subtext1.9.5-PATCH.zip?use_mirror=easynews) , unzip the assembly and copy it into your bin directory. 
 
-If you’re running a customized version and the above patch causes problems, you can workaround this issue by backing up and then temporarily removing the following directory in your installation. 
+If you're running a customized version and the above patch causes problems, you can workaround this issue by backing up and then temporarily removing the following directory in your installation. 
 
 > `Providers\BlogEntryEditor\FCKeditor\editor\filemanager`
 

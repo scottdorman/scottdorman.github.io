@@ -6,13 +6,9 @@ date: 2008-02-24 19:46:00 -05:00
 
 Last week, some improvements to Windows Live Search were [announced](http://blogs.msdn.com/webmaster/default.aspx) which will improve the efficiency of how Live Search crawls and indexes a web site. The main improvements are:
 
-*   
+* **HTTP Compression**, which allows faster transmission time by compressing static files and application responses, reducing network load between the web server and the Live Search crawler.
 
-**HTTP Compression**, which allows faster transmission time by compressing static files and application responses, reducing network load between the web server and the Live Search crawler.
-
-*   
-
-**Conditional Get**, as defined by RFC 2616 (Section 14.25). What this means is that generally a page will not be downloaded unless it has changed since the last crawl.
+* **Conditional Get**, as defined by RFC 2616 (Section 14.25). What this means is that generally a page will not be downloaded unless it has changed since the last crawl.
 
 There are some other improvements as well, which also caused the user agent to change. The new user agent is "msnbot/1.1".
 

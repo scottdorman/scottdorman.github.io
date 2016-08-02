@@ -6,7 +6,7 @@ date: 2007-05-15 11:22:32 -05:00
 
 It was just pointed out to me that I missed publishing the calendar for the Management and Operations Track. It is now available at:
 
-[webcals://calendars.office.microsoft.com/pubcalstorage/q40rvv4z74713/TechEd_2007_-_Management_and_Operations_Track_Calendar.ics](webcals://calendars.office.microsoft.com/pubcalstorage/q40rvv4z74713/TechEd_2007_-_Management_and_Operations_Track_Calendar.ics "webcals://calendars.office.microsoft.com/pubcalstorage/q40rvv4z74713/TechEd_2007_-_Management_and_Operations_Track_Calendar.ics")
+[webcals://calendars.office.microsoft.com/pubcalstorage/q40rvv4z74713/TechEd_2007_-_Management_and_Operations_Track_Calendar.ics](webcals://calendars.office.microsoft.com/pubcalstorage/q40rvv4z74713/TechEd_2007_-_Management_and_Operations_Track_Calendar.ics)
 
 The complete list is:
 

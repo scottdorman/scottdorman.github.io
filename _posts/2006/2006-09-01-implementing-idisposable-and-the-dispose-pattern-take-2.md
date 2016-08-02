@@ -14,4 +14,4 @@ As soon as I discovered the discrepancies I went to work on updating the article
 
 Despite the fact that the article expanded so much, I hope it is still serves as a good beginners guide to implementing the Dispose pattern properly.
 
-*<font size="1">[Update, 22-Jan-2008: Updated the article link for Code Project.]</font>*
+*<small>[Update, 22-Jan-2008: Updated the article link for Code Project.]</small>*

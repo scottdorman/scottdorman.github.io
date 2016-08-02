@@ -14,27 +14,21 @@ Like Travis, I routinely have common actions that need to happen before anything
 
 This is one area where NAnt tasks do provide more flexibility than MSBuild tasks. The only way to pass information into an MSBuild task is through explicit properties (attributes) on the task. Hopefully this is something that later versions of MSBuild will address, but for now there is no way to do this.
 
-> **NAnt properties are manipulated in a consistent fashion; MSBuild properties are handled differently in different contexts.** In NAnt, I can create or change a property just by calling the <property> task. In MSBuild, it's different if I'm outside of a target (<PropertyGroup>) or inside a target (<CreateProperty>). This inconsistency makes for a difficult learning curve.
+> **NAnt properties are manipulated in a consistent fashion; MSBuild properties are handled differently in different contexts.** In NAnt, I can create or change a property just by calling the `<property>` task. In MSBuild, it's different if I'm outside of a target (<PropertyGroup>) or inside a target (<CreateProperty>). This inconsistency makes for a difficult learning curve.
 
 This is true for versions of MSBuild earlier than the v3.5 release. MSBuild 3.5 has added [new methods for manipulating items and properties](http://msdn2.microsoft.com/library/bb651786.aspx), which allow you to define an ItemGroup or a PropertyGroup inside a target in the same way you do outside of a target. The CreateItem and CreateProperty tasks are still available, but you no longer need to use them.
 
-> **NAnt wildcards, when dealing with the filesystem, match both files and folders; MSBuild wildcards only match files.** This is a heck of a problem when you want to create a dynamic item list in MSBuild of folders you want to clean up. You can't just delete "**/bin" - you have to manually locate *every single one*.
+> **NAnt wildcards, when dealing with the filesystem, match both files and folders; MSBuild wildcards only match files.** This is a heck of a problem when you want to create a dynamic item list in MSBuild of folders you want to clean up. You can't just delete `**/bin` - you have to manually locate *every single one*.
 
 I think this is more of a syntax problem. MSBuild uses the same wild-card syntax as NAnt, which means the following ItemGroup will match all files in the current directory and any subdirectory:
-  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 98.24%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; height: 84px; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     
 
-<span style="color: #606060">   1:</span> <span style="color: #0000ff"><</span><span style="color: #800000">ItemGroup</span><span style="color: #0000ff">></span>
+```
+<ItemGroup>
+  <Files  Include ="**\bin\**" />
+</ItemGroup>
+```
 
-<span style="color: #606060">   2:</span>     <span style="color: #0000ff"><</span><span style="color: #800000">Files</span> <span style="color: #ff0000">Include</span><span style="color: #0000ff">="**\bin\**"</span><span style="color: #0000ff">/></span>
-
-<span style="color: #606060">   3:</span> <span style="color: #0000ff"></</span><span style="color: #800000">ItemGroup</span><span style="color: #0000ff">></span>
-
-  </div>
-</div>
-
-
-
-> **NAnt allows you to load an entire assembly's worth of tasks at once; MSBuild requires each task to be separately loaded.** In NAnt, I do <loadtasks> on an assembly and I've got all of the tasks in the assembly at my disposal. In MSBuild, I have to do a <UsingTask> for every single task I'm using.
+> **NAnt allows you to load an entire assembly's worth of tasks at once; MSBuild requires each task to be separately loaded.** In NAnt, I do `<loadtasks>` on an assembly and I've got all of the tasks in the assembly at my disposal. In MSBuild, I have to do a <UsingTask> for every single task I'm using.
 
 This is entirely true. NAnt allows you to load an entire assembly's tasks all at once while MSBuild requires you to specify a UsingTask element for each task in the assembly you want to use. There really isn't a way around this, however you can create a "Tasks" file that lists the tasks. If your task assembly is named "BuildSystemCommonTasks.dll", you would create a file named "BuildSystemCommonTasks.Tasks", which would include all of the UsingTask elements for each task defined in the task assembly. You can then import this file using the Import element.
 

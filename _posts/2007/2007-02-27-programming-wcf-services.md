@@ -4,7 +4,7 @@ title: Programming WCF Services
 date: 2007-02-27 22:54:00 -05:00
 ---
 
-![](http://gwb.blob.core.windows.net/sdorman/5006/o_0596526993.gif)![](http://gwb.blob.core.windows.net/sdorman/5006/o_0596513801.gif)
+![](/img/posts/{ page.id }/o_0596526993.gif) ![](/img/posts/{ page.id }/o_0596513801.gif)
 
 A new [book](http://amzn.to/28JP1H3) on WCF was just published by [Juval Lowy](http://www.idesign.net/idesign/DesktopDefault.aspx?tabindex=3&tabid=5) at [IDesign](http://www.idesign.net/). For those of you that don't know, Juval is Microsoft's Regional Director for the Silicon Valley area and has helped in the internal strategic design reviews for the .NET Framework. He has presented sessions at the last two Tech·Ed conferences on WCF and  helped shape the technical strategy and direction for WCF with Microsoft.
 

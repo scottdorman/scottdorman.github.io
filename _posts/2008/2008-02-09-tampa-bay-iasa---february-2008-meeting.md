@@ -32,7 +32,7 @@ Write less code and create more maintainable applications by leveraging AOP to h
 **Speaker:**
        </td>        <td valign="top" colspan="2">         
 
-[David Hayden](http://www.davidhayden.com/) is an independent consultant in Sarasota, Florida specializing in ASP.NET web applications using Microsoft’s patterns and practices. He is also a Microsoft MVP in C# and very active in the Enterprise Library and Software Factory communities. He runs two active blogs at [CodeBetter.com](http://www.codebetter.com/) and [DavidHayden.com](http://www.davidhayden.com/).
+[David Hayden](http://www.davidhayden.com/) is an independent consultant in Sarasota, Florida specializing in ASP.NET web applications using Microsoft's patterns and practices. He is also a Microsoft MVP in C# and very active in the Enterprise Library and Software Factory communities. He runs two active blogs at [CodeBetter.com](http://www.codebetter.com/) and [DavidHayden.com](http://www.davidhayden.com/).
        </td>     </tr>      <tr>       <td valign="top" width="175">         
 
 **Design Pattern Overview:**
@@ -50,8 +50,8 @@ Suite 480
 Tampa, FL 33607 
        </td>        <td valign="top">         
 
-<div class="wlWriterSmartContent" id="scid:84E294D0-71C9-4bd0-A0FE-95764E0368D9:fafe0254-cc61-4202-94a3-eacbed2d41d1" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[![Map image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/map-454da217f631.jpg)](http://maps.live.com/default.aspx?v=2&cp=27.96632~-82.54968&lvl=15&style=r&scene=9531687&sp=aN.27.96704_-82.54985_Untitled%2520pushpin_&mkt=en-US&FORM=LLWR "Click to view this map on Live.com")</div>              
-[View a larger map](http://maps.live.com/default.aspx?cp=27.966888~-82.549685&lvl=14&style=r&v=2&sp=Point.27.966888_-82.549685_Microsoft+Corp "View a larger map")               
+<div class="wlWriterSmartContent" id="scid:84E294D0-71C9-4bd0-A0FE-95764E0368D9:fafe0254-cc61-4202-94a3-eacbed2d41d1" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[![Map image](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TampaBayIASAFebruary2008Meeting_9EC6/map-454da217f631.jpg)](http://maps.live.com/default.aspx?v=2&cp=27.96632~-82.54968&lvl=15&style=r&scene=9531687&sp=aN.27.96704_-82.54985_Untitled%2520pushpin_&mkt=en-US&FORM=LLWR)</div>              
+[View a larger map](http://maps.live.com/default.aspx?cp=27.966888~-82.549685&lvl=14&style=r&v=2&sp=Point.27.966888_-82.549685_Microsoft+Corp)               
 [View 1-Click Directions](http://maps.live.com/OneClickDirections.aspx?mkt=en-us&rtp=~pos.27.968023982861645_-82.549467086792&FORM=LLMP)           
 
        </td>     </tr>      <tr>       <td valign="top" colspan="3">         
