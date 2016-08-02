@@ -77,7 +77,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "page"
+      type: "pages"
     values:
       nav-include: true  # include in header nav
 
