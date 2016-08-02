@@ -12,8 +12,8 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}">
-          <a href="{{ site.baseurl }}">Home{% if page.url == site.baseurl %} <span class="sr-only">(current)</span>{% endif %}</a>
+        <li class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}">
+          <a href="{{ site.url }}">Home{% if page.url == site.url %} <span class="sr-only">(current)</span>{% endif %}</a>
         </li>
         
         {% comment %}

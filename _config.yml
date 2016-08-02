@@ -1,5 +1,5 @@
 url: "http://scottdorman.github.io"
-baseurl: "/"
+#baseurl: ""
 title: Scott Dorman
 subtitle: Microsoft MVP, Software Architect, Developer, Author
 description: Scott Dorman - Microsoft MVP, Software Architect, Developer, Author
@@ -22,6 +22,8 @@ gems:
   - jekyll-feed
   - jekyll-mentions
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 # --- Footer options --- #
 
