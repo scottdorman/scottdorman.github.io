@@ -55,7 +55,7 @@ for (int i = 0; i < s.Length; i++)
 
 If you executed those lines of code in a running application, you would see the following output in the Visual Studio Output window:
 
-![](img/posts/{% page.id %}/image_3.png)
+![](img/posts/{{ page.id }}/image_3.png)
 
 In the case of a string, these enumerable or array operations return a char ([System.Char](http://msdn.microsoft.com/en-us/library/system.char.aspx)) rather than a string. That might lead you to believe that you can get around the string immutability restriction by simply treating strings as an array and assigning a new character to a specific index location inside the string, like this:
 
@@ -66,6 +66,6 @@ s[2] = 'a';
 
 However, if you were to write such code, the compiler will promptly tell you that you can't do it:
 
-![](img/posts/{% page.id %}/image_6.png)
+![](img/posts/{{ page.id }}/image_6.png)
 
 This preserves the notion that strings are immutable and cannot be changed once they are created. (Incidentally, there is no built in way to replace a single character like this. It can be done but it would require converting the string to a character array, changing the appropriate indexed location, and then creating a new string.

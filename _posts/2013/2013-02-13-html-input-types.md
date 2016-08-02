@@ -12,20 +12,20 @@ For reference, here are some of the attribute values and the keyboard that is di
 
 | **Value** | **Description** | **Keyboard (Windows 8)** |
 | --------- | --------------- | ------------------------ |
-| color | Defines a color picker | "standard" text keyboard ![Windows 8 standard keyboard](/img/posts/{% page.id %}/image_39.png) |
-| date | Defines a date control (year, month and day (no time)) | ![Windows 8 standard keyboard](/img/posts/{% page.id %}/image_40.png) |
-| datetime | Defines a date and time control (year, month, day, hour, minute, second, and fraction of a second, based on UTC time zone) | ![Windows 8 standard keyboard](/img/posts/{% page.id %}/image_41.png) |
-| datetime-local | Defines a date and time control (year, month, day, hour, minute, second, and fraction of a second (no time zone) | ![Windows 8 standard keyboard](/img/posts/{% page.id %}/image_42.png) |
-| email | Defines a field for an e-mail address | "email" keyboard ![Windows 8 "email" keyboard](/img/posts/{% page.id %}/image_43.png) |
-| month | Defines a month and year control (no time zone) | ![image](/img/posts/{% page.id %}/image_49.png "image") |
-| number | Defines a field for entering a number | "numeric" keyboard ![Windows 8 "numeric" keyboard](/img/posts/{% page.id %}/image_48.png) | 
-| password | Defines a password field (characters are masked) | "password" keyboard ![Windows 8 "password" keyboard](/img/posts/{% page.id %}/image_47.png) |
-| range | Defines a control for entering a number whose exact value is not important (like a slider control) | none, renders as a slider control ![Windows 8 Slider Control](/img/posts/{% page.id %}/image_46.png) |
-| tel | Defines a field for entering a telephone number | "numeric" keyboard ![Windows 8 "numeric" keyboard](/img/posts/{% page.id %}/image_50.png) |
-| text | Default. Defines a single-line text field (default width is 20 characters) | ![Windows 8 standard keyboard](/img/posts/{% page.id %}/image_51.png) |
-| time | Defines a control for entering a time (no time zone) | ![Windows 8 standard keyboard](/img/posts/{% page.id %}/image_52.png) |
-| url | Defines a field for entering a URL | "url" keyboard ![Windows 8 "url" keyboard](/img/posts/{% page.id %}/image_53.png) |
-| week | Defines a week and year control (no time zone) | ![Windows 8 standard keyboard](/img/posts/{% page.id %}/image_54.png) |           
+| color | Defines a color picker | "standard" text keyboard ![Windows 8 standard keyboard](/img/posts/{{ page.id }}/image_39.png) |
+| date | Defines a date control (year, month and day (no time)) | ![Windows 8 standard keyboard](/img/posts/{{ page.id }}/image_40.png) |
+| datetime | Defines a date and time control (year, month, day, hour, minute, second, and fraction of a second, based on UTC time zone) | ![Windows 8 standard keyboard](/img/posts/{{ page.id }}/image_41.png) |
+| datetime-local | Defines a date and time control (year, month, day, hour, minute, second, and fraction of a second (no time zone) | ![Windows 8 standard keyboard](/img/posts/{{ page.id }}/image_42.png) |
+| email | Defines a field for an e-mail address | "email" keyboard ![Windows 8 "email" keyboard](/img/posts/{{ page.id }}/image_43.png) |
+| month | Defines a month and year control (no time zone) | ![image](/img/posts/{{ page.id }}/image_49.png "image") |
+| number | Defines a field for entering a number | "numeric" keyboard ![Windows 8 "numeric" keyboard](/img/posts/{{ page.id }}/image_48.png) | 
+| password | Defines a password field (characters are masked) | "password" keyboard ![Windows 8 "password" keyboard](/img/posts/{{ page.id }}/image_47.png) |
+| range | Defines a control for entering a number whose exact value is not important (like a slider control) | none, renders as a slider control ![Windows 8 Slider Control](/img/posts/{{ page.id }}/image_46.png) |
+| tel | Defines a field for entering a telephone number | "numeric" keyboard ![Windows 8 "numeric" keyboard](/img/posts/{{ page.id }}/image_50.png) |
+| text | Default. Defines a single-line text field (default width is 20 characters) | ![Windows 8 standard keyboard](/img/posts/{{ page.id }}/image_51.png) |
+| time | Defines a control for entering a time (no time zone) | ![Windows 8 standard keyboard](/img/posts/{{ page.id }}/image_52.png) |
+| url | Defines a field for entering a URL | "url" keyboard ![Windows 8 "url" keyboard](/img/posts/{{ page.id }}/image_53.png) |
+| week | Defines a week and year control (no time zone) | ![Windows 8 standard keyboard](/img/posts/{{ page.id }}/image_54.png) |           
 
 Why is this important? For those of you using non-touch based devices (traditional keyboard devices like desktops and laptops), it isn't really all that important. However, it makes a huge difference when you browse to the site on a touch device and get an appropriate soft keyboard displayed for the type of data you're trying to enter.
 

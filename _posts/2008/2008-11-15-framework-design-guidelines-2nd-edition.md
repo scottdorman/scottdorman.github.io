@@ -4,7 +4,7 @@ title: Framework Design Guidelines, 2nd Edition
 date: 2008-11-15 22:41:15 -05:00
 ---
 
-![](/img/posts/{% page.id %}/5138dM4PHnL__SL500_AA240__3.jpg "5138dM4PHnL__SL500_AA240_") Those of you who know me know that I am a big proponent of code style and standards. One of the best resources I  have found for documenting a clear and thorough set of code standards is the [Framework Design Guidelines](http://amzn.to/2apv5X1) book by Brad and Krzysztof. 
+![](/img/posts/{{ page.id }}/5138dM4PHnL__SL500_AA240__3.jpg "5138dM4PHnL__SL500_AA240_") Those of you who know me know that I am a big proponent of code style and standards. One of the best resources I  have found for documenting a clear and thorough set of code standards is the [Framework Design Guidelines](http://amzn.to/2apv5X1) book by Brad and Krzysztof. 
 
 The book was recently updated for the new language features in the .NET Framework 3.0 and 3.5 releases. Some of the existing guidelines have been expanded with new annotations and more detail, and new guidance covering such features as extension methods and nullable types has also been included.
 

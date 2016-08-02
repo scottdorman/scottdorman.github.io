@@ -45,7 +45,7 @@ There is a very good open source Visual Studio [add-in](http://fxcopaddin.tigris
 
 Since this add-in modifies the project file, as soon as you add support to the project, Visual Studio prompts you to reload the project. Once you reload the project, you are presented with a security dialog:
 
-![](http://gwb.blob./img/posts/{% page.id %}.windows.net/sdorman/5006/o_sshot-2.png) 
+![](http://gwb.blob./img/posts/{{ page.id }}.windows.net/sdorman/5006/o_sshot-2.png) 
 
 You will receive this dialog the first time the project is opened. You want to select the "Load project normally" option. Fortunately, you should only need to do this once; however, if you send the solution or project to someone else, they will also see this warning.
 

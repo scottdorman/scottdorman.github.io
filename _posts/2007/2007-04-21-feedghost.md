@@ -4,7 +4,7 @@ title: FeedGhost
 date: 2007-04-21 14:03:31 -05:00
 ---
 
-![](/img/posts/{% page.id %}/image%7B0%7D4.png) 
+![](/img/posts/{{ page.id }}/image%7B0%7D4.png) 
 
 I've just found a new blog reader that promises to completely change the way you read blogs. The biggest difference between [FeedGhost](http://www.feedghost.com/Default.aspx) and other blog readers is that it works on a subscription basis. What this means is that when you subscribe to a blog, the state is kept synchronized across all machines that you have FeedGhost installed.
 
@@ -16,7 +16,7 @@ FeedGhost has been designed to provide a very modern look, similar to what you s
 
 FeedGhost also supports tabbed browsing, similar to Internet Explorer 7 and Mozilla Firefox. It can also automatically scan websites for new feeds. You can subscribe by entering a web address, dragging from your browser, or right-clicking in Internet Explorer or Firefox.
 
-![](/img/posts/{% page.id %}/image%7B0%7D8.png) In addition, FeedGhost provides an excellent tagging feature that lets you tag articles for reading later with user-defined categories. All feeds are automatically indexed to provide fast searching capabilities, including searching deleted or archived articles.
+![](/img/posts/{{ page.id }}/image%7B0%7D8.png) In addition, FeedGhost provides an excellent tagging feature that lets you tag articles for reading later with user-defined categories. All feeds are automatically indexed to provide fast searching capabilities, including searching deleted or archived articles.
 
 Going beyond normal blog readers, FeedGhost also provides good feed management tools, providing support for listing broken sites and forgotten blogs. These "problem subscriptions" are broken down by blogs that failed to update, and blogs that have not had any activity in a while.
 

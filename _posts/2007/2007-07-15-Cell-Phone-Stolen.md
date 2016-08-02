@@ -6,7 +6,7 @@ date: 2007-07-15 10:48:16 -05:00
 
 A word of advice: Don't ever leave your cell phone in a theme park.
 
-That's what happened to me on Thursday night, and in less than 5 minutes (the ![](/img/posts/{% page.id %}/JASJAR_img.jpg)</div> 
+That's what happened to me on Thursday night, and in less than 5 minutes (the ![](/img/posts/{{ page.id }}/JASJAR_img.jpg)</div> 
 
 time it took for me to walk away, realize I didn't have it, and go back) it was gone. If this were a normal cell phone, I wouldn't be quite so annoyed about it. Unfortunately, it was an i-mate [JasJar](https://www.clubimate.com/t-DETAILS_JAMCH.aspx). Since there are not very many of these in the U.S. (at least not where I live), I would be very surprised if someone turned it in to customer service at the park.
 

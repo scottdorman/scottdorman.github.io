@@ -12,7 +12,7 @@ In an attempt to solve this problem I found [SpeakerRate](http://speakerrate.com
 *   Event attendees can provide constructive feedback to speakers, track the talks they've attended, and research upcoming talks that they might attend. 
 *   Event speakers can get valuable constructive feedback directly from attendees and find out how they can improve their content and delivery for their next talk. They can also establish a SpeakerRating, which will help them earn future speaking opportunities.  
 
-![](/img/posts/{% page.id %}/image_2.png)
+![](/img/posts/{{ page.id }}/image_2.png)
 
 The nice thing about SpeakerRate is that I can provide a [speaker profile](http://speakerrate.com/sdorman). This is similar to [SpeakerWiki](http://speakerwiki.org/speakers/Scott_Dorman), but the biggest difference is that I can list all of the presentations I have given. I went through and added all of the presentations I have given since 2007 just so I have a convenient and ordered list (there are a total of 35 past presentations and 2 coming up).
 

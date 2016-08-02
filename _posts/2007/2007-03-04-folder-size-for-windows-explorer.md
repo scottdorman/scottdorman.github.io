@@ -4,7 +4,7 @@ title: Folder Size for Windows Explorer
 date: 2007-03-04 11:49:00 -05:00
 ---
 
-![](/img/posts/{% page.id %}/o_foldersize.jpg) 
+![](/img/posts/{{ page.id }}/o_foldersize.jpg) 
 
 If you have ever wanted to know how big a folder was, you had two options:
 

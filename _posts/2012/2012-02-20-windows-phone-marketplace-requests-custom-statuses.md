@@ -14,10 +14,10 @@ Previously, when a request was marked as Declined, all voting was closed. I was 
 
 As you can imagine, using this status for the last reason is actually a problem. Since voting was closed, you couldn't continue to show your support of the request. This has now changed so that when a request is marked as Declined, **you can still vote on it**. This allows me to clearly indicate the company has no plans for a Windows Phone version while still allowing everyone to continue voting for the request.
 
-![](/img/posts/{% page.id %}/image_2.png)
+![](/img/posts/{{ page.id }}/image_2.png)
 
 In addition, I have created an Off-Topic status and moved all of the real off-topic requests into this status instead of using the Declined status. This also makes it easier to find requests that are actually declined as opposed to off-topic, as you can see below.
 
-![](/img/posts/{% page.id %}/image_6.png)
+![](/img/posts/{{ page.id }}/image_6.png)
 
 This should make the site a bit easier to navigate and (hopefully) a bit easier to manage as well.

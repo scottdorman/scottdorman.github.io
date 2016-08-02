@@ -6,7 +6,7 @@ date: 2010-10-10 14:54:39 -05:00
 
 If you have children and want them to learn programming at an early age (recommended age is between 10 and 16), you should check out [Microsoft Small Basic](http://msdn.microsoft.com/en-us/beginner/ff384126.aspx), which combines a simple language and a rich set of libraries together with a friendly development environment.
 
-![Small Basic Screen Shot](/img/posts/{% page.id %}/ff384126.smallbasicscreenshot(en-us).jpg)
+![Small Basic Screen Shot](/img/posts/{{ page.id }}/ff384126.smallbasicscreenshot(en-us).jpg)
 
 The Small Basic language draws its inspiration for an early version of BASIC but it is actually based on the .NET Framework. Like the early variants of BASIC it is based on, Small Basic is imperative and doesn't use or expose beginners to concepts like scopes, types, object orientation, etc.
 
