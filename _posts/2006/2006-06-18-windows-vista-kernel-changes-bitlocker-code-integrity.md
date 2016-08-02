@@ -4,7 +4,7 @@ title: "Windows Vista: Kernel Changes - BitLocker, Code Integrity"
 date: 2006-06-18 14:18:00 -05:00
 ---
 
-## BitLocker<sup>TM</sup> Drive Encryption
+## BitLocker&trade; Drive Encryption
 
 > BitLocker allows the entire OS volume to be encrypted as well as any other volumes. In order to do this, a 1.5 GB unencrypted system volume is required.
 BitLocker requires Trusted Platform Module (TPM) v1.2 or a USB device and USB-capable BIOS and is implemented as a file filter driver that sits just above the volume manager drivers.

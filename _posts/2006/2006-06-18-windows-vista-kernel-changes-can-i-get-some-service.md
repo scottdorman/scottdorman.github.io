@@ -25,7 +25,7 @@ In order to specify the shutdown order, services must request pre-shutdown notif
 
 > Services now apply the principle of least-privilege to limit system exposure. Service specific SIDs permit a service's access to the system to be limited. Write-restricted service process further limit write access.
 
-Services can now specify which privileges they require (shutdown, audit, etc.) which limits the power of service processes. This is specified in a new `MULTI_SZ` registry value under the service key called RequiredPrivileges.
+Services can now specify which privileges they require (shutdown, audit, etc.) which limits the power of service processes. This is specified in a new `MULTI_SZ` registry value under the service key called `RequiredPrivileges`.
 
 On service startup, the SCM computes the union of all required privileges for the service (or services) inside the service process. Privileges not explicitly specified are removed. If no required privileges are specified, SCM assumes all privileges in the process token are needed.
  

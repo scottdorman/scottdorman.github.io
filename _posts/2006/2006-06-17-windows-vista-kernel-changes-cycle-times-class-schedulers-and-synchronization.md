@@ -6,16 +6,15 @@ date: 2006-06-17 15:08:00 -05:00
 
 ## Cycle Time Counter
  
-Prior to **Vista, the kernel accounted for CPU time based on the interval clock timer which had a resolution of between 10-15ms. This timing interval was not always fair or accurate since threads where charged for interrupts that occurred while they were running and a thread might not get a turn to execute or could get up to three turns to execute.
+Prior to Vista, the kernel accounted for CPU time based on the interval clock timer which had a resolution of between 10-15ms. This timing interval was not always fair or accurate since threads where charged for interrupts that occurred while they were running and a thread might not get a turn to execute or could get up to three turns to execute.
  
 Vista changes this timing mechanism by reading the Time Stamp Counter (TSC) at each context switch. This allows the CPU to charge the thread with the actual CPU cycles consumed and does not charge the thread for interrupt time. This allows for a more accurate time accounting model and means that threads get at least one turn and can get at most one turn plus one tick.
  
 This new time accounting is handled by the following API functions:
  
-
- * QueryThreadCycleTime 
- * QueryProcessCycleTime 
- * QueryIdleProcessorCycleTime
+* QueryThreadCycleTime 
+* QueryProcessCycleTime 
+* QueryIdleProcessorCycleTime
 
 ## Multimedia Class Scheduler
  
@@ -38,7 +37,7 @@ Vista also introduces some new kernel synchronization methods such as:
 
 * Condition variables (*ConditionVariable*) 
 * Reader/writer locks (*SRWLock*) 
-* One time initialization (Initonce*) 
+* One time initialization (*Initonce*) 
 * Extended version of Create object APIs to allow specification of desired access 
   * Mutex, Semaphore, Waitable Timer
 

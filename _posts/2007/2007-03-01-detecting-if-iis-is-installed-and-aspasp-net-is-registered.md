@@ -13,7 +13,9 @@ The question at hand really boils down into two separate issues:
 
 The best way to detect if IIS is installed is to look for the presence of the following registry key:
 
-> HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\InetStp
+```
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\InetStp
+```
 
 If this key exists, then IIS is installed. If it doesn't exist, IIS isn't installed. It really doesn't get any simpler than that. This key also provides some additional interesting information, such as the IIS version number. The version information is kept in the following registry values, both DWORDs:
 
@@ -29,13 +31,17 @@ MinorVersion
 
 Ok, now that we know IIS is installed, what about detecting if the *web service* components of IIS are installed? There are two ways to do this. One is to look for the following key:
 
-> HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W3SVC
+```
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W3SVC
+```
 
 Again, if you don't have the web service components of IIS installed, this key shouldn't exist. 
 
 The other way is to look at the IIS subcompoments registry key:
 
-> HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\Oc Manager\Subcomponents
+```
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\Oc Manager\Subcomponents
+```
 
 All of the values under this key are DWORDs, so if the value is 1 then it is installed. There are a lot of values listed here, but the interesting ones (at least for this discussion) are:
 
@@ -47,8 +53,8 @@ As you can see, this key can tell you if ASP is registered with IIS and if the w
 
 Now that we know if ASP is registered, what about ASP.NET? Once again, we turn to the registry and look for the presence of the following keys:
 
-*   .NET 1.1 - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ASP.NET\1.1.4322.0
-*   .NET 2.0 - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ASP.NET\2.0.50727.0 
+*   .NET 1.1 - `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ASP.NET\1.1.4322.0`
+*   .NET 2.0 - `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ASP.NET\2.0.50727.0`
 
 I don't actually have access to a .NET 1.0 system anymore, so I don't know what the correct registry keys would be for that release. (If someone knows what they are, please let me know by a comment on this post.)
 

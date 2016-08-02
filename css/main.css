@@ -15,17 +15,17 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #223A49;
+  color: #2783bf;
 }
 h1,h2,h3,h4,h5,h6 {
   font-weight: 700;
 }
 a {
-  color: #223A49;
+  color: #2783bf;
 }
 a:hover,
 a:focus {
-  color: #296887;
+  color: #2783bf;
 }
 blockquote {
   color: #808080;

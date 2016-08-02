@@ -10,7 +10,7 @@ I came across a post on [Computer Zen](http://www.hanselman.com/blog/HowToProgra
 
 For my part, I always make sure that the following snippet of code is in my AssemblyInfo.cs
 
-```
+```csharp
 #if (Debug || DEBUG)
 [assembly: AssemblyConfiguration("Debug")]
 #else

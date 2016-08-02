@@ -4,7 +4,7 @@ title: "Party with Palermo: Tech&middot;Ed 2007 edition"
 date: 2007-05-24 12:41:56 -05:00
 ---
 
-![](http://farm1.static.flickr.com/206/498762885_26806c75c9_m.jpg)](http://partywith.palermo.cc/)
+[![](http://farm1.static.flickr.com/206/498762885_26806c75c9_m.jpg)](http://partywith.palermo.cc/)
 
 Even though this is my fourth Tech·Ed, it is the first time I'll be attending the Party with Palermo pre-event party. This sounds like a lot of fun. Unfortunately, I'll probably be a little bit late, but I doubt it will take away from festivities. There is an estimated 300 people attending and some great sponsors.
 

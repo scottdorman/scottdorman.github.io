@@ -14,8 +14,6 @@ date: 2007-04-17 00:54:43 -05:00
 
 ***CC.NET Vista Sidebar Gadget undocked on the desktop***
 
-****** 
-
 ![](http://codeclimber.net.nz/images/codeclimber_net_nz/WindowsLiveWriter/VistaGadgetforCruiseControl.NET_D099/CCNetGadgetSettings%5B10%5D.jpg)
 
 ***CC.NET Vista Sidebar Gadget settings page***

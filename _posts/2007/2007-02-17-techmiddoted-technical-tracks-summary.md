@@ -108,7 +108,7 @@ Looking at the [technical tracks](http://www.msteched.com/public/tracks.aspx) pa
 * Windows Event and Task Subsystem 
 * WS-Management/WinRM 
 * Scripting 
-* Group Policy<
+* Group Policy
 
 ## Microsoft IT (Virtual Track)
 

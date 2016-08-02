@@ -57,4 +57,4 @@ function top ($property="Handles", [int]$count=10)
 }
 ```
 
-For those of you who have written Unix shell scripts before (and maybe a lot of people who haven't) the syntax should look familiar. This declares a function named "top" which takes two paramters (both with defaults) and returns a sorted list of the top $count processes sorted by $property.
+For those of you who have written Unix shell scripts before (and maybe a lot of people who haven't) the syntax should look familiar. This declares a function named "top" which takes two paramters (both with defaults) and returns a sorted list of the top `$count` processes sorted by `$property`.

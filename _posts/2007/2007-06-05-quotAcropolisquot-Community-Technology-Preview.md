@@ -4,7 +4,7 @@ title: Acropolis Community Technology Preview
 date: 2007-06-05 23:21:13 -05:00
 ---
 
-One of the new technologies being announced at Tech·Ed is "[Acropolis](http://windowsclient.net/acropolis/)". If you have previously used the Microsoft Composite UI Application B lock (CAB) or the Smart Client Software Factory (SCSF), the announcement of the Acropolis should be very exciting news.
+One of the new technologies being announced at Tech·Ed is "[Acropolis](http://windowsclient.net/acropolis/)". If you have previously used the Microsoft Composite UI Application Block (CAB) or the Smart Client Software Factory (SCSF), the announcement of the Acropolis should be very exciting news.
 
 Acropolis is a replacement technology for both CAB and SCSF and takes the things that were good about both of these and the lessons learned and adds the following:
 

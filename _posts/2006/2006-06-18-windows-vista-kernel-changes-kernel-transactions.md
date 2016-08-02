@@ -28,4 +28,4 @@ The Windows API also has a new set of API functions:
 * CommitTransaction
 * RollbackTransaction
 
-The kernel has IoCreateFile, which now has an ExtraCreateParameters which specified the transaction handle.
+The kernel has `IoCreateFile`, which now has an `ExtraCreateParameters` which specified the transaction handle.

@@ -14,10 +14,10 @@ Why is this good? Bugs in the driver won't crash the operating system and user-m
  
 Devices that are currently supporting UMDF are:
 
- * Digital cameras 
- * Portable media players 
- * Cell phones 
- * Personal digital assistants (PDAs)	
+* Digital cameras 
+* Portable media players 
+* Cell phones 
+* Personal digital assistants (PDAs)	
 
 A UMDF driver runs in a dedicated host process created by the UMDF service under the Local Service account to prevent privilege escalation and cannot directly access hardware or kernel memory. The UMDF Reflector manages the interface to system kernel-mode drivers.
 

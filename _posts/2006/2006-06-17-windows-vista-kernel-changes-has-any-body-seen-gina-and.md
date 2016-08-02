@@ -39,7 +39,7 @@ UAC virtualization redirects the following file system locations:
 * `\Windows\System32`
 
 The exceptions are write protected executables and dynamic link libraries and files that have executable extensions.
-The HKLM\Software registry location is also redirected, except for many of the keys under the Microsoft key.
+The `HKLM\Software` registry location is also redirected, except for many of the keys under the Microsoft key.
 The redirects write to a per-user area of the file system or the registry and any reads look in the per-user area first. The per-user areas are:
 
 * `\Users\<username>\AppData\Local\Virtual Store` 

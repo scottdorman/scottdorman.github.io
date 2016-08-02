@@ -33,7 +33,7 @@ MbUnit is an advanced, extensible unit testing framework. As in NUnit, tests are
 
 * [http://www.mertner.com/confluence/display/MbUnit/Home](http://www.mertner.com/confluence/display/MbUnit/Home)
 
-\*I have not personally used MbUnit.*
+*I have not personally used MbUnit.*
 
 ## Code Analysis
 

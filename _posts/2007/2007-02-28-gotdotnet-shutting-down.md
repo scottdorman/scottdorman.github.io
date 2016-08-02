@@ -10,7 +10,13 @@ The Microsoft sponsored [GotDotNet](http://www.gotdotnet.com/) developer communi
 
 The phase out schedule is:
 
- <table width="100%" border="0"> <tbody> <thead> <tr> <td>**Target Date**</td> <td>**Areas to be Closed**</td></tr></thead> <tbody> <tr> <td>February 20</td> <td>Partners, Resource Center, Microsoft Tools </td></tr> <tr> <td>March 20</td> <td>Private workspaces, Team pages, Message Boards </td></tr> <tr> <td>April 24</td> <td>GDN CodeGallery (projected date) </td></tr> <tr> <td>May 22</td> <td>GDN User Samples (projected date) </td></tr> <tr> <td>June 19</td> <td>GDN Workspaces (projected date) </td></tr></tbody></tbody></table>
+ |**Target Date**|**Areas to be Closed**|
+|--- |--- |
+|February 20|Partners, Resource Center, Microsoft Tools|
+|March 20|Private workspaces, Team pages, Message Boards|
+|April 24|GDN CodeGallery (projected date)|
+|May 22|GDN User Samples (projected date)|
+|June 19|GDN Workspaces (projected date)|
 
 I can understand some of the reasoning behind this decision. Microsoft does have other community sites, such as [CodePlex](http://www.codeplex.com/) and [Codezone](http://www.codezone.com/), that duplicate a lot of the functionality found on GotDotNet. CodePlex takes the place of the GDN Workspaces and maybe CodeGallery, but I don't think it can adequately replace the User Samples section. Codezone would replace the message boards.
 

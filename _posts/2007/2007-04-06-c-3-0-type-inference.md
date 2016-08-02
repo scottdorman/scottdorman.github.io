@@ -41,4 +41,4 @@ var list = new List<string>();
 The most important things to remember are:  
 
 1. var != object != Variant 
-2. You can only use the var keyword inside a method body.
+2. You can only use the `var` keyword inside a method body.

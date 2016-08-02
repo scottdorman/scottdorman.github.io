@@ -6,7 +6,7 @@ date: 2007-05-12 13:34:38 -05:00
 
 And you thought your job was dangerous?
 
-<embed src="http://www.glumbert.com/embed/highpower" width="448" height="336" type="application/x-shockwave-flash" wmode="transparent"></embed>  
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FGoaXZwFlJ4" frameborder="0" allowfullscreen></iframe>
 
 Seriously, these guys (and girls?) have what I would consider to be an extremely stressful and dangerous job and one that is completely taken for granted. This holds not only for the guy traveling around the wires, but also for the helicopter pilots, who must have rock-steady nerves to hold the helo still that close to the wires.
 
