@@ -4,7 +4,7 @@ title: Visual Studio 2008 Debugging &ndash; Advanced Tricks
 date: 2009-02-14 18:45:40 -05:00
 ---
 
-We previously talked about the [Location, Condition, Hit Count]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}), [Filter]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-multi-threaded-debugging %}), and [When Hit]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-tracepoints %}) modifiers for breakpoints. These are great advanced breakpoints that will really make your debug sessions much more useful, but there are also some other advances in Visual Studio that go beyond these breakpoint modifiers.
+We previously talked about the [Location, Condition, Hit Count]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}), [Filter]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-multi-threaded-debugging %}), and [When Hit]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-tracepoints %}) modifiers for breakpoints. These are great advanced breakpoints that will really make your debug sessions much more useful, but there are also some other advances in Visual Studio that go beyond these breakpoint modifiers.
 
 The first advance is the idea of advanced location breakpoints. How many times have you been debugging an issue and as you're looking at the call stack you realize that you want to set a breakpoint somewhere higher up in the call stack? This is really useful when you want to let execution continue but want to stop part way through the return sequence from some lower-level function.
 
@@ -24,7 +24,7 @@ How do you set a breakpoint on another sub expression? For instance, if I wanted
 
 Let's now look at a concept that can only be called dynamic assertions. Hopefully you are familiar with the Debug.Assert and Trace.Assert methods which allow you to halt program execution given a specific Boolean condition. While these are useful they aren't very dynamic and can't be very complex. But what happens if you want to hit a breakpoint when an error condition occurs in your application that needs to take in to account multiple factors?
 
-If you remember from our discussion on the [Condition]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}) modifier you can set the condition expression to any any valid Boolean expression. This means that you can also set the condition to be the result of a method call, as long as that method returns a Boolean value. In order to do this, you need to add a method that returns a Boolean. This method should return true if an error condition exists. (Basically, it should return true when you want the breakpoint to hit.) 
+If you remember from our discussion on the [Condition]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}) modifier you can set the condition expression to any any valid Boolean expression. This means that you can also set the condition to be the result of a method call, as long as that method returns a Boolean value. In order to do this, you need to add a method that returns a Boolean. This method should return true if an error condition exists. (Basically, it should return true when you want the breakpoint to hit.) 
 
 ```csharp
 #if DEBUG

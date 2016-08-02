@@ -25,7 +25,7 @@ Now that we know where our debugging indicators appear, let's take a look at the
 |![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image52_2.png)|Breakpoint or tracepoint error (the BP or TP will never be set)|
 |![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image54_2.png)|Breakpoint or tracepoint warning (generally means the source location is not currently in any loaded module)|
 
-(Don't worry about tracepoints yet, we will cover them in a [follow-up post]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-tracepoints %}).)
+(Don't worry about tracepoints yet, we will cover them in a [follow-up post]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-tracepoints %}).)
 
 Now that we know how to set an advanced breakpoint, lets explore why these breakpoints are useful and take a more in-depth look at the different modifiers.
 

@@ -4,7 +4,7 @@ title: TechEd for Novices, 2012 Edition
 date: 2012-02-24 10:06:53 -05:00
 ---
 
-In 2007, Microsoft created a "Tips for the Newbie" page for TechEd (which is apparently no longer available) and I created a follow-on post called [Tech·Ed for Novices]({% post_url /2007/2007-05-19-TechmiddotEd-for-novices %}). I created a similar post in [2008]({% post_url /2008/2008-02-25-techmiddoted-for-novices-2008-edition %})  as well. With [TechEd 2012](http://northamerica.msteched.com/) around the corner, I thought it would be good to bring it back.
+In 2007, Microsoft created a "Tips for the Newbie" page for TechEd (which is apparently no longer available) and I created a follow-on post called [Tech·Ed for Novices]({% post_url 2007-05-19-TechmiddotEd-for-novices %}). I created a similar post in [2008]({% post_url 2008-02-25-techmiddoted-for-novices-2008-edition %})  as well. With [TechEd 2012](http://northamerica.msteched.com/) around the corner, I thought it would be good to bring it back.
 
 TechEd is a huge event, topping out at over 14000 people (usually), with an equally huge amount of content. This post is designed to give first time TechEd attendees a fighting chance of finding their way around. *(As Microsoft updates the content catalog, I'll make sure this post is kept up to date with any change to session types, etc.)*
 

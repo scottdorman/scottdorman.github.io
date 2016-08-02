@@ -6,7 +6,7 @@ date: 2006-11-02 16:44:00 -05:00
 
 eWEEK Security Center Editor [Larry Seltzer](http://www.eweek.com/author_bio/0,1908,a=2299,00.asp) just published an [article](http://www.eweek.com/article2/0,1895,2049960,00.asp) on eWEEK.com providing his opinion on the benefits, and limitations, of PatchGuard.
 
-In the article, Larry reiterates some of the points I made in my [post]({% post_url /2006/2006-10-30-kernel-patch-protection-aka-quotpatchguardquot %}) on PatchGuard a few days ago, namely:
+In the article, Larry reiterates some of the points I made in my [post]({% post_url 2006-10-30-kernel-patch-protection-aka-quotpatchguardquot %}) on PatchGuard a few days ago, namely:
 
 *   *Only 64-bit Windows versions are affected by PatchGuard.*
 *   *64-bit Windows versions, especially desktop versions, have puny market share.*

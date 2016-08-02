@@ -4,7 +4,7 @@ title: Null Object pattern follow up
 date: 2008-07-04 09:51:08 -05:00
 ---
 
-My earlier post on the [Null Object pattern]({% post_url /2008/2008-05-25-null-object-pattern %}) led to a few critiques about the fact that I was presenting an extension method to do what is essentially a very simple logical test, and, as a result, doesn't provide much value.
+My earlier post on the [Null Object pattern]({% post_url 2008-05-25-null-object-pattern %}) led to a few critiques about the fact that I was presenting an extension method to do what is essentially a very simple logical test, and, as a result, doesn't provide much value.
 
 For reference, here is the original extension method from that post
 

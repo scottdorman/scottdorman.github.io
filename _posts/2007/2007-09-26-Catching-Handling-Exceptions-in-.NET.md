@@ -104,9 +104,9 @@ It is also common for people to write catch blocks that do nothing more than log
 
 This leads to a problem known as "swallowing exceptions", and occurs when you catch an exception and either do nothing with it or don't allow it to pass up the chain. This can also lead to problems because you are effectively hiding the exception and not doing anything with it, which can lead to intermittent problems that will be very hard to track down.
 
-While we're talking about exception swallowing, there is a similar problem known as "breaking the stack". I talk about this in detail in [another post]({% post_url /2007/2007-08-20-Difference-between-quotthrowquot-and-quotthrow-exquot-in-.NET %}), but it boils down to the fact that when you rethrow an exception you should almost always use the "throw" syntax.
+While we're talking about exception swallowing, there is a similar problem known as "breaking the stack". I talk about this in detail in [another post]({% post_url 2007-08-20-Difference-between-quotthrowquot-and-quotthrow-exquot-in-.NET %}), but it boils down to the fact that when you rethrow an exception you should almost always use the "throw" syntax.
 
-Finally, if you are using a class that implements the [System.IDisposable](http://msdn2.microsoft.com/aax125c9.aspx) interface you can make use of the [using Statement (C#)](http://msdn2.microsoft.com/library/yh598w02(VS.80).aspx) to simplify the code you need to write. I talk more about the using statement in [this]({% post_url /2007/2007-08-28-Using-vs.-Using %}) post.
+Finally, if you are using a class that implements the [System.IDisposable](http://msdn2.microsoft.com/aax125c9.aspx) interface you can make use of the [using Statement (C#)](http://msdn2.microsoft.com/library/yh598w02(VS.80).aspx) to simplify the code you need to write. I talk more about the using statement in [this]({% post_url 2007-08-28-Using-vs.-Using %}) post.
 
 ## 
 
@@ -115,5 +115,5 @@ Finally, if you are using a class that implements the [System.IDisposable](http:
 *   [Exception Handling Fundamentals](http://msdn2.microsoft.com/en-us/library/2w8f0bss(VS.80).aspx)
 *   [Exception Handling Best Practices in .NET](http://www.codeproject.com/dotnet/exceptionbestpractices.asp)
 *   [How to use structured exception handling in Visual C# .NET and in Visual C# 2005](http://support.microsoft.com/default.aspx/kb/816157)
-*   [Using vs. Using]({% post_url /2007/2007-08-28-Using-vs.-Using %} "Using vs. Using")
-*   [Difference between "throw" and "throw ex" in .NET]({% post_url /2007/2007-08-20-Difference-between-quotthrowquot-and-quotthrow-exquot-in-.NET %})
+*   [Using vs. Using]({% post_url 2007-08-28-Using-vs.-Using %} "Using vs. Using")
+*   [Difference between "throw" and "throw ex" in .NET]({% post_url 2007-08-20-Difference-between-quotthrowquot-and-quotthrow-exquot-in-.NET %})

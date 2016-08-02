@@ -17,11 +17,11 @@ My site usage for September 2007 through December 2007 was 36,371 visits from 14
 I had 308 posts over the course of the year, and the top 5 posts were:
 |**Post**|**% Page views**|
 |--------|----------------|
-|[Visual Studio 2008 release date]({% post_url /2007/2007-07-10-Visual-Studio-2008-release-date %})|6.49|
-|[Windows Vista: Kernel Changes - Has any body seen Gina and what's a UAC?]({% post_url /2006/2006-06-17-windows-vista-kernel-changes-has-any-body-seen-gina-and %})|5.87|
+|[Visual Studio 2008 release date]({% post_url 2007-07-10-Visual-Studio-2008-release-date %})|6.49|
+|[Windows Vista: Kernel Changes - Has any body seen Gina and what's a UAC?]({% post_url 2006-06-17-windows-vista-kernel-changes-has-any-body-seen-gina-and %})|5.87|
 |[SyncToy 2.0 Beta](/2007/2007-10-26-SyncToy-2.0-Beta)|5.43|
 |[Blog home page](http://geekswithblogs.net/sdorman/)|4.06|
-|[Visual Studio 2005 Professional Edition and FxCop Integration]({% post_url /2007/2007-02-18-visual-studio-2005-professional-edition-and-fxcop-integration %})|3.72|
+|[Visual Studio 2005 Professional Edition and FxCop Integration]({% post_url 2007-02-18-visual-studio-2005-professional-edition-and-fxcop-integration %})|3.72|
 
 I don't think any really clear themes emerged from by blog topics as I ranged from Vista to C# 3.0 (.NET 3.5) to open source projects and everything in between. 
 
