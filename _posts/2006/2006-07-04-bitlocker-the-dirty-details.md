@@ -6,7 +6,7 @@ date: 2006-07-04 09:21:00 -05:00
 
 One of the new security features coming in Windows Vista and Longhorn is the new BitLocker™ Drive Encryption technology. BitLocker™ is designed to help prevent information loss, whether it is by theft or accidental. Information loss is costly to business on several levels, and the U.S. Department of Justice estimates that intellectual property theft cost enterprises $250 billion in 2004.
 
-![](/img/posts/{ page.id }/r_SEC32520060613_190427-2.jpg)
+![](/img/posts/{% page.id %}/r_SEC32520060613_190427-2.jpg)
 
 BitLocker™ Drive Encryption gives you improved data protection on your notebooks, desktops, and servers by providing a transparent user experience that requires little to no interaction on a protected system. BitLocker also prevents the use of another operating system or hacking tool to break file and system protections by preventing the offline viewing of user data and OS files through enhanced data protection and boot validation using TPM v1.2.
 
@@ -27,7 +27,7 @@ So now that you know what a TPM is, why should you use one? A TPM is a hardware 
 
 The important thing to know about BitLocker is that it will only encrypt the Windows partition. You also won't be able to dual-boot another operating system on the same partition, different partitions are fine. Any attempts to modify the protected Windows partition will render it unbootable.
 
-![](/img/posts/{ page.id }/r_SEC32520060613_190427-1.jpg)
+![](/img/posts/{% page.id %}/r_SEC32520060613_190427-1.jpg)
 
 To completely protect all of the data on the computer, you will need to use a combination of BitLocker on the Windows partition and Encrypted File System (EFS) on the other partitions. When properly configured, EFS is computationally infeasible to crack.
 

@@ -12,7 +12,7 @@ What does this have to do with the title of the post? Everything, actually. One 
 
 The problem is that every so often the icon disappears. On Windows versions prior to Vista, this icon was controlled by the lights.exe application. However, Windows Vista incorporated this capability directly into the OS and is controlled by the Taskbar and Start Menu Properties dialog.
 
-![image](/img/posts/{ page.id }/image_2.png) 
+![image](/img/posts/{% page.id %}/image_2.png) 
 
 This is great, except for the fact that when the icon disappears from the notification area, the checkbox becomes disabled on the property dialog. This tends to make it a bit difficult to re-enable.
 

@@ -4,7 +4,7 @@ title: "MIX08: The Next Web Now"
 date: 2007-11-08 20:44:04 -05:00
 ---
 
-![](/img/posts/{ page.id }/blings_9_25_b_2.jpg)
+![](/img/posts/{% page.id %}/blings_9_25_b_2.jpg)
 
 March 5 - 7, 2008  
 The Venetian  

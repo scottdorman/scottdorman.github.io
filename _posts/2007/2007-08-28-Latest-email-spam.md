@@ -8,7 +8,7 @@ I don't know about you, but I get lots of email spam, most of which I just comp
 
 I'm not trying to make a political statement in any way at all, and whatever your views on the current U.S. military actions in Iraq aside, this latest form of email spam is just downright revolting.
 
-![](/img/posts/{ page.id }/image_1.png) 
+![](/img/posts/{% page.id %}/image_1.png) 
 
 This spam is designed to entirely play on your sympathy...please don't fall for this. I sincerely hope that the Sergeant whose name is being used and also the email of the person sending this are not a real individuals (I suspect the sender might be).
 

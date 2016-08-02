@@ -4,7 +4,7 @@ title: Code Contracts in .NET
 date: 2009-03-02 18:44:15 -05:00
 ---
 
-![](/img/posts/{ page.id }/dd491992_codecontracts_project(en-us)_2.png) 
+![](/img/posts/{% page.id %}/dd491992_codecontracts_project(en-us)_2.png) 
 
 I have [previously]({% post_url /2008/2008-12-10-more-on-.net-4.0-code-contracts %}) talked about code contracts in .NET 4.0, and while .NET 4.0 isn't out yet you can work with them now in Visual Studio 2008 through [MSDN DevLabs](http://msdn.microsoft.com/en-us/devlabs/dd491992.aspx).
 

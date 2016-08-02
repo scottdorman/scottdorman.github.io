@@ -12,8 +12,8 @@ In order to setup a symbol server, open the **Options** dialog, then open the *
 
 > [http://msdl.microsoft.com/download/symbols](http://msdl.microsoft.com/download/symbols)
 
-as a new symbol file (.pdb) location by clicking the ![](/img/posts/{ page.id }/image%7B0%7D10.png) button and editing the text. You will need to enter a path for the cache directory, which can be either a network share or a local directory.
+as a new symbol file (.pdb) location by clicking the ![](/img/posts/{% page.id %}/image%7B0%7D10.png) button and editing the text. You will need to enter a path for the cache directory, which can be either a network share or a local directory.
 
-![](/img/posts/{ page.id }/image%7B0%7D5.png) 
+![](/img/posts/{% page.id %}/image%7B0%7D5.png) 
 
 Once you click the **OK** button, an End User License Agreement dialog will appear (only if you use the Microsoft public symbol store). Once you click **Yes** to accept the agreement, the symbols will be automatically downloaded to your local cache.

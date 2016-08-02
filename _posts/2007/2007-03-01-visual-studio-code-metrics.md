@@ -6,7 +6,7 @@ date: 2007-03-01 21:47:00 -05:00
 
 Visual Studio will finally get built-in support for generating code metrics for project and solutions. Unfortunately, we'll have to wait until Orcas officially ships, but it is part of the latest March CTP release ([Virtual PC image](http://www.microsoft.com/downloads/details.aspx?FamilyID=B533619A-0008-4DD6-9ED1-47D482683C78&displaylang=en) or [self-extracting install](http://www.microsoft.com/downloads/details.aspx?FamilyID=cf76fcba-07af-47ac-8822-4ad346210670&DisplayLang=en)). Again, as with the integrated FxCop analysis, this will only be available with the Visual Studio Team Developer and Team Suite editions. I still think Microsoft is doing the development community a huge injustice with this decision, but I'm glad to see Visual Studio finally getting some more code analysis tools.
 
-![](/img/posts/{ page.id }/o_vscodemetrics.jpg) 
+![](/img/posts/{% page.id %}/o_vscodemetrics.jpg) 
 
 Right now, it only calculates five metrics:
 

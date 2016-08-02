@@ -19,7 +19,7 @@ To give you an idea of what's new in some of the products:
 
 The look and visible features have been updated in all of the products, but the ones that are most noticeable are Messenger, Writer, and Mail.
 
-![](/img/posts/{ page.id }/image_2.png) ![](/img/posts/{ page.id }/image_4.png) 
+![](/img/posts/{% page.id %}/image_2.png) ![](/img/posts/{% page.id %}/image_4.png) 
 
 There are a lot of new features in Messenger, but some noticeable ones are that "Shared Folders" in Messenger have been replaced with "Online files", which is your SkyDrive account. Also, the status indicators in Messenger have changed. You now have better color coding and can control the size of the indicator (status only, small, medium, or large). You also have favorites, which allow you to put the contacts you most frequently talk with at the top at all times. The old concept of groups has been renamed to categories and groups are now multi-person chat groups that are persistent.
 

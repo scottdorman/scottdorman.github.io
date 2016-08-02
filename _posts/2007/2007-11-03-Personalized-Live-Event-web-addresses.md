@@ -8,11 +8,11 @@ Not too long ago I talked about the [Windows Live Spaces URL Confusion]({% post_
 
 I'm talking about the "Personalize your web address" option that is available from the event settings page (if you've already created the event) or from the create event page. It's very difficult to see on the create event page, since it appears as just a single sentence at the very bottom of the page:
 
-![image](/img/posts/{ page.id }/image_5.png)
+![image](/img/posts/{% page.id %}/image_5.png)
 
 It's a little bit easier to find once you've created the event if you go to the event settings page:
 
-![image](/img/posts/{ page.id }/image_6.png) 
+![image](/img/posts/{% page.id %}/image_6.png) 
 
 While this will allow you to create more friendly addresses for your events, it is still far from an optimal solution. It requires me, as the event creator, to take additional steps to create a friendly address.  It is a little better if you do this when you create the event, since there is a "Generate my web address for me" link. (This isn't available for an already created event.) However, when you click on it, the web address section collapses and you don't see the resulting address. This means you then have to click on the "Personalize the address" link to display the section and you still have to click the "Check availability" button to ensure that the web address is available. By the way, the generated address is simply the title of the event with any spaces and special characters removed.
 

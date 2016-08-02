@@ -6,7 +6,7 @@ date: 2008-10-17 13:52:23 -05:00
 
 Not sure when this became live, but the [schedule builder](https://sessions.microsoftpdc.com/timeline.aspx) for PDC 2008 is now available. This is very different from the schedule builder tools of the past and is considerably easier to work with.
 
-![](/img/posts/{ page.id }/image_4.png) 
+![](/img/posts/{% page.id %}/image_4.png) 
 
 As you can see, the schedule is presented as a daily calendar. Each column is a timeslot (showing only the starting time) which shows all of the sessions available. 
 

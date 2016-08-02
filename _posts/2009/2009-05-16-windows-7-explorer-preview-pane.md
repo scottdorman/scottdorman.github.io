@@ -10,4 +10,4 @@ The new preview pane supports a much wider range of formats than the Windows XP 
 
 To enable the preview pane, you can use the explorer toolbar button, the Organize menu, or by pressing Alt+P:
 
-![](/img/posts/{ page.id }/image_5.png) ![](/img/posts/{ page.id }/image_2.png) 
+![](/img/posts/{% page.id %}/image_5.png) ![](/img/posts/{% page.id %}/image_2.png) 
