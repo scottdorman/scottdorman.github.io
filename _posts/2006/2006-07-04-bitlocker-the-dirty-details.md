@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BitLocker - The dirty details
+title: "BitLocker - The dirty details"
 date: 2006-07-04 09:21:00 -05:00
 ---
 
