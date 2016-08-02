@@ -4,7 +4,7 @@ title: "Book Review: ASP.NET Data Presentation Controls Essentials"
 date: 2008-03-28 18:52:08 -05:00
 ---
 
-[![](/img/posts/{{ page.id }}/1847193951_3.png)](http://www.packtpub.com/#)If you are an ASP.NET developer or want to become one, there are numerous books available that talk about the ASP.NET framework and/or how to build web sites using ASP.NET. [Pact Publishing](http://www.packtpub.com) has a book that focuses specifically on the data presentation controls that are available in ASP.NET, including ASP.NET 3.5 called [ASP.NET Data Presentation Controls Essentials](http://amzn.to/28IKxia) by Joydip Kanjilal.
+[![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/1847193951_3.png)](http://www.packtpub.com/#)If you are an ASP.NET developer or want to become one, there are numerous books available that talk about the ASP.NET framework and/or how to build web sites using ASP.NET. [Pact Publishing](http://www.packtpub.com) has a book that focuses specifically on the data presentation controls that are available in ASP.NET, including ASP.NET 3.5 called [ASP.NET Data Presentation Controls Essentials](http://amzn.to/28IKxia) by Joydip Kanjilal.
 
 The book provides a good introduction to the basics of how data binding in ASP.NET works and then expands on that introduction to cover the new (in ASP.NET 2.0) data source controls, including the Object, SQL, and XML data source controls.
 

@@ -4,7 +4,7 @@ title: StackOverflow
 date: 2008-09-18 10:43:21 -05:00
 ---
 
-[![](/img/posts/{{ page.id }}/stackoverflow-logo-250_3_3.png "stackoverflow-logo-250_3")](http://stackoverflow.com/) Stackoverflow is an interesting new community site launched by [Jeff Atwood](http://www.codinghorror.com/blog/archives/001169.html) and [Joel Spolsky](http://www.joelonsoftware.com/items/2008/09/15.html) that just went into public beta yesterday.
+[![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/stackoverflow-logo-250_3_3.png "stackoverflow-logo-250_3")](http://stackoverflow.com/) Stackoverflow is an interesting new community site launched by [Jeff Atwood](http://www.codinghorror.com/blog/archives/001169.html) and [Joel Spolsky](http://www.joelonsoftware.com/items/2008/09/15.html) that just went into public beta yesterday.
 
 Jeff has a pretty interesting explanation of what the site is all about:
 

@@ -20,13 +20,13 @@ The Editing Toolbox provides a very useful collection of utilities that add conv
 *   **Code Navigation** Use keyboard shortcuts to jump from a symbol to its definition and to list all references for the current symbol. 
 *   **Word Completion** Use commands to search for and insert additional text from a matching string.  
 
-![](/img/posts/{{ page.id }}/image_5.png) The Code Annotations feature is new in version 2.0 and is a great feature for collaboration and code reviews. It allows you to store annotations marked as "Bug", "Comment", and "Task". These annotations don't actually change the source file, they are stored in an external file. Annotations can be scoped as personal, project, or workspace.
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_5.png) The Code Annotations feature is new in version 2.0 and is a great feature for collaboration and code reviews. It allows you to store annotations marked as "Bug", "Comment", and "Task". These annotations don't actually change the source file, they are stored in an external file. Annotations can be scoped as personal, project, or workspace.
 
 The really nice thing about the Code Annotations window is that, unlike the Visual Studio Task List, the annotations are still displayed even when the source file is closed.
 
 You can see all of the information about the annotation at a glance, including the full code element that is associated with that annotation.
 
-![](/img/posts/{{ page.id }}/image_4.png) 
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_4.png) 
 
 The Versioning Toolbox allows you to view your source control activity and help you understand when and where changes are being made and by whom. Easily understand and navigate your source code by using these powerful features: 
 

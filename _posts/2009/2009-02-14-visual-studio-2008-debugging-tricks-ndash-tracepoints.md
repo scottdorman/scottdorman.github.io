@@ -12,6 +12,6 @@ In this scenario, you aren't really interested in stopping the execution. Ordina
 
 That's exactly what a tracepoint does, but it can do a lot more than just that.  
 
-![image](/img/posts/{{ page.id }}/image_3.png)  
+![image](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_3.png)  
 
 The When Breakpoint Is Hit dialog allows you to simply print a message, but that message can contain special keywords and can also evaluate methods and properties of any object that is in scope when the tracepoint is hit. In addition to printing a message,  you can also run a macro. By default a tracepoint is intended to continue execution, but you can change that as well which will effectively give you a breakpoint which will print a message and/or execute a macro before breaking.

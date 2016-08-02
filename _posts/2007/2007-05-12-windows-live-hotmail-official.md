@@ -10,6 +10,6 @@ Outlook Express and Windows Mail will be replaced with a new desktop product cal
 
 Windows Live Mail will sport a redesigned interface which supports Vista's Aero look and feel and adds S/MIME and LDAP support. It is supposed to be advertisement free.
 
-![](/img/posts/{{ page.id }}/download_15.jpg)
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/download_15.jpg)
 
 In another surprise move, Microsoft is keeping a portion of the Windows Live Hotmail users in "beta" status to continue testing the updates and new features that will be released as the product matures.

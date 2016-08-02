@@ -8,4 +8,4 @@ While searching for some blog search engines and aggregators to add to my list o
 
 > AutoPinger is a **FREE** and convenient service for all bloggers and podcasters. It is an easy **set-and-forget** service that lets concentrate more on developing your favourite blogs and podcasts...Autopinger will check your blogs and podcast feeds every 30 mins.
 
-This is a pretty neat idea, and they do provide an [XML-RPC interface](http://autopinger.com/about/blog_ping_interfaces.aspx) in addition to allowing you to register in order to get the automatic ping action and getting the ![](/img/posts/{{ page.id }}/o_quickping.gif) badge to put on your blog.
+This is a pretty neat idea, and they do provide an [XML-RPC interface](http://autopinger.com/about/blog_ping_interfaces.aspx) in addition to allowing you to register in order to get the automatic ping action and getting the ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o_quickping.gif) badge to put on your blog.

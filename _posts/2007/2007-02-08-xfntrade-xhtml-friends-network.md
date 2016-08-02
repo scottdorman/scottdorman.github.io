@@ -6,7 +6,7 @@ date: 2007-02-08 23:01:00 -05:00
 
 I was recently introduced to the concept of [XFN](http://gmpg.org/xfn/) through a blog post I was reading from [Phil Haack](http://haacked.com/) regarding his meeting with Rob Conery, one of the [Subsonic](http://www.codeplex.com/Wiki/View.aspx?ProjectName=actionpack) developers.
 
-After reading about XFN, I think it is an extremely interest concept on the entire social networking phenomenon. Take![](/img/posts/{{ page.id }}/o_sshot-1.png)n  from the XFN website:
+After reading about XFN, I think it is an extremely interest concept on the entire social networking phenomenon. Take![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o_sshot-1.png)n  from the XFN website:
 
 > <abbr>XFN</abbr> puts a human face on linking. As more people have come online and begun to form social networks, services such as [Technorati](http://www.technorati.com/) and [Feedster](http://www.feedster.com/) have arisen in an attempt to show how the various nodes are connected. Such services are useful for discovering the mechanical connections between nodes, but they do not uncover the *human* relationships between the people responsible for the nodes.
 > 
