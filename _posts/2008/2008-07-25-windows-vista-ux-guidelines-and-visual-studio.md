@@ -8,7 +8,7 @@ Whether you like Vista or not, the user interface aspects of the operating syste
 
 From the guidelines, 
 
-> The goals for these official Windows Vista® User Experience Guidelines (or "UX Guide" for short) are to:
+> The goals for these official Windows Vista&reg; User Experience Guidelines (or "UX Guide" for short) are to:
 > 
 > *   Establish a high quality and consistency baseline for all Windows Vista-based applications.
 > *   Answer your specific user experience questions.

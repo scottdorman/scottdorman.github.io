@@ -12,7 +12,7 @@ Not wanting to over-engineer my solution, I started searching the web for altern
 
 Keep in mind, all I wanted to be able to do in the configuration file was to create a section that looked like this:
  
-```
+```xml
 <copyFiles>
   <add name="C:\Windows" value="*.dll"/>
   <add name="C:\Temp"/>
@@ -43,7 +43,7 @@ public class NameValueSection : ConfigurationSection
 
 As you can see, this is pretty simple. In order to use it, you declare the section in your app.config file:
 
-```
+```xml
 <sectionGroup name="customSettings">
    <section name="copyFiles" type="NameValueSection, CustomConfiguration"/>
 </sectionGroup>

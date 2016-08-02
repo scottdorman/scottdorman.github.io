@@ -8,7 +8,7 @@ I've blogged in the past about [Community Credit](http://www.community-credit.co
 
 There are a total of 17 inductees, all of whom have contributed a great deal to the development community. Thanks [David](http://www.community-credit.com/cs/blogs/starbucks_is_my_home/default.aspx) for all of the hard work keeping Community Credit running smoothly so we all have a place to share with the community and for the personal touch on the Hall of Fame page:
 
-> **Scott Dorman **
+> **Scott Dorman**
 > 
 Scott Dorman, a C# MVP, is one of the members of the community that I know personally and I can attest to his contributions to the development community since I have participated in many of them with him. He is a frequent speaker at User Groups and CodeCamps, he Blogs like a madman and a very well respected member of many communities, including CodeProject where he was named a CodeProject MVP this year. He has been rewarded 5 times in Community Credit and has logged almost 2,000 submissions.
 

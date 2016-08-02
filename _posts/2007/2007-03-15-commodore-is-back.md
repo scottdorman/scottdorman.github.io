@@ -10,6 +10,6 @@ The Commodore line sort of died out in 1996 with the Amiga, and hasn't been hear
 
 The Commodore brand was acquired in late 2005 as part of a joint venture with Commodore International Corporation, Commodore Gaming hopes to re-establish the brand as a leader in the industry again.
 
-As the name implies, they are going after the high-end gaming market, with four new gaming PCs. The top of the line Commodore XX features an Intel® Core™ 2 Extreme Quad-Core processor, an ASUS® P5N32-E nForce 680 SLI motherboard, 4GB Corsair® Dominator memory, and 2 NVIDIA® 8800 GTX SLI graphics cards. All of the cases come with interchangeable casing panels and can be completely personalized with a wide variety of custom skins.
+As the name implies, they are going after the high-end gaming market, with four new gaming PCs. The top of the line Commodore XX features an Intel&reg; Core™ 2 Extreme Quad-Core processor, an ASUS&reg; P5N32-E nForce 680 SLI motherboard, 4GB Corsair&reg; Dominator memory, and 2 NVIDIA&reg; 8800 GTX SLI graphics cards. All of the cases come with interchangeable casing panels and can be completely personalized with a wide variety of custom skins.
 
 The best part is that they all come preloaded with Windows Vista Ultimate **and** a C64 emulator, with more than 50 classic games.

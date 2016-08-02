@@ -24,7 +24,5 @@ Email spam has become big business over the last several years, but with a littl
 6.  **The email address listed in the message is different than who sent it.** 
 
 <div class="alert alert-danger">
-Again, just to be clear on this:
-
-This is email spam. It is not real. Do not reply or send any information.
+**Again, just to be clear on this: This is email spam. It is not real. Do not reply or send any information.**
 </div>

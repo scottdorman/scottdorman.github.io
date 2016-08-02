@@ -10,7 +10,7 @@ There are still a large number of developers that have both Visual Studio 2005 a
 
 To quickly summarize:
 
-*   Solutions created in Visual Studio 2008 **<u>cannot</u> **be opened in Visual Studio 2005.
+*   Solutions created in Visual Studio 2008 **<u>cannot</u>** be opened in Visual Studio 2005.
 *   Projects created in Visual Studio 2008 **<u>can</u>** be opened in Visual Studio 2005.
 *   Solutions and projects created in Visual Studio 2005 **<u>can</u>** be opened in Visual Studio 2008.  
 

@@ -11,20 +11,20 @@ If we take an example, all of the following are valid and will work at runtime w
 ```csharp
 [DllImport("kernel32.dll")]
 static extern ...;
- 
+
 [DllImport("kernel32")]
 static extern ...;
- 
+
 [DllImport("Kernel32.DLL")]
 static extern ...;
- 
+
 [DllImport("KERNEL32")]
 static extern ...;
- 
+
 [DllImport("KeRnEl32.DlL")]
 static extern ...;
- ``` 
- 
+```
+
 At first glance, this probably doesn't look like it should be a big issue. It does show a lack of consistency by the developer, but other than that these attributes still import functions from kernel32.dll.
 
 Looking at the results in both Reflector and ILDASM, you start to see the problem this lack of consistency causes.

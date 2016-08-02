@@ -10,7 +10,7 @@ One of the nice things with Bootstrap's `navbar` classes is the ability to indic
 
 As a refresher, here is a simple navigation list that might be part of a larger navbar.
 
-```
+```html
 <ul class="nav navbar-nav">
     <li><a href="#">Action</a></li>
     <li><a href="#">Another action</a></li>
@@ -20,7 +20,7 @@ As a refresher, here is a simple navigation list that might be part of a larger 
 
 There are two parts to this list: the `li` element and the `a` element. What we want is a way to combine both using a single Tag Helper. That allows us to use markup like
 
-```
+```html
 <ul class="nav navbar-nav">
     <bootstrap-nav-link asp-controller="Home" asp-action="Index">Action</a></bootstrap-nav-link>
     <bootstrap-nav-link asp-controller="Home" asp-action="About">Another action</bootstrap-nav-link>
@@ -123,7 +123,7 @@ The bulk of the work happens in the `ShouldBeActive` method, which is responsibl
 This is a fairly simple but completely functional example. If you want to do "fancier" things, like add an icon before the text you can do that 
 
 
-```
+```html
 <ul class="nav navbar-nav">
     <bootstrap-nav-link asp-controller="Home" asp-action="Index"><div class="fa fa-home"></div>Action</a></bootstrap-nav-link>
     <bootstrap-nav-link asp-controller="Home" asp-action="About">Another action</bootstrap-nav-link>
@@ -131,4 +131,4 @@ This is a fairly simple but completely functional example. If you want to do "fa
 </ul>
 ```
 
-<div class="alert alert-info">Even though this includes the `OutputElementHint` attribute to let Visual Studio know that it should be treated as an `li` tag, the markup shown above for adding an icon will generate a markup validation warning saying "Element 'div' cannot be nested inside element 'ul'." I'm currently investigating why this happens.</div>
+<div class="alert alert-info">Even though this includes the <code>OutputElementHint</code> attribute to let Visual Studio know that it should be treated as an <code>li</code> tag, the markup shown above for adding an icon will generate a markup validation warning saying "Element 'div' cannot be nested inside element 'ul'." I'm currently investigating why this happens.</div>

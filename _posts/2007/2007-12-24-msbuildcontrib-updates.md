@@ -7,11 +7,12 @@ date: 2007-12-24 10:42:58 -05:00
 I know I just [mentioned]({% post_url 2007-12-23-msbuildcontrib-project-on-codeplex %}) this project yesterday, but I wanted to thank those of you who have already downloaded it. Hopefully you have found it useful so far. I have already updated the project for the 1.0.2913.51352 release, which adds a few new tasks and cleans up some of the existing ones.
 
 Here is the current list of tasks:
+
 |**NAnt/NAntContrib Task**|**MSBuildContrib Task**|**Status**|**Description**|
-|---|---|---|---|
-|attrib|Attrib|Complete\*|Changes the file attributes of a file or set of files and directories.|
-|checksum|Checksum|Complete\*|Calculates checksums for a set of files.|
-|codestats|CodeStats|Complete|Generates statistics from source code.|
+|-------------------------|-----------------------|----------|---------------|
+|attrib                   |Attrib                 |Complete\*|Changes the file attributes of a file or set of files and directories.|
+|checksum                 |Checksum|Complete\*|Calculates checksums for a set of files.|
+|codestats                |CodeStats|Complete|Generates statistics from source code.|
 |concat|Concat|Complete\*|A task that concatenates a set of files.|
 |gac-install|GacUtil|Complete|Installs assemblies into the Global Assembly Cache (GAC) by using the gacutil SDK tool.|
 |gac-uninstall|GacUtil|Complete|Uninstalls assemblies into the Global Assembly Cache (GAC) by using the gacutil SDK tool.|

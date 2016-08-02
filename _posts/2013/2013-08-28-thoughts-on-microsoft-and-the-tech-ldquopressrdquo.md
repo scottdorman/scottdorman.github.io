@@ -62,7 +62,7 @@ Was Steve Ballmer the "worst CEO" for Microsoft? Absolutely not. Yes, he made mi
 
 I do think that as part of the transition to a new CEO Microsoft needs to bring back the position of Chief Software Architect. In the last 12 years, that is a role which Microsoft no longer had and I think some of the missteps over that time period would have been avoided had there been someone in that role.
 
-**So, now that we've reached the end of this post. Is there a call to action? There most definitely is. **
+**So, now that we've reached the end of this post. Is there a call to action? There most definitely is.**
 
 > I think all of the technical "press" needs to either stop pretending to be press and start employing unbiased reporting and journalistic integrity or stop representing themself as press. If you want to run opinion pieces, go ahead...as long as it's clear that it's an opinion piece.
 > 

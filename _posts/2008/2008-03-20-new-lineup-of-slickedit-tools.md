@@ -32,7 +32,7 @@ The Versioning Toolbox allows you to view your source control activity and help 
 
 *   **Backup History** View, compare, and restore versions of files without having to use source control. 
 *   **CVS/SVN Source Control** Use CVS and Subversion source control commands directly in the Solution Explorer. 
-*   **DIFFzilla®** Provides editable dynamic differencing and merging for files, directories, and source trees. 
+*   **DIFFzilla&reg;** Provides editable dynamic differencing and merging for files, directories, and source trees. 
 *   **Find Version** Find the versions of one or more files that match specific criteria, such as which files were checked in by a certain user over a certain amount of time. 
 *   **Line Version Info** View details about the check-in that last affected any specific line in a source file. 
 *   **Version Graphs** View graphs depicting different historical aspects and trends of selected source-controlled files. 

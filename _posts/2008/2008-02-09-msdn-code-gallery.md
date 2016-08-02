@@ -10,14 +10,14 @@ Charlie Calvert [posted](http://blogs.msdn.com/charlie/archive/2008/01/28/code-g
 
 *   [**Code Gallery**](http://code.msdn.microsoft.com/): Use this tool to share sample projects that demonstrate key features of the C# language, or that you find interesting or exciting. Anything that you or your team created that you want to share with the community will be a valuable contribution to this site. You can also use Code Gallery to share other resources that might be of value to the community. 
 *   [**CodePlex**](http://codeplex.com/): If you have ongoing projects that you want to develop with the community in a collaboration, then you should use the already existing [CodePlex](https://mail.microsoft.com/redir.aspx?C=d6a5d8a1dbf04d328f2085d0216da075&URL=http%3a%2f%2fcodeplex.com%2f) site. It allows you to collaboratively work with a set of developers who can check code in and out of a source repository. Code Gallery, on the other hand, is meant for completed samples that will not be developed collaboratively. You can update the projects and resources on Code Gallery, but only CodePlex gives you the ability to work collaboratively with other developers through a source repository. 
-*   **[**MSDN** **Downloads**](http://msdn2.microsoft.com/en-us/downloads/default.aspx)**: Some Microsoft projects will remain on MSDN. For instance, the trial versions of Visual Studio 2008, or a VS service pack, would still be available on the MSDN downloads side. The MSDN downloads site is generally not a place for the community to share code or other resources. It is usually reserved only for Microsoft employees or teams.  
+*   **[MSDN Downloads](http://msdn2.microsoft.com/en-us/downloads/default.aspx)**: Some Microsoft projects will remain on MSDN. For instance, the trial versions of Visual Studio 2008, or a VS service pack, would still be available on the MSDN downloads side. The MSDN downloads site is generally not a place for the community to share code or other resources. It is usually reserved only for Microsoft employees or teams.  
 
 He does go on to say that GDN is being replaced with either CodePlex **or** Code Gallery, depending on your needs. If you have a project that was shared on GDN you should move it to Code Gallery now before the phase out is complete.
 
 However, even with the explanations above, it still isn't completely clear why Microsoft is adding yet another developer site when two of the reasons for the GDN shutdown were:
 
 * Eliminate redundant functionality between GDN and other community resources provided by Microsoft
-* Reinvest the resources in new and better community features</li>  
+* Reinvest the resources in new and better community features
 
 As I mentioned in my [post]({% post_url 2007-02-28-gotdotnet-shutting-down %}) about GDN shutting down, I think the best thing Microsoft could do is take the proverbial step backwards and look at the entire developer offering and try to present a consistent face. I understand that the sites are geared towards potentially different audiences, but there is a **lot** of overlap and it can be extremely difficult to find what you are looking for. Searching on MSDN has become nearly impossible given that you now see links for all of the different languages.
 

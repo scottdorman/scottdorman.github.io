@@ -31,13 +31,13 @@ The SlickEdit Tools for Visual Studio product also only integrates with Visual S
 > 
 > **Auto Code Doc Viewer** The Auto Code Doc Viewer automatically turns your comments into MSDN-like documentation. The tool creates fully linked HTML help that can be browsed in a Visual Studio tool window. All help pages provide a link to jump directly to the referenced source code, so it's easy to get from a help page to the actual source code.
 > 
-> **Aliases and Acronyms** SlickEdit Tools now provides directory aliases and has enhanced the Microsoft® Intellisense® feature with acronym expansion. Directory aliases are short identifiers for long directory names, which save a lot of typing and mouse use when opening files. Acronyms work similarly but represent class, namespace, and function names in your code.
+> **Aliases and Acronyms** SlickEdit Tools now provides directory aliases and has enhanced the Microsoft&reg; Intellisense&reg; feature with acronym expansion. Directory aliases are short identifiers for long directory names, which save a lot of typing and mouse use when opening files. Acronyms work similarly but represent class, namespace, and function names in your code.
 > 
 > **Regex Evaluator** Regex Evaluator provides the ability to interactively create, save, and re-use tests of regular expressions. Regular expressions may be run in the test window or may be applied directly against the active document.
 > 
 > **Icon Extractor** The Icon Extractor has the ability to search Windows executables and DLLs (both managed and unmanaged) for embedded icons and images. These icons and images are presented in a list and can be applied to WinForm designer components with simple drag-and-drop operations.
 > 
-> **DIFFzilla®** DIFFzilla enables you to compare files or directories and view the differences. Documents in the Diff window can be easily edited in place, updating the comparison as you type. DIFFzilla offers customizable options related to file comparison, integration with Backup History, and Source Control integration for Source Safe 2005 and CVS.
+> **DIFFzilla&reg;** DIFFzilla enables you to compare files or directories and view the differences. Documents in the Diff window can be easily edited in place, updating the comparison as you type. DIFFzilla offers customizable options related to file comparison, integration with Backup History, and Source Control integration for Source Safe 2005 and CVS.
 > 
 > **Quick Profiling** Quick Profiling provides an extremely precise way to profile your code without profiling the whole thing. It provides a way to time many cases that are extremely difficult to analyze with standard profilers. Additionally, the results of several runs may be graphed and compared to view the results of code changes and determine the effect of those changes.
 > 

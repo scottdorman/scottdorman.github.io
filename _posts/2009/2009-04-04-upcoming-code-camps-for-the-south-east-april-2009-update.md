@@ -10,12 +10,12 @@ I only know of a few, so if you know of others please let me know.
 
 | **Date** | **Title** | **Speaking** |
 | -------- | --------- | ------------ |
-| ~~~1/31/2009~~~ | [~~~Alabama Code Camp~~~](http://www.alabamacodecamp.com/) | ~~~N~~~ |
-| ~~~2/6/2009~~~ | [~~~South Florida Code Camp~~~](http://codecamp09.fladotnet.com/) | ~~~Y~~~ |
-| ~~~3/7/2009~~~ | [~~~Roanoke Code Camp~~~](http://www.rvnug.org/Events_view.aspx?Eventid=90) | ~~~N~~~ |
-| ~~~3/14/2009~~~ | [~~~Atlanta Code Camp~~~](http://www.atlantacodecamp.com/) | ~~~N~~~ |
-| ~~~3/28/2009~~~ | [~~~Orlando Code Camp~~~](http://orlandocodecamp.com) | ~~~Y~~~ |
-| ~~~3/28/2009~~~ | [~~~Charlotte Code Camp~~~](http://www.developersguild.org/Default.aspx?tabid=32&Event=130) | ~~~N~~~ |
+| ~~1/31/2009~~ | [~~Alabama Code Camp~~](http://www.alabamacodecamp.com/) | ~~N~~ |
+| ~~2/6/2009~~ | [~~South Florida Code Camp~~](http://codecamp09.fladotnet.com/) | ~~Y~~ |
+| ~~3/7/2009~~ | [~~Roanoke Code Camp~~](http://www.rvnug.org/Events_view.aspx?Eventid=90) | ~~N~~ |
+| ~~3/14/2009~~ | [~~Atlanta Code Camp~~](http://www.atlantacodecamp.com/) | ~~N~~ |
+| ~~3/28/2009~~ | [~~Orlando Code Camp~~](http://orlandocodecamp.com) | ~~Y~~ |
+| ~~3/28/2009~~ | [~~Charlotte Code Camp~~](http://www.developersguild.org/Default.aspx?tabid=32&Event=130) | ~~N~~ |
 | 4/25/2009 | [Richmond Code Camp](http://richmondcodecamp.org/) | N |
 | 5/2/2009 | [SQL Saturday #15 - Jacksonville](http://sqlsaturday.com/schedule.aspx?eventid=19) | N |
 | 5/23/2009 | [Northern Virginia Code Camp](http://www.novacodecamp.org/) | N |

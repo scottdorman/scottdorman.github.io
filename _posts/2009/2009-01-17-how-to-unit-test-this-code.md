@@ -30,16 +30,16 @@ I have code that looks like this:
          case Constants.PROCESSOR_ARCHITECTURE_AMD64:
              architecture = ProcessorArchitecture.X64;
              break;
-  
+
          case Constants.PROCESSOR_ARCHITECTURE_IA64:
              architecture = ProcessorArchitecture.Itanium;
              break;
-  
+
          case Constants.PROCESSOR_ARCHITECTURE_INTEL:
              architecture = ProcessorArchitecture.X86;
              break;
      }
-  
+
      return architecture;
  }
 

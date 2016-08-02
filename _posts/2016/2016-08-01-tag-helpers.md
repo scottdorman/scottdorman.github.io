@@ -8,7 +8,7 @@ For those of you who aren't familiar with Tag Helpers in ASP.NET Core 1.0, you c
 
 Let's take a look at a simple scenario to see how Tag Helpers are used (and how they're different from Html Helpers). For example, if you were creating a form and wanted to use the standard Bootstrap `form-horizontal` styling, you need to add a `control-label` class to each of your HTML `label` elements. To do this using Html Helpers, you would need to write 
 
-```
+```html
 @Html.Label("Email", "Email address", new { @class = "control-label" })
 ```
 
@@ -16,7 +16,7 @@ This isn't exactly HTML friendly markup, because all of the parameters are strin
 
 Using a Tag Helper, the same markup is
 
-```
+```html
 <label class="control-label" asp-for="Email"></label>
 ```
 
@@ -24,7 +24,7 @@ This looks like standard HTML markup, with a new attribute. This attribute is pr
 
 Where Tag Helpers really show off is in forms, and Microsoft has provided a lot of Tag Helpers for forms. For example, consider the standard Register.cshtml Razor view generated with the legacy ASP.NET 4.5.x MVC template:
 
-```
+```html
 @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
 {
     @Html.AntiForgeryToken()
@@ -66,7 +66,7 @@ Where Tag Helpers really show off is in forms, and Microsoft has provided a lot 
 
 Looking at that code, the majority of it isn't HTML markup at all. It's Html Helpers. Compare that to the same form written using Tag Helpers
 
-```
+```html
 <form asp-action="Register" asp-controller="Account" method="post" class="form-horizontal" role="form">
     <h4>Create a new account.</h4>
     <hr/>

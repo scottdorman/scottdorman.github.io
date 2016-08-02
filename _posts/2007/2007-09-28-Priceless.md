@@ -12,8 +12,6 @@ So, without further ado...here is the original post (with some minor formatting 
 
 In the process of cleaning up some of the source code for one of the projects I manage, I came across the following comments: 
 
- <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 400px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; height: 195px; background-color: #f4f4f4">
-
 ```c
 /*
     MAB 08-05-2004: Who wrote this routine? When did they do it? Who should I
@@ -27,6 +25,7 @@ In the process of cleaning up some of the source code for one of the projects I 
     One other good reason to put your name on it: take credit! This is your craft
 */
 ```
+
 and then a little further down:
 
 ```c

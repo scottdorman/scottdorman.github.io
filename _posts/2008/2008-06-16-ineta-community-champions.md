@@ -4,7 +4,7 @@ title: INETA Community Champions
 date: 2008-06-16 23:52:43 -05:00
 ---
 
-If you are a user group leader in the worldwide community of Microsoft® .NET user groups, you probably already know about INETA. Don't know about INETA? Then you should definitely [take a look](http://www.ineta.org/About.aspx) and [become an INETA member group](http://www.ineta.org/BecomeAMember.aspx).
+If you are a user group leader in the worldwide community of Microsoft&reg; .NET user groups, you probably already know about INETA. Don't know about INETA? Then you should definitely [take a look](http://www.ineta.org/About.aspx) and [become an INETA member group](http://www.ineta.org/BecomeAMember.aspx).
 
 Are you already involved with an INETA member group? Be sure to check out the new [Community Champions](http://www.ineta.org/Champions/CommunityChampionInfo.aspx) program. This is just one of the ways INETA recognizes and rewards those who contribute to the user group community and help it grow. 
 

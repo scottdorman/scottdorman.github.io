@@ -39,7 +39,7 @@ So far, everything seems fairly reasonable and isn't terribly difficult to keep 
 The breakdown for the programming languages that are part of Visual Studio are:
 
 | **Framework** | **CLR**  | **C#** | **VB** | **F#** |
-| ------------- | _------- | ------ | ------ | ------ |
+| ------------- | -------- | ------ | ------ | ------ |
 | 1.0 | 1.0.3705 | 1.0 | 7.0 | |
 | 1.1 | 1.1.4322 | 1.1 | 7.1 | |
 | 2.0 | 2.0.50727 | 2.0 | 8.0 | |

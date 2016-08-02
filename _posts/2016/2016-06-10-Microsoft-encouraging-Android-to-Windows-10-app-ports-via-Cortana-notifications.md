@@ -8,6 +8,7 @@ categories:  [windows10 uwp android requests]
 
 {% include post/imagecaption.html url="/img/posts/2016/2016-06-10-Microsoft-encouraging-Android-to-Windows-10-app-ports-via-Cortana-notifications/android-request.jpg" description="source: Windows Central" %}
 
+
 {% include post/imagecaption.html url="/img/posts/2016/2016-06-10-Microsoft-encouraging-Android-to-Windows-10-app-ports-via-Cortana-notifications/android-request(mspoweruser).png" description="source: MSPowerUser" %}
 
 The idea is to encourage more Android apps to come to the Windows Store by showing the level of use/interest for the app to the developers and the "Request app" link goes to the [WinStore Requests UserVoice](https://winstorerequests.uservoice.com/) page where anyone can recommend that an app be added to the Windows Store. 

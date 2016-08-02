@@ -21,7 +21,7 @@ The problem with this approach is that if you need to change a lot of projects a
 
 For example, for the .NET Framework 4.0 Client Profile, these values would be:
 
-```
+```xml
 <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
 <TargetFrameworkProfile>Client</TargetFrameworkProfile>
 ```

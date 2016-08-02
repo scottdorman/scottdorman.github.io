@@ -8,12 +8,12 @@ Nearly two years ago, I wrote a post called [The future for Microsoft]({% post_u
 
 To quickly recap those predications, I said:
 
-*   <span class="glyphicon glyphicon-ok-sign"></span>Microsoft will change how it reports financially. 
-*   <span class="glyphicon glyphicon-ok-sign"></span>Microsoft will become a "consumer-focused enterprise company." 
-*   <span class="glyphicon glyphicon-ok-sign"></span>Windows will converge into a single code base capable of running on any platform. 
-*   <span class="glyphicon glyphicon-ok-sign"></span>Application development will converge into allowing developers to maintain a single code base for an app that will run on any device capable of running Windows. 
-*   <span class="glyphicon glyphicon-question-sign"></span>Release frequency will dramatically increase. 
-*   <span class="glyphicon glyphicon-ok-sign"></span>The "modern" user interface is here to stay.   
+*   <span class="fa fa-check-circle"></span> Microsoft will change how it reports financially. 
+*   <span class="fa fa-check-circle"></span> Microsoft will become a "consumer-focused enterprise company." 
+*   <span class="fa fa-check-circle"></span> Windows will converge into a single code base capable of running on any platform. 
+*   <span class="fa fa-check-circle"></span> Application development will converge into allowing developers to maintain a single code base for an app that will run on any device capable of running Windows. 
+*   <span class="fa fa-question-circle"></span> Release frequency will dramatically increase. 
+*   <span class="fa fa-check-circle"></span> The "modern" user interface is here to stay.   
 
 Since that was a predications post, let's take a look at where Microsoft is just two years later. From my perspective, I was right on 5 out of 6 predications.
 

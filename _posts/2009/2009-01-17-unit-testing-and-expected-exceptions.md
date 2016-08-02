@@ -39,7 +39,8 @@ I have taken his solution, worked around the JIT bug and also added a related me
          }
          catch (Exception ex)
          {
-             Assert.IsTrue(ex.GetType() == typeof(TException), "Expected exception of type " + typeof(TException) + " but type of " + ex.GetType() + " was thrown instead.");
+             Assert.IsTrue(ex.GetType() == typeof(TException), "Expected exception of type " + typeof(TException) +
+              " but type of " + ex.GetType() + " was thrown instead.");
             return;
         }
 
@@ -59,8 +60,10 @@ I have taken his solution, worked around the JIT bug and also added a related me
         }
         catch (Exception ex)
         {
-            Assert.IsTrue(ex.GetType() == typeof(TException), "Expected exception of type " + typeof(TException) + " but type of " + ex.GetType() + " was thrown instead.");
-            Assert.AreEqual(expectedMessage, ex.Message, "Expected exception with a message of '" + expectedMessage + "' but exception with message of '" + ex.Message + "' was thrown instead.");
+            Assert.IsTrue(ex.GetType() == typeof(TException), "Expected exception of type " + typeof(TException) +
+             " but type of " + ex.GetType() + " was thrown instead.");
+            Assert.AreEqual(expectedMessage, ex.Message, "Expected exception with a message of '" + expectedMessage +
+             "' but exception with message of '" + ex.Message + "' was thrown instead.");
             return;
         }
 

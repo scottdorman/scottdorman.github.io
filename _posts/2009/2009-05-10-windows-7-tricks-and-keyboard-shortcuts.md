@@ -13,6 +13,7 @@ Tim Sneath has an excellent [blog post](http://blogs.msdn.com/tims/archive/2009/
 Here is a quick summary of what I've found so far for Windows 7:
 
 **Window Management**
+
 * **Win+Left Arrow** and **Win+Right Arrow**: Dock a window to the left or right half of the screen. 
 * **Win+Shift+Left Arrow** and **Win+Shift+Right** **Arrow**: Move a window from one monitor to another, keeping them in the same relative location to the monitor's top-left origin. 
 * **Win+Up Arrow** and **Win+Down Arrow**: Maximizes and restores/minimizes a window. 

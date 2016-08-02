@@ -40,7 +40,6 @@ A build system takes these identical (or nearly identical) pieces and abstracts 
 
 ```xml
 <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-</div>
 ```
 
 If you then look at that file, you will see a similar line:
@@ -63,11 +62,11 @@ This is the idea behind a build system and it's critical to creating a repeatabl
 
 At this point, you should have realized that there are three key tenets to a build system:
 
-*   **Repeatable **- To do, experience, or produce again. [*The American Heritage® Dictionary of the English Language, Fourth Edition*. Houghton Mifflin Company, 2004. 27 December 2007.<Dictionary.com [http://dictionary.reference.com/browse/repeatable](http://dictionary.reference.com/browse/repeatable)>.]   
+*   **Repeatable**- To do, experience, or produce again. [*The American Heritage&reg; Dictionary of the English Language, Fourth Edition*. Houghton Mifflin Company, 2004. 27 December 2007.<Dictionary.com [http://dictionary.reference.com/browse/repeatable](http://dictionary.reference.com/browse/repeatable)>.]   
 
-*   **Reproducible** - To produce again or anew; re-create. [*The American Heritage® Dictionary of the English Language, Fourth Edition*. Houghton Mifflin Company, 2004. 27 December 2007. <Dictionary.com [http://dictionary.reference.com/browse/reproducible](http://dictionary.reference.com/browse/reproducible)>.]  
+*   **Reproducible** - To produce again or anew; re-create. [*The American Heritage&reg; Dictionary of the English Language, Fourth Edition*. Houghton Mifflin Company, 2004. 27 December 2007. <Dictionary.com [http://dictionary.reference.com/browse/reproducible](http://dictionary.reference.com/browse/reproducible)>.]  
 
-*   **Standard** - Something, such as a practice or a product, that is widely recognized or employed, especially because of its excellence. [*The American Heritage® Dictionary of the English Language, Fourth Edition*. Houghton Mifflin Company, 2004. 27 December 2007. <Dictionary.com [http://dictionary.reference.com/browse/standard](http://dictionary.reference.com/browse/standard)>.]
+*   **Standard** - Something, such as a practice or a product, that is widely recognized or employed, especially because of its excellence. [*The American Heritage&reg; Dictionary of the English Language, Fourth Edition*. Houghton Mifflin Company, 2004. 27 December 2007. <Dictionary.com [http://dictionary.reference.com/browse/standard](http://dictionary.reference.com/browse/standard)>.]
 
 
 By being **repeatable**, you ensure that that the project is built exactly the same way every time it builds no matter who "runs" the build or where it runs. This helps solve the "[works on my machine](http://www.codinghorror.com/blog/archives/000818.html)" syndrome. By being **reproducible** allows you to take the build system and move/copy it to a different computer (or even a build server) or otherwise easily recreate (reproduce) the steps that are required to perform a build. Repeatable and reproducible really go hand-in-hand. By being **standard**, you ensure that all of your projects follow what the development team (and/or the industry) has defined as best practices.

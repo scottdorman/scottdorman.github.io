@@ -15,16 +15,20 @@ It turned out to be a relatively painless process that can be broken down to the
 1.  Replace the reference to the `Nunit.Framework` assembly with a reference to the `Microsoft.VisualStudio.QualityTools.UnitTestFramework` assembly.
 2.  Replace the `using Nunit.Framework` line with `using Microsoft.VisualStudio.TestTools.UnitTesting`
 3.  For each file containing unit tests, replace the following attributes (you can use global search and replace for this): 
+
 |**NUnit Attribute**|**MSTest Attribute**|
+|-----|------|
 |TestFixture|TestClass|
 |Test|TestMethod|
 |SetUp|TestInitialize|
 |TearDown|TestCleanup|
 |TestFixtureSetup|ClassInitialize|
-|TestFixtureTearDown|ClassCleanup|      
+|TestFixtureTearDown|ClassCleanup|
 
-4. Replace the following method calls:       
+4. Replace the following method calls:
+
 |**NUnit Method Code**|**MSTest Method Call**|
+|----|-----|
 |Assert.Ignore|Assert.Inconclusive|
 
 At this point, the easy stuff is done, but Visual Studio will not recognize your project as an MSTest unit test project. (This only applies if you don't create a new Unit Test project in Visual Studio to hold your converted tests.) If that's the case, you need to edit the project file using a text editor and add the following tag to the first <PropertyGroup> in the XML:

@@ -4,8 +4,6 @@ title: WPF Virtual Bootcamp
 date: 2007-10-26 22:01:03 -05:00
 ---
 
-[![wpfbootcamp_crop](http://blogs.msdn.com/blogfiles/tims/WindowsLiveWriter/AttendtheWPFVirtualBootcamp_10748/wpfbootcamp_crop_3.png)](http://www.visitmix.com/university/wpf/wpfbootcamp.htm)
-
 I just came across a post by [Tim Sneath](http://blogs.msdn.com/tims/archive/2007/10/26/attend-the-wpf-virtual-bootcamp-no-need-to-register.aspx) announcing the WPF Virtual Bootcamp. This is a three-day virtual training course that covers all aspects of WPF as part of MIX University. The best part about this bootcamp is that it's completely free. This was originally delivered on the Redmond campus earlier this year to a small invited audience and features:
 
 *   A keynote from [Ian Ellison-Taylor](http://channel9.msdn.com/Showpost.aspx?postid=284474), the general manager responsible for WPF, Silverlight and client platform tools.

@@ -15,6 +15,7 @@ My site usage for September 2007 through December 2007 was 36,371 visits from 14
 5.  Australia 
 
 I had 308 posts over the course of the year, and the top 5 posts were:
+
 |**Post**|**% Page views**|
 |--------|----------------|
 |[Visual Studio 2008 release date]({% post_url 2007-07-10-Visual-Studio-2008-release-date %})|6.49|

@@ -8,4 +8,4 @@ Axialis Software and Microsoft worked to create a free Visual Studio add-in to c
 
 [Download](http://www.axialis.com/download/iwlite.html) 
 
-***IMPORTANT**: Axialis IconWorkshop™ Lite installs ONLY if **Visual Studio® 2008 Professional** or **Standard** edition is present on your computer. Express, Trial or Older versions of Visual Studio are NOT compatible.
+***IMPORTANT**: Axialis IconWorkshop™ Lite installs ONLY if **Visual Studio&reg; 2008 Professional** or **Standard** edition is present on your computer. Express, Trial or Older versions of Visual Studio are NOT compatible.

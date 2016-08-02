@@ -116,7 +116,7 @@ The next part is what actually does all of the work. As I mentioned, both of the
        {
           throw new ArgumentNullException("value");
        }
-  
+
        string description = value.ToString();
        FieldInfo fieldInfo = value.GetType().GetField(description);
        EnumDescriptionAttribute[] attributes = (EnumDescriptionAttribute[])fieldInfo
@@ -148,7 +148,7 @@ The next part is what actually does all of the work. As I mentioned, both of the
         {
            list.Add(new KeyValuePair<Enum, string>(value, GetDescription(value)));
         }
-   
+
         return list;
      }
   }

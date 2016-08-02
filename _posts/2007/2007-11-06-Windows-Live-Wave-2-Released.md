@@ -12,7 +12,7 @@ Just as a reminder, the installer covers only the desktop Windows Live applicati
 
 *   Instantly connect to the people who matter most—via text, voice, or video.*  
 *   Show 'em if you're online, offline, or out to lunch. Look like you're not there even if you are.  
-*   Share your personal files, photos, and videos. Just drag and drop them into a Shared Folder. <sub>*You and your contact will need compatible Web cameras, microphones, speakers or a headset, and high-speed Internet access.</sub>
+*   Share your personal files, photos, and videos. Just drag and drop them into a Shared Folder. *You and your contact will need compatible Web cameras, microphones, speakers or a headset, and high-speed Internet access.*
 
 **Windows Live Mail**
 

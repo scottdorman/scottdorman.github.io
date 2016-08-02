@@ -6,13 +6,13 @@ date: 2016-08-01 -05:00
 
 Earlier, I [wrote about]({% post_url 2016-08-01-tag-helpers %}) Tag Helpers and showed how useful they are when creating HTML forms. In that post, we saw how simple it is to use Tag Helpers to generate an `input` element:
 
-```
+```html
 <input asp-for="Email"></input>
 ```
 
 The .NET Framework code responsible for this is the [`InputTagHelper`](https://github.com/aspnet/Mvc/blob/dev/src/Microsoft.AspNetCore.Mvc.TagHelpers/InputTagHelper.cs) class. What's missing, however, is support for the `placeholder` attribute. What would be really nice is if we could simply write this as:
 
-```
+```html
 <input asp-for="Email" asp-placeholder-for="Email"></input>
 ```
 

@@ -132,7 +132,7 @@ To be safe, follow the following steps:
 
 ### myTechEd
 
-![](img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/myTechEdLogo1_3.jpg)
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/myTechEdLogo1_3.jpg)
 
 In 2007, Microsoft introduced Virtual Tech·Ed, which was the "one-stop" shop to extend the TechEd experience before, during, and after the event. This has subsequently been replaced by myTechEd, which has both an [online portal](http://northamerica.msteched.com/myportal) and a [Windows Phone app](http://www.windowsphone.com/en-us/apps/10051734-a87d-e011-986b-78e7d1fa76f8). If you don't have a Windows Phone (**you should [get one](http://www.microsoft.com/windowsphone/en-US/buy/7/default.aspx)!**) you can use the [myTechEd Mobile Web](http://m.myteched.com/) site. Using myTechEd, you can quickly:
 
