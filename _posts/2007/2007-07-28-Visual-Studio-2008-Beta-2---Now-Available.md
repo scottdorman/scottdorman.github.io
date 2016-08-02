@@ -10,8 +10,6 @@ To go along with this, the [Microsoft .NET Framework 3.5 Beta 2](http://go.micro
 
 Scott Guthrie has an excellent [post](http://weblogs.asp.net/scottgu/archive/2007/07/26/vs-2008-and-net-3-5-beta-2-released.aspx) providing a summary of several of the new features available. 
 
-[![Microsoft Secure Content Downloader](http://blogshare.members.winisp.net/images/AnEasierWaytoDownloadVisualStudio2008Bet_EAE5/MSCD_thumb.png)](http://blogshare.members.winisp.net/images/AnEasierWaytoDownloadVisualStudio2008Bet_EAE5/MSCD.png)
-
 If you want an easier way to download the files, check out the [Microsoft Secure Content Downloader](http://www.microsoft.com/downloads/details.aspx?FamilyID=9a927cf6-16e4-4e21-9608-77f06d2156bb) from Microsoft Research. 
 
 > The Microsoft Secure Content Downloader (MSCD) is a peer-assisted download manager capable of securely downloading specific files. MSCD is intended for consumers who are downloading from a home PC, or business users whose computers are not behind a corporate firewall. If you use MSCD from behind a corporate firewall, you may be unable to download content, and may adversely affect other clients' ability to download content.

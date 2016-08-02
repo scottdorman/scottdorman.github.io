@@ -18,7 +18,8 @@ The Add-in currently only installs for Visual Studio 2005, but it will run with 
 
 1.  Install the Add-in using the MSI installer for VS2005.  
 2.  Copy the CPBrowser.AddIn file from the `` folder to the `` folder. (You might need to create this directory under the Visual Studio 2008 folder first.)  
-3.  Change the following items (in ***bold italics***) in the CPBrowser.AddIn file:  
+3.  Change the following items (in ***bold italics***) in the CPBrowser.AddIn file: 
+ 
 ```
 <?xml version="1.0" encoding="UTF-16" standalone="no"?>
 <Extensibility xmlns="http://schemas.microsoft.com/AutomationExtensibility">

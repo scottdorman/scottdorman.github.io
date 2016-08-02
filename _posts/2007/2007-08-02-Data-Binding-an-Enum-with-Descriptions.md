@@ -47,7 +47,7 @@ The first step is to add a description attribute to your enum. For simplicity, 
 public sealed class EnumDescriptionAttribute :  Attribute
 {
     private string description;
- 
+
     /// <summary>
     /// Gets the description stored in this attribute.
     /// </summary>
@@ -59,7 +59,7 @@ public sealed class EnumDescriptionAttribute :  Attribute
             return this.description;
         }
     }
- 
+
     /// <summary>
     /// Initializes a new instance of the 
     /// <see cref="EnumDescriptionAttribute"/> class.
@@ -80,16 +80,16 @@ public enum SimpleEnum
 {
    [EnumDescription("Today")]
    Today,
- 
+
    [EnumDescription("Last 7 days")]
    Last7,
- 
+
    [EnumDescription("Last 14 days")]
    Last14,
- 
+
    [EnumDescription("Last 30 days")]
    Last30,
- 
+
    [EnumDescription("All")]
    All
 }
@@ -119,15 +119,16 @@ The next part is what actually does all of the work. As I mentioned, both of the
   
        string description = value.ToString();
        FieldInfo fieldInfo = value.GetType().GetField(description);
-       EnumDescriptionAttribute[] attributes = (EnumDescriptionAttribute[])fieldInfo.GetCustomAttributes(typeof(EnumDescriptionAttribute), false);
-   
+       EnumDescriptionAttribute[] attributes = (EnumDescriptionAttribute[])fieldInfo
+          .GetCustomAttributes(typeof(EnumDescriptionAttribute), false);
+
         if (attributes != null && attributes.Length > 0)
         {
            description = attributes[0].Description;
         }
         return description;
      }
-   
+
      /// <summary>
      /// Converts the <see cref="Enum"/> type to an <see cref="IList"/> compatible object.
      /// </summary>
@@ -139,17 +140,17 @@ The next part is what actually does all of the work. As I mentioned, both of the
         {
            throw new ArgumentNullException("type");
         }
-   
+
         ArrayList list = new ArrayList();
         Array enumValues = Enum.GetValues(type);
-   
+
         foreach (Enum value in enumValues)
         {
            list.Add(new KeyValuePair<Enum, string>(value, GetDescription(value)));
         }
    
         return list;
-     } 
+     }
   }
 ```
 As you can see, the `GetDescription` method uses a little bit of Reflection to retrieve the `EnumDescription` attribute on the specified enum value. If it doesn't find the attribute, it simply uses the value name. The `ToList` method returns an `IList` of `KeyValuePair<Enum, string>` instances that hold the enum value (the key) and the description (the value). If you aren't using .NET 2.0 or later, you will need to use `DictionaryEntry` instead of `KeyValuePair<TKey, TValue>`.
@@ -163,4 +164,4 @@ combo.DisplayMember = "Value";
 combo.ValueMember = "Key";
 ```
 
-You now have a ComboBox whose values are your enum type values and whose display are the string specified in the EnumDescription attribute. This works with any control that supports data binding, including the ToolStripComboBox, although you will need to cast the `ToolStripComboBox.Control` property to a ComboBox to get to the `DataSource` property. (In that case, you will also want to perform the same cast when  you are referencing the selected value to work with it as your enum type.)
+You now have a ComboBox whose values are your enum type values and whose display are the string specified in the `EnumDescription` attribute. This works with any control that supports data binding, including the ToolStripComboBox, although you will need to cast the `ToolStripComboBox.Control` property to a ComboBox to get to the `DataSource` property. (In that case, you will also want to perform the same cast when  you are referencing the selected value to work with it as your enum type.)
