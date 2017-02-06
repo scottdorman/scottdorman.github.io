@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Updates on the Windows Phone Marketplace Requests
-date: 2012-02-11 15:29:16 -05:00
+date: '2012-02-11 15:29:16 -05:00'
 ---
 
 Just 3 days ago, I [launched]({% post_url 2012-02-08-windows-phone-marketplace-requests %}) the [Windows Phone Marketplace Requests](http://wprequests.uservoice.com/) site. Since that time, the response has been staggering, to say the least. 

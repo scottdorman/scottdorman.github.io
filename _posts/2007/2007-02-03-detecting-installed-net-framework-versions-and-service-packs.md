@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Detecting installed .NET Framework versions and service packs
-date: 2007-02-03 17:52:00 -05:00
+date: '2007-02-03 17:52:00 -05:00'
 ---
 
 I have just posted a new [article](http://www.codeproject.com/useritems/frameworkversiondetection.asp) on Code Project that provides the definitive way to determine which versions and service packs of the .NET Framework are installed on the client computer. 

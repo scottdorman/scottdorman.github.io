@@ -1,7 +1,7 @@
 ---
 layout: post
 title: February was busy!
-date: 2007-03-01 22:21:00 -05:00
+date: '2007-03-01 22:21:00 -05:00'
 ---
 
 All I can say is, "Wow!" I just looked at my blog and realized that I posted 34 posts for last month. I'm sure some of you may not think this is a large amount, but for me it represented the single busiest month of blogging since I started almost a year ago.

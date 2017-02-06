@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Writer CTP
-date: 2008-06-04 02:03:00 -05:00
+date: '2008-06-04 02:03:00 -05:00'
 ---
 
 I have been a big fan of Windows Live Writer since it was first available, and that continues with the [latest CTP release](http://windowslivewriter.spaces.live.com/Blog/cns!D85741BB5E0BE8AA!1508.entry). There have been a lot of changes between the last beta and this CTP, including some much needed UI improvements and new features, including:

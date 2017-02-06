@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Differences between release types
-date: 2008-08-30 14:15:08 -05:00
+date: '2008-08-30 14:15:08 -05:00'
 ---
 
 Phil has an excellent post that builds on Jeff Atwood's explanation which very clearly describes the differences between the various release types:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subtext 1.9.5 Released
-date: 2007-05-12 10:48:47 -05:00
+date: '2007-05-12 10:48:47 -05:00'
 ---
 
 ![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/Subtext1.9.5Released_97FC/subtextsubmarinelogo68.png)Subtext 1.9.5 has been [released](http://haacked.com/archive/2007/05/11/subtext-1.9.5-release.aspx) to the public. This is primarily a bug-fix release but does include some new features. Oddly enough, this is the first release to go out the door without a [codename](http://codeclimber.net.nz/archive/2007/02/07/Codename-your-releases.aspx).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 7 Product Lines Announced
-date: 2009-02-03 15:01:27 -05:00
+date: '2009-02-03 15:01:27 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/Win7_1.png) 

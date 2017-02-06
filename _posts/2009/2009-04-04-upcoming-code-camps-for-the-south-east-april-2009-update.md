@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upcoming Code Camps for the South East (April 2009 Update)
-date: 2009-04-04 12:12:59 -05:00
+date: '2009-04-04 12:12:59 -05:00'
 ---
 
 I'm trying to put together the list of upcoming code camps in the South East region. The plan is for this to be periodically (probably quarterly) updated so, if you are hosting a code camp (or know someone who is) in the South East, please let me know the date and website so I can include it in the list. (I'm also using this list to plan my speaking schedule, so if I don't know about your code camp I can't determine if it will fit my schedule.)

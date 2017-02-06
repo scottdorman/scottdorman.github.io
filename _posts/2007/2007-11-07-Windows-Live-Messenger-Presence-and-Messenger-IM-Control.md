@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Messenger Presence and Messenger IM Control
-date: 2007-11-07 11:50:47 -05:00
+date: '2007-11-07 11:50:47 -05:00'
 ---
 
 The Windows Live Messenger team has just [announced](http://messengersays.spaces.live.com/Blog/cns!5B410F7FD930829E!30835.entry) a new feature that allows you show your Messenger presence and receive instant messages from the web. 

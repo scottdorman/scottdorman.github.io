@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 Rhythm Training Kit
-date: 2007-12-19 21:20:32 -05:00
+date: '2007-12-19 21:20:32 -05:00'
 ---
 
 If you are doing any work with any of the following technologies:

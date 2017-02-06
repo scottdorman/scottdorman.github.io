@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New and Updated SnapShots
-date: 2007-10-22 09:46:14 -05:00
+date: '2007-10-22 09:46:14 -05:00'
 ---
 
 ![The MapShot](http://blog.snap.com/wp-content/uploads/MapShot_POI.png)The folks at Snap have released a new Snap Shot, called the [MapShot](http://blog.snap.com/2007/10/16/snap-adds-a-new-type-of-snap-shot-the-mapshot/). Once activated, it display a map of an address, a point of intersection or a location specified using [latitude and longitude](http://en.wikipedia.org/wiki/Latitude_and_longitude). 

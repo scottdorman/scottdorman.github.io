@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Wave 2 Released
-date: 2007-11-06 10:32:27 -05:00
+date: '2007-11-06 10:32:27 -05:00'
 ---
 
 The final releases of the Windows Live Wave 2 programs are now available. The upgrades from the beta releases haven't changed a whole lot, but you should still download the new [Windows Live installer](http://g.live.com/1rewlive/en/WLInstaller.exe). There is also a [support article](http://support.microsoft.com/kb/940065) if you have any problems upgrading from the betas.

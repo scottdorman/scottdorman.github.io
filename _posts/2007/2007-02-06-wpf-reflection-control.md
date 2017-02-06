@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WPF Reflection control
-date: 2007-02-06 21:59:00 -05:00
+date: '2007-02-06 21:59:00 -05:00'
 ---
 
 One of the cooler "eye-candy" type effects possible with WPF is the ability to create reflections. Reflections can be made of pretty much anything and are relatively simple to create. There is a good [tutorial](http://www.contentpresenter.com/LiveReflection.wmv) on creating reflections using [Visual Studio](http://msdn2.microsoft.com/en-us/vstudio/default.aspx) and [Microsoft Expression Blend](http://www.microsoft.com/products/expression/en/default.mspx).

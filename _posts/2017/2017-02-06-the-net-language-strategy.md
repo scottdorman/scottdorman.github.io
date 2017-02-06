@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The .NET Language Strategy
-date: 2017-02-06 11:32:24 -05:00
+date: '2017-02-06 11:32:24 -05:00'
 ---
 
 Last week, Microsoft announced the [language strategy](https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/) for C#, VB, and F#. The Visual Basic team also provided a [more detailed look at the Visual Basic .NET language strategy](https://blogs.msdn.microsoft.com/vbteam/2017/02/01/digging-deeper-into-the-visual-basic-language-strategy/).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA - October 2008 Meeting
-date: 2008-10-10 13:00:01 -05:00
+date: '2008-10-10 13:00:01 -05:00'
 ---
 
 ##"Fix the Architecture" - Open Discussion</u>     

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Framework Engineering: Architecting, Designing, and Developing Reusable Libraries"
-date: 2008-02-29 20:27:32 -05:00
+date: '2008-02-29 20:27:32 -05:00'
 ---
 
 At TechEd 2007, [Krzysztof](http://blogs.msdn.com/kcwalina/) talked about building reusable libraries. The session abstract is below. You can download the presentation as an [XPS file](http://blogs.msdn.com/kcwalina/attachment/7031258.ashx). The presentation was also recorded, and the WMV file can be downloaded from [here](http://download.microsoft.com/download/b/d/1/bd133733-9647-445f-bc06-238ae9c0dd48/FrameworkEngineering.wmv).

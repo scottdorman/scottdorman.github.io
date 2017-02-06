@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extreme Makeover: SPA Edition"
-date: 2007-02-27 22:23:00 -05:00
+date: '2007-02-27 22:23:00 -05:00'
 ---
 
 I received an email today from Snap letting me know about a contest they are running to help improve Snap Preview Anywhere (SPA).

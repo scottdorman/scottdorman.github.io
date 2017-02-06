@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reminder: July 2008 Tampa Bay IASA Meeting"
-date: 2008-07-31 11:23:01 -05:00
+date: '2008-07-31 11:23:01 -05:00'
 ---
 
 Just a reminder that the Tampa Bay IASA March meeting is tonight starting at 6:30 PM. We have a great group of members with a variety of experience, so bring your architecture problems and leverage those experiences and creativity to help solve them. This is an open discussion format and depending on how many people we have and how many problems we may split up into small groups or try to solve problems one at a time.

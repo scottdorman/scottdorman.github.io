@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA Newsletters
-date: 2008-02-16 23:08:02 -05:00
+date: '2008-02-16 23:08:02 -05:00'
 ---
 
 It's now been almost 2 months since I have been part of the Tampa Bay IASA chapter's leadership. In that time we've [moved]({% post_url 2007-12-28-tampa-bay-iasa-meeting-registration %}) the meeting registration to [Eventbrite](http://tampabayiasa.eventbrite.com/) and have started sending monthly newsletters. (The February newsletter was very late, and I sincerely apologize to everyone. The rest of them will be on time from now on.)

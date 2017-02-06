@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Birth of the CLR
-date: 2006-11-27 13:37:00 -05:00
+date: '2006-11-27 13:37:00 -05:00'
 ---
 
 I recently came across the blog of [Patrick Dussud](http://blogs.msdn.com/patrick_dussud/default.aspx), who is the lead architect of the CLR/UIFX group. His first (and currently only post) discusses his role in the birth of the .NET CLR. There is a link to a [mailing list archive](http://discuss.develop.com/archives/wa.exe?A2=ind0008&L=DOTNET&P=R9831&I=-3) that also gives some more background.

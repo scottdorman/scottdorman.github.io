@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Garbage Collection in .NET
-date: 2007-07-21 19:06:38 -05:00
+date: '2007-07-21 19:06:38 -05:00'
 ---
 
 Garbage collection is one of the most fundamental aspects of the .NET Common Language Runtime (CLR) and is available to all .NET programming languages. Unfortunately, it also seems to be one of the more difficult concepts to understand correctly, both how it works and how to use it.

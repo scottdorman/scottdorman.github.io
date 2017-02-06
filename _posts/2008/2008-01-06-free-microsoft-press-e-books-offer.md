@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Microsoft Press E-Books Offer?
-date: 2008-01-06 20:42:25 -05:00
+date: '2008-01-06 20:42:25 -05:00'
 ---
 
 I've been seeing several people blogging about the free Microsoft Press E-Book offer. All you need to do is register and you get access to 3 e-books from Microsoft Press that you can download in PDF format.

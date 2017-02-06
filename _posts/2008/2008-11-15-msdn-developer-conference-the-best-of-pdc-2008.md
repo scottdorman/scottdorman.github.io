@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MSDN Developer Conference: The Best of PDC 2008"
-date: 2008-11-15 08:41:50 -05:00
+date: '2008-11-15 08:41:50 -05:00'
 ---
 
 Did you miss PDC this year? Don't want to watch the [recorded sessions](http://www.microsoftpdc.com/)? Then register today for an MSDN Developer Conference near you!

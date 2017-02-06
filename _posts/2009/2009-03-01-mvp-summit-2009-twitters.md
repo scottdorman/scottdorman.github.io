@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MVP Summit 2009 Twitters
-date: 2009-03-01 17:45:00 -05:00
+date: '2009-03-01 17:45:00 -05:00'
 ---
 
 If you're at MVP Summit 2009 (or not at Summit) and trying to find people to follow I've started putting together a list of MVPs and Microsoft employees that I know who are here.

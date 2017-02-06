@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 Debugging Tricks &ndash; Multi-Threaded Debugging
-date: 2009-02-14 16:16:53 -05:00
+date: '2009-02-14 16:16:53 -05:00'
 ---
 
 We previously talked about the [Location, Condition and Hit Count]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}) modifiers for advanced breakpoints. These are great for a lot of different debugging scenarios, but what about tricks specifically for debugging multi-threaded applications. If you have ever tried to debug a multi-threaded application you know that it isn't always the easiest experience. 

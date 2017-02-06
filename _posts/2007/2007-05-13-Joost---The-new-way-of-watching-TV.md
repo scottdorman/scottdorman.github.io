@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joost - The new way of watching TV
-date: 2007-05-13 02:13:35 -05:00
+date: '2007-05-13 02:13:35 -05:00'
 ---
 
 [Joost](http://www.joost.com/) is a new way of watching TV on the internet. With Joost, you get all the things you love about TV, including a high-quality full-screen picture, hundreds of full-length shows and easy channel-flipping.

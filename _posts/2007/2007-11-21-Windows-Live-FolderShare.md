@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live FolderShare
-date: 2007-11-21 23:36:44 -05:00
+date: '2007-11-21 23:36:44 -05:00'
 ---
 
 I just came across a [post](http://feeds.feedburner.com/~r/liveside/~3/187949460/foldershare-admits-problems-promises-improvements-soon.aspx) today on LiveSide that talks about some of the problems faced by users of [FolderShare](www.foldershare.com). I have to be honest, even though FolderShare appears to be part of Windows Live, I haven't heard much about it. It's not advertised on [Windows Live betas](http://get.live.com/betas/home) and hasn't been talked about much by any of the Windows Live bloggers.

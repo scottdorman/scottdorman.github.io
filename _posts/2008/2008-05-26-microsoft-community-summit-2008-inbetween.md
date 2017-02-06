@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Community Summit 2008 ]inbetween[
-date: 2008-05-26 12:04:04 -05:00
+date: '2008-05-26 12:04:04 -05:00'
 ---
 
 If you're going to Tech·Ed Developer or IT Pro this year,  be sure to come out to the [Microsoft Community Summit 2008](http://www.devfish.net/articles/inbetween/) (also known as ]inbetween[ or the Tech·Ed Tweener Weekend, since it's in between the two events).

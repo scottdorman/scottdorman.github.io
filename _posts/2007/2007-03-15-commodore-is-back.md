@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Commodore is back!
-date: 2007-03-15 22:11:00 -05:00
+date: '2007-03-15 22:11:00 -05:00'
 ---
 
 I don't know about you, but my first home computer was a [Commodore VIC-20](http://en.wikipedia.org/wiki/Commodore_VIC-20) longer ago than I care to admit. From there, it was a [Commodore C64](http://en.wikipedia.org/wiki/Commodore_64), then a [C128](http://en.wikipedia.org/wiki/Commodore_128). After that, we got our first [IBM PC compatible,](http://en.wikipedia.org/wiki/IBM_PC_compatible) a Goldstar made PC clone. I never really got in to the [Commodore Amiga,](http://en.wikipedia.org/wiki/Amiga) although the graphics and operating system where definitely ahead of it's time.

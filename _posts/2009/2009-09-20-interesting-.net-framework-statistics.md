@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting .NET Framework Statistics
-date: 2009-09-20 20:15:01 -05:00
+date: '2009-09-20 20:15:01 -05:00'
 ---
 
 I've been very "heads down" working on my upcoming book from Sams Publishing, <u>Teach Yourself C# 2010 in 24 Hours</u>, so I haven't been blogging as much as I usually do. In doing some research for the book, I've been taking an in-depth look at the .NET Framework and thought I would share some interesting statistics.

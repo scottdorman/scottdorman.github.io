@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech&middot;Ed Technical Tracks - Where's WPF?
-date: 2007-02-17 12:17:00 -05:00
+date: '2007-02-17 12:17:00 -05:00'
 ---
 
 I was scanning through the list of [technical tracks](http://www.msteched.com/public/tracks.aspx) for Tech·Ed this morning and noticed an odd omission. Windows Presentation Found (WPF) is only listed once, under the "Connected Systems" track:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joe Wells named Chief Technology Officer for Lavasoft
-date: 2007-08-10 12:06:55 -05:00
+date: '2007-08-10 12:06:55 -05:00'
 ---
 
 I just found out that my good friend Joe Wells has accepted an offer from [Lavasoft](http://www.lavasoft.com/) to be the new Chief Technology Officer (CTO). Joe is very well known for his extensive career in the software security field, having authored more than 60 technical papers and founding the [WildList Organization International](http://www.wildlist.org). He has worked with such well-known companies as Symantec, IBM, and Sunbelt Software.

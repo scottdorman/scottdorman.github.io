@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PatchGuard, the eWEEK opinion
-date: 2006-11-02 16:44:00 -05:00
+date: '2006-11-02 16:44:00 -05:00'
 ---
 
 eWEEK Security Center Editor [Larry Seltzer](http://www.eweek.com/author_bio/0,1908,a=2299,00.asp) just published an [article](http://www.eweek.com/article2/0,1895,2049960,00.asp) on eWEEK.com providing his opinion on the benefits, and limitations, of PatchGuard.

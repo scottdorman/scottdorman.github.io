@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech&middot;Ed 2007 Birds-of-a-Feather (BOF) Sessions
-date: 2007-02-08 23:54:00 -05:00
+date: '2007-02-08 23:54:00 -05:00'
 ---
 
 Tech·Ed is well known for the Birds-of-a-Feather, or BOF, sessions. These sessions let you meet people with similar interests and challenges in an open-forum environment. BOFs are organized by [INETA](http://www.ineta.org), the developer user group and [Culminis](http://www.culminis.org), the IT pro user group.

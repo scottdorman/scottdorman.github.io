@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's your nerd score?
-date: 2007-06-29 09:22:11 -05:00
+date: '2007-06-29 09:22:11 -05:00'
 ---
 
 I am nerdier than 96% of all people. Are you a nerd? [Click here to find out!](http://www.nerdtests.com/nq_ref.html)

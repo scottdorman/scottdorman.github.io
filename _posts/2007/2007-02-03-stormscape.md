@@ -1,7 +1,7 @@
 ---
 layout: post
 title: StormScape
-date: 2007-02-03 20:17:00 -05:00
+date: '2007-02-03 20:17:00 -05:00'
 ---
 
 > "This isn't a fantasy world. It's a world like Earth. Power here is based on ignorance. On superstition. On deception. Not on magic. Not on anything mystical or paranormal. This ‘power' wielded by the Hood is rooted, deeply rooted, in pure, blind fear."

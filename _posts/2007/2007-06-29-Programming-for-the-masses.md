@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming for the masses
-date: 2007-06-29 10:50:26 -05:00
+date: '2007-06-29 10:50:26 -05:00'
 ---
 
 Over the last year or so I have noticed a disturbing trend brought about by the idea of "brining programming to the masses". Last April, according to [Microsoft](http://www.microsoft.com/presspass/press/2006/apr06/04-19VSExpressFreePR.mspx), there was a "growing community of 18 million recreational and hobbyist developers." Even IBM was getting in to the mix, with a project called [QEDwiki](http://news.com.com/IBM+eyes+programming+for+the+masses/2100-1007_3-6065324.html).

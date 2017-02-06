@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 Multi-targeting
-date: 2007-09-30 11:24:53 -05:00
+date: '2007-09-30 11:24:53 -05:00'
 ---
 
 One of the new features in Visual Studio 2008 is the ability to target a project to any version of the .NET Framework from 2.0 and up. This is an excellent feature as it allows the entire development team to work with the same version of the IDE. Since it's a project based setting, it also allows you to mix projects in the same solution.

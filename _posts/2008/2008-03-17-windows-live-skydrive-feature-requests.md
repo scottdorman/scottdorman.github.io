@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live SkyDrive Feature Requests
-date: 2008-03-17 11:08:46 -05:00
+date: '2008-03-17 11:08:46 -05:00'
 ---
 
 I have been a big fan of SkyDrive since it was first available as a beta release. Now that it has been officially released, it has continued to get better. Just recently, the SkyDrive team [announced](http://skydriveteam.spaces.live.com/Blog/cns!977F793E846B3C96!2410.entry) the top list of feature requests that they are looking to implement. The list so far is: 

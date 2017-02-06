@@ -1,7 +1,7 @@
 ---
 layout: post
 title: appRequests in the 2013 MVP Summit Showcase
-date: 2013-02-13 20:13:14 -05:00
+date: '2013-02-13 20:13:14 -05:00'
 ---
 
 For those of you who may not know, [appRequests](http://apprequests.azurewebsites.net/) is the umbrella brand for [WP Requests](http://wprequests.uservoice.com/) and [WinStore Requests](http://winstorerequests.uservoice.com/). These sites are designed to allow you to add or vote for your favorite non-Microsoft app to come to either the Windows Phone or Windows Store platforms. It's a great way to show companies that there really is an interest in seeing official apps.

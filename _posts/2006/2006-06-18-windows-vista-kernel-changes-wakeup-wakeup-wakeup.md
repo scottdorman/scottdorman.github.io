@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows Vista: Kernel Changes - Wakeup, wakeup, wakeup!"
-date: 2006-06-18 13:24:00 -05:00
+date: '2006-06-18 13:24:00 -05:00'
 ---
 
 Up until Vista, an application or a driver could prevent the system from entering a sleep mode (standby or hibernate) and was often caused by a bug or an overly aggressive power management policy. The problem with this was that the user might not know the system hasn't entered the appropriate sleep stat and eventually loose data.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Input Tag Helper For Bootstrap Navigation Links
-date: 2016-08-01 -05:00
+date: '2016-08-01 09:46:00 -05:00'
 ---
 
 I've already [written about]({% post_url 2016-08-01-tag-helpers %}) Tag Helpers and [showed]({% post_url 2016-08-01-input-tag-helper-with-placeholder-support %}) how easy it is to extend an existing Tag Helper. Now let's look at how to create a new Tag Helper for generating Bootstrap 3 navigation links.

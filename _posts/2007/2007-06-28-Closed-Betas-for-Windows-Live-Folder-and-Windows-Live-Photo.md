@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Closed Betas for Windows Live Folder and Windows Live Photo Gallery
-date: 2007-06-28 09:04:08 -05:00
+date: '2007-06-28 09:04:08 -05:00'
 ---
 
 Microsoft has started offering limited beta testing of Windows Live Folder and Windows Live Photo Gallery.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netgear Rangemax Wireless Router
-date: 2007-02-16 21:54:00 -05:00
+date: '2007-02-16 21:54:00 -05:00'
 ---
 
 The other night I needed to purchase a new wireless router for my home network. I have had a Netgear MR814 wireless router for about 5 years now and have never had any problems with it. I needed a new one since I was sending this one out to my ex. Since I have had such good luck with this router, I knew that I was going to purchase another Netgear router. I wasn't prepared, however, for the number of different choices. (When I bought mine, that was pretty much the only choice if you wanted to spend under $200.)

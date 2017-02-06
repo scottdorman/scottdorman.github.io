@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows Vista: Kernel Changes - Shadows of Reliability, Performance and Scalability"
-date: 2006-06-18 13:59:00 -05:00
+date: '2006-06-18 13:59:00 -05:00'
 ---
 
 ## Performance and Scalability

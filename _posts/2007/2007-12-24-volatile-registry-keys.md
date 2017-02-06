@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Volatile Registry Keys
-date: 2007-12-24 17:47:09 -05:00
+date: '2007-12-24 17:47:09 -05:00'
 ---
 
 Up until recently, I had never heard of a [volatile registry key](http://msdn2.microsoft.com/en-gb/library/ms891450.aspx). I cam across a post by [Daniel Moth](http://www.danielmoth.com/Blog/2007/12/volatile-registrykey.html) that presents an extension method that adds support for both .NET and NETCF. While I haven't looked at the [projects](http://www.danielmoth.com/Blog/VolatileRegSolution.zip) he provides, it did get me thinking about what this support would actually mean.

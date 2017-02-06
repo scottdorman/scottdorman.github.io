@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Credit Winner for December
-date: 2008-01-01 11:35:03 -05:00
+date: '2008-01-01 11:35:03 -05:00'
 ---
 
 I have talked about [Community Credit](http://geekswithblogs.net/sdorman/category/6304.aspx) before, and have been very impressed with the direction the site is heading. I was just notified that I won 4th place out of 7,721 members. This makes the fifth time I have won a monthly competition. 

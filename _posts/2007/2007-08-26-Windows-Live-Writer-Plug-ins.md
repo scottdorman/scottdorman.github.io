@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Writer Plug-ins
-date: 2007-08-26 23:23:00 -05:00
+date: '2007-08-26 23:23:00 -05:00'
 ---
 
 I'm a big fan of [Windows Live Writer](http://writer.live.com) and use it almost exclusively to write my blog posts. As a result of this, I'm always on the lookout for new and useful plug-ins. Since I have accumulated quite a few of them, I thought I'd share my favorite plug-ins. These are listed in no particular order.

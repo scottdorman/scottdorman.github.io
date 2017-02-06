@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WPF Datagrid control"
-date: 2007-02-06 20:59:00 -05:00
+date: '2007-02-06 20:59:00 -05:00'
 ---
 
 Anyone who has been using WPF has, by now, realized that one of the most versatile controls in Windows Forms is **missing**! I'm referring to the DataGridView. The WPF ListView does have a very powerful Grid View mode that can be used to get around this limitation for a lot of situations.

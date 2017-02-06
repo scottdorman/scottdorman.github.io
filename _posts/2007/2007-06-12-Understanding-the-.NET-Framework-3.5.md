@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the .NET Framework 3.5
-date: 2007-06-12 21:59:48 -05:00
+date: '2007-06-12 21:59:48 -05:00'
 ---
 
 Daniel Moth has an excellent [post](http://www.danielmoth.com/Blog/2007/06/net-framework-35.html) that explains what makes up the .NET Framework 3.5. This post also sparked a very good [discussion](http://www.codeproject.com/lounge.asp?select=2074979&df=100&forumid=1159&fr=766.5#xx2074979xx) on [The Code Project](http://www.codeproject.com).

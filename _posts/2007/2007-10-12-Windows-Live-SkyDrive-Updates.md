@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live SkyDrive Updates
-date: 2007-10-12 09:51:59 -05:00
+date: '2007-10-12 09:51:59 -05:00'
 ---
 
 Along with Microsoft's recently introduced [Windows Live Events]({% post_url 2007-10-12-Windows-Live-Events %}), a few minor updates were made to [Windows Live SkyDrive](http://skydrive.live.com/) as well. The new features are an increase in the online storage space from 500MB to 1GB. In addition to more storage space, all public folders now have an RSS feed. To subscribe to a folders RSS feed, go to the public folder you're interested in and click the ![Feed16](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/Feed16_6.gif)  icon at the top right of the page.

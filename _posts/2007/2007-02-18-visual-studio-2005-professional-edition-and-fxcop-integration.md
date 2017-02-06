@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2005 Professional Edition and FxCop Integration
-date: 2007-02-18 15:28:00 -05:00
+date: '2007-02-18 15:28:00 -05:00'
 ---
 
 I don't know about you, but I have always felt that Microsoft did a huge injustice to the development community by leaving the Static Code Analysis capability out of [Visual Studio 2005 Professional Edition](http://msdn2.microsoft.com/en-us/vstudio/aa718668.aspx). Just in case you don't know what this is, it is an integrated version of [FxCop](http://www.gotdotnet.com/team/fxcop/) that allows you to configure Code Analysis and view the results from within Visual Studio.

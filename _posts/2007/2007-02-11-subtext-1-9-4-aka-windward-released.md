@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subtext 1.9.4, aka Windward, released
-date: 2007-02-11 22:51:00 -05:00
+date: '2007-02-11 22:51:00 -05:00'
 ---
 
 The long awaited 1.9.4 release is finally here. This release fixes a number of bugs and implements a few new features. One of the more significant features is the [Sitemap](http://sitemaps.org) implementation. You can find more information on the implementation and instructions on how to set it up on [David's](http://vidmar.net/weblog/archive/2007/01/31/Subtext-1.9.4--now-with-sitemap.aspx) blog.

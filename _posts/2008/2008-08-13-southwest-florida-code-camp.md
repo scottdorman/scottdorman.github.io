@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Southwest Florida Code Camp
-date: 2008-08-13 15:04:22 -05:00
+date: '2008-08-13 15:04:22 -05:00'
 ---
 
 Another Florida Code Camp, this time in Southwest Florida (which is the Naples area). This is the first code camp for Southwest Florida, so be sure to [register](http://66.252.228.222/CreateNewWizard.aspx). When you register, you can sign up as a speaker as well if you want to get more involved in the community...speaking at Code Camp is a great way to get started as a speaker.

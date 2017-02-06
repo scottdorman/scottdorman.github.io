@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Credit Winner for April
-date: 2007-05-03 00:09:59 -05:00
+date: '2007-05-03 00:09:59 -05:00'
 ---
 
 I was just awarded 5th prize for April 2007. This goes along with the 16th place prize I won back in February.

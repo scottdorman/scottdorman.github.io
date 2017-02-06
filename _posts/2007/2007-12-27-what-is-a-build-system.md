@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is a Build System?
-date: 2007-12-27 15:58:40 -05:00
+date: '2007-12-27 15:58:40 -05:00'
 ---
 
 A few days ago, I talked about my [views]({% post_url 2007-12-24-msbuild-or-nant %}) on MSBuild and NAnt. In that post I mentioned the phrase "build system" several times. That, combined with catching up and re-reading some blog posts that I had flagged led me to Jeff Atwood's post "[The F5 Key Is Not a Build Process](http://www.codinghorror.com/blog/archives/000988.html)". While some of Jeff's post is a bit of [tongue-in-cheek](http://en.wikipedia.org/wiki/Tongue-in-cheek) humor, the points he makes are extremely valid.

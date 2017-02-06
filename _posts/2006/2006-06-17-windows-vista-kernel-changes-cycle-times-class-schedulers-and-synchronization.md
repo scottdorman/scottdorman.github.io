@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows Vista: Kernel Changes - Cycle Times, Class Schedulers and Synchronization"
-date: 2006-06-17 15:08:00 -05:00
+date: '2006-06-17 15:08:00 -05:00'
 ---
 
 ## Cycle Time Counter

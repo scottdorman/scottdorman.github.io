@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XFN&trade; Live Writer Plugin Updates
-date: 2007-02-10 04:25:00 -05:00
+date: '2007-02-10 04:25:00 -05:00'
 ---
 
 I know it's only been a couple of days, but there were a few things that were bothering me about my XFN™ plugin for ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o_sshot-4.jpg)Live Writer. The biggest issue (and really the one that everything else centered around) was that once a link was inserted, you couldn't edit it again without recreating it. I doubt anyone would have really felt this was a problem, but it was annoying enough to me that I decided to do something about it.

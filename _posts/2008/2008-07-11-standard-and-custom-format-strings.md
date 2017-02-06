@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Standard and Custom Format Strings
-date: 2008-07-11 14:57:33 -05:00
+date: '2008-07-11 14:57:33 -05:00'
 ---
 
 I was recently asked by a co-worker what the format string was for formatting a DateTime object in an ISO 8601 format. The way to do this is passing a format string to the `ToString()` method on the DateTime object. The question becomes, what is that format string? There are two ways to do this:

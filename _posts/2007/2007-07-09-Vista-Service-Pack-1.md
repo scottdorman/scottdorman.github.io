@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vista Service Pack 1
-date: 2007-07-09 11:06:36 -05:00
+date: '2007-07-09 11:06:36 -05:00'
 ---
 
 According to [ZDNet](http://zdnet.com)'s Mary Jo Foley, [Vista SP1 beta 1 to launch in mid-July](http://blogs.zdnet.com/microsoft/?p=559), with the final version around November 2007. A November release is also the target for RTM of Windows Server 2008, which, if they meet the deadlines means that they were able to stick to a schedule announced a year ago when [they announced Vista SP! and Windows Server 2008 will be released simultaneously](http://blogs.zdnet.com/microsoft/?p=95).

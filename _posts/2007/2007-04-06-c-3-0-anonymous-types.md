@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C# 3.0 Anonymous Types
-date: 2007-04-06 13:29:00 -05:00
+date: '2007-04-06 13:29:00 -05:00'
 ---
 
 Anonymous types are a new language feature introduced in the C# 3.0 release. For those that remember your set theory, an anonymous type is described as a tuple type that is automatically inferred and created from its object initializer. An object initializer specifies the values from one or more fields (or properties) of an object. Another way to look at this is that the object initializer specifies the named parameters that passed to an object.

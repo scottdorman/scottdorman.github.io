@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Mobile 6
-date: 2007-02-15 23:13:00 -05:00
+date: '2007-02-15 23:13:00 -05:00'
 ---
 
 Microsoft just announced Windows Mobile 6 ([press release](http://www.microsoft.com/presspass/press/2007/feb07/02-11WM6SoftwarePR.mspx)) at the [3GSM World Conference](http://3gsmworldcongress.com/) in Barcelona, Spain. The first WM6 powered devices will start hitting the streets by the second quarter of this year, and many companies are planning upgrade options for existing WM5 devices.

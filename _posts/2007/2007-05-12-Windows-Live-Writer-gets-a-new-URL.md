@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Writer gets a new URL
-date: 2007-05-12 19:47:23 -05:00
+date: '2007-05-12 19:47:23 -05:00'
 ---
 
 Up until now, Windows Live Writer has not had a good product page to reference. Anyone who wanted to linked their blog posts either to [the Writer Team Blog](http://windowslivewriter.spaces.live.com/) or directly the Writer MSI.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Null Object pattern
-date: 2008-05-25 18:28:23 -05:00
+date: '2008-05-25 18:28:23 -05:00'
 ---
 
 I've been trying to catch up on my reading and came across this [post](http://weblogs.asp.net/fredriknormen/archive/2008/05/22/avoid-returning-quot-null-quot-and-use-the-null-object-pattern.aspx) by [Fredrik Normén](http://weblogs.asp.net/fredriknormen/default.aspx) where he raises the question about returning null or using the [Null Object pattern](http://en.wikipedia.org/wiki/Null_object_pattern). Interestingly enough, last month while I was in Seattle for the 2008 MVP Summit I had a very similar discussion. The end result of that discussion was that null objects, and nullability in general, ideally should be treated as a "first-class" citizen in the CLR. This means that if you try to execute a method on a null object you get a null back in return rather than a [NullReferenceException](http://msdn.microsoft.com/library/system.nullreferenceexception.aspx).

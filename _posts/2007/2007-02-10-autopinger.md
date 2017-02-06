@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autopinger
-date: 2007-02-10 04:58:00 -05:00
+date: '2007-02-10 04:58:00 -05:00'
 ---
 
 While searching for some blog search engines and aggregators to add to my list of ping servers in Windows Live Writer, I came across [autopinger](http://autopinger.com/).

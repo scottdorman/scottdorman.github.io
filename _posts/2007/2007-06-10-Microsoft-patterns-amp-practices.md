@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft patterns &amp; practices
-date: 2007-06-10 22:48:03 -05:00
+date: '2007-06-10 22:48:03 -05:00'
 ---
 
 I hope by now everyone has heard of the [Microsoft patterns & practices](http://msdn2.microsoft.com/en-us/practices/bb190332) group. If you haven't heard of p&p, hopefully you've heard of the [Enterprise Library](http://msdn2.microsoft.com/en-us/library/aa480453.aspx).

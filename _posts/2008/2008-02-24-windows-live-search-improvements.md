@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Search Improvements
-date: 2008-02-24 19:46:00 -05:00
+date: '2008-02-24 19:46:00 -05:00'
 ---
 
 Last week, some improvements to Windows Live Search were [announced](http://blogs.msdn.com/webmaster/default.aspx) which will improve the efficiency of how Live Search crawls and indexes a web site. The main improvements are:

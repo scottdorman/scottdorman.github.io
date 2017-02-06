@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Catching (Handling) Exceptions in .NET
-date: 2007-09-26 17:42:57 -05:00
+date: '2007-09-26 17:42:57 -05:00'
 ---
 
 It seems there is a lot of confusion on how to properly catch exceptions in .NET, especially among newer developers. There are a lot of good references available on MSDN and on the web, but a lot of these are either very advanced or just hard to follow.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Mobile and U.S. Daylight Saving Time changes
-date: 2007-02-15 21:18:00 -05:00
+date: '2007-02-15 21:18:00 -05:00'
 ---
 
 Hopefully everyone that lives in the United States (or deals with United States based companies) has heard that the U.S. Congress has changed the dates for Daylight Saving Time (DST) starting this year. The changes are the result of the [Energy Policy Act of 2005](http://en.wikipedia.org/wiki/Energy_Policy_Act_of_2005) and modifies the [Uniform Time Act](http://en.wikipedia.org/wiki/Uniform_Time_Act) of 1966 by changing the start and end dates of daylight saving time.

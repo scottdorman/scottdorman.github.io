@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SlickEdit Gadgets
-date: 2007-02-18 18:04:00 -05:00
+date: '2007-02-18 18:04:00 -05:00'
 ---
 
 Since I've been looking into writing a custom Visual Studio package, I came across a nice set of free "[gadgets](http://www.slickedit.com/content/view/441)" from SlickEdit. These can only be described as a set of very cool power toys for Visual Studio. These gadgets will only work with Visual Studio 2005, but should work with any of the Visual Studio 2005 editions except the Express Editions.

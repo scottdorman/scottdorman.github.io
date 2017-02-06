@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Messenger or Yahoo! Messenger? Why not both?
-date: 2006-07-15 06:56:00 -05:00
+date: '2006-07-15 06:56:00 -05:00'
 ---
 
 I have been an IM user since around 1999, when Yahoo! Messenger first came out. Since then, I've added [AIM](http://www.aim.com/) and Windows Live Messenger. As instant messegng became an integrated part of my personal and professional life, the one thing that has always bothered me was that I needed 3 IM clients, one for each service.

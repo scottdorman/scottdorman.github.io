@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Cadru 2.0
-date: 2015-11-10 20:07:52 -05:00
+date: '2015-11-10 20:07:52 -05:00'
 ---
 
 Just over two years ago, Cadru was released as an open source framework. Since then, there have been numerous changes, improvements, and updates. This latest update includes a lot of new features and, unfortunately, one breaking change.

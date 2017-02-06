@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GotDotNet shutting down!"
-date: 2007-02-28 21:22:00 -05:00
+date: '2007-02-28 21:22:00 -05:00'
 ---
 
 The Microsoft sponsored [GotDotNet](http://www.gotdotnet.com/) developer community site is shutting down! All of the functionality will be phased out by July 2007, so there isn't much time left. According to the announcement, Microsoft is phasing out GotDotNet for the following reasons:

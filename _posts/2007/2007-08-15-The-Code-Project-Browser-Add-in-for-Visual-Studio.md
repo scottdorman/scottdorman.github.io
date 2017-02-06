@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Code Project Browser Add-in for Visual Studio
-date: 2007-08-15 20:29:38 -05:00
+date: '2007-08-15 20:29:38 -05:00'
 ---
 
 I received an email today through my blog from one of the developers at [SlickEdit](http://www.slickedit.com/component/option,com_frontpage/Itemid,1/), who also happens to be a member of [The Code Project](http://www.codeproject.com/) community, letting me know about a new [Visual Studio Add-in](http://www.codeproject.com/csharp/cpbrowser.asp) they have developed. You may remember I blogged about the free [SlickEdit Gadgets]({% post_url 2007-08-15-SlickEdit-Gadgets-for-Visual-Studio-2008 %}), a really great set of Add-ins for Visual Studio.

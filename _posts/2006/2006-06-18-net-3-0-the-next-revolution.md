@@ -1,7 +1,7 @@
 ---
 layout: post
 title: .NET 3.0 - The next revolution
-date: 2006-06-18 16:55:00 -05:00
+date: '2006-06-18 16:55:00 -05:00'
 ---
 
 Since last years TechEd everyone has been hearing about .NET 3.0 and the cool features of LINQ, lambda expressions, and all of the other cool new language features. I don't know about you, but I was definitely looking forward to them. We were also hearing about WinFx and "Avalon" and "Indigo", InfoCard, Windows Workflow Foundation (WWF) and the other new technologies that looked like they would only be part of Vista.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ignore spaces in declaration statements
-date: 2007-09-26 12:28:11 -05:00
+date: '2007-09-26 12:28:11 -05:00'
 ---
 
 One of the new features coming up in Visual Studio 2008, is the ability to ignore spaces in declaration statements. This was a [bug](http://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=93488) opened on the Microsoft Connect site a long time ago and it is finally getting some work done to fix it.

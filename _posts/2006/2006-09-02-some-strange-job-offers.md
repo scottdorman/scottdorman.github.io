@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some strange job offers
-date: 2006-09-02 13:20:00 -05:00
+date: '2006-09-02 13:20:00 -05:00'
 ---
 
 In the past week, I've received three very unusual unsolicited job offers from [Monster](http://www.monster.com/). 

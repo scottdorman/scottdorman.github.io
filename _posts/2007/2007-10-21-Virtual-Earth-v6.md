@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Virtual Earth v6
-date: 2007-10-21 11:36:21 -05:00
+date: '2007-10-21 11:36:21 -05:00'
 ---
 
 A few days ago, Microsoft released a pretty major [upgrade](http://blogs.msdn.com/virtualearth/archive/2007/10/17/virtual-earth-version-6-now-available.aspx) to [Live Search Maps](http://maps.live.com/) with the release of the Virtual Earth 6 API. There are some pretty cool enhancements, and, with the exception of two bugs found by [Joe Healy](http://www.devfish.net/FullBlogItemView.aspx?BlogId=452), is as simple as change the "v=5" parameter in your link to "v=6".

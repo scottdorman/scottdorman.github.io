@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Coding Standards Are Important
-date: 2007-06-29 11:36:45 -05:00
+date: '2007-06-29 11:36:45 -05:00'
 ---
 
 Just as style is an often overlooked but very critical attribute of writing, coding standards are also an often overlooked but very critical attribute of software development.  

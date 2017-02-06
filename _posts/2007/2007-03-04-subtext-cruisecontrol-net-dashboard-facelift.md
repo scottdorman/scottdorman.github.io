@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subtext CruiseControl.NET dashboard facelift
-date: 2007-03-04 11:08:00 -05:00
+date: '2007-03-04 11:08:00 -05:00'
 ---
 
 The Subtext CruiseControl.NET dashboard has undergone a major facelift this weekend. It now has a new CNAME record, which allows access to it from:

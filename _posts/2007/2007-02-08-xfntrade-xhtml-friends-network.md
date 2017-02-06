@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XFN&trade; (XHTML Friends Network)
-date: 2007-02-08 23:01:00 -05:00
+date: '2007-02-08 23:01:00 -05:00'
 ---
 
 I was recently introduced to the concept of [XFN](http://gmpg.org/xfn/) through a blog post I was reading from [Phil Haack](http://haacked.com/) regarding his meeting with Rob Conery, one of the [Subsonic](http://www.codeplex.com/Wiki/View.aspx?ProjectName=actionpack) developers.

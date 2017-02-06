@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA &ndash; August 2008 Meeting
-date: 2008-08-10 11:20:01 -05:00
+date: '2008-08-10 11:20:01 -05:00'
 ---
 
 ## Web Service Software Factory Modeling Edition

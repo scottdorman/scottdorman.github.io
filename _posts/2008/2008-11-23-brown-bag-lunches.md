@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brown Bag Lunches
-date: 2008-11-23 10:37:18 -05:00
+date: '2008-11-23 10:37:18 -05:00'
 ---
 
 A while ago, Andy Warren of SQL Server Central [asked](http://www.sqlservercentral.com/blogs/andy_warren/archive/2008/09/09/brown-bag-lunches-training-do-they-work.aspx) if brown bag lunches/training worked. His answer was:

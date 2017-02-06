@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CC.NET Vista Sidebar Gadget 0.8 Released
-date: 2007-05-12 10:07:59 -05:00
+date: '2007-05-12 10:07:59 -05:00'
 ---
 
 Earlier this month, I [talked]({% post_url 2007-05-02-cc-net-vista-sidebar-gadget-updates %}) about the upcoming release of [Simone's](http://www.codeclimber.net.nz) CC.NET Monitor Gadget for the Vista Sidebar. I'm very pleased to announce now that version 0.8 has been [released](http://ccnet-monitor-sidebar-gadget.googlecode.com/files/ccnetmonitor-0.8.gadget). This release adds the following features:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Credit February Prize Winner
-date: 2007-03-04 11:21:00 -05:00
+date: '2007-03-04 11:21:00 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o_lg-license-plate-bandwidth.jpg)

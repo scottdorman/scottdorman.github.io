@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio Gallery
-date: 2008-02-06 19:37:32 -05:00
+date: '2008-02-06 19:37:32 -05:00'
 ---
 
  I just came across the new [Visual Studio Gallery](http://visualstudiogallery.com/Default.aspx) site, which is a new showcase for products and extensions for Visual Studio. The gallery looks like it is mostly going to be focused on Visual Studio 2008, but there is a lot of content for VS2005 and earlier.

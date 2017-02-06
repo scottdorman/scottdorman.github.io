@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consolas for a Command Prompt
-date: 2008-07-20 09:40:59 -05:00
+date: '2008-07-20 09:40:59 -05:00'
 ---
 
 This actually came out a while ago, but if you like the Consolas font that ships with Vista and Office 2007 you can change the Command Prompt (CMD.EXE) settings to allow you to use Consolas. If you don't have Consolas installed, you can [download](http://www.microsoft.com/downloads/details.aspx?familyid=22e69ae4-7e40-4807-8a86-b3d36fab68d3&displaylang=en) from the Microsoft Download Center.

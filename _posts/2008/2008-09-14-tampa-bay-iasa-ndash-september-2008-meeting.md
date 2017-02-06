@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA &ndash; September 2008 Meeting
-date: 2008-09-14 12:08:42 -05:00
+date: '2008-09-14 12:08:42 -05:00'
 ---
 
 ## SharePoint Architectural Perspectives

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 8 Hackathon
-date: 2013-01-11 11:49:55 -05:00
+date: '2013-01-11 11:49:55 -05:00'
 ---
 
 ***Windows reimagined. Extraordinary apps.***

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Development Managers
-date: 2007-07-09 17:27:02 -05:00
+date: '2007-07-09 17:27:02 -05:00'
 ---
 
 Recently, [Jason](http://geekswithblogs.net/jasonfranks/Default.aspx) posted about [bad development managers](http://geekswithblogs.net/jasonfranks/archive/2007/07/08/Bad.Managers.aspx). Like Jason, I was also told early in my career that "Sales and Marketing is the natural enemy of Development". I also learned early on that this isn't entirely true. While it is true that the sales team will sell products that don't exist yet and features that don't exist or that are technical implausible to build in the timeframe promised, it is generally due to customer demand. Whether you like it or not, if you develop commercial software you will be driven largely by your market's demands.

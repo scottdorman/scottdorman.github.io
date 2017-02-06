@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming WCF Services
-date: 2007-02-27 22:54:00 -05:00
+date: '2007-02-27 22:54:00 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o_0596526993.gif) ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o_0596513801.gif)

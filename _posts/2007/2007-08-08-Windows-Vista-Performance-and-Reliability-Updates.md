@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Vista Performance and Reliability Updates
-date: 2007-08-08 09:53:28 -05:00
+date: '2007-08-08 09:53:28 -05:00'
 ---
 
 Microsoft has just released two updates for Windows Vista that address some of the performance and reliability issues people have been seeing. These updates are a precursor to the upcoming Windows Vista SP1 release. You can get more details and download them from here:

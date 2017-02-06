@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA &ndash; July 2008 Meeting
-date: 2008-07-06 10:56:05 -05:00
+date: '2008-07-06 10:56:05 -05:00'
 ---
 
 ## "Fix the Architecture" - Open Discussion  

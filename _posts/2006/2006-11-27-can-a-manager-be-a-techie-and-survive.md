@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can a Manager Be a Techie and Survive?
-date: 2006-11-27 12:29:00 -05:00
+date: '2006-11-27 12:29:00 -05:00'
 ---
 
 Computerworld recently ran an article titled "[Can a Manager Be a Techie and Survive?](http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=272778&pageNumber=2)" In it, the author presents the view that it is the only way. I agree with her up to a point.

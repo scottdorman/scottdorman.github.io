@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do not initialize unnecessarily
-date: 2007-05-21 15:17:21 -05:00
+date: '2007-05-21 15:17:21 -05:00'
 ---
 
 If any one has ever run FxCop or Visual Studio Code Analysis (yes, I know they are basically the same thing, but there are some subtle differences) you have probably run into rule CA1805: Do not initialize unnecessarily.

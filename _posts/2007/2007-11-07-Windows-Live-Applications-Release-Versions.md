@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Applications Release Versions
-date: 2007-11-07 11:01:02 -05:00
+date: '2007-11-07 11:01:02 -05:00'
 ---
 
 I [mentioned]({% post_url 2007-11-06-Windows-Live-Wave-2-Released %}) yesterday that the latest wave of Windows Live applications have been released. Thinking about it a little bit more, I realized that other than the "Beta" tag being removed from the splash screens and/or title bars there is no way to know if you have the latest version. Here are the release version numbers for the Windows Live applications:

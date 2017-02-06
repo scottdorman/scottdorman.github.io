@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Learning Exam Delivery Provider Changes
-date: 2007-07-15 15:39:53 -05:00
+date: '2007-07-15 15:39:53 -05:00'
 ---
 
 Earlier this month, Microsoft officially [announced](http://www.microsoft.com/learning/mcpexams/register/edp/default.mspx) their decision to move all Microsoft professional certification and Microsoft Dynamics exams to [Prometric](http://www.prometric.com/Microsoft/default.htm).

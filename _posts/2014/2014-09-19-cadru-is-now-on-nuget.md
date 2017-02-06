@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cadru is now on NuGet
-date: 2014-09-19 00:31:42 -05:00
+date: '2014-09-19 00:31:42 -05:00'
 ---
 
 A little over a year ago I [announced]({% post_url 2013-08-05-introducing-cadru %}) the availability of [Cadru](https://github.com/scottdorman/cadru), an open source utility framework containing new APIs and extensions to the core .NET Framework to help complete your developer toolbox. 

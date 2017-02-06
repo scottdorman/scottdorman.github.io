@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTML input types
-date: 2013-02-13 22:05:55 -05:00
+date: '2013-02-13 22:05:55 -05:00'
 ---
 
 As web developers and consumers, we're all familiar with the HTML [`<input>`](http://www.w3schools.com/tags/tag_input.asp) tag. This is the tag that renders on the screen as an input text box. However, as developers you may not be familiar with all of the "new" HTML 5 values for the [type](http://www.w3schools.com/tags/att_input_type.asp) attribute. If you're not, you should be sure to check them out...**and start using them in your websites today!**

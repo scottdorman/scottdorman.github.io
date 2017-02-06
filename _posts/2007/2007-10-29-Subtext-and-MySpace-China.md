@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subtext and MySpace China
-date: 2007-10-29 10:06:00 -05:00
+date: '2007-10-29 10:06:00 -05:00'
 ---
 
 ![MySpace China Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/NihaoMySpaceChinaHowisSubtextWorkingOutF_6BA/logo_3.png)[Phil](http://haacked.com/archive/2007/10/29/subtext-powers-myspace-china-blogs.aspx) and [Steve](http://stevenharman.net/blog/archive/2007/10/29/myspace-china-blogs-are-now-subtexting.aspx) beat me to announcing, but Phil has officially confirmed that [MySpace China](http://myspace.cn/) is using a modified version of [Subtext](http://subtextproject.com) for it's blogging engine.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CI Factory
-date: 2007-03-17 09:36:00 -05:00
+date: '2007-03-17 09:36:00 -05:00'
 ---
 
 As you know, I'm working with the [Subtext](http://www.subtextproject.com/) project. Subtext uses [CruiseControl.NET](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET) (CC.NET) as it's [continuous integration](http://confluence.public.thoughtworks.org/display/CCNET/What+is+Continuous+Integration) (CI) build system. One of the nice features of CC.NET is the web dashboard that provides the visibility in to the builds. Over the last month, I have been upgrading the Subtext [dashboard](http://build.subtextproject.com/ccnet/) with a new look and feel as well as some additional features. As a result, the dashboard caught the attention of [Jay Flowers](http://jayflowers.com/), who owns the [CI Factory](http://jay.flowers.googlepages.com/cifactory) project.

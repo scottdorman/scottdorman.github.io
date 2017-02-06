@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 for Architects
-date: 2007-12-19 21:16:24 -05:00
+date: '2007-12-19 21:16:24 -05:00'
 ---
 
 [Jeff Barnes](http://blogs.msdn.com/jbarnes/default.aspx) has made his extended talk (think) on the following topics available:

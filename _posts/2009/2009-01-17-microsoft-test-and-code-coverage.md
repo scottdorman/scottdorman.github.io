@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Test and Code Coverage
-date: 2009-01-17 12:30:21 -05:00
+date: '2009-01-17 12:30:21 -05:00'
 ---
 
 I have been writing a lot of unit tests lately using Microsoft Test. This included converting a bunch of old NUnit tests to the MS Test format, which was relatively painless. While examining the code coverage results (after all, what good are unit tests if you don't know what portions of the code are being tested and not tested), I have noticed that the results sometimes lie.

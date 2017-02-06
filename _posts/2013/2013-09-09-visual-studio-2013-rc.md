@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2013 RC
-date: 2013-09-09 14:34:58 -05:00
+date: '2013-09-09 14:34:58 -05:00'
 ---
 
 If you want to build Windows 8.1 apps or just want to see what's new with Visual Studio and the .NET Framework, you can now [download](http://go.microsoft.com/fwlink/p/?LinkId=306566) the Visual Studio 2013 RC.

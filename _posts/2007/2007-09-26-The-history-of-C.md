@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The history of C#
-date: 2007-09-26 12:13:39 -05:00
+date: '2007-09-26 12:13:39 -05:00'
 ---
 
 I just came across a very interesting post from [James Kovacs](http://www.jameskovacs.com/blog/CNETHistoryLesson.aspx) that describes how C# and .NET evolved. I had [blogged]({% post_url 2006-11-27-the-birth-of-the-clr %}) about this almost a year ago, but James' post adds some additional background.

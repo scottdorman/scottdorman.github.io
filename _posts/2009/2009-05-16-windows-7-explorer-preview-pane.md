@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 7 Explorer Preview Pane
-date: 2009-05-16 17:18:33 -05:00
+date: '2009-05-16 17:18:33 -05:00'
 ---
 
 Windows 7 includes a lot of improvements in the Windows Explorer. Most of them are fairly obvious, but the new preview pane is likely to go unnoticed (or passed over as the same as Vista's preview pane) by a lot of people.

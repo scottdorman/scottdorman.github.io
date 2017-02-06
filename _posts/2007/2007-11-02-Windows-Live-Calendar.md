@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Calendar
-date: 2007-11-02 22:56:26 -05:00
+date: '2007-11-02 22:56:26 -05:00'
 ---
 
 [Windows Live Calendar](http://calendar.live.com/) was just released as a Beta tonight. It features the Wave 2 UI, so it integrates nicely with the other Windows Live services.

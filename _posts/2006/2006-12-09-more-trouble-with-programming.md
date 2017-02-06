@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Trouble with Programming
-date: 2006-12-09 20:36:00 -05:00
+date: '2006-12-09 20:36:00 -05:00'
 ---
 
 The Technology Review [interview](http://www.technologyreview.com/InfoTech/17831/page1/) with [Bjarne Stroustrup](http://parasol.tamu.edu/people/bs/) last month apparently caused a great deal of trouble for the Technology Review...something I have a feeling they weren't counting on.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech&middot;Ed Birds-of-a-Feather deadline near
-date: 2007-04-04 22:47:00 -05:00
+date: '2007-04-04 22:47:00 -05:00'
 ---
 
 [Apparently](http://www.ferncrk.com/blog/2007/04/02/TechEd2007BirdsofaFeatherProposalsDueThisWeek.aspx), this Friday (April 6) is the last day to submit Birds-of-a-Feather (BOF) session topics for Tech·Ed 2007. Having attended several BOF sessions over the last few years, I decided to submit one of my own for this year. 

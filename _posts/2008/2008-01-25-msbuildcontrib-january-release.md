@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MSBuildContrib January Release
-date: 2008-01-25 04:48:28 -05:00
+date: '2008-01-25 04:48:28 -05:00'
 ---
 
 I have just uploaded a [new release](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=MSBuildContrib&ReleaseId=10182) of [MSBuildContrib](http://www.codeplex.com/MSBuildContrib) which brings the current list of tasks to:

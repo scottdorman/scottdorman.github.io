@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Birds-of-a-Feather session - &quot;Code Style and Standards - Best Practices&quot;
-date: 2007-04-18 23:27:01 -05:00
+date: '2007-04-18 23:27:01 -05:00'
 ---
 
 I just received notification from INETA that my Birds-of-a-Feather session, "Code Style and Standards - Best Practices" has been accepted for TechEd 2007. The session is currently scheduled for Tuesday, June 5 at 1:00 PM. I want to thank everyone that voted for my session, I greatly appreciate it and hope to see you there.

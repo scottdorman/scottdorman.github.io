@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Binding an Enum with Descriptions
-date: 2007-08-02 00:21:25 -05:00
+date: '2007-08-02 00:21:25 -05:00'
 ---
 
 Every once in a while I need to bind an enumerated type to a Windows Forms control, usually a ComboBox. 

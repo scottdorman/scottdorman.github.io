@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Statistics for 2007
-date: 2008-01-04 00:54:48 -05:00
+date: '2008-01-04 00:54:48 -05:00'
 ---
 
 Even though I've been blogging since June 2006, I really started consistently blogging in November of that year with it really picking up in 2007. Borrowing a concept from many of the bloggers that I read regularly, I wanted to review how my blog did over the last year. I only started tracking blog statistics through Google Analytics since the end of September 2007.

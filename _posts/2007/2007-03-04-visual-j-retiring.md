@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual J# Retiring
-date: 2007-03-04 12:24:00 -05:00
+date: '2007-03-04 12:24:00 -05:00'
 ---
 
 I'm sure there's a clearer explanation somewhere, but reading the [announcement](http://msdn2.microsoft.com/en-us/vjsharp/default.aspx) on the J# home page is just a bit confusing. So far, what I've been able to piece together is that Visual J# 2.0 Redistributable will still be released sometime in Q2 of 2007 and support for English locales will continue through 20017. Along with this, the Visual J# 2.0 Redistributable Second Edition will also be released that will enable Visual J# code to run natively on 64-bit versions of Windows and the .NET Framework, with support for .NET 2.0 and higher.

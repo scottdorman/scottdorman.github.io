@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New SnapShots
-date: 2007-05-12 11:54:30 -05:00
+date: '2007-05-12 11:54:30 -05:00'
 ---
 
 Last month, I talked about the new [SnapShots]({% post_url 2007-04-16-snap-preview-anywhere-is-now-snap-shots %}) and mentioned that Snap is working on adding new SnapShots. They have added some new Shots and updated some existing ones.

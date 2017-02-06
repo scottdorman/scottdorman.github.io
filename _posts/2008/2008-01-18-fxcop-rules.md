@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FxCop Rules
-date: 2008-01-18 01:16:38 -05:00
+date: '2008-01-18 01:16:38 -05:00'
 ---
 
 Earlier this month, the Code Analysis Team [talked](http://blogs.msdn.com/fxcop/archive/2008/01/07/faq-which-rules-shipped-in-which-version.aspx) about which code analysis rules shipped in what version of Visual Studio and FxCop. There is a great [spreadsheet](http://blogs.msdn.com/fxcop/attachment/7018062.ashx) that shows all of the rules and in which versions they are available. Here is the list of rules that are different or removed in Visual Studio 2008 and FxCop 1.36:

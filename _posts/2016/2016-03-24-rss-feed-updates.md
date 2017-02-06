@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RSS Feed Updates
-date: 2016-03-24 09:14:00 -05:00
+date: '2016-03-24 09:14:00 -05:00'
 ---
 
 If you were already subscribed to my blog using the RSS feed, you were using the feed available at

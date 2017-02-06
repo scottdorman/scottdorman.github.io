@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 Debugging Tricks &ndash; Advanced Breakpoints
-date: 2009-02-14 16:16:18 -05:00
+date: '2009-02-14 16:16:18 -05:00'
 ---
 
 The most basic aspect of any debugging session is the use of breakpoints, which allows you to specify a location in your application (a line of code) where program execution will stop (break) and allow you to inspect the internal state of the application at that exact moment. This is a pretty cool feature, but Visual Studio allows you to do even more with *advanced* breakpoints.

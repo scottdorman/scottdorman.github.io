@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Alerts
-date: 2007-10-26 20:43:12 -05:00
+date: '2007-10-26 20:43:12 -05:00'
 ---
 
 To go along with my [FeedBurner](http://feeds.feedburner.com/ScottDorman) subscription, I am now offering [Windows Live Alerts](http://alerts.live.com/) from my blog. Look for the subscription logo on my blog, just under the FeedBurner subscription panel. 

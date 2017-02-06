@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internet Explorer 8 Beta 1
-date: 2008-03-06 20:17:40 -05:00
+date: '2008-03-06 20:17:40 -05:00'
 ---
 
 [![Windows Internet Explorer 8 Beta](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/logo_ie8.gif)](http://www.microsoft.com/windows/products/winfamily/ie/ie8/getitnow.mspx)  

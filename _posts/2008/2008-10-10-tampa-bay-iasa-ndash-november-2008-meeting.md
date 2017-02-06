@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA &ndash; November 2008 Meeting
-date: 2008-10-10 13:15:48 -05:00
+date: '2008-10-10 13:15:48 -05:00'
 ---
 
 **We are very pleased to be holding this meeting in cooperation with the [Central Florida BizTalk User Group](http://www.btug.biz/Home/CentralFlorida/tabid/110/Default.aspx).**

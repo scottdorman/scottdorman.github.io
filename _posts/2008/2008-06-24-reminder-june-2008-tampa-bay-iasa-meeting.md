@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reminder: June 2008 Tampa Bay IASA Meeting"
-date: 2008-06-24 07:52:10 -05:00
+date: '2008-06-24 07:52:10 -05:00'
 ---
 
 Just a reminder that the Tampa Bay IASA June meeting is this Thursday night (June 26th) starting at 6:30 PM. 

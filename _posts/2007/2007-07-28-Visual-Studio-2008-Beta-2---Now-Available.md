@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 Beta 2 - Now Available
-date: 2007-07-28 09:19:24 -05:00
+date: '2007-07-28 09:19:24 -05:00'
 ---
 
 Visual Studio 2008 Beta 2 has been officially [released](http://msdn2.microsoft.com/en-us/vstudio/aa700831.aspx) as both disc images and Virtual PC (VPC) images.  After the installation has finished, you should run this [script](http://go.microsoft.com/fwlink/?linkid=95792) to ensure that the installation of .NET Framework 3.5 Beta 2 will not affect the development of ASP.NET AJAX 1.0 applications. 

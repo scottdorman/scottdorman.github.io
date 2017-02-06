@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft DreamSpark
-date: 2008-02-24 19:33:50 -05:00
+date: '2008-02-24 19:33:50 -05:00'
 ---
 
 Microsoft has always provided great deals for college students. I remember when I was still in school being able to purchase "Academic Editions" of Windows and Office at fractions of the retail price from the college bookstore.

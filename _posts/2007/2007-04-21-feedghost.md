@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FeedGhost
-date: 2007-04-21 14:03:31 -05:00
+date: '2007-04-21 14:03:31 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image%7B0%7D4.png) 

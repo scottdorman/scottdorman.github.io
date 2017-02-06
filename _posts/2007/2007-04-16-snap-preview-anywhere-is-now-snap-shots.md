@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snap Preview Anywhere is now Snap Shots
-date: 2007-04-16 23:10:07 -05:00
+date: '2007-04-16 23:10:07 -05:00'
 ---
 
 The folks at Snap have done it again. Snap Shots works exactly like Snap Preview Anywhere, but is a lot better. They have taken all of the feedback received about SPA and created Snap Shots. The really cool thing about Snap Shots is that it is a lot more contextual than SPA, and delivers instant, relevant and highly concentrated content based on the URL associated with the Snap Shot.

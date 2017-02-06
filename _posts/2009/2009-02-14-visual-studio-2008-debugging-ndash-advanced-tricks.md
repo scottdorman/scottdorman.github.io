@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 Debugging &ndash; Advanced Tricks
-date: 2009-02-14 18:45:40 -05:00
+date: '2009-02-14 18:45:40 -05:00'
 ---
 
 We previously talked about the [Location, Condition, Hit Count]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}), [Filter]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-multi-threaded-debugging %}), and [When Hit]({% post_url 2009-02-14-visual-studio-2008-debugging-tricks-ndash-tracepoints %}) modifiers for breakpoints. These are great advanced breakpoints that will really make your debug sessions much more useful, but there are also some other advances in Visual Studio that go beyond these breakpoint modifiers.

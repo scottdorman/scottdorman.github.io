@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Writer updates
-date: 2007-05-10 19:31:45 -05:00
+date: '2007-05-10 19:31:45 -05:00'
 ---
 
 ![](http://codeclimber.net.nz/images/codeclimber_net_nz/WindowsLiveWriter/WindowsLiveWritervNext_142C3/image_13%5B6%5D.png)

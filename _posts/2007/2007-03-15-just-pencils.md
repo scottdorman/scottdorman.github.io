@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just Pencils!
-date: 2007-03-15 22:45:00 -05:00
+date: '2007-03-15 22:45:00 -05:00'
 ---
 
 I was recently sent an email that has some of the most amazing pictures. ~~I have uploaded them to the Just Pencils gallery. The thumbnail images in the gallery really don't do these justice, so be sure to view the full size image.~~

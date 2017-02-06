@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's Important at Code Camp?
-date: 2008-02-09 11:11:11 -05:00
+date: '2008-02-09 11:11:11 -05:00'
 ---
 
 I've been reviewing my evaluations from the South Florida Code Camp 2008 and one of the comments brought out some interesting points. After reading the comments, I thought it might be a good time to remind some of you what a Code Camp really is.

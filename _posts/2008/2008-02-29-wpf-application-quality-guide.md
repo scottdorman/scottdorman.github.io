@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WPF Application Quality Guide
-date: 2008-02-29 20:39:05 -05:00
+date: '2008-02-29 20:39:05 -05:00'
 ---
 
 Since WPF was released it has seen a fairly rapid adoption but not much in the way of guidance. The WPF team at Microsoft is hoping to change that with the release of the [WPF Application Quality Guide](http://windowsclient.net/wpf/white-papers/wpf-app-quality-guide.aspx). The guide is going to be released in stages and will be updated based on feedback provided by the community. While the first release is still missing a lot, it does provide some good tips on setting up your application for automated testing. 

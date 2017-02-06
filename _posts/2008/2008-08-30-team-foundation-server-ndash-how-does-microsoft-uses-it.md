@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Foundation Server &ndash; How Does Microsoft Use It?
-date: 2008-08-30 13:31:55 -05:00
+date: '2008-08-30 13:31:55 -05:00'
 ---
 
 If you're looking at implementing Team Foundation Server, looking for ways to improve your deployment, or just want to know how one of the world's largest software companies manages their day-to-day development, check out this "series" of blog posts. 

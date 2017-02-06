@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joe Wells leaving Sunbelt
-date: 2007-03-29 23:35:00 -05:00
+date: '2007-03-29 23:35:00 -05:00'
 ---
 
 For those of you who have been following my blog, you should remember that I used to work at a local computer security company, [Sunbelt Software](http://www.sunbelt-software.com/). Just over a year ago, Joe joined Sunbelt a their [Chief Scientist for Security Research](http://www.sunbelt-software.com/Press/Releases/?id=137). (Disregard the date on the press release, the year is incorrect and should be 2006.)

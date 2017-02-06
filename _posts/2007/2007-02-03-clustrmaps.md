@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ClustrMaps
-date: 2007-02-03 20:32:00 -05:00
+date: '2007-02-03 20:32:00 -05:00'
 ---
 
 > ClustrMaps is the *only* hit counter that (i) accurately shows you the locations of all visitors to your site on a thumbnail map embedded in your page, (ii) uses dot-clusters that scale up to huge numbers, and (iii) lets you store old maps in an archive.

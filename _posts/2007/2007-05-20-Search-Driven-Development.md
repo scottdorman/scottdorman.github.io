@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Search Driven Development
-date: 2007-05-20 15:05:35 -05:00
+date: '2007-05-20 15:05:35 -05:00'
 ---
 
 A few months ago, [Phil Haack](http://haacked.com) wrote about a phenomena being referred to as [Search Driven Development](http://haacked.com/archive/2007/03/16/increase-productivity-with-search-driven-development.aspx) (SDD). If you don't know what Search Driven Development is, there is a great [article](http://www.linuxworld.com/news/2007/012907-search.html) on LinuxWorld by Ken Krugler and John D. Mitchell. According to them article

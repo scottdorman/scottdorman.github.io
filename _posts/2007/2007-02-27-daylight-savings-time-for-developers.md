@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daylight Savings Time for Developers
-date: 2007-02-27 23:08:00 -05:00
+date: '2007-02-27 23:08:00 -05:00'
 ---
 
 I know several other people who received an email from Microsoft late last week titled "Important Daylight Savings Time Update for Developers". As far as I know, none of us are exaclty sure why we recieved these emails but we all figured that at some point we signed up for something .NET and developer related with Microsoft.

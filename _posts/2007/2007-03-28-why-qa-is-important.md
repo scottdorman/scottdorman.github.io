@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why QA is important
-date: 2007-03-28 17:02:00 -05:00
+date: '2007-03-28 17:02:00 -05:00'
 ---
 
 For those of you who question why QA is important, here is proof.

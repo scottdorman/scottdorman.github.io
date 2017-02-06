@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outlook 2007 Internet Calendar Subscriptions
-date: 2007-05-10 17:20:27 -05:00
+date: '2007-05-10 17:20:27 -05:00'
 ---
 
 Just as my [last post]({% post_url 2007-05-10-teched-2007-session-calendars %}) was publishing, I realized that many people might not know about the Internet Calendar Subscriptions in Outlook 2007 or may still be using Outlook 2003.

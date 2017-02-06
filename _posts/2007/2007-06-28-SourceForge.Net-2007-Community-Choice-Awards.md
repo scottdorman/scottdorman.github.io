@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SourceForge.Net 2007 Community Choice Awards
-date: 2007-06-28 09:18:12 -05:00
+date: '2007-06-28 09:18:12 -05:00'
 ---
 
 I know I'm a little late to the nomination party, but if you haven't already nominated your favorite SourceForge project, please take the time to do so. It only takes a minute, and the Subtext development community would definitely appreciate it. 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Microsoft encouraging Android-to-Windows 10 app ports via Cortana notifications
+date: '2016-06-10 09:04:00 -05:00'
 categories:  [windows10 uwp android requests]
 ---
 

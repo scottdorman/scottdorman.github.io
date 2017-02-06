@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The future for Microsoft (predications)
-date: 2015-11-05 23:20:21 -05:00
+date: '2015-11-05 23:20:21 -05:00'
 ---
 
 Nearly two years ago, I wrote a post called [The future for Microsoft]({% post_url 2013-10-16-the-future-for-microsoft %}). This was a "predications" post based on what I was seeing in the industry and in Microsoft, with a some judicious "reading between the lines" and speculation on my part.

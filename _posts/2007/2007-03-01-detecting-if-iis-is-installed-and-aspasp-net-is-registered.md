@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Detecting if IIS is installed and ASP/ASP.NET is registered
-date: 2007-03-01 23:06:00 -05:00
+date: '2007-03-01 23:06:00 -05:00'
 ---
 
 Recently, someone sent me an email about my [post]({% post_url 2007-02-04-detecting-installed-net-framework-versions-and-service-packs-update %}) on using managed code to detect the installed Framework versions and services packs. The posts were really just pointers to my [article](http://www.codeproject.com/useritems/frameworkversiondetection.asp?msg=1903766) on The Code Project, but it did bring up an interesting topic.

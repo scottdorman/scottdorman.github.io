@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Fix it
-date: 2009-04-06 09:55:00 -05:00
+date: '2009-04-06 09:55:00 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/Logo_FixIt_Final_2.png)

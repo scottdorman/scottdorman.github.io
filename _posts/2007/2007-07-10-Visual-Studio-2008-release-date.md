@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 release date
-date: 2007-07-10 15:47:24 -05:00
+date: '2007-07-10 15:47:24 -05:00'
 ---
 
 At the Microsoft&reg; Worldwide Partner Conference today, Microsoft Chief Operating Officer Kevin Turner [announced](http://www.microsoft.com/presspass/press/2007/jul07/07-10WPCDay1PartnersPR.mspx) that Windows Server&reg; 2008, Visual Studio&reg; 2008 and Microsoft SQL Server™ 2008 will launch together at an event in Los Angeles on Feb. 27, 2008, kicking off hundreds of launch events around the world.

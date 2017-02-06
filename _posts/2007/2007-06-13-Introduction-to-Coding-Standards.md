@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Coding Standards
-date: 2007-06-13 01:39:18 -05:00
+date: '2007-06-13 01:39:18 -05:00'
 ---
 
 *Style is an often overlooked but very critical attribute of writing. The style of writing directly impacts the readability and understandability of the end product. [1]*

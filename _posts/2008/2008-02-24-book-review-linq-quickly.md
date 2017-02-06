@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: LINQ Quickly"
-date: 2008-02-24 19:40:59 -05:00
+date: '2008-02-24 19:40:59 -05:00'
 ---
 
 I was recently introduced to a UK based publisher called [Pact Publishing](http://www.packtpub.com). They are a UK based publisher and have a book focused on the new Language Integrated Query (LINQ) features available in .NET 3.5 called [LINQ Quickly: A practical guide to programming Language Integrated Query with C#](http://amzn.to/28KvxCq) by N Satheesh Kumar.

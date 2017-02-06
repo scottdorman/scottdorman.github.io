@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft StyleCop is now Open Source
-date: 2010-04-24 13:19:49 -05:00
+date: '2010-04-24 13:19:49 -05:00'
 ---
 
 I have previously talked about Microsoft [StyleCop](scottdorman.github.io). For those that might not know about it, StyleCop is a source analysis tool (different from the static analysis that FxCop performs) that analyzes the source code directly. As a result, it focuses on more design (or style) issues such as layout, readability and documentation.

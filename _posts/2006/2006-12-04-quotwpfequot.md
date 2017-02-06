@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WPF/E"
-date: 2006-12-04 23:56:00 -05:00
+date: '2006-12-04 23:56:00 -05:00'
 ---
 
 Microsoft has just announced a new CTP available called "[WPF/E](http://msdn2.microsoft.com/en-us/asp.net/bb187358.aspx)", which is the codename for a new web presentation technology. I am guessing that the "E" stands for "Everywhere" since this is being created to run on a variety of platforms. According to the documentation,

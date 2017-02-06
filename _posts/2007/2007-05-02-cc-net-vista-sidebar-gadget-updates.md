@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CC.NET Vista Sidebar Gadget updates
-date: 2007-05-02 23:44:21 -05:00
+date: '2007-05-02 23:44:21 -05:00'
 ---
 
 For those of you who are keeping up with the progress [Simone Chiaretta](http://www.codeclimber.net.nz) has been making on his excellent CC.NET Monitor gadget, he is getting ready to release the 0.8 version. This version includes a lot of feedback received, and implements the following features:

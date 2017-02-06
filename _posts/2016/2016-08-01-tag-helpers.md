@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tag Helpers
-date: 2016-07-30 -05:00
+date: '2016-07-30 09:46:00 -05:00'
 ---
 
 For those of you who aren't familiar with Tag Helpers in ASP.NET Core 1.0, you can think of them as the next logical evolution of Html Helpers. The differences between them are much more significant though. While Html Helpers were a good improvement that simplified things, they are invoked as methods mixed in with HTML in your Razor views. This isn't exactly an HTML-friendly development experience and causes you to bounce between HTML syntax and code syntax in your views. Tag Helpers, however, look like standard HTML markup, which creates a much friendlier (and simpler) development experience. Not only that, Tag Helpers have IntelliSense support, something that was severely lacking with Html Helpers.

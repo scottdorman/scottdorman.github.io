@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Porting an NAnt Task to MSBuild
-date: 2008-01-09 09:37:05 -05:00
+date: '2008-01-09 09:37:05 -05:00'
 ---
 
 I have been working and talking a lot about MSBuild over the last few months. As part of that work, I have implemented several custom tasks for MSBuild. Most of those tasks were ones that I had written as part of an NAnt based build system while others were part of the NAntContrib project. There is a very good basic explanation of how to write a task on [MSDN](http://msdn2.microsoft.com/en-us/library/t9883dzc.aspx), so instead I will cover how to port a task from NAnt to MSBuild. To keep things simple, I'm going to focus on creating an MSBuild v3.5 task in C#.

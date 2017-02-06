@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Credit Winner for June
-date: 2007-07-02 19:01:12 -05:00
+date: '2007-07-02 19:01:12 -05:00'
 ---
 
 I am pleased to announce that I just won 4th place for the June 2007 Community Credit competition. This is 4th place out of a total of 7214 members.

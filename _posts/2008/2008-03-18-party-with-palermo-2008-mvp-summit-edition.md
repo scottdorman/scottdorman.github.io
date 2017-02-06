@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Party with Palermo: 2008 MVP Summit Edition"
-date: 2008-03-18 09:45:54 -05:00
+date: '2008-03-18 09:45:54 -05:00'
 ---
 
 So I was supposed to go to Party with Palermo for Tech·Ed 2007 but didn't manage to make it to town in time. Now that I know I'm going to the MVP Summit this year, I'm planning to go to the MVP Summit edition.

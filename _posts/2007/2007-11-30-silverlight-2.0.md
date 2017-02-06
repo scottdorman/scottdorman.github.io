@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Silverlight 2.0
-date: 2007-11-30 13:05:41 -05:00
+date: '2007-11-30 13:05:41 -05:00'
 ---
 
 What used to be called Silverlight 1.1 has been rebranded as Silverlight 2.0 and will include a cross-platform, cross-browser version of the .NET Framework and will enable a rich .NET development platform in the browser. Scott Guthrie has a [post](http://weblogs.asp.net/scottgu/archive/2007/11/29/net-web-product-roadmap-asp-net-silverlight-iis7.aspx) that details what will be part of the 2.0 release, but it includes:

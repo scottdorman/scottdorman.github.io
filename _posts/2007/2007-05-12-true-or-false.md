@@ -1,7 +1,7 @@
 ---
 layout: post
 title: True or False
-date: 2007-05-12 12:42:09 -05:00
+date: '2007-05-12 12:42:09 -05:00'
 ---
 
 This was just sent to me in email...for those of you who are Trivial Pursuit fans, can you guess which ones are true and which are false?

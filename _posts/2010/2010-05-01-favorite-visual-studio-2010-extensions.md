@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Favorite Visual Studio 2010 Extensions
-date: 2010-05-01 11:04:55 -05:00
+date: '2010-05-01 11:04:55 -05:00'
 ---
 
 Now that Visual Studio 2010 has been released, there are a lot of extensions being written. In fact, as of today (May 1, 2010 at 15:40 UTC) there are 809 results for [Visual Studio 2010 in the Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/en-us/site/search?f%5B0%5D.Type=VisualStudioVersion&f%5B0%5D.Value=10.0&f%5B0%5D.Text=Visual%20Studio%202010). If you filter this list to show just the free items, there are still 251 extensions available. Given that number (and it is currently increasing weekly) it can be difficult to find extensions that are useful.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Writer and GeeksWithBlogs
-date: 2007-04-14 10:00:32 -05:00
+date: '2007-04-14 10:00:32 -05:00'
 ---
 
 For those of you that use Windows Live Writer to publish posts you will need to reconfigure the blog settings to support Subtext. This is a one-time change and simply involves running the "Edit Weblog Settings" wizard. This wizard will pick up all of the existing settings, so you don't actually need to change anything.

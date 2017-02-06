@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live SkyDrive
-date: 2007-08-10 10:41:05 -05:00
+date: '2007-08-10 10:41:05 -05:00'
 ---
 
 A while ago, I blogged about [Windows Live Folders]({% post_url 2007-06-28-Closed-Betas-for-Windows-Live-Folder-and-Windows-Live-Photo %}) being in a closed beta. Yesterday, they just announced a name change to [Windows Live SkyDrive](http://skydrive.live.com/) and their first public beta. According the the SkyDrive [team](http://skydriveteam.spaces.live.com/blog/cns%21977F793E846B3C96%21124.entry), this beta has:

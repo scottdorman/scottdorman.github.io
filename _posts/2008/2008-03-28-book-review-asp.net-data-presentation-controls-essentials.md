@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: ASP.NET Data Presentation Controls Essentials"
-date: 2008-03-28 18:52:08 -05:00
+date: '2008-03-28 18:52:08 -05:00'
 ---
 
 [![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/1847193951_3.png)](http://www.packtpub.com/#)

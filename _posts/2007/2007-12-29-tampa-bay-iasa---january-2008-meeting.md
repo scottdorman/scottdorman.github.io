@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA - January 2008 Meeting
-date: 2007-12-29 07:55:08 -05:00
+date: '2007-12-29 07:55:08 -05:00'
 ---
 
  The Tampa Bay chapter of the International Association of Software Architects ([IASA](http://www.iasahome.org/web/home/home)) is dedicated to building a community of professionals interested in topics related to software architecture. This organization welcomes all interested professionals. Whether you are a senior enterprise architect at a fortune 100 company or an aspiring architect with only a few years of experience.  

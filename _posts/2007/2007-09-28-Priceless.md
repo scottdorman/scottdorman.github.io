@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Priceless
-date: 2007-09-28 15:15:13 -05:00
+date: '2007-09-28 15:15:13 -05:00'
 ---
 
 I was pulled in to a side conversation today about comments and it reminded me of something I blogged about on my personal blog (don't bother going to it as the last entry was February of this year and it isn't really maintained) about some comments I ran across in one of the projects I used to manage. After re-reading the post, I thought it was worthy of moving to this blog (which is probably where it should have been in the first place).

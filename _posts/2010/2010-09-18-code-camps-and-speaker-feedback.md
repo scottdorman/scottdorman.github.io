@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Camps and Speaker Feedback
-date: 2010-09-18 23:09:37 -05:00
+date: '2010-09-18 23:09:37 -05:00'
 ---
 
 Code camps are a great resource for the local development community. They provide developers and speakers (who are almost always local developers as well) a way to interact and learn about topics they otherwise might not have an opportunity. 

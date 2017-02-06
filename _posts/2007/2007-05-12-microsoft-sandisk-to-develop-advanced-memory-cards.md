@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft, SanDisk to Develop Advanced Memory Cards
-date: 2007-05-12 11:39:05 -05:00
+date: '2007-05-12 11:39:05 -05:00'
 ---
 
 According to this eWeek.com [article](http://www.eweek.com/article2/0,1895,2128712,00.asp?kc=EWSTREMNL051107EOAD), Microsoft and SanDisk are working to develop advanced memory cards "that allow consumers to easily take their data with them in one small device." SanDisk will be developing the actual hardware, which is supposed to be about the size of a pack of chewing gum and can be plugged into a port on multiple computers. Microsoft will develop the software. The cards will be available in the second half of 2008.

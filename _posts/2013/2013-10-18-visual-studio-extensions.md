@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio Extensions
-date: 2013-10-18 14:22:52 -05:00
+date: '2013-10-18 14:22:52 -05:00'
 ---
 
 As a product, Visual Studio has been around for a long time. In fact, it's been 18 years since the first Visual Studio product was launched. In that time, there have been some major changes but perhaps the most important (or at least influential) changes for the course of the product have been in the last few years. While we can argue over what was and wasn't an important change or what has and hasn't changed, I want to talk about what I think is the single most important change Microsoft has made to Visual Studio. Specifically, I'm referring to the Visual Studio Gallery (first introduced in Visual Studio 2010) and the ability for third-parties to *easily* write extensions which can add new functionality to Visual Studio or even change existing functionality.

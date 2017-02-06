@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech&middot;Ed 2007 Keynote
-date: 2007-03-21 21:32:00 -05:00
+date: '2007-03-21 21:32:00 -05:00'
 ---
 
 The Keynote speaker for Tech·Ed 2007 will be Bug Muglia, Senior Vice President of the Microsoft Server and Tools business. The Keynote will cover the evolution of IT from an organizational cost center (a group that is expected to cost a company money each year rather than earning revenue) to a strategic asset (one that is expected to earn revenue). He will also cover how to help your IT department embrace this new role and fuel growth and innovation.

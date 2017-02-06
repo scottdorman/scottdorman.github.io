@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The reorg shuffle
-date: 2006-08-25 20:58:00 -05:00
+date: '2006-08-25 20:58:00 -05:00'
 ---
 
 Today finished my first day after the reorganization shuffle last night at work. We lost two people, one developer and one manager and two other managers (including myself) were moved around and are no longer managers.

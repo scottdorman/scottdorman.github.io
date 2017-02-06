@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outlook Connector Calendar Sync
-date: 2008-02-24 22:11:08 -05:00
+date: '2008-02-24 22:11:08 -05:00'
 ---
 
 One of the more irksome qualities about the Outlook Connector was the lack of Calendar synchronization, particularly with the new Windows Live Calendar. If you were an MSN subscriber it would work, but if you had just a Hotmail (or Windows Live) account it wouldn't. This also applied even if you had purchased the additional features of Hotmail Plus.

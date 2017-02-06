@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jacksonville Code Camp IV &ndash; Hotel and Weather Information
-date: 2008-08-18 00:25:37 -05:00
+date: '2008-08-18 00:25:37 -05:00'
 ---
 
 For any one who is going to the Jacksonville Code Camp 2008 (Jax Code Camp IV) and is traveling be sure to keep an eye on the weather and on tropical storm Fay. It is supposed to be hitting Florida as early as Tuesday, but the forecasts don't yet know exactly where.

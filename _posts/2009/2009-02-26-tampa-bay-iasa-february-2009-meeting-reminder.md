@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA February 2009 Meeting Reminder
-date: 2009-02-26 10:44:43 -05:00
+date: '2009-02-26 10:44:43 -05:00'
 ---
 
 Just a quick reminder that the February 2009 meeting is tonight from 6:30 PM - 8:30 PM (ET) at the Microsoft office. ***Please _be sure to register_ so we have a good idea of how much pizza to order.**

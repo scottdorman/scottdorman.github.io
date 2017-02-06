@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New skins available for GWB
-date: 2007-04-20 19:12:09 -05:00
+date: '2007-04-20 19:12:09 -05:00'
 ---
 
 There are a few new skins available for GWB bloggers, bringing the total number of skins up to 21. The skins are:

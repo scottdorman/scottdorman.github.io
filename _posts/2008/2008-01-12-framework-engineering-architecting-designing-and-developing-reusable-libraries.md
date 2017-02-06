@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Framework Engineering: Architecting, Designing, and Developing Reusable Libraries"
-date: 2008-01-12 08:31:17 -05:00
+date: '2008-01-12 08:31:17 -05:00'
 ---
 
 At TechEd Developers Europe, [Krzysztof Cwalina](http://blogs.msdn.com/kcwalina) presented a talk called "Framework Engineering: Architecting, Designing, and Developing Reusable Libraries". If you weren't able to make the conference or missed his talk, you can [download the video recording](http://download.microsoft.com/download/b/d/1/bd133733-9647-445f-bc06-238ae9c0dd48/FrameworkEngineering.wmv) (in WMV format) or [just the slides](http://blogs.msdn.com/kcwalina/attachment/7031258.ashx) (in XPS format). The abstract for the session reads:

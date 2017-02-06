@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live FolderShare Beta
-date: 2008-03-10 23:11:46 -05:00
+date: '2008-03-10 23:11:46 -05:00'
 ---
 
 A while ago I [talked]({% post_url 2007-11-21-Windows-Live-FolderShare %}) about Windows Live FolderShare. As a reminder, for those of you who don't know: 

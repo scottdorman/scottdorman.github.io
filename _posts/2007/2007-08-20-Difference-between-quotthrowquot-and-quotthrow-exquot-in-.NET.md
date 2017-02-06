@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Difference between &quot;throw&quot; and &quot;throw ex&quot; in .NET
-date: 2007-08-20 11:26:03 -05:00
+date: '2007-08-20 11:26:03 -05:00'
 ---
 
 Exception handling seems to be a common problem for .NET developers, particularly younger developers. We pretty much all know that you should wrap operations that have the potential for failing in a try/catch block if you are interested in being able to do something about the error that occurred. I'm not going to talk about the rules and guidelines for using exception handling. Instead I'm going to focus on a particular aspect of exception handling, which I tend to call exception bubbling.

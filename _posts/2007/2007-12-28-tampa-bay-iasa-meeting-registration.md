@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Bay IASA Meeting Registration
-date: 2007-12-28 22:29:43 -05:00
+date: '2007-12-28 22:29:43 -05:00'
 ---
 
 We are moving the event registration to [Eventbrite](http://www.eventbrite.com/r/sdorman), which has added a lot of new capabilities and flexibility for us in terms of allowing people to register for the meetings. The most significant change is that we now have a dedicated URL for all of our meetings. To find any of the meetings that we are hosting, simply go to [http://tampabayiasa.eventbrite.com](http://tampabayiasa.eventbrite.com). From that page, you will see all of the events we are hosting, some information about the chapter, and a link to subscribe to an RSS feed to receive future event notifications.

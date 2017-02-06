@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MIX08: The Next Web Now"
-date: 2007-11-08 20:44:04 -05:00
+date: '2007-11-08 20:44:04 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/blings_9_25_b_2.jpg)

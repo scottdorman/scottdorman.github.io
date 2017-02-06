@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Code Camp
-date: 2008-11-23 11:57:45 -05:00
+date: '2008-11-23 11:57:45 -05:00'
 ---
 
 [Tampa Code Camp](http://www.tampacodecamp.com/) is coming up in just two weeks, so be sure to [register](http://www.clicktoattend.com/?id=132006) now if you plan to attend. The speaker bios and full agenda haven't been published yet, but the list of sessions is now available. If you're going, be sure to check out my sessions:

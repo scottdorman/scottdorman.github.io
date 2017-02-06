@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Code Camp Sessions
-date: 2008-12-02 20:28:42 -05:00
+date: '2008-12-02 20:28:42 -05:00'
 ---
 
 [Tampa Code Camp](http://www.tampacodecamp.com) is this weekend and I'm presenting 3 sessions:

@@ -2,7 +2,7 @@
 layout: page
 nav-include: false
 title: "Privacy Policy"
-date: 2016-03-19 -0800
+date: '2016-03-19 23:43:00 -05:00'
 comments: false
 ---
 

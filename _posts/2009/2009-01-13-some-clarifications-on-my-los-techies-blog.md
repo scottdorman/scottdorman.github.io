@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Clarifications on my Los Techies blog
-date: 2009-01-13 15:02:06 -05:00
+date: '2009-01-13 15:02:06 -05:00'
 ---
 
 It seems there has been some confusion and concern over my decision to also blog on the Los Techies website that I wanted to clarify. 

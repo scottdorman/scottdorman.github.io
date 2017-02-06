@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personalized Live Event web addresses
-date: 2007-11-03 09:42:24 -05:00
+date: '2007-11-03 09:42:24 -05:00'
 ---
 
 Not too long ago I talked about the [Windows Live Spaces URL Confusion]({% post_url 2007-10-16-Windows-Live-Spaces-URL-Confusion %}), and the really cryptic URLs being used for [SkyDrive](http://skydrive.live.com/) and [Live Events](http://events.live.com/). Today, I found something that makes Live Event addresses a little bit better. I'm not sure if this has always been available or if it's new, but either way it's a feature that is not obvious at all.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The additive nature of the .NET Framework
-date: 2008-02-29 21:37:12 -05:00
+date: '2008-02-29 21:37:12 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/110207_2058_AnnouncingT1.png)

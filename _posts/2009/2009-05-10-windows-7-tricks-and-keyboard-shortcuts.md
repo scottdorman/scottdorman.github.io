@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 7 Tricks and Keyboard Shortcuts
-date: 2009-05-10 21:28:55 -05:00
+date: '2009-05-10 21:28:55 -05:00'
 ---
 
 I've been running Windows 7 RC for a little over a week now and can't imagine going back to Vista at this point. I decided to start with a fresh install of Windows 7, so I've been in the process of reinstalling all of my applications and cleaning up my disk drives.

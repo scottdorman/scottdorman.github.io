@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech&middot;Ed U.S. Just Got Bigger
-date: 2007-11-08 08:06:53 -05:00
+date: '2007-11-08 08:06:53 -05:00'
 ---
 
 [![Tech·Ed 2008](http://www.microsoft.com/events/teched2007/images/teched_hero.JPG)](http://switch.atdmt.com/action/mrtity_FY08TechEd2008Signtheguestbook2_1)

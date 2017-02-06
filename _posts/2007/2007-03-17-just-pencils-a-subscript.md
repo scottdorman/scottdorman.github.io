@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just Pencils! a subscript...
-date: 2007-03-17 11:05:00 -05:00
+date: '2007-03-17 11:05:00 -05:00'
 ---
 
 After hunting around on Google for a few minutes, I was not able to find the person who may have originally taken these photos...but I was able to find the original sculptor. All of these pencil sculptures are the creation of [Jennifer Maestre](http://www.jennifermaestre.com/welcome.html) an incredibly talented woman. The pencil sculptures are made up of hundreds of pencils cut into 1 inch sections and sewn together.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cell Phone Stolen
-date: 2007-07-15 10:48:16 -05:00
+date: '2007-07-15 10:48:16 -05:00'
 ---
 
 A word of advice: Don't ever leave your cell phone in a theme park.

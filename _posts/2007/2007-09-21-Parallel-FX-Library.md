@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parallel FX Library
-date: 2007-09-21 20:16:43 -05:00
+date: '2007-09-21 20:16:43 -05:00'
 ---
 
 In the latest online edition of MSDN magazine, there are two articles describing some upcoming additions to the .NET Framework that will add support for parallel processing. These additions are part of what is called the Parallel FX Library, which is currently in development. A CTP should be released sometime by the end of this year.

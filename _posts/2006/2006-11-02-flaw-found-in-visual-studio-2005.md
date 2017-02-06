@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flaw found in Visual Studio 2005
-date: 2006-11-02 09:14:00 -05:00
+date: '2006-11-02 09:14:00 -05:00'
 ---
 
 And you thought it would never happen...

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: South Florida Code Camp 2009
-date: 2009-02-14 20:59:34 -05:00
+date: '2009-02-14 20:59:34 -05:00'
 ---
 
 I wanted to thank [Dave](http://geekswithblogs.net/dnoderer) and everyone else who helped coordinate the South Florida Code Camp this year. It was an excellent event and I believe the final number of attendees was a little over 700, which makes this the largest known code camp in the world.

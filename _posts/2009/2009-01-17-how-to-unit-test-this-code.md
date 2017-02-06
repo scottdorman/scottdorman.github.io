@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to unit test this code?
-date: 2009-01-17 22:35:24 -05:00
+date: '2009-01-17 22:35:24 -05:00'
 ---
 
 This question is for all of the TDD and unit test folks, so I'm hoping someone comes up with an answer.

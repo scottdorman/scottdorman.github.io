@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kendo Grid MVC Wrapper Automatic Column Configuration
-date: 2015-11-05 19:17:02 -05:00
+date: '2015-11-05 19:17:02 -05:00'
 ---
 
 The Telerik Kendo Grid control is really powerful, especially when combined with the MVC wrappers. One of the things that make the MVC wrapper so useful is the ability to automatically (and easily) generate data-bound columns. It's a single line of code:

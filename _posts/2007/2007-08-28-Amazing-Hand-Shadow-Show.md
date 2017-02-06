@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazing Hand Shadow Show
-date: 2007-08-28 17:49:04 -05:00
+date: '2007-08-28 17:49:04 -05:00'
 ---
 
 I try not to post things that aren't technical like this, but every once in a while something comes my way that just stands out and is so impressive that I make an exception. These were video clips sent to me by family and both of these performances are truly amazing. 

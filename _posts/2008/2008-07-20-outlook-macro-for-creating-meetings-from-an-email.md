@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outlook Macro for Creating Meetings from an Email
-date: 2008-07-20 12:07:41 -05:00
+date: '2008-07-20 12:07:41 -05:00'
 ---
 
 I just came across a post by [Michael S. Scherotter](http://blogs.msdn.com/synergist) about his Outlook macro to create an Outlook appointment from an email message. This is a feature that Outlook really should have, and this macro fills that gap very nicely. I cleaned up the code a bit and made some improvements to Michael's original version:

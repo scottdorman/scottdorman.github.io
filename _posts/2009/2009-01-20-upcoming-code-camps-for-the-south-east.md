@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upcoming Code Camps for the South East
-date: 2009-01-20 00:19:42 -05:00
+date: '2009-01-20 00:19:42 -05:00'
 ---
 
 I'm trying to put together my speaking schedule for upcoming code camps in the South East region. Right now I just want to know when the upcoming code camps are so I can determine which ones might best fit my schedule.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: See you at Tech·Ed 2007
-date: 2007-02-08 22:29:00 -05:00
+date: '2007-02-08 22:29:00 -05:00'
 ---
 
 Hopefully I'm not jumping the gun, but I was just given a tentative "green light" to be able to go to [Tech·Ed](http://www.microsoft.com/teched) again this year. 

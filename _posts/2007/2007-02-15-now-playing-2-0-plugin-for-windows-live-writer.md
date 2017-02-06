@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Now Playing 2.0 Plugin for Windows Live Writer
-date: 2007-02-15 21:48:00 -05:00
+date: '2007-02-15 21:48:00 -05:00'
 ---
 
 Just last night I received a private email asking for the install of my [XFN™ Live Writer Plugin]({% post_url 2007-02-10-xfntrade-live-writer-plugin-updates %}) from Alexander Groß in Germany. After exchanging some emails to get him the installer, I was able to look at the Live Writer [plugin](http://www.it99.org/axl/2007/01/31/Now+Playing+20+Plugin+For+Windows+Live+Writer.aspx) he created for Windows Live Writer.

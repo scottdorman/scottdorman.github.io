@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SourceForge.net Community Choice Awards
-date: 2007-07-02 20:35:57 -05:00
+date: '2007-07-02 20:35:57 -05:00'
 ---
 
 Thank you to everyone who nominated Subtext for a Community Choice Award.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio 2008 Code Editor Improvements
-date: 2007-08-08 21:16:55 -05:00
+date: '2007-08-08 21:16:55 -05:00'
 ---
 
 Scott Guthrie has a great blog [post](http://weblogs.asp.net/scottgu/archive/2007/07/28/nice-vs-2008-code-editing-improvements.aspx) about some really cool editor improvements in Visual Studio 2008. As Scott points out, one of the big annoyances with VS2005 as the fact that the intellisense window obscures any code behind it. In VS2008, if you hold down the "Ctrl" while the Intellisense window is visible it will switch to a semi-transparent mode that allows you to see the code beneath it. When you release the "Ctrl" key, it switches back to normal.

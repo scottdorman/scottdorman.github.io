@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Mobile 6.5
-date: 2008-11-23 11:48:56 -05:00
+date: '2008-11-23 11:48:56 -05:00'
 ---
 
 A few months ago, Motorola [mentioned](http://www.coolsmartphone.com/news4380.html) Windows Mobile 6.5 in an earnings call:

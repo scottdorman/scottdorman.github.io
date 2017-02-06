@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refactor or Rewrite?
-date: 2007-07-28 11:08:36 -05:00
+date: '2007-07-28 11:08:36 -05:00'
 ---
 
 There was a recent [discussion](http://www.codeproject.com/lounge.asp?msg=2151482&mode=all&userid=36803#xx2151482xx) on [The Code Project](http://www.codeproject.com/) about the virtues of refactoring. This rather quickly turned in to a question about what the difference is between refactoring and rewriting code. I have worked for a manager who loved to say "I'm confident in my ability to refactor" whenever we would talk about making sure the initial design was solid.

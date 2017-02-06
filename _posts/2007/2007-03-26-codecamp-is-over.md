@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CodeCamp is over..."
-date: 2007-03-26 19:47:00 -05:00
+date: '2007-03-26 19:47:00 -05:00'
 ---
 
 and my blog was referenced in one of the talks that I happened to attend.

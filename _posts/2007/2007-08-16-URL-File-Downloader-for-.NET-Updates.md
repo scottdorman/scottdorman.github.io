@@ -1,7 +1,7 @@
 ---
 layout: post
 title: URL File Downloader for .NET Updates
-date: 2007-08-16 19:35:58 -05:00
+date: '2007-08-16 19:35:58 -05:00'
 ---
 
 It's been a while since I wrote the first version of my [FileDownloader](http://www.codeproject.com/cs/library/filedownloader.asp) article and class. Since that time, there have been a lot of positive comments about the article and a handful of feature requests. I finally made the time to update the classes and the article and resubmit it to The Code Project. This update has the following new methods and properties:

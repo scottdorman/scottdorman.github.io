@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TweeTube &ndash; Video Sharing for Twitter
-date: 2009-01-13 20:33:35 -05:00
+date: '2009-01-13 20:33:35 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_7.png ) There are a lot of different sites available for sharing pictures on Twitter, but it seems like there are very few that allow you to easily share videos. All of that has changed with the launch today of TweeTube.

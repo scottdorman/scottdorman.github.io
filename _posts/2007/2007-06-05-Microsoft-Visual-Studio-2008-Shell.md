@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Visual Studio 2008 Shell
-date: 2007-06-05 23:29:48 -05:00
+date: '2007-06-05 23:29:48 -05:00'
 ---
 
 Microsoft announced a scaled down version of Visual Studio 2008 called the Visual Studio Shell. The Visual Studio Shell, which will be in beta sometime this summer, is designed to allow developers to bundle Visual Studio functionality into their own products and will integrate languages such as Fortran, Cobol, Ruby, and PHP. The Visual Studio Shell will be free and will ship with Visual Studio 2008.

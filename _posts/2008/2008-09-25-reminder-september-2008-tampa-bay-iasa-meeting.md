@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reminder: September 2008 Tampa Bay IASA Meeting"
-date: 2008-09-25 09:26:20 -05:00
+date: '2008-09-25 09:26:20 -05:00'
 ---
 
 Just a reminder that the Tampa Bay IASA September meeting is tonight starting at 6:30 PM. 

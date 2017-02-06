@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Code Camp
-date: 2006-07-14 07:41:00 -05:00
+date: '2006-07-14 07:41:00 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o_Html4Food.gif) 

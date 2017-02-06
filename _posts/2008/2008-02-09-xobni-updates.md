@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xobni Updates
-date: 2008-02-09 10:19:23 -05:00
+date: '2008-02-09 10:19:23 -05:00'
 ---
 
 About a month ago, I [talked]({% post_url 2008-01-12-xobni %}) about a new add-on for Microsoft Outlook called [Xobni Insight](http://www.xobni.com/). Since that time, I was invited to participate in the beta and have been running it both at work and at home.

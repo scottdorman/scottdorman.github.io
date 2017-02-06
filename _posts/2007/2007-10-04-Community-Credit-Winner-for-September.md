@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Credit Winner for September
-date: 2007-10-04 23:24:24 -05:00
+date: '2007-10-04 23:24:24 -05:00'
 ---
 
 Well, I am now a 4-time Community Credit winner! I first won in [February]({% post_url 2007-03-04-community-credit-february-prize-winner %}), and then again in [April]({% post_url 2007-05-03-community-credit-winner-for-april %}) and [June]({% post_url 2007-07-02-Community-Credit-Winner-for-June %}). ![](http://www.thinkgeek.com/images/products/other/atari-joystick-closeup.jpg)

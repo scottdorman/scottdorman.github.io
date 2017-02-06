@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MSDN Code Gallery
-date: 2008-02-09 14:20:12 -05:00
+date: '2008-02-09 14:20:12 -05:00'
 ---
 
 Late last month, Soma [announced](http://blogs.msdn.com/somasegar/archive/2008/01/28/msdn-code-gallery-snippets-samples-and-resources.aspx) the new [MSDN Code Gallery](http://code.msdn.microsoft.com/) site for sharing samples from both Microsoft and the community at large. When I saw this announcement, I was a little surprised that Microsoft was creating yet another community-type samples site so close on the heals of the GotDotNet (GDN) [shutdown]({% post_url 2007-02-28-gotdotnet-shutting-down %}). Granted, MSDN Code Gallery isn't exactly what GDN was, but between Code Gallery, CodePlex and MSDN Downloads it starts to get confusing.

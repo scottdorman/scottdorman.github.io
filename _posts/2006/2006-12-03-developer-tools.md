@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developer Tools
-date: 2006-12-03 09:48:00 -05:00
+date: '2006-12-03 09:48:00 -05:00'
 ---
 
 As a developer I use a lot of additional tools to get my work done in the most efficient and accurate way possible. That involves a lot of things, such as unit testing, code analysis and additional productivity inside the Visual Studio 2005 IDE. I have seen a lot of blog posts extolling the virtues of one tool or another, but there were not many (at least that I could find) that provided a semi-comprehensive list. (I say "semi-comprehensive" because there is always going to be a new tool available that the list maker doesn't know about or hasn't updated the list.) I am going to try to fill that void by providing such a list.

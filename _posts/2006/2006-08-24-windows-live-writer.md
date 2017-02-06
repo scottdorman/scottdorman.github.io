@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Writer
-date: 2006-08-24 10:44:00 -05:00
+date: '2006-08-24 10:44:00 -05:00'
 ---
 
 Courtesy of the latest issue of [WXPNews](http://www.wxpnews.com/archives/wxpnews-241-20060822.htm), I came across a very cool new blogging tool, named [Windows Live Writer](http://windowslivewriter.spaces.live.com/).

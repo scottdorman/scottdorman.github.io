@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sams Teach Yourself Visual C# 2010 in 24 Hours
-date: 2009-11-05 22:01:43 -05:00
+date: '2009-11-05 22:01:43 -05:00'
 ---
 
 [![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/0672331012_3.jpg)](http://amzn.to/2acEFBn) 

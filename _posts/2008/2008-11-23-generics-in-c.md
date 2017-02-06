@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generics in C#
-date: 2008-11-23 12:20:08 -05:00
+date: '2008-11-23 12:20:08 -05:00'
 ---
 
 Generics in C# have been around for a while (the concept of generics has been around even longer) but there are still a lot of developers who don't have a good understanding of what they are or how to use them. Looking at the direction C# 4.0 is taking, generics are becoming more and more important and if you don't make them a natural part of your programming tool belt you are going to find yourself falling behind the curve.

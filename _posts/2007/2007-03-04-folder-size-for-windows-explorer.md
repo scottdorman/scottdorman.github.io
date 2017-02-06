@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Folder Size for Windows Explorer
-date: 2007-03-04 11:49:00 -05:00
+date: '2007-03-04 11:49:00 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o_foldersize.jpg) 

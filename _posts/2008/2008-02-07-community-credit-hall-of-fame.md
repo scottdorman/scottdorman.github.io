@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Credit Hall of Fame
-date: 2008-02-07 19:19:04 -05:00
+date: '2008-02-07 19:19:04 -05:00'
 ---
 
 I've blogged in the past about [Community Credit](http://www.community-credit.com/) and really love the site. As a 5 time Community Credit winner, I just received the email today (although I actually knew about it over the weekend) that I have been inducted into the [Community Credit Hall of Fame](http://www.community-credit.com/HallOfFame.aspx) for 2008.

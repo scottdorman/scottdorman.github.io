@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CI Factory Beta 5 (Build 0.8.0.143)
-date: 2007-05-19 14:02:51 -05:00
+date: '2007-05-19 14:02:51 -05:00'
 ---
 
 [Beta 5](http://code.google.com/p/ci-factory/downloads/detail?name=CI-Factory-Beta-0.8.0.143.zip&can=2&q=) (build 0.8.0.143) for CI Factory is now available. For a full description of what's in this release, check out the [release notes](http://docs.google.com/Doc?id=dd6cv3jm_09r2s2h). 

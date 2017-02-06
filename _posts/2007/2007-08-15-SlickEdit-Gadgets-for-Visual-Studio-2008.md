@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SlickEdit Gadgets for Visual Studio 2008
-date: 2007-08-15 21:43:17 -05:00
+date: '2007-08-15 21:43:17 -05:00'
 ---
 
 While I was getting the [Code Project Add-in for Visual Studio]({% post_url 2007-08-15-The-Code-Project-Browser-Add-in-for-Visual-Studio %}) working on Visual Studio 2008 Beta 2, I decided to see if I could get the [SlickEdit Gadgets for Visual Studio 2005](http://www.slickedit.com/content/view/441) working as well. It turns out, with a little bit of registry tweaking, they work under Visual Studio 2008 Beta 2 without any problems (so far).

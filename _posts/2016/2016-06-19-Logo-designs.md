@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Logo designs
+date: '2016-06-19 13:19:00 -05:00'
 ---
 
 Several years ago I was in need of some logo design services for one of my projects. Since I'm not a graphics designer, I knew I would need to use a design service. As a result, I turned to my attention to a web search and started investigating my options. What I found was that there are a **lot** of offerings available and that prices and quality seemed to vary widely.

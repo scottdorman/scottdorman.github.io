@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sams Teach Yourself C# 2010 in 24 Hours
-date: 2009-06-26 18:54:33 -05:00
+date: '2009-06-26 18:54:33 -05:00'
 ---
 
 I'm sure most of you are familiar with the Sams Teach Yourself books, at least in passing if not in owning one. I am very excited to announce that I will be joining the Sams Publishing authoring team for their upcoming <u>Teach Yourself C# 2010 in 24 Hours</u> book.

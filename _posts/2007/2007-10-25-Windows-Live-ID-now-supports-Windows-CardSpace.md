@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live ID now supports Windows CardSpace
-date: 2007-10-25 21:57:27 -05:00
+date: '2007-10-25 21:57:27 -05:00'
 ---
 
 Well, this isn't actually breaking news, but at the end of August, Windows Live ID added support for Windows CardSpace as a new way to sign in to any Live ID enabled website. Using CardSpace means you don't use a password to sign in, instead you send your Information Card.

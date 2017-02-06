@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Architecture Journal Reader
-date: 2008-01-04 01:07:22 -05:00
+date: '2008-01-04 01:07:22 -05:00'
 ---
 
 For anyone that is a software architect in Microsoft technologies (and even those of you who aren't), [The Architecture Journal](http://msdn2.microsoft.com/en-us/arcjournal/default.aspx) is a must read. If you aren't familiar with it,  

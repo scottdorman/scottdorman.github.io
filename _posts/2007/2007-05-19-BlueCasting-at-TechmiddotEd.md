@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlueCasting at Tech&middot;Ed!
-date: 2007-05-19 08:12:06 -05:00
+date: '2007-05-19 08:12:06 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/bluecasting2.jpg)  

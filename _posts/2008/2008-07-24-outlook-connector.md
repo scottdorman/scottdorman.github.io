@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outlook Connector
-date: 2008-07-24 20:38:03 -05:00
+date: '2008-07-24 20:38:03 -05:00'
 ---
 
 The last time I [wrote]({% post_url 2008-02-24-outlook-connector-calendar-sync %}) about the Outlook Connector it was to talk about the lack of Calendar synchronization and the fact that a new version of the connector was in internal Microsoft testing. 

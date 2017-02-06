@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IASA Tampa Chapter - October 2007 Meeting
-date: 2007-10-31 22:35:16 -05:00
+date: '2007-10-31 22:35:16 -05:00'
 ---
 
 Earlier this month, I [talked]({% post_url 2007-10-10-international-association-of-software-architects-iasa-tampa-bay-chapter %}) about the inaugural meeting for the International Association of Software Architects ([IASA](http://www.iasahome.org/web/home/home)) Tampa Chapter, which was held last night (October 30th). We had about 20 people show up, mostly from the Tampa area. [Tom Fuller](http://soapitstop.com) kicked off the meeting by talking about the IASA and what the goals are for the Tampa Chapter. After that, [Jeff Barnes](http://blogs.msdn.com/jbarnes/) gave a [talk](http://www.dotnettikihut.com/downloads/Role_Of_Software_Architect_JBarnes.zip) on "The role of a Software Architect". 

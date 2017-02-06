@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stop Visual Studio From Automatically Connecting to TFS
-date: 2008-02-24 19:53:09 -05:00
+date: '2008-02-24 19:53:09 -05:00'
 ---
 
 A while ago I came across this excellent tip from [Colin Beales](http://blogs.msdn.com/colinbeales/archive/2007/11/02/stop-connecting-to-tfs-on-visual-studio-2005.aspx) that explains how to stop Visual Studio from automatically connecting to a TFS server when it starts up. I didn't need it until this weekend, but it works great and shortens the startup time as well. The tip couldn't be simpler and works for both Visual Studio 2005 and Visual Studio 2008.

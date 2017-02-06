@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Live Sync replacing FolderShare
-date: 2008-11-23 09:52:23 -05:00
+date: '2008-11-23 09:52:23 -05:00'
 ---
 
 I have talked about both Windows Live FolderShare and Windows Live Sync in the past. In fact, the last time I talked about Live Sync it was to say that it was FolderShare rebranded.

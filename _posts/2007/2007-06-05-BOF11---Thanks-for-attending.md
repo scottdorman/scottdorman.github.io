@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BOF11 - Thanks for attending!
-date: 2007-06-05 23:40:47 -05:00
+date: '2007-06-05 23:40:47 -05:00'
 ---
 
 I want to thank everyone who attended my Birds of a Feather session at Tech·Ed 2007. There were about 100 people that showed up and I think we had a good discussion on what code style and standards mean and why they are important.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft may buy Yahoo!
-date: 2007-05-12 12:36:48 -05:00
+date: '2007-05-12 12:36:48 -05:00'
 ---
 
 In this eWeek.com [article](http://www.eweek.com/article2/0,1895,2125956,00.asp) and Reuters, Microsoft is pursuing a deal to buy Yahoo!, Inc. as a result of increased competition from Google. The two companies have had informal talks over the years about this possibility, but this time it looks a little more serious. According to Peter Lobravico, of Wall Street Access:

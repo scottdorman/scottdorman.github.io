@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unit Testing and Expected Exceptions
-date: 2009-01-17 13:20:39 -05:00
+date: '2009-01-17 13:20:39 -05:00'
 ---
 
 When writing unit tests that cover methods that can throw known exceptions, you generally want to make sure that your tests actually test the conditions that can cause the exception and that you do, in fact, throw the correct exception.

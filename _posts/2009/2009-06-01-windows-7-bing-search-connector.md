@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 7 Bing Search Connector
-date: 2009-06-01 13:16:19 -05:00
+date: '2009-06-01 13:16:19 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/clip_image002_thumb_3.jpg)

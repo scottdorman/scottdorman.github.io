@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Silverlight 2 Beta 1
-date: 2008-03-06 20:42:27 -05:00
+date: '2008-03-06 20:42:27 -05:00'
 ---
 
 More announcements from Mix came from [Scott Guthrie](http://weblogs.asp.net/scottgu/), who announced the release of Silverlight 2 Beta 1. (In case you don't know, [Silverlight 2 was previously called Silverlight 1.1]({% post_url 2007-11-30-silverlight-2.0 %})) 

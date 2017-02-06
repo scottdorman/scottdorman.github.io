@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tampa Code Camp 2008
-date: 2008-11-15 09:12:20 -05:00
+date: '2008-11-15 09:12:20 -05:00'
 ---
 
 Normally the [Tampa Code Camp](http://tampacodecamp.com/) has already come and gone by this time of the year. This year, however, it's being held on December 6.

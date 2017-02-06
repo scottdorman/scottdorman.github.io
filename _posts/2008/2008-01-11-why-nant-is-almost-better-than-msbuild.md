@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why NAnt Is Almost Better Than MSBuild
-date: 2008-01-11 22:30:53 -05:00
+date: '2008-01-11 22:30:53 -05:00'
 ---
 
 Earlier this week, [Travis Illig](http://paraesthesia.com/Default.aspx) wrote about [Why NAnt Is Better Than MSBuild](http://paraesthesia.com/archive/2008/01/08/why-nant-is-better-than-msbuild.aspx). It seems he is taking the opposite position that I have been lately. He makes some interesting and valid points in this post that I wanted to address.

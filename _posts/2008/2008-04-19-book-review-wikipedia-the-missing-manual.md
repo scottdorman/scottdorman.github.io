@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: Wikipedia: The Missing Manual"
-date: 2008-04-19 15:43:50 -05:00
+date: '2008-04-19 15:43:50 -05:00'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/41xTiVltdLL__SL500_AA240__3.jpg)  

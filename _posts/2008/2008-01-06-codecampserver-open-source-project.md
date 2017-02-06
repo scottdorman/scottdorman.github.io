@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CodeCampServer Open Source Project
-date: 2008-01-06 14:14:00 -05:00
+date: '2008-01-06 14:14:00 -05:00'
 ---
 
 Many of you know that I've participated in many Code Camps over the last year, both as a speaker and as an attendee. The one thing that I've noticed is that there seems to not be a lot of resources for planning and organizing a code camp, which leads to very different experiences for speaker signup, schedule planning, etc.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows Vista: Kernel Changes - I/O, I/O, It's off to work I go..."
-date: 2006-06-17 15:26:00 -05:00
+date: '2006-06-17 15:26:00 -05:00'
 ---
 
 ## Port Improvement
