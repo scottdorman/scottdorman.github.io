@@ -4,7 +4,7 @@ title: Multi-Targeting FxCop Rules
 date: '2007-10-05 01:32:32 -05:00'
 ---
 
-Last month, I [talked]({% post_url 2007-09-30-Visual-Studio-2008-Multi-targeting %}) about multi-targeting, one of the new features in Visual Studio 2008. According to [Krzysztof](http://blogs.msdn.com/kcwalina/archive/2007/10/02/Multi_2D00_TargetingAndFxCop.aspx), the idea of [Red and Green bits](http://www.danielmoth.com/Blog/2007/06/net-framework-35.html) made this possible. Everything sounds good, so far. However, there is a very limited number of APIs that have been added to the Red bits that the multi-targeting system isn't able to detect. What this means is that if you set the target to the .NET Framework 2.0 and use one of these new changes, the compiler will not issue a warning or an error. The application will compile just fine, but will fail at runtime.
+Last month, I [talked]({% post_url /2007/2007-09-30-Visual-Studio-2008-Multi-targeting %}) about multi-targeting, one of the new features in Visual Studio 2008. According to [Krzysztof](http://blogs.msdn.com/kcwalina/archive/2007/10/02/Multi_2D00_TargetingAndFxCop.aspx), the idea of [Red and Green bits](http://www.danielmoth.com/Blog/2007/06/net-framework-35.html) made this possible. Everything sounds good, so far. However, there is a very limited number of APIs that have been added to the Red bits that the multi-targeting system isn't able to detect. What this means is that if you set the target to the .NET Framework 2.0 and use one of these new changes, the compiler will not issue a warning or an error. The application will compile just fine, but will fail at runtime.
 
 ![image](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_2.png) 
 

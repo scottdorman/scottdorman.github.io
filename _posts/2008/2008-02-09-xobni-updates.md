@@ -4,7 +4,7 @@ title: Xobni Updates
 date: '2008-02-09 10:19:23 -05:00'
 ---
 
-About a month ago, I [talked]({% post_url 2008-01-12-xobni %}) about a new add-on for Microsoft Outlook called [Xobni Insight](http://www.xobni.com/). Since that time, I was invited to participate in the beta and have been running it both at work and at home.
+About a month ago, I [talked]({% post_url /2008/2008-01-12-xobni %}) about a new add-on for Microsoft Outlook called [Xobni Insight](http://www.xobni.com/). Since that time, I was invited to participate in the beta and have been running it both at work and at home.
 
 So far, I have been very impressed. The installation is very simple. Once Xobni Insight is installed, the next time you open Outlook will cause it to create an index of your email. On my home system, I have over 14,000 messages from almost 3,000 different senders and it took less than 10 minutes to create the index. During that time, you can still use Outlook since the index is created in the background. It works with mail accounts created using the [Outlook Connector](http://www.microsoft.com/Downloads/details.aspx?FamilyID=7aad7e6a-931e-438a-950c-5e9ea66322d4&displaylang=en) as well as Microsoft Exchange accounts.
 

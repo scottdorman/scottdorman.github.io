@@ -4,7 +4,7 @@ title: Silverlight 2 Beta 1
 date: '2008-03-06 20:42:27 -05:00'
 ---
 
-More announcements from Mix came from [Scott Guthrie](http://weblogs.asp.net/scottgu/), who announced the release of Silverlight 2 Beta 1. (In case you don't know, [Silverlight 2 was previously called Silverlight 1.1]({% post_url 2007-11-30-silverlight-2.0 %})) 
+More announcements from Mix came from [Scott Guthrie](http://weblogs.asp.net/scottgu/), who announced the release of Silverlight 2 Beta 1. (In case you don't know, [Silverlight 2 was previously called Silverlight 1.1]({% post_url /2007/2007-11-30-silverlight-2.0 %})) 
 
 This release provides a lot of new features and controls, including layout containers such as a Grid and StackPanel, control skinning and templating. There are improvements in both networking and general performance as well. 
 

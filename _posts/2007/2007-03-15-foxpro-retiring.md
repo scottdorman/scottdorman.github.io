@@ -4,7 +4,7 @@ title: FoxPro Retiring
 date: '2007-03-15 22:27:00 -05:00'
 ---
 
-It seems this is the year for Microsoft to announce product retirements. First [GotDotNet,](/2007/2007-02-28-gotdotnet-shutting-down) then [Visual J#,]({% post_url 2007-03-04-visual-j-retiring %}) and now eWeek just [announced](http://www.eweek.com/article2/0,1895,2103695,00.asp?kc=EWPRDEMNL031407EOAD) that FoxPro is being retired as well.
+It seems this is the year for Microsoft to announce product retirements. First [GotDotNet,](/2007/2007-02-28-gotdotnet-shutting-down) then [Visual J#,]({% post_url /2007/2007-03-04-visual-j-retiring %}) and now eWeek just [announced](http://www.eweek.com/article2/0,1895,2103695,00.asp?kc=EWPRDEMNL031407EOAD) that FoxPro is being retired as well.
 
 According to Microsoft, they will not be releasing any new versions of Visual FoxPro past version 9.0, but they will continue to support it through 2015.
 

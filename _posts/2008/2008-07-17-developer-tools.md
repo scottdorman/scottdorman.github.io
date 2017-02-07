@@ -6,7 +6,7 @@ date: '2008-07-17 00:05:44 -05:00'
 
 I recently went through the exercise of reinstalling all of my developer tools on my home development system. This involved uninstalling everything, including Visual Studio and SQL and then reinstalling. While this wasn't exactly a painless experience, it was good to get back to a relatively clean slate and re-evaluate all of the various tools and add-ins I've accumulated.
 
-I [posted]({% post_url 2006-12-03-developer-tools %}) a similar list about 2 1/2 years ago, so it's interesting to see what's changed in that time. This time, I'm just listing the tools that I personally use.
+I [posted]({% post_url /2006/2006-12-03-developer-tools %}) a similar list about 2 1/2 years ago, so it's interesting to see what's changed in that time. This time, I'm just listing the tools that I personally use.
 
 |**Tool**|**Category**|**Website**|
 | ------ | ----------| ---------|

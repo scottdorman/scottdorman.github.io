@@ -4,7 +4,7 @@ title: Windows Live Spaces URL Confusion
 date: '2007-10-16 00:47:54 -05:00'
 ---
 
-A few days ago I talked about [Windows Live SkyDrive Updates]({% post_url 2007-10-12-Windows-Live-SkyDrive-Updates %}) and the new [Windows Live Events]({% post_url 2007-10-12-Windows-Live-Events %}), both of which are part of Windows Live Spaces. Since then, I've been browsing around the Windows Live site and checking out how things are working and noticed a few really annoying inconsistencies with the URLs being used for all of the different services.
+A few days ago I talked about [Windows Live SkyDrive Updates]({% post_url /2007/2007-10-12-Windows-Live-SkyDrive-Updates %}) and the new [Windows Live Events]({% post_url /2007/2007-10-12-Windows-Live-Events %}), both of which are part of Windows Live Spaces. Since then, I've been browsing around the Windows Live site and checking out how things are working and noticed a few really annoying inconsistencies with the URLs being used for all of the different services.
 
 When you sign in to your Windows Live account, you are presented with the following secondary toolbar:
 

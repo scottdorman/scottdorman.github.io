@@ -20,7 +20,7 @@ The problem is that the Visual Studio Windows Forms designer doesn't follow all 
 
 The problem with that is that this issue has absolutely nothing to do with the .NET Framework. It is purely an issue that exists within the Visual Studio Windows Forms designer. By not fixing this issue, Microsoft is making it virtually impossible for developers to create applications that run on Vista which also follow the Vista UX Guidelines...at least using Visual Studio. 
 
-As I have mentioned [previously]({% post_url 2008-07-13-microsoft-and-monetizing-developer-products %}), there was a time when Microsoft was primarily concerned with creating solid developer tools and ensuring that developers were able to create applications that followed all of their UX guidelines for the current operating system. By not continuing this trend, Microsoft is sending mixed signals to the developer community...you should follow the Vista UX Guidelines but you can't use Visual Studio to do it.
+As I have mentioned [previously]({% post_url /2008/2008-07-13-microsoft-and-monetizing-developer-products %}), there was a time when Microsoft was primarily concerned with creating solid developer tools and ensuring that developers were able to create applications that followed all of their UX guidelines for the current operating system. By not continuing this trend, Microsoft is sending mixed signals to the developer community...you should follow the Vista UX Guidelines but you can't use Visual Studio to do it.
 
 Discussing this in the forums isn't really going to be of much help as there really is no workaround to resolve this issue and there really isn't much to discuss about it anyway...the Windows Forms designer simply doesn't follow the new UX Guidelines.
 

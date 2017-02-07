@@ -4,7 +4,7 @@ title: Generic Enum Parsing with Extension Methods
 date: '2007-09-25 15:32:44 -05:00'
 ---
 
-Not too long ago, I talked about [Extension Methods]({% post_url 2007-08-19-C-3.0-Extension-Methods %} "Click To View Entry") in .NET 3.5 and also about a way to provide [data binding an enum type with descriptions](http://www.codeproject.com/useritems/enumdatabinding.asp). Today, [Simo](http://codeclimber.net.nz/archive/2007/09/25/String-to-Enum.aspx) talked about how often he forgets the syntax of parsing a string value to it's Enum value. In his post, he refers to a generic Enum parse method that [Scott Watermasysk](http://scottwater.com/blog/archive/Generic-Enum-Parse/) created just over a year ago (in 2006). In Scott's post, [Kenny Kerr](http://weblogs.asp.net/kennykerr/archive/2005/05/16/The-Case-of-the-Missing-Generic-_2800_Parse-Method_2900_.aspx) points back to his article (from 2005) about how to create a generic parse method in C++/CLI.  
+Not too long ago, I talked about [Extension Methods]({% post_url /2007/2007-08-19-C-3.0-Extension-Methods %} "Click To View Entry") in .NET 3.5 and also about a way to provide [data binding an enum type with descriptions](http://www.codeproject.com/useritems/enumdatabinding.asp). Today, [Simo](http://codeclimber.net.nz/archive/2007/09/25/String-to-Enum.aspx) talked about how often he forgets the syntax of parsing a string value to it's Enum value. In his post, he refers to a generic Enum parse method that [Scott Watermasysk](http://scottwater.com/blog/archive/Generic-Enum-Parse/) created just over a year ago (in 2006). In Scott's post, [Kenny Kerr](http://weblogs.asp.net/kennykerr/archive/2005/05/16/The-Case-of-the-Missing-Generic-_2800_Parse-Method_2900_.aspx) points back to his article (from 2005) about how to create a generic parse method in C++/CLI.  
 
 Reading through all of these posts started me thinking about the EnumHelper class in my [article](http://www.codeproject.com/useritems/enumdatabinding.asp) and how nice it would be to provide an EnumParse method as part of any String value. This is where the simplicity of extension methods really starts to show.  
 
@@ -69,4 +69,4 @@ SimpleEnum enumVal = Enum.Parse<SimpleEnum>(stringValue);
 
 It does provide an alternative that is almost as easy.
 
-(This example assumes the static class is named EnumHelper and uses the SimpleEnum type defined in both my [article](http://www.codeproject.com/useritems/enumdatabinding.asp) and blog [post]({% post_url 2007-08-02-Data-Binding-an-Enum-with-Descriptions %}).)
+(This example assumes the static class is named EnumHelper and uses the SimpleEnum type defined in both my [article](http://www.codeproject.com/useritems/enumdatabinding.asp) and blog [post]({% post_url /2007/2007-08-02-Data-Binding-an-Enum-with-Descriptions %}).)

@@ -4,7 +4,7 @@ title: Visual Studio 2008 and TargetFrameworkVersion
 date: '2008-07-18 12:36:30 -05:00'
 ---
 
-A question was asked yesterday in one of the [CodeProject](http://www.codeproject.com/) discussion forums by someone looking for a way to easily change the Target Framework version of all projects in a solution. If you don't know, the Target Framework version is what tells the compiler which version of the .NET Framework to compile against (more information is available [here]({% post_url 2007-09-30-Visual-Studio-2008-Multi-targeting %})) and can be set to one of the following values:
+A question was asked yesterday in one of the [CodeProject](http://www.codeproject.com/) discussion forums by someone looking for a way to easily change the Target Framework version of all projects in a solution. If you don't know, the Target Framework version is what tells the compiler which version of the .NET Framework to compile against (more information is available [here]({% post_url /2007/2007-09-30-Visual-Studio-2008-Multi-targeting %})) and can be set to one of the following values:
 
 *   .NET Framework 2.0 
 *   .NET Framework 3.0 
