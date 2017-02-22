@@ -101,7 +101,7 @@ If you change your controller to now take a constructor dependency and try to ru
 public static class ServiceProviderExtensions
 {
    public static IServiceCollection AddControllersAsServices(this IServiceCollection services,
-      IEnumerable<type> controllerTypes)
+      IEnumerable<Type> controllerTypes)
    {
       foreach (var type in controllerTypes)
       {
@@ -110,7 +110,7 @@ public static class ServiceProviderExtensions
 
       return services;
    }
-}</type>
+}
 ```
 
 Then add the following line to the `ConfigureServices` method:
