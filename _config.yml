@@ -16,7 +16,8 @@ disqus:
   show_comment_count: true
    
 github:
-  repo: https://github.com/scottdorman/scottdorman.github.io
+  repo: "{{github.root}}/scottdorman.github.io"
+  root: "https://github.com/scottdorman"
 
 gems:
   - jekyll-feed
