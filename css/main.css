@@ -322,13 +322,6 @@ footer .theme-by {
   font-weight: 400;
   margin-bottom: 10px;
 }
-.post-preview .post-meta,
-.post-heading .post-meta {
-  color: #808080;
-  font-size: 18px;
-  font-style: italic;
-  margin: 0 0 10px;
-}
 .post-preview .post-read-more {
   font-weight: 700;
 }
