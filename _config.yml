@@ -17,6 +17,7 @@ disqus:
    
 github:
   repo: "{{github.root}}/scottdorman.github.io"
+  feedback: "{{github.root}}/feedback"
   root: "https://github.com/scottdorman"
 
 gems:
