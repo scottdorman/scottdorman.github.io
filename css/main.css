@@ -91,7 +91,7 @@ img {
 
 .post-meta .list-inline li:not(:last-child):after {
   margin-left: 5px;
-  content: "•";
+  content: "\2022";
 }
 
 .title {
