@@ -2,6 +2,8 @@
 layout: post
 title: Input Tag Helper With Placeholder Support
 date: '2016-08-01 09:46:00 -05:00'
+categories: codeproject
+tags: tag-helpers asp.net-core
 ---
 
 Earlier, I [wrote about]({% post_url /2016/2016-08-01-tag-helpers %}) Tag Helpers and showed how useful they are when creating HTML forms. In that post, we saw how simple it is to use Tag Helpers to generate an `input` element:

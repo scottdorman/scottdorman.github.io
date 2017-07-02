@@ -1,0 +1,3 @@
+{% if page.tags.size > 0 or post.tags.size > 0 %}
+	<li><span class="fa fa-tags"></span> {{ page.tags | join: ', ' }}{{ post.tags | join: ', ' }}</li>
+{% endif %}
