@@ -89,6 +89,10 @@ img {
   }
 }
 
+.post-meta .list-inline li:not(:last-child):after {
+  margin-left: 5px;
+  content: "•";
+}
 
 .title {
     font-size: 16pt;
