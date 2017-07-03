@@ -98,6 +98,10 @@ img {
    content: "";
 }
 
+.post-meta .mdl2 {
+    vertical-align: middle;
+}
+
 .title {
     font-size: 16pt;
 }
