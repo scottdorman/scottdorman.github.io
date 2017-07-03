@@ -1,5 +1,6 @@
+{% assign words = content | number_of_words %}
 <li class="reading-time">
-  {% assign words = content | number_of_words %}
+  <span class="mdl2 mdl2-stopwatch"></span>
   {% if words < 270 %}
     1 min to read
   {% else %}
