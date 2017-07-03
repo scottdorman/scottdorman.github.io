@@ -19,5 +19,9 @@
   <script id="dsq-count-scr" src="//{{ site.disqus.shortname }}.disqus.com/count.js" async></script>
 {% endif %}
 
-<script>new shareMeUp({async:true,size:"medium",style:"default"}).init();</script>
+<script>
+$(function(){
+  $('.shareMeUp').shareMeUp({async:true,size:"medium",style:"default"}).init();
+});
+</script>
 
