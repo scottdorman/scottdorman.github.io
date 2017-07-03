@@ -94,6 +94,10 @@ img {
   content: "\2022";
 }
 
+.post-meta .list-inline.social-sharing li:first-child:after {
+   content: "";
+}
+
 .title {
     font-size: 16pt;
 }
