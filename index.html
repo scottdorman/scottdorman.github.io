@@ -17,14 +17,14 @@ title: Home
           <div class="post-meta text-muted small">
             <ul class="list-inline">
               {% include post/date.html %}{{ time }}
-<li class="reading-time">
-  {% assign words = post.content | number_of_words %}
-  {% if words < 270 %}
-    1 min to read
-  {% else %}
-    {{ words | divided_by:135 }} mins to read
-  {% endif %}
-</li>
+              <li class="reading-time">
+                {% assign words = post.content | number_of_words %}
+                {% if words < 270 %}
+                  1 min to read
+                {% else %}
+                  {{ words | divided_by:135 }} mins to read
+                {% endif %}
+              </li>
               {% include post/tags.html %}
               {% include post/comments_link.html %}
             </ul>
