@@ -94,8 +94,9 @@ img {
   content: "\2022";
 }
 
-.post-meta .list-inline.social-sharing li:first-child:after {
+.post-meta .list-inline.social-sharing li:after {
    content: "";
+   margin-left: 0;
 }
 
 .post-meta .mdl2 {
