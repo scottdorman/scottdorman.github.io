@@ -18,6 +18,7 @@ title: Home
             <ul class="list-inline">
               {% include post/date.html %}{{ time }}
               <li class="reading-time">
+                <span class="mdl2 mdl2-stopwatch"></span>
                 {% assign words = post.content | number_of_words %}
                 {% if words < 270 %}
                   1 min to read
