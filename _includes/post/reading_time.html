@@ -1,4 +1,4 @@
-{% assign words = text | number_of_words %}
+{% assign words = {{include.text}} | number_of_words %}
 <li class="reading-time">
   <span class="mdl2 mdl2-stopwatch"></span>
   {% if words < 270 %}
