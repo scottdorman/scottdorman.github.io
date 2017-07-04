@@ -14,28 +14,11 @@ title: Home
         {% for post in paginator.posts %}
         <article class="post-preview">
           <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <div class="post-meta text-muted small">
-            <ul class="list-inline">
-              {% include post/date.html %}{{ time }}
-              <li class="reading-time">
-                <span class="mdl2 mdl2-stopwatch"></span>
-                {% assign words = post.content | number_of_words %}
-                {% if words < 270 %}
-                  1 minute to read
-                {% else %}
-                  {{ words | divided_by:135 }} minutes to read
-                {% endif %}
-              </li>
-              {% include post/tags.html %}
-              {% include post/comments_link.html %}
-            </ul>
-          </div>
-
+          {% include post/meta_index.html %}
           <div class="post-entry">
             {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
           <a href="{{ post.url }}" class="post-read-more">[Read&nbsp;More]</a>
           </div>
-
         </article>
         {% endfor %}
       </div>

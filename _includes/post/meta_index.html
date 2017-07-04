@@ -1,10 +1,8 @@
 <div class="post-meta text-muted small">
 	<ul class="list-inline">
   		{% include post/date.html %}
-  		{% include post/reading_time.html text={{ content }} %}
+  		{% include post/reading_time.html text={{ post.content }} %}
 		{% include post/tags.html %}
 		{% include post/comments_link.html %}
-		{% include post/edit.html %}
 	</ul>
-	{% include post/sharing.html %}
 </div>
