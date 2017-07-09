@@ -89,6 +89,13 @@ img {
   }
 }
 
+.archives ul {
+    list-style-type: square;
+}
+
+.archives .archive-list li {
+   padding-bottom: 0.5rem;
+}
 .archives li {
    font-size: 12pt;
 }
