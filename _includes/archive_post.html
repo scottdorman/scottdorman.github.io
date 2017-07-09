@@ -11,8 +11,11 @@
             <ul>
     {% endif %}
 
-	<li>		
-		<span class="title-archive"><a href="{{ post.url }}">{{post.title}}</a></span>
+	<li class="post-meta">
+	    <ul class="list-inline">
+		   <li><a href="{{ post.url }}">{{post.title}}</a></li>
+		   {% include post/reading_time.html text=post.content %}
+		</ul>
 	</li>
 
     {% if forloop.last %}
@@ -26,7 +29,7 @@
         <div id="{{ next_year }}-{{ next_month }}-posts-ref">
             <h4 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</h4>
             <ul>
-        {% else %}    
+        {% else %}
             {% if this_month != next_month %}
             </ul>
         </div>

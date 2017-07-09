@@ -89,8 +89,12 @@ img {
   }
 }
 
+.archives li {
+   font-size: 12pt;
+}
+
 .post-meta .list-inline li:not(:last-child):after {
-  margin-left: 5px;
+  margin-left: 10px;
   content: "\2022";
 }
 
