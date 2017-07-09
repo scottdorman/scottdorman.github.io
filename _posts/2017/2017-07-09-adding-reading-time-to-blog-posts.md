@@ -10,8 +10,16 @@ The first thing I needed to do was add a new include file. I added a new file in
 
 This file should be fairly straight-forward. The first thing it does is get the number of words from the content passed in to the include (in `include.text`) and then uses that number to determine the approximate number of minutes it will take to read the post.
 
-In the header area of my post, in [`meta.html`](https://github.com/scottdorman/scottdorman.github.io/blob/master/_includes/post/meta.html), I included this file using `{% include post/reading_time.html text=content %}`. This includes the file and passes the post content to the include in the `text` parameter.
+In the header area of my post, in [`meta.html`](https://github.com/scottdorman/scottdorman.github.io/blob/master/_includes/post/meta.html), I included this file and passes the post content to the include in the `text` parameter using the following 
 
-To include the same reading time estimation in the index required a slightly different include, otherwise it would use the content of the actual index page rather than the content of the post. That include, which is in [`meta_index.html`](https://github.com/scottdorman/scottdorman.github.io/blob/master/_includes/post/meta_index.html), is `{% include post/reading_time.html text=post.content %}`.
+```liquid
+{% include post/reading_time.html text=content %}
+```
+
+To include the same reading time estimation in the index required a slightly different include, otherwise it would use the content of the actual index page rather than the content of the post. That include, which is in [`meta_index.html`](https://github.com/scottdorman/scottdorman.github.io/blob/master/_includes/post/meta_index.html), is 
+
+```liquid
+{% include post/reading_time.html text=post.content %}
+```
 
 Now, my blog posts show estimated reading time.
