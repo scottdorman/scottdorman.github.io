@@ -93,6 +93,14 @@ img {
    font-size: 12pt;
 }
 
+.archives .title {
+    font-size: 14pt;
+}
+
+.archives .post-meta .list-inline li {
+   font-size: 12pt;
+}
+
 .post-meta .list-inline li:not(:last-child):after {
   margin-left: 10px;
   content: "\2022";
@@ -109,10 +117,6 @@ img {
 
 .title {
     font-size: 16pt;
-}
-
-.title-archive {
-    font-size: 14pt;
 }
 
 /* --- Navbar --- */

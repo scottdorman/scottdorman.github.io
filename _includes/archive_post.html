@@ -11,11 +11,9 @@
             <ul>
     {% endif %}
 
-	<li class="post-meta">
-	    <ul class="list-inline">
-		   <li><a href="{{ post.url }}">{{post.title}}</a></li>
-		   {% include post/reading_time.html text=post.content %}
-		</ul>
+	<li>
+	    <span class="title"><a href="{{ post.url }}">{{post.title}}</a></span>
+	    {% include post/meta_index.html %}
 	</li>
 
     {% if forloop.last %}
