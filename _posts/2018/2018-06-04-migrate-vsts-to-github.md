@@ -14,4 +14,6 @@ If you have a TFS-based code repo, especially one hosted on Visual Studio Team S
 `git-tfs clone <tfs server> <project> <git repo>`
 1. Perform some cleanup operations by executing `git gc` and `git-tfs cleanup`
 
+Before you commit the changes, you might want to add a .gitignore file.
+
 At this point, you're ready to import the repository into GitHub. You can do this with `git remote add origin <repo path>` and then `git push origin master` or use the GitHub desktop client.
