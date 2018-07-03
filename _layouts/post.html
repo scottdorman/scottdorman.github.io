@@ -14,6 +14,7 @@ layout: default
         </header>
         {{ content }}
       </article>
+      {% include comments.html %}
       <hr/>
       <ul class="pager blog-pager">
         {% if page.previous.url %}
@@ -27,8 +28,6 @@ layout: default
           </li>
         {% endif %}
       </ul>
-
-      {% include comments.html %}
     </div>
   </div>
 </div>
