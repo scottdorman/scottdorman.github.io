@@ -4,7 +4,7 @@ title: Comments using GitHub
 date: '2018-07-03 19:41:00 -05:00'
 ---
 
-When I moved my blog to GitHub, [way back in 2016]({% post_url /2016/03/23/moving-to-github-pages %}), I also moved the commenting system to Disqus. At the time, it seemed like the best option for me.
+When I moved my blog to GitHub, I also moved the commenting system to Disqus. At the time, it seemed like the best option for me.
 
 As of earlier today however, I have dropped support for Disqus in favor of using GitHub issues as the underlying data store. This is the route [Microsoft is currently taking in Microsoft Docs](https://docs.microsoft.com/en-us/teamblog/a-new-feedback-system-is-coming-to-docs) and there is an open source implementation that served as the proof of concept for Microsoft's approach at https://utteranc.es/. With the new system, you can now create GitHub issues directly from a content page, which enables you to interact in a much richer way. 
 
