@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comments using GitHub
-date: '2018-07-04 19:41:00 -05:00'
+date: '2018-07-03 19:41:00 -05:00'
 ---
 
 When I moved my blog to GitHub, [way back in 2016]({% post_url /2016/03/23/moving-to-github-pages %}), I also moved the commenting system to Disqus. At the time, it seemed like the best option for me.
@@ -11,7 +11,6 @@ As of earlier today however, I have dropped support for Disqus in favor of using
 The first time you sign in, you'll be asked to authorize utterances. This is a one-time authorization and it's what allows you to enter comments directly from the blog post.
 
 Apart from some `config.yml` changes and replacing the Disqus code with the code generated from utterances, it was relatively easy to implement by following the few simple steps on the utterances homepage. 
-
 
 Right now, unfortunately, there isn't a way to automatically migrate Disqus comments to GitHub issues. (At least, none that I know of. If you happen to know a way to do this, please let me know.)
 
