@@ -16,21 +16,21 @@ The pre-boot executable environment has also undergone changes in Vista. The NTL
 
 ### Windows Boot Manager
 
-The Windows boot manager is launched by the Master Boot Record (MBR) code and replaces the first half of NTLDR (the part that read boot.ini) and now reads the data stored in the BCD. This is handled by the files in the \Bootmgr partition on the system drive and can launch other Windows pre-boot executables.
+The Windows boot manager is launched by the Master Boot Record (MBR) code and replaces the first half of NTLDR (the part that read boot.ini) and now reads the data stored in the BCD. This is handled by the files in the `\Bootmgr` partition on the system drive and can launch other Windows pre-boot executables.
 
-Some of these other pre-boot executables include a new resume loader that helps improve startup time when returning from a sleep state. (This used to be implemented by NTLDR and is now implemented in \Systemreoot\System32\Winresume.exe.) Another pre-boot executable is a windows memory diagnostic tool called \Boot\Memtest.exe.
+Some of these other pre-boot executables include a new resume loader that helps improve startup time when returning from a sleep state. (This used to be implemented by NTLDR and is now implemented in `\Systemreoot\System32\Winresume.exe.`) Another pre-boot executable is a windows memory diagnostic tool called `\Boot\Memtest.exe`.
 
 ### Operating System Loader
 
-The OS loader replaces the second half of NTLDR which was responsible for loading the OS image, boot drivers, and System registry hives. There is a single OS loader per installation located in the \Systemroot\System32\Winloader.exe program executable.
+The OS loader replaces the second half of NTLDR which was responsible for loading the OS image, boot drivers, and System registry hives. There is a single OS loader per installation located in the `\Systemroot\System32\Winloader.exe` program executable.
 
 ## Startup Process Changes
 
-Prior to Vista, session creation was done serially by the Session Manager (SMSS) which would result in a bottleneck for Terminal Services. The SMSS created the Winlogon and Csrss processes for each session. Winlogon (which is the interactive logon manager) would then create the Local Security Authority(Lsass.exe) and Services (services.exe) processes.
+Prior to Vista, session creation was done serially by the Session Manager (SMSS) which would result in a bottleneck for Terminal Services. The SMSS created the Winlogon and Csrss processes for each session. Winlogon (which is the interactive logon manager) would then create the Local Security Authority(`Lsass.exe`) and Services (`services.exe`) processes.
 
 In Vista, this behavior follows a similar model to the Windows Installer service. The Initial SMSS creates an instance of itself to initialize each session. This permits parallel session creation of anywhere between 4 and the number of processors.
 
-The initial SMSS process runs in Session 0 and runs Wininit.exe. Wininit starts what Winlogon used to start, namely lsass.exe and services.exe. It also starts a new process, the Local Session Manager (lsm.exe).
+The initial SMSS process runs in Session 0 and runs `Wininit.exe`. Wininit starts what Winlogon used to start, namely lsass.exe and services.exe. It also starts a new process, the Local Session Manager (lsm.exe).
 
 Once each subsequent session is started, that sessions SMSS create the session specific instances of winlogon and csrss.
 
