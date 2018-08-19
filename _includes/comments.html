@@ -1,29 +1,33 @@
 {% if page.comments %}
-	{% if site.utterances %}
-		<script src="https://utteranc.es/client.js"
-				repo="scottdorman/scottdorman.github.io"
-				issue-term="title"
-				crossorigin="anonymous"
-				async>
-		</script>
-	{% endif %}
-	{% if site.disqus %}
-		<div class="disqus-comments">
-			<div class="comments">
-				<div id="disqus_thread"></div>
-				<script type="text/javascript">
-					var disqus_shortname = '{{ site.disqus.shortname }}';
-					// ensure that pages with query string get the same discussion
-						var url_parts = window.location.href.split("?");
-						var disqus_url = url_parts[0];
-					(function() {
-						var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-						dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-						(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-					})();
-				</script>
-				<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-			</div>
-		</div>
-	{% endif %}
+    {% if site.utterances %}
+<fieldset>
+    <legend class="small"><span class="mdl2 mdl2-comment"></span> Comments</legend>
+    <script src="https://utteranc.es/client.js"
+            repo="scottdorman/scottdorman.github.io"
+            issue-term="pathname"
+            crossorigin="anonymous"
+            async>
+    </script>
+</fieldset>
+https://github.com/boazbk/tcs/issues?q=Code%20as%20data+in%3Atitle
+    {% endif %}
+    {% if site.disqus %}
+<div class="disqus-comments">
+    <div class="comments">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+                    var disqus_shortname = '{{ site.disqus.shortname }}';
+                    // ensure that pages with query string get the same discussion
+                        var url_parts = window.location.href.split("?");
+                        var disqus_url = url_parts[0];
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+</div>
+    {% endif %}
 {% endif %}

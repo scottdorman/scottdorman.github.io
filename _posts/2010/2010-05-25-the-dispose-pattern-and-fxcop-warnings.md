@@ -4,7 +4,7 @@ title: The Dispose Pattern (and FxCop warnings)
 date: '2010-05-25 10:40:09 -05:00'
 ---
 
-*[This is actually a response to *[Bill's blog post](http://srtsolutions.com/public/item/254680)*, but since it isn't possible to leave this as a comment on his blog it's a post here.]*
+*[This is actually a response to [Bill's blog post](http://srtsolutions.com/public/item/254680), but since it isn't possible to leave this as a comment on his blog it's a post here.]*
 
 There are many different ways to implement the Dispose pattern correctly. Some are (in my opinion) better than others. In Bill's blog post he presents a particular pattern, which is an excerpt from his book [Effective C#](http://amzn.to/28JyfJh). The issue centers around the fact that a reader took the code sample presented in the book and ran FxCop (Code Analysis) on it, which generated a warning: "Ensure that base.Dispose() is always called." The "lesson learned" that Bill presents is that "tools are there to help us, not control us."
 
