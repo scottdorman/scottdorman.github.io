@@ -14,7 +14,7 @@ CustomAttribute attribute = Attribute.GetCustomAttribute(customType.GetType(), t
 
 While this is simple code, it doesn't handle any error conditions and requires that you always remember to perform the cast. A more complete method would look like
 
-```chsarp
+```csharp
 public static CustomAttribute GetAttribute(MemberInfo element)  
 {  
     CustomAttribute attribute = null;  
@@ -38,7 +38,7 @@ This nicely encapsulates the error handling and casting, but introduces another 
 
 We can make this more practical by changing to a generic extension method with very little effort
 
-```chsarp
+```csharp
 public static T GetAttribute<T>(this MemberInfo element) where T: Attribute  
 {  
     T attribute = null;  

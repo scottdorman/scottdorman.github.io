@@ -26,7 +26,7 @@ rundll32.exe FeedbackTool.dll,ShowWizard
 
 If you would rather, you may create a desktop shortcut to the Feedback Tool command by right-clicking on your desktop, selecting New, Shortcut, then entering  "rundll32.exe FeedbackTool.dll,ShowWizard" (less the quotes) in the "Type the location of the item" field.  Then click Next, provide a shortcut name (for example, "Send Feedback"), then click Finish.  You may then launch the Feedback Tool from the desktop shortcut.
 
-<div class="alert alert-info">**Note - Please be sure you have activated your copy of Windows 7 using your product key PRIOR to using the Windows Feedback Tool.**</div>
+<div class="alert alert-info"><b>Note - Please be sure you have activated your copy of Windows 7 using your product key PRIOR to using the Windows Feedback Tool.</b></div>
 
 While testing indicates that the Release Candidate is a very solid build Microsoft does ask that you be on the lookout for any issues that might remain. <u>When filing bugs on Windows 7 RC only report the following types of issues:</u>
 
