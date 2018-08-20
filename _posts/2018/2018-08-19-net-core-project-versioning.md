@@ -1,7 +1,7 @@
 ---
 layout: post
 title: .NET Core project versioning
-date: '2018-08-19 19:41:00 -05:00'
+date: '2018-08-19 23:05:00 -05:00'
 ---
 
 Visual Studio has always allowed you to specify a version number for your .NET projects using the `[assembly:AssemblyVersionAttribute("2.0.1")]` syntax, usually in an `AssemblyInfo.cs` file. You can even use some special syntax to generate the build or revision number automatically.
@@ -14,17 +14,15 @@ When .NET Core was introduced, it brought along some much-needed improvements to
 
 I use this solution in two of my production projects at the moment and am in the process of updating the remainder of my projects to use it as well.
 
-All of the files mentioned in this post are available at https://github.com/scottdorman/assembly-build-versioning, so I'm only going to show relevant portions of some of them here.
+All of the files mentioned in this post are available at https://github.com/scottdorman/assembly-build-versioning, so I'm only going to show relevant portions of some of them here. This repository will also always contain the latest instructions and information on how to use this process. Always check there for updated information first.
 
 ## Getting started
 
-To get started using this process, head over to the GitHub [repository](https://github.com/scottdorman/assembly-build-versioning) and copy all of the files there into your solution folder. You should end up with a `build` folder, a `Directory.build.props` file and a `common.props` at the root of your project tree, right alongside your solution.
+To get started using this process, head over to the GitHub [repository](https://github.com/scottdorman/assembly-build-versioning) and copy the `build` folder, the `Directory.Build.props`, `common.props`, and the `ReleaseNotes.xml` files into your solution folder.
 
 <div class="alert alert-info">
 If you already have a <code>Directory.build.props</code> file or a <code>common.props</code> file, you'll want to merge the contents together or take other steps to prevent your files from being overwritten while still including the files from this process.
 </div>
-
-![project tree layout](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/project-tree.png) 
 
 Next, update the relevant properties in the `common.props` file.
 
