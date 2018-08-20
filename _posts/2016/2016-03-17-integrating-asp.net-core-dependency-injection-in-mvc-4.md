@@ -97,7 +97,7 @@ public void Configuration(IAppBuilder app)
 } 
 ```
 
-If you change your controller to now take a constructor dependency and try to run the project at this point, you'll get a runtime error about a missing method exception saying that your constructor doesn't implement the default parameterless constructor. That's because we need to register the controllers as a service with the DI container. To do that (and make it easier to add other things to the DI container, add the following extensions class:
+If you change your controller to now take a constructor dependency and try to run the project at this point, you'll get a runtime error about a missing method exception saying that your constructor doesn't implement the default parameterless constructor. That's because we need to register the controllers as a service with the DI container. To do that (and make it easier to add other things to the DI container), add the following extensions class:
 
 ```csharp
 public static class ServiceProviderExtensions
