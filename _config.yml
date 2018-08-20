@@ -1,9 +1,9 @@
-url: "http://scottdorman.github.io"
+url: "https://scottdorman.github.io"
 #baseurl: ""
 title: Scott Dorman
 subtitle: Microsoft MVP, Software Architect, Developer, Author
 description: Scott Dorman - Microsoft MVP, Software Architect, Developer, Author
-feedburner: http://feeds.feedburner.com/ScottDorman
+feedburner: https://feeds.feedburner.com/ScottDorman
 
 google_analytics: "UA-2662385-1"
 
@@ -15,7 +15,7 @@ utterances: true
 #disqus:
 #  shortname: "scottdorman-blog"
 #  show_comment_count: true
-   
+
 github:
   repo: https://github.com/scottdorman/scottdorman.github.io
   feedback: https://github.com/scottdorman/feedback
@@ -39,7 +39,7 @@ author:
   linkedin: scottorman
   stackoverflow: 1559
   mvp: 4014220
-  
+
 # Select which links to show in the footer
 footer-links-active:
   mvp: true
@@ -53,7 +53,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "http://scottdorman.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://scottdorman.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Output options (more information on Jekyll's site)
 timezone: America/New_York
