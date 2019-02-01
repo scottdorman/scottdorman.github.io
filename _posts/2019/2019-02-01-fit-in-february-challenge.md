@@ -24,7 +24,7 @@ Even though this is a challenge, I decided to resurrect it this morning, so ther
 * Post a before picture of your self.
 * Post an after picture.
 * Post a video of your self doing your routine, drinking a health shake, or just talking about what you are doing for the contest.
-* Just post to twitter with the tag #FitFeb and whatever you happen to be doing (challenge related) at that moment. It might be working out, or drinking your shake, or taking the stairs in your office building.
+* Just post to social media with the tag #FitFeb and whatever you happen to be doing (challenge related) at that moment. It might be working out, or drinking your shake, or taking the stairs in your office building.
 * Post a wrap up blog post at the end. Talk about your successes (and areas that still need to be worked on…if you want), how this month has changed your outlook, and what you plan on continuing beyond February.
 
 ## F.A.Q.
