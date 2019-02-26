@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Style and Standards: Best Practices? - BOF11"
-date: '2007-05-02 23:04:33 -05:00'
+date: '2007-05-02 23:04:33'
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image%7B0%7D11.png)
