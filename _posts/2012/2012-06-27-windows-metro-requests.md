@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Metro Requests
-date: '2012-06-27 23:53:40 -05:00'
+date: '2012-06-27 23:53:40'
 ---
 
 Windows 8 and Windows Metro style apps have a lot of potential, but only if application vendors realize there is a demand to see their app as a Metro style app and not just as a desktop app (or worse, only as an Android or iOS app). As consumers, the only thing we can do is be vocal about our desire to see these apps on Windows 8 as a Metro style app.
