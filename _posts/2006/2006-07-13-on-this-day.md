@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On This Day...
+title: On This Day
 date: '2006-07-13 08:38:00 -05:00'
 ---
 
