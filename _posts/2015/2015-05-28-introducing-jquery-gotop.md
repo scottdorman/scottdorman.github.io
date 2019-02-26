@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing jQuery-goTop
-date: '2015-05-28 23:23:39 -05:00'
+date: '2015-05-28 23:23:39.00000000'
 ---
 
 There are lots of pages that use some sort of JavaScript or jQuery plugin to provide a "go to top" feature. I'm sure you've seen it: As you scroll down the page, a little arrow appears somewhere near the bottom that lets you easily jump back to the top.
