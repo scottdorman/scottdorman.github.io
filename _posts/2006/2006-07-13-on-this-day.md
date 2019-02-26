@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On This Day
+title: "On This Day..."
 date: '2006-07-13 08:38:00 -05:00'
 ---
 
@@ -28,7 +28,7 @@ function OnThisDay(thisDay)
 {
    // This is the fully formatted string that is returned.
    //
-   var returnString = "<span class=\"on-this-day\">On this day: #Wikipedia# ‡ #HistoryChannel# ‡ #NYTimes# ‡ #BBC# ‡ #IMDB# ‡ #Reference# ‡ #Britannica# ‡ #DailyBleed# ‡ #OnThisDay#</span>";
+   var returnString = "<span class=\"on-this-day\">On this day: #Wikipedia# &ddagger; #HistoryChannel# &ddagger; #NYTimes# &ddagger; #BBC# &ddagger; #IMDB# &ddagger; #Reference# &ddagger; #Britannica# &ddagger; #DailyBleed# &ddagger; #OnThisDay#</span>";
    
    // These variables represent the template URL for each site to be displayed. 
    // The template will be filled in after the date is calculated.
