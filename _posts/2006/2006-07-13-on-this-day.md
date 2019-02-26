@@ -143,7 +143,7 @@ If you want to add a new site to the function, there are 4 simple steps to follo
 
 1. Modify the returnString variable to include the placeholder text for your new site. Remember, the order of the entries listed here will be the same order they are displayed, so make sure you put it in the correct spot.
 ```javascript
-var returnString = "<SPAN class='\"on-this-day\"'>On this day: #Wikipedia# ‡ #HistoryChannel# ‡ #NYTimes# ‡ #BBC# ‡ #IMDB# ‡ #Reference# ‡ #Britannica# ‡ #BrainyHistory# ‡ #DailyBleed# ‡ #OnThisDay#</SPAN>";
+var returnString = "<SPAN class='\"on-this-day\"'>On this day: #Wikipedia# &#8225; #HistoryChannel# &#8225; #NYTimes# &#8225; #BBC# &#8225; #IMDB# &#8225; #Reference# &#8225; #Britannica# &#8225; #BrainyHistory# &#8225; #DailyBleed# &#8225; #OnThisDay#</SPAN>";
 ```
 2. Add the following template variable:
 ```javascript
