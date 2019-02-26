@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows XP phase out
-date: '2007-04-16 23:19:55 -05:00'
+date: '2007-04-16 23:19:55'
 ---
 
 According to [APC](http://apcmag.com/5835/vendors_in_no_rush_to_ditch_xp_for_vista) magazine, Windows XP is due to be phased out by the end of 2007. Microsoft plans to stop OEM copies as an option for system builders. What this will mean is that starting next year, any new computer bought from a retailer **must** come with Windows Vista.

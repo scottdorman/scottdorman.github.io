@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New lead for the Visual Studio team
-date: '2007-09-21 23:05:38 -05:00'
+date: '2007-09-21 23:05:38'
 ---
 
 [Jason Zander](http://blogs.msdn.com/jasonz/default.aspx) is moving from the .NET team to [lead](http://blogs.msdn.com/jasonz/archive/2007/09/15/new-job-new-challenges.aspx) the Visual Studio team. This covers a lot of products:
