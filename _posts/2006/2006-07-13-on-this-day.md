@@ -47,7 +47,7 @@ function OnThisDay(thisDay)
    var BBC            = "<a target=\"_blank\" href=\"http://news.bbc.co.uk/onthisday/hi/dates/stories/#month#/#day#/default.stm\">BBC News</a>";
    var IMDB           = "<a target=\"_blank\" href=\"http://www.imdb.com/OnThisDay?day=#day#&month=#month#\">IMDb</a>";
    var Reference      = "<a target=\"_blank\" href=\"http://reference.com/thisday/index.html?m=#month#&d=#day#\">Reference.com</a>";
-   var Britannica     = "<a target=\"_blank\" href=\"http://www.britannica.com/eb/dailycontent?month=#month#&day=#day#\"><font style=\"font-variant:small-caps;\">Encyclop∆dia BRITANNICA</font></a>";
+   var Britannica     = "<a target=\"_blank\" href=\"http://www.britannica.com/eb/dailycontent?month=#month#&day=#day#\"><font style=\"font-variant:small-caps;\">Encyclop&AElig;dia BRITANNICA</font></a>";
    var DailyBleed     = "<a target=\"_blank\" href=\"http://www.eskimo.com/~recall/bleed/#month#_#day#.htm\">Daily Bleed</a>";
    var OnThisDay      = "<a target=\"_blank\" href=\"http://www.on-this-day.com/onthisday/thedays/alldays/#month##day#.htm\">On-This-Day</a>";
  
