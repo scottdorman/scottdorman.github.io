@@ -110,11 +110,11 @@ bundle exec jekyll serve
 
 This will build your site and run it under a local web server built in to Jekyll so you can browse the site.
 
+> Every so often, I've run into an error about an `operation not permitted apply2files` error when trying to build locally. Closing my `bash` shell and reopening it seems to fix the issue.
+
 ## Wrapping up
 As you can see, other than having to deal with the IPv6 issues, we followed the tutorials and installation guides as they were written for "real" Linux because we are, in fact, running a real version of Linux.
 
 The days of Windows development machines needing to run Linux in a virtual machine environment or jumping through lots of hoops, running modified binaries, and having to follow special setup instructions are gone. Now we can get on with the task at hand, using whatever tools best fit our need.
-
-> Every so often, I've run into an error about an `operation not permitted apply2files` error when trying to build locally. Closing my `bash` shell and reopening it seems to fix the issue.
 
 > If you want to edit files using vi, you may want to change the default console colors from gray text on a black background to black text on a gray background. I found that the default colors when editing files were very hard to read. A good [vi cheat sheet](https://ryanstutorials.net/linuxtutorial/cheatsheetvi.php) may also be helpful.
