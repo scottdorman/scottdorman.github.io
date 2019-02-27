@@ -59,7 +59,6 @@ I choose to install `rvm` both to get the latest version of Ruby (2.6.0 as of th
 
 Now that we have Ruby installed, it's time to install Bundler. 
 
-
 > Unfortunately, this is where we have to take one additional step specific to running Linux on Windows, and it's because Windows 10 prioritizes IPv6 over IPv4 and `api.rubygems.org` has issues with its IPv6 setup. To fix this, you need to lower the priority of the IPv6 addresses so that `gem` will try the IPv4 addresses first.
 >
 > First, you need to lookup the IPv6 addresses using `dig AAAA api.rubygems.org +short`. Once you have them (as of this blog post it was `2a04:4e42::70`), you need to edit `/etc/gai.conf` using `sudo vi /etc/gai.conf` to add the following lines:
