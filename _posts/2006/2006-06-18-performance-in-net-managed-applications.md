@@ -6,7 +6,7 @@ date: '2006-06-18 17:00:00 -05:00'
 
 Building managed applications is generally a lot different than building non-managed applications. The problems faced by .NET developers are different than those faced by C++ (or even VB) developers. Since .NET is a garbage-collected language and the development process seems to be generally more intuitive (at least in C#) than many other programming languages and environments it is very easy to build applications rapidly.
 
-Visual Stduio 2005 definately takes the concept of rapid application development to the next level and allows developers to raapidly create applications in a much shorter time frame. However, this ease of use does come with a cost. Visual Studio 2005 allows developers to write code fast, but it doesn't help us write fast code. There is an important distinction between the two.
+Visual Studio 2005 definitely takes the concept of rapid application development to the next level and allows developers to rapidly create applications in a much shorter time frame. However, this ease of use does come with a cost. Visual Studio 2005 allows developers to write code fast, but it doesn't help us write fast code. There is an important distinction between the two.
 
 In order to write fast code, you need to have an understanding of two things:
 
@@ -27,9 +27,9 @@ That being said, there will always be performance issues that need to be resolve
 2. Collect Data
 3. Identify the cause and fix the problem
 
-This process repeats until you have acchieved the desired performance.
+This process repeats until you have achieved the desired performance.
 
-Identifying the critical resouces can be broken down to the following cases:
+Identifying the critical resources can be broken down to the following cases:
 
 * Intra-Process - performance is determined by how the process uses resources
 * Inter-Process - performance is determined by how long the process waits for another process
@@ -40,4 +40,4 @@ There are two ways to profile an application: Sampling and Instrumentation.
 
 Sampling is non-intrusive and many problems can be diagnosed with a sampling profiler. Instrumentation is very intrusive and can cause between a 10-100 time slowdown.
 
-Memory issues manifest themselves thorugh paging and are a system-wide phenomenon.
+Memory issues manifest themselves through paging and are a system-wide phenomenon.
