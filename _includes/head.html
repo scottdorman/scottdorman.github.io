@@ -1,26 +1,43 @@
+﻿{% if page.title == "Home" %}
+    {% capture title %}
+{{ site.title }} - {{ site.subtitle }}
+    {% endcapture %}
+{% else %}
+    {% capture title %}
+{{ page.title }} - {{ site.title }}
+    {% endcapture %}
+{% endif %}
+
 <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="HandheldFriendly" content="true" />
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-  <meta name="author" content="{{ site.author.name }}" />
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="msvalidate.01" content="767B8478A8D8CF83DF28EFE976F167E2" />
-  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-  <title>
-    {% if page.title == "Home" %}
-       {{ site.title }} - {{ site.subtitle }}
-    {% else %}
-       {{ page.title }} - {{ site.title }}
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="author" content="{{ site.author.name }}" />
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="msvalidate.01" content="767B8478A8D8CF83DF28EFE976F167E2" />
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">{% endif %}
+    <title>{{ title }}</title>
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.feedburner }}" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" integrity="sha384-XdYbMnZ/QjLh6iI4ogqCTaIjrFk87ip+ekIjefZch0Y+PvJ8CDYtEs1ipDmPorQ+" crossorigin="anonymous">
+    <link href="https://brainleaf.github.io/shareMeUp/cdn/v1/latest/css/sharemeup.min.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/mdl2-icons.min.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'>
+    {% seo title=false%}
+
+    {% if site.google_analytics %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ google_analytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', '{{ google_analytics }}');
+    </script>
     {% endif %}
-  </title>
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="http://feeds.feedburner.com/ScottDorman" />
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" integrity="sha384-XdYbMnZ/QjLh6iI4ogqCTaIjrFk87ip+ekIjefZch0Y+PvJ8CDYtEs1ipDmPorQ+" crossorigin="anonymous">
-  <link href="https://brainleaf.github.io/shareMeUp/cdn/v1/latest/css/sharemeup.min.css">
-  <link rel="stylesheet" href="{{ site.url }}/css/mdl2-icons.min.css">
-  <link rel="stylesheet" href="{{ site.url }}/css/main.css">
-  <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'>
-  {% seo %}
 </head>

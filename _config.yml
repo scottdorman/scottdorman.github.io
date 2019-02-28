@@ -1,5 +1,4 @@
 url: "https://scottdorman.github.io"
-#baseurl: ""
 title: Scott Dorman
 subtitle: Microsoft MVP, Software Architect, Developer, Author
 description: Scott Dorman - Microsoft MVP, Software Architect, Developer, Author
@@ -10,6 +9,7 @@ google_analytics: "UA-2662385-1"
 gravatar:
    hash: e74e26bfd345fdd80bedf436178c5829
    size: 80
+
 utterances: true
 
 #disqus:
@@ -61,6 +61,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
 paginate: 5
+
 kramdown:
   input: GFM
 
@@ -84,6 +85,21 @@ defaults:
       type: "pages"
     values:
       nav-include: true  # include in header nav
+
+# SEO configuration
+twitter:
+  username: sdorman
+  card: summary
+
+social:
+  name: Scott Dorman
+  links:
+    - https://twitter.com/sdorman
+    - https://www.facebook.com/scottdorman
+    - https://www.linkedin.com/in/scottorman
+    - https://github.com/scottdorman
+    - https://stackoverflow.com/users/1559
+    - https://mvp.microsoft.com/en-us/PublicProfile/4014220
 
 # Exclude these files from production site
 exclude:
