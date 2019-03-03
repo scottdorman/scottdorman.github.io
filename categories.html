@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Tags
+title: categories
+published: false
 ---
 
 <div class="archives" itemscope itemtype="http://schema.org/Blog">
     <ul class="nav nav-pills">
-        {% for tag in site.tags %}
+        {% for tag in site.categories %}
         <li role="presentation"><a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a></li>
         {% endfor %}
     </ul>
     <hr />
-    {% for tag in site.tags %}
+    {% for tag in site.categories %}
     <fieldset>
         <legend id="{{ tag[0] | slugify }}">{{ tag[0] }}</legend>
         <ul class="archive-list">
