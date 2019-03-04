@@ -1,0 +1,103 @@
+---
+---
+@import url("pygments.css");
+
+$text_color: #404040;
+$link_color: #0058A6;
+$link_highlight_color: lighten($link_color, 10%);
+
+body {
+    font-family: 'Titillium Web', sans-serif !important;
+    font-size: 18px;
+    color: $text_color;
+    position: relative;
+    background: #FFF;
+}
+
+.main-content {
+    margin-top: 6rem !important;
+}
+
+.list-group-item {
+    border: none;
+    border-bottom: 2px solid rgba(0,0,0, .125);
+}
+
+.list-group-compressed {
+    .list-group-item {
+        border: none;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+}
+
+.social-sharing {
+    .list-inline-item {
+        padding: 0 !important;
+    }
+}
+
+a {
+    color: $link_color;
+
+    &:hover, &:focus {
+        text-decoration: none;
+        color: $link_highlight_color;
+    }
+}
+
+footer {
+    font-size: 14px;
+
+    .list-inline {
+        font-size: 1.9rem;
+    }
+
+    a {
+        color: $text_color;
+        font-weight: 700;
+
+        &:hover, &:focus {
+            text-decoration: none;
+            color: $link_highlight_color;
+        }
+    }
+}
+
+.utterances {
+    width: 100% !important;
+}
+
+.card-img-overlay {
+    z-index: -1;
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+    width: 4.5rem;
+}
+
+.avatar-hidden {
+    opacity: 0;
+}
+
+pre {
+    padding: 9.5px;
+    margin-bottom: .5rem;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+@media only screen and (min-width: 768px) {
+    .card-img-overlay {
+        margin-left: -8rem !important;
+        width: 6rem;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .card-img-overlay {
+        margin-left: 2rem !important;
+    }
+}

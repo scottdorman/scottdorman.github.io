@@ -1,11 +1,11 @@
 {% assign show_tags = include.show_tags | default: true  %}
 
-<div class="post-meta text-muted small">
-    <ul class="list-inline">
-        {% include post/date.html %}{{ time }}
-        {% include post/reading_time.html text=post.content %}
+<div class="text-muted small mb-2">
+    <ul class="list-inline m-0">
+        <li class="list-inline-item">{% include post/date.html %}{{ time }}</li>
+        <li class="list-inline-item">{% include post/reading_time.html text=post.content %}</li>
     </ul>
     {% if show_tags == true %}
-        {% include post/tags.html %}
+    {% include post/tags.html %}
     {% endif %}
 </div>

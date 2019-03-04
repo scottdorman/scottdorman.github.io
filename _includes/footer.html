@@ -1,100 +1,74 @@
-<footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <ul class="list-inline text-center footer-links">
-          {% if site.author.mvp and site.footer-links-active.mvp %}
-          <li>
+<footer class="container-fluid text-center bg-light border-top pb-1">
+    {% if site.footer-links-active %}
+    <ul class="list-inline pt-4">
+        <li class="list-inline-item">
             <a href="https://mvp.microsoft.com/en-us/PublicProfile/{{ site.author.mvp }}" title="MVP Profile">
-              <img src="/img/MVP.png">
+                <img src="/img/MVP.png">
             </a>
-          </li>
-          {% endif %}
-          {% if site.author.facebook and site.footer-links-active.facebook %}
-          <li>
+        </li>
+        <li class="list-inline-item">
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-              </span>
+                <span class="fa-stack">
+                    <i class="fa fa-square fa-stack-2x"></i>
+                    <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
             </a>
-          </li>
-          {% endif %}
-          {% if site.author.github and site.footer-links-active.github %}
-          <li>
+        </li>
+        <li class="list-inline-item">
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-              </span>
+                <span class="fa-stack">
+                    <i class="fa fa-square fa-stack-2x"></i>
+                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
             </a>
-          </li>
-          {% endif %}
-		      {% if site.author.twitter and site.footer-links-active.twitter %}
-          <li>
+        </li>
+        <li class="list-inline-item">
             <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
+                <span class="fa-stack">
+                    <i class="fa fa-square fa-stack-2x"></i>
+                    <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
             </a>
-          </li>
-          {% endif %}
-		      {% if site.author.email and site.footer-links-active.email %}
-          <li>
-            <a href="mailto:{{ site.author.email }}" title="Email me">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-		      {% if site.author.linkedin and site.footer-links-active.linkedin %}
-          <li>
+        </li>
+        <li class="list-inline-item">
             <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-              </span>
+                <span class="fa-stack">
+                    <i class="fa fa-square fa-stack-2x"></i>
+                    <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
             </a>
-          </li>
-          {% endif %}
-		      {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
-          <li>
+        </li>
+        <li class="list-inline-item">
             <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-stack-overflow fa-stack-1x fa-inverse"></i>
-              </span>
+                <span class="fa-stack">
+                    <i class="fa fa-square fa-stack-2x"></i>
+                    <i class="fab fa-stack-overflow fa-stack-1x fa-inverse"></i>
+                </span>
             </a>
-          </li>
-          {% endif %}
-          {% if site.footer-links-active.rss %}
-          <li>
-          <a href="{{ site.feedburner }}" title="RSS">
-            <span class="fa-stack fa-lg">
-            <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-            </span>
-          </a>
-          </li>
-          {% endif %}
-      </ul>
-      <p class="copyright text-muted">
+        </li>
+        <li class="list-inline-item">
+            <a href="{{ site.feedburner }}" title="RSS">
+                <span class="fa-stack">
+                    <i class="fa fa-square fa-stack-2x"></i>
+                    <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                </span>
+            </a>
+        </li>
+    </ul>
+    {% endif %}
+    <p class="text-muted">
         Copyright 2006 - {{ site.time | date: '%Y' }} - {{ site.author.name }}
-        <br/>
+    </p>
+    <p class="text-muted">
         Blog content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         Unless otherwise stated or granted, code samples licensed under the <a rel="license" href="https://choosealicense.com/licenses/mit/">MIT license</a>.
-        <br/>
+    </p>
+    <p class="text-muted">
         <a href="{{ site.url }}/privacy">privacy</a> | <a href="{{ site.url }}/blogtegrity">blogtegrity</a>
-      </p>
-      <p class="theme-by text-muted">
+    </p>
+    <p class="small text-muted">
         Site design is based on
         <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a> and
         <a href="https://github.com/poole/hyde">hyde</a> under the MIT license.
-      </p>
-      </div>
-    </div>
-  </div>
+    </p>
 </footer>

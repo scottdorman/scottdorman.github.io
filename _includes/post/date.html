@@ -2,5 +2,5 @@
 {% capture has_date %}{{ date | size }}{% endcapture %}
 
 {% if has_date != '0' %}
-  {% capture time %}<li><span class="mdl2 mdl2-calendar"></span> <time datetime="{{ date | datetime | date_to_xmlschema }}" {% if updated %}data-updated="true"{% endif %} itemprop="datePublished">{{ date | date: "%F"  }}</time></li>{% endcapture %}
+  {% capture time %}<i class="far fa-calendar-alt"></i> <time datetime="{{ date | datetime | date_to_xmlschema }}" {% if updated %}data-updated="true"{% endif %} itemprop="datePublished">{{ date | date: "%F"  }}</time>{% endcapture %}
 {% endif %}

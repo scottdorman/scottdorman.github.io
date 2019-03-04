@@ -1,26 +1,27 @@
 ---
 layout: page
-title: categories
-published: false
+title: Archives
 ---
+
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
 <div itemscope itemtype="http://schema.org/Blog">
     <nav class="nav nav-pills">
-        {% for tag in site.categories %}
-        <a href="#{{ tag[0] | slugify }}" class="nav-link smoothScroll">{{ tag[0] }}</a>
+        {% for year in postsByYear %}
+        <a href="#{{ year.name | slugify }}" class="nav-link smoothScroll">{{ year.name }}</a>
         {% endfor %}
     </nav>
     <hr />
 
-    {% for tag in site.categories %}
-    <fieldset id="{{ tag[0] | slugify }}">
-        <legend class="border-bottom">{{ tag[0] }}</legend>
+    {% for year in postsByYear  %}
+    <fieldset id="{{ year.name | slugify }}">
+        <legend class="border-bottom">{{ year.name }}</legend>
         <div class="list-group list-group-compressed">
-            {% for post in tag[1] %}
+            {% for post in year.items %}
             <div class="list-group-item">
                 <article class="w-100 justify-content-between">
                     <a href="{{ post.url }}">{{post.title}}</a>
-                    {% include post/meta_index.html show_tags="false" %}
+                    {% include post/meta_index.html %}
                 </article>
             </div>
             {% endfor %}

@@ -1,13 +1,12 @@
 {% if page.tags.size > 0 or post.tags.size > 0 %}
-<ul class="list-inline">
-    <li>
-        <span class="mdl2 mdl2-tag"></span>
-        {% for tag in page.tags %}
-        <a href="{% link tags.html %}#{{ tag | slugify }}">{{ tag }}</a>
-        {% endfor %}
-        {% for tag in post.tags %}
-        <a href="{% link tags.html %}#{{ tag | slugify }}">{{ tag }}</a>
-        {% endfor %}
-    </li>
+<ul class="list-inline m-0">
+    <li class="list-inline-item"><i class="fas fa-tags"></i></li>
+
+    {% for tag in page.tags %}
+    <li class="list-inline-item"><a href="{% link tags.html %}#{{ tag | slugify }}">{{ tag }}</a></li>
+    {% endfor %}
+    {% for tag in post.tags %}
+    <li class="list-inline-item"><a href="{% link tags.html %}#{{ tag | slugify }}">{{ tag }}</a></li>
+    {% endfor %}
 </ul>
 {% endif %}

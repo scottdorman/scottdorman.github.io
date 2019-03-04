@@ -1,50 +1,30 @@
-<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar" area-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
-    </div>
+<header id="main-nav" class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
+    <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapseContent">
+        <span class="navbar-toggler-icon"></span>
+    </button>
 
-    <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right">
-        <li class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}">
-          <a href="{{ site.url }}">Home{% if page.url == "/" %} <span class="sr-only">(current)</span>{% endif %}</a>
-        </li>
-
-    <li class="sidebar-nav-item">
-        <a href="{{ site.github.feedback }}/issues/new" target="_blank">Contact</a>
-    </li>
-        {% comment %}
-          The code below dynamically generates a sidebar nav of pages with
-          `layout: page` in the front-matter. See readme for usage.
-        {% endcomment %}
-
-        {% assign pages_list = site.pages %}
-        {% for node in pages_list %}
-          {% if node.title != null %}
-            {% if node.layout == "page" and node.nav-include != false %}
-              <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-                <a href="{{ node.url }}">{{ node.title }}{% if page.url == node.url %} <span class="sr-only">(current)</span>{% endif %}</a>
-              </li>
+    <div id="navbarCollapseContent" class="navbar-collapse collapse ">
+        <div class="navbar-nav ml-auto">
+            {% if page.url == "/" %}
+            {% assign active_node = true %}
+            {% else %}
+            {% assign active_node = false %}
             {% endif %}
-          {% endif %}
-        {% endfor %}
-      </ul>
+            <a class="nav-item nav-link {% if active_node %}active{% endif %}" href="{{ site.url }}">Home{% if active_node %}<span class="sr-only"> (current)</span>{% endif %}</a>
+            <a class="nav-item nav-link" href="{{ site.github.feedback }}/issues/new" target="_blank">Contact</a>
+            {% assign pages_list = site.pages %}
+            {% for node in pages_list %}
+            {% if node.title != null and node.layout == "page" and node.nav-include != false %}
+            {% if page.url == node.url %}{% assign active_node = true %}{% else %}{% assign active_node = false %}{% endif %}
+            <a class="nav-item nav-link {% if active_node %}active{% endif %}" href="{{ node.url }}">{{ node.title }}{% if active_node %} <span class="sr-only">(current)</span>{% endif %}</a>
+            {% endif %}
+            {% endfor %}
+        </div>
     </div>
-
     {% if site.gravatar and (layout.show-avatar or page.show-avatar) %}
-    <div class="avatar-container">
-      <div class="avatar-img-border">
-        <a href="{{ site.url }}">
-          <img class="avatar-img" src="https://www.gravatar.com/avatar/{{ site.gravatar.hash }}?s={{ site.gravatar.size }}" />
-            </a>
-      </div>
+    <div class="card-img-overlay text-center pt-2 mr-md-5 w-100">
+        <img class="rounded-circle border border-dark" src="https://www.gravatar.com/avatar/{{ site.gravatar.hash }}?s={{ site.gravatar.size }}" />
     </div>
     {% endif %}
-  </div>
-</nav>
+</header>

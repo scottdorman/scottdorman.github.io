@@ -1,9 +1,7 @@
 {% assign words = {{include.text}} | number_of_words %}
-<li class="reading-time">
-  <span class="mdl2 mdl2-stopwatch"></span>
+    <i class="far fa-clock"></i>
   {% if words < 270 %}
     1 minute to read
   {% else %}
     {{ words | divided_by:135 }} minutes to read
   {% endif %}
-</li>

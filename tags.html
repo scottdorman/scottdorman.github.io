@@ -3,24 +3,27 @@ layout: page
 title: Tags
 ---
 
-<div class="archives" itemscope itemtype="http://schema.org/Blog">
-    <ul class="nav nav-pills">
+<div itemscope itemtype="http://schema.org/Blog">
+    <nav class="nav nav-pills">
         {% for tag in site.tags %}
-        <li role="presentation"><a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a></li>
+        <a href="#{{ tag[0] | slugify }}" class="nav-link smoothScroll">{{ tag[0] }}</a>
         {% endfor %}
-    </ul>
+    </nav>
     <hr />
+
     {% for tag in site.tags %}
-    <fieldset>
-        <legend id="{{ tag[0] | slugify }}">{{ tag[0] }}</legend>
-        <ul class="archive-list">
+    <fieldset id="{{ tag[0] | slugify }}">
+        <legend class="border-bottom">{{ tag[0] }}</legend>
+        <div class="list-group list-group-compressed">
             {% for post in tag[1] %}
-            <li>
-                <span class="title"><a href="{{ post.url }}">{{post.title}}</a></span>
-                {% include post/meta_index.html show_tags="false" %}
-            </li>
+            <div class="list-group-item">
+                <article class="w-100 justify-content-between">
+                    <a href="{{ post.url }}">{{post.title}}</a>
+                    {% include post/meta_index.html show_tags="false" %}
+                </article>
+            </div>
             {% endfor %}
-        </ul>
+        </div>
     </fieldset>
     {% endfor %}
 </div>

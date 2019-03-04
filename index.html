@@ -3,40 +3,34 @@ layout: default
 title: Home
 ---
 
-<div class="container-fluid" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <header class="header-section">
-        <div class="intro-header no-img">
-        </div>
-      </header>
-      <div class="posts-list">
-        {% for post in paginator.posts %}
-        <article class="post-preview">
-          <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          {% include post/meta_index.html %}
-          <div class="post-entry">
-            {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-          <a href="{{ post.url }}" class="post-read-more">[Read&nbsp;More]</a>
-          </div>
+<div class="list-group">
+    {% for post in paginator.posts %}
+    <div class="list-group-item">
+        <article class="w-100 justify-content-between">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            {% include post/meta_index.html %}
+            <div class="post-entry">
+                {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+                <a href="{{ post.url }}" class="btn btn-outline-secondary btn-sm">Read more</a>
+            </div>
         </article>
-        {% endfor %}
-      </div>
+    </div>
+    {% endfor %}
+</div>
 
-      {% if paginator.total_pages > 1 %}
-      <ul class="pager main-pager">
+{% if paginator.total_pages > 1 %}
+<nav aria-label="Page navigation">
+    <ul class="pagination pagination-lg justify-content-between mt-3">
         {% if paginator.previous_page %}
-        <li class="previous">
-          <a href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr; Newer Posts</a>
-        </li>
+        <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | replace: '//', '/' }}"><i class="fas fa-angle-double-left"></i> Newer posts</a></li>
+        {% else %}
+        <li class="page-item disabled"><span class="page-link"><i class="fas fa-angle-double-left"></i> Newer posts</span></li>
         {% endif %}
         {% if paginator.next_page %}
-        <li class="next">
-          <a href="{{ paginator.next_page_path | replace: '//', '/' }}">Older Posts &rarr;</a>
-        </li>
+        <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | replace: '//', '/' }}"><i class="fas fa-angle-double-right"></i> Older posts</a></li>
+        {% else %}
+        <li class="page-item disabled"><span class="page-link"><i class="fas fa-angle-double-right"></i> Older posts</span></li>
         {% endif %}
-      </ul>
-      {% endif %}
-    </div>
-  </div>
-</div>
+    </ul>
+</nav>
+{% endif %}

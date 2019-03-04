@@ -10,17 +10,16 @@ gravatar:
    hash: e74e26bfd345fdd80bedf436178c5829
    size: 80
 
-utterances: true
-
-#disqus:
-#  shortname: "scottdorman-blog"
-#  show_comment_count: true
+utterances:
+    repo: scottdorman/scottdorman.github.io
+    issueterm: pathname
+    crossorigin: anonymous
 
 github:
   repo: https://github.com/scottdorman/scottdorman.github.io
   feedback: https://github.com/scottdorman/feedback
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-mentions
   - jekyll-sitemap
@@ -41,15 +40,8 @@ author:
   mvp: 4014220
 
 # Select which links to show in the footer
-footer-links-active:
-  mvp: true
-  rss: true
-  facebook: true
-  email: false
-  twitter: true
-  github: true
-  linkedin: true
-  stackoverflow: true
+footer-links-active: true
+
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -108,3 +100,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
