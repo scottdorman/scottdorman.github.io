@@ -21,9 +21,9 @@ $(function () {
 function toggleAvatarDisplay(hide) {
     var avatar = $('.card-img-overlay');
     if (hide) {
-        avatar.addClass('avatar-hidden');
+        avatar.addClass('card-img-overlay-hidden');
     }
     else {
-        avatar.removeClass('avatar-hidden');
+        avatar.removeClass('card-img-overlay-hidden');
     }
 }

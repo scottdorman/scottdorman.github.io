@@ -2,25 +2,70 @@
 ---
 @import url("pygments.css");
 
-$text_color: #404040;
-$link_color: #0058A6;
-$link_highlight_color: lighten($link_color, 10%);
+$white: #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #868e96 !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black: #000 !default;
+
+$body-font-family: 'Titillium Web', sans-serif;
+$font-size-base: 1rem; // Assumes the browser default, typically `16px`
+$font-size-lg: ($font-size-base * 1.25);
+$font-size-md: ($font-size-base * 1.125);
+$font-size-sm: ($font-size-base * .875);
+
+$h1-font-size: $font-size-base * 2.5;
+$h2-font-size: $font-size-base * 2;
+$h3-font-size: $font-size-base * 1.75;
+$h4-font-size: $font-size-base * 1.5;
+$h5-font-size: $font-size-base * 1.25;
+$h6-font-size: $font-size-base;
+
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+
+$border-width: 1px;
+$border-radius: 4px;
+
+$text-color: #404040;
+$link-color: #0058A6;
+$link-highlight-color: lighten($link-color, 10%);
+$card-img-overlay-width: 4.5rem;
+
+$content-top-margin: 6rem;
+
+$code-font-size: 90% !default;
+$code-padding: .5rem !default;
+$code-margin: .5rem !default;
+$code-color: $gray-900 !default;
+$code-bg: $gray-100 !default;
 
 body {
-    font-family: 'Titillium Web', sans-serif !important;
-    font-size: 18px;
-    color: $text_color;
+    font-family: $body-font-family !important;
+    font-size: $font-size-md;
+    color: $text-color;
     position: relative;
-    background: #FFF;
+    background: $white;
 }
 
 .main-content {
-    margin-top: 6rem !important;
+    margin-top: $content-top-margin !important;
 }
 
 .list-group-item {
     border: none;
-    border-bottom: 2px solid rgba(0,0,0, .125);
+    border-bottom: ($border-width * 2) solid $gray-200;
+
+    &:last-child {
+        border-bottom-width: $border-width;
+    }
 }
 
 .list-group-compressed {
@@ -31,68 +76,61 @@ body {
     }
 }
 
-.social-sharing {
-    .list-inline-item {
-        padding: 0 !important;
-    }
+.social-sharing-list-item {
+    font-size: $h5-font-size;
 }
 
 a {
-    color: $link_color;
+    color: $link-color;
 
     &:hover, &:focus {
         text-decoration: none;
-        color: $link_highlight_color;
+        color: $link-highlight-color;
     }
 }
 
 footer {
-    font-size: 14px;
+    font-size: $font-size-sm;
 
     .list-inline {
-        font-size: 1.9rem;
+        font-size: $h2-font-size;
     }
 
     a {
-        color: $text_color;
-        font-weight: 700;
-
-        &:hover, &:focus {
-            text-decoration: none;
-            color: $link_highlight_color;
-        }
+        color: $text-color;
+        font-weight: $font-weight-bold;
     }
 }
 
-.utterances {
+.utterances, .utterances-frame {
     width: 100% !important;
+}
+
+pre {
+    padding: $code-padding;
+    margin-bottom: $code-margin;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: $gray-100;
+    border: $border-width solid $gray-400;
+    border-radius: $border-radius;
 }
 
 .card-img-overlay {
     z-index: -1;
     opacity: 1;
     transition: opacity 0.5s ease-in-out;
-    width: 4.5rem;
+    width: $card-img-overlay-width;
 }
 
-.avatar-hidden {
+.card-img-overlay-hidden {
     opacity: 0;
-}
-
-pre {
-    padding: 9.5px;
-    margin-bottom: .5rem;
-    word-break: break-all;
-    word-wrap: break-word;
-    background-color: #f5f5f5;
-    border: 1px solid #ccc;
-    border-radius: 4px;
 }
 
 @media only screen and (min-width: 768px) {
     .card-img-overlay {
         margin-left: -8rem !important;
-        width: 6rem;
+        width: ceil($card-img-overlay-width + ($card-img-overlay-width * 0.33));
     }
 }
 
