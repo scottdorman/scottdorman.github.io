@@ -5,7 +5,10 @@ $(function () {
     });
 
     $(window).scroll(function () {
-        toggleAvatarDisplay($(this).scrollTop() > 25);
+        var collapse = $('#navbarCollapseContent');
+        if (!collapse.hasClass('show')) {
+            toggleAvatarDisplay($(this).scrollTop() > 25);
+        }
     });
 
     var mainNav = $('#main-nav');
