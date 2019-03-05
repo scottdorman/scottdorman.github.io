@@ -1,0 +1,39 @@
+---
+layout: page
+title: Archives
+---
+
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign currentYear = "now" | date: '%Y' %}
+
+<div class="mb-3" itemscope itemtype="http://schema.org/Blog">
+    <nav class="nav nav-pills">
+        {% for year in postsByYear %}
+        <a href="#{{ year.name | slugify }}" class="nav-link smoothScroll {% if year.name == currentYear %}active{% endif %}">{{ year.name }}</a>
+        {% endfor %}
+    </nav>
+    <hr />
+
+    <div class="accordion" id="accordionArchives">
+        {% for year in postsByYear %}
+        {% assign id = year.name | slugify %}
+        {% capture heading_id %}heading-{{id}}{% endcapture %}
+        {% capture collapse_id %}collapse-{{id}}{% endcapture %}
+        <div class="card mt-3">
+            <div class="card-header" id="{{ id }}">
+                <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#{{collapse_id}}" aria-expanded="true" aria-controls="{{collapse_id}}">
+                        {{ year.name }}
+                    </button>
+                </h2>
+            </div>
+
+            <div id="{{collapse_id}}" class="collapse {% if year.name == currentYear %}show{% endif %}" aria-labelledby="{{heading_id}}" data-parent="#accordionArchives">
+                <div class="card-body">
+                    {% include archive_post.html show_tags=true collection=year.items %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

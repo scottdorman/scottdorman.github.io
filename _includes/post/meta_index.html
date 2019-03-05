@@ -1,7 +1,7 @@
 {% assign show_tags = include.show_tags | default: true  %}
 
-<div class="text-muted small mb-2">
-    <ul class="list-inline m-0">
+<div class="text-muted mb-2">
+    <ul class="list-inline small mb-1">
         <li class="list-inline-item">{% include post/date.html %}{{ time }}</li>
         <li class="list-inline-item">{% include post/reading_time.html text=post.content %}</li>
     </ul>

@@ -5,7 +5,7 @@ title: Archives
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
-<div itemscope itemtype="http://schema.org/Blog">
+<div class="mb-3" itemscope itemtype="http://schema.org/Blog">
     <nav class="nav nav-pills">
         {% for year in postsByYear %}
         <a href="#{{ year.name | slugify }}" class="nav-link smoothScroll">{{ year.name }}</a>

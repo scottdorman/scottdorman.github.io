@@ -20,7 +20,7 @@ title: Home
 
 {% if paginator.total_pages > 1 %}
 <nav aria-label="Page navigation">
-    <ul class="pagination pagination-lg justify-content-between mt-3">
+    <ul class="pagination justify-content-between mt-3">
         {% if paginator.previous_page %}
         <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | replace: '//', '/' }}"><i class="fas fa-angle-double-left"></i> Newer posts</a></li>
         {% else %}
