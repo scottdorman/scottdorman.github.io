@@ -1,5 +1,5 @@
 <footer class="container-fluid text-center bg-light border-top pb-1">
-    {% if site.footer-links-active %}
+    {%- if site.footer-links-active -%}
     <ul class="list-inline pt-4">
         <li class="list-inline-item">
             <a href="https://mvp.microsoft.com/en-us/PublicProfile/{{ site.author.mvp }}" title="MVP Profile">
@@ -55,7 +55,7 @@
             </a>
         </li>
     </ul>
-    {% endif %}
+    {%- endif -%}
     <p class="text-muted">
         Copyright 2006 - {{ site.time | date: '%Y' }} - {{ site.author.name }}
     </p>

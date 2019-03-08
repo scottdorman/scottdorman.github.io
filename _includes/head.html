@@ -1,12 +1,8 @@
-﻿{% if page.title == "Home" %}
-    {% capture title %}
-{{ site.title }} - {{ site.subtitle }}
-    {% endcapture %}
-{% else %}
-    {% capture title %}
-{{ page.title }} - {{ site.title }}
-    {% endcapture %}
-{% endif %}
+﻿{%- if page.title == "Home" -%}
+    {%- capture title -%}{{ site.title }} - {{ site.subtitle }}{%- endcapture -%}
+{%- else- %}
+    {%- capture title -%}{{ page.title }} - {{ site.title }}{%- endcapture -%}
+{%- endif -%}
 
 <head>
     <meta charset="utf-8" />
@@ -21,10 +17,11 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ site.url }}/css/pygment_highlights.css" />
     <link rel="stylesheet" href="{{ site.url }}/css/site.css" />
     {% seo title=false%}
 
-    {% if site.google_analytics %}
+    {%- if site.google_analytics -%}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ google_analytics }}"></script>
     <script>
@@ -34,5 +31,5 @@
 
         gtag('config', '{{ google_analytics }}');
     </script>
-    {% endif %}
+    {%- endif -%}
 </head>

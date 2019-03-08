@@ -1,7 +1,7 @@
-{% assign words = {{include.text}} | number_of_words %}
+{%- assign words = {{include.text}} | number_of_words -%}
     <i class="far fa-clock"></i>
-  {% if words < 270 %}
+  {%- if words < 270- -%}
     1 minute to read
-  {% else %}
+  {%- else -%}
     {{ words | divided_by:135 }} minutes to read
-  {% endif %}
+  {%- endif -%}

@@ -1,12 +1,12 @@
-{% assign posts = include.collection %}
+{%- assign posts = include.collection -%}
 
 <div class="list-group list-group-compressed">
-    {% for post in posts %}
+    {%- for post in posts -%}
     <div class="list-group-item">
         <article class="w-100 justify-content-between">
             <a href="{{ post.url }}">{{post.title}}</a>
             {% include post/meta_index.html show_tags=include.show_tags %}
         </article>
     </div>
-    {% endfor %}
+    {%- endfor -%}
 </div>

@@ -1,5 +1,5 @@
-{% if page.comments %}
-    {% if site.utterances %}
+{%- if page.comments -%}
+    {%- if site.utterances -%}
 <fieldset>
     <legend class="small border-bottom"><i class="far fa-comments"></i> Comments</legend>
     <script src="https://utteranc.es/client.js"
@@ -9,5 +9,5 @@
             async>
     </script>
 </fieldset>
-    {% endif %}
-{% endif %}
+    {%- endif -%}
+{%- endif -%}

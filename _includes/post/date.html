@@ -1,6 +1,6 @@
-{% capture date %}{{ page.date }}{{ post.date }}{% endcapture %}
-{% capture has_date %}{{ date | size }}{% endcapture %}
+{%- capture date -%}{{ page.date }}{{ post.date }}{%- endcapture -%}
+{%- capture has_date -%}{{ date | size }}{%- endcapture -%}
 
-{% if has_date != '0' %}
-  {% capture time %}<i class="far fa-calendar-alt"></i> <time datetime="{{ date | datetime | date_to_xmlschema }}" {% if updated %}data-updated="true"{% endif %} itemprop="datePublished">{{ date | date: "%F"  }}</time>{% endcapture %}
-{% endif %}
+{%- if has_date != '0' -%}
+  {%- capture time -%}<i class="far fa-calendar-alt"></i> <time datetime="{{ date | datetime | date_to_xmlschema }}" {% if updated %}data-updated="true"{% endif %} itemprop="datePublished">{{ date | date: "%F"  }}</time>{%- endcapture -%}
+{%- endif -%}

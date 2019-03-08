@@ -1,52 +1,10 @@
 ---
 ---
-@import url("pygments.css");
+;
 
-$white: #fff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #e9ecef !default;
-$gray-300: #dee2e6 !default;
-$gray-400: #ced4da !default;
-$gray-500: #adb5bd !default;
-$gray-600: #868e96 !default;
-$gray-700: #495057 !default;
-$gray-800: #343a40 !default;
-$gray-900: #212529 !default;
-$black: #000 !default;
-
-$body-font-family: 'Titillium Web', sans-serif;
-$font-size-base: 1rem; // Assumes the browser default, typically `16px`
-$font-size-lg: ($font-size-base * 1.25);
-$font-size-md: ($font-size-base * 1.125);
-$font-size-sm: ($font-size-base * .875);
-
-$h1-font-size: $font-size-base * 2.5;
-$h2-font-size: $font-size-base * 2;
-$h3-font-size: $font-size-base * 1.75;
-$h4-font-size: $font-size-base * 1.5;
-$h5-font-size: $font-size-base * 1.25;
-$h6-font-size: $font-size-base;
-
-$font-weight-light: 300;
-$font-weight-normal: 400;
-$font-weight-bold: 700;
-
-$border-width: 1px;
-$border-radius: 4px;
-$border-color: rgba($black,.125) !default;
-
-$text-color: #404040;
-$link-color: #0058A6;
-$link-highlight-color: lighten($link-color, 10%);
-$card-img-overlay-width: 4.5rem;
-
-$content-top-margin: 6rem;
-
-$code-font-size: 90% !default;
-$code-padding: .5rem !default;
-$code-margin: .5rem !default;
-$code-color: $gray-900 !default;
-$code-bg: $gray-100 !default;
+@import "_variables.scss";
+@import "_functions.scss";
+@import "_mixins.scss";
 
 body {
     font-family: $body-font-family !important;
@@ -173,5 +131,142 @@ pre {
 @media only screen and (max-width: 576px) {
     .card-img-overlay {
         margin-left: 2rem !important;
+    }
+}
+
+%box {
+    padding: $box-padding;
+    padding-bottom: $box-padding - 5;
+    margin: $box-margin;
+    margin-left: $box-margin / 4;
+    border: $border-width solid $border-color;
+    border-left-width: $border-width * 6.5;
+    border-radius: $border-radius;
+}
+
+@each $color, $value in $theme-colors {
+    .box-#{$color} {
+        @extend %box;
+        @include box-variant($color);
+    }
+}
+
+.gist, .gist-file table tr {
+    border: unset;
+
+    td {
+        border: unset;
+    }
+}
+
+table {
+    padding: 0;
+
+    tr {
+        border-top: $border-width solid $border-color;
+        background-color: $white;
+        margin: 0;
+        padding: 0;
+
+        &:nth-child(2n) {
+            background-color: $gray-200;
+        }
+
+        & th {
+            font-weight: $font-weight-bold;
+            border: $border-width solid $border-color;
+            text-align: left;
+            margin: 0;
+            padding: $table-padding / 2 $table-padding;
+
+            :first-child {
+                margin-top: 0;
+            }
+
+            :last-child {
+                margin-bottom: 0;
+            }
+        }
+
+        td {
+            border: $border-width solid $border-color;
+            text-align: left;
+            margin: 0;
+            padding: $table-padding / 2 $table-padding;
+
+            :first-child {
+                margin-top: 0;
+            }
+
+            :last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+::-moz-selection {
+    color: $white;
+    text-shadow: none;
+    background-color: $link-highlight-color;
+}
+
+::selection {
+    color: $white;
+    text-shadow: none;
+    background-color: $link-highlight-color;
+}
+
+img::selection {
+    color: $white;
+    background: transparent;
+}
+
+img::-moz-selection {
+    color: $white;
+    background: transparent;
+}
+
+hr.small {
+    max-width: 100px;
+    margin: 15px auto;
+    border-width: 4px;
+    border-color: inherit;
+    border-radius: 3px;
+}
+
+.jumbotron {
+    margin-top: 2rem;
+    margin-bottom: 0;
+}
+
+.header {
+    margin-top: $content-top-margin;
+}
+
+.post {
+    .header {
+        margin-top: $content-top-margin;
+    }
+}
+
+.post-title {
+    font-size: $post-title-size;
+    font-weight: $font-weight-bolder;
+}
+
+.post-subtitle {
+    font-size: $post-subtitle-size;
+    font-weight: $font-weight-light;
+}
+
+blockquote {
+    color: $gray-600;
+    font-style: italic;
+    border-left: $border-width * 6.5 solid $gray-400;
+    padding-left: $box-padding;
+
+    p:first-child {
+        margin-top: 0;
     }
 }
