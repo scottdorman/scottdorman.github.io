@@ -24,7 +24,7 @@ It turns out that [Koders.com](http://www.koders.com/) have done just that. They
 
 The Koders.com IDE plugin enables you to perform searches directly within Visual Studio. The search panel is displayed as a toolbar component, you can search directly from the code editor by right clicking on a term, and the plugin is localized for additional languages. The plugin also provides a technology called SmartSearch&trade; and is a good application of context based searching. There is some room for improvement, but I think as the Search Driven Development phenomena really starts to pick up momentum they will improve. SmartSearch&trade; finds and recommends existing source code in real-time and runs transparently in the background as you work.
 
-![Screenshot of Koders SmartSearch&trade; in action.](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image%7B0%7D%5B13%5D.png)
+![Screenshot of Koders SmartSearch&trade; in action.](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image%7b0%7d%5b13%5d.png)
 
 Here is an example of the SmartSearch&trade; technology in action. (A short animation is also available on the downloads page. If you missed it the first time around click the "View Again" button. A longer demonstration, with audio is also [available](http://www.koders.com/demo/plugins/PluginSmartSearch2.htm).)
 

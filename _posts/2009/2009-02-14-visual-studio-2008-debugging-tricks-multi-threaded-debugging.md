@@ -15,7 +15,7 @@ You can freeze threads to avoid bouncing around when single stepping and you can
 
 Giving threads meaningful names is very helpful in helping to identify your threads and not all threads have a meaningful name (or in some cases, they don't have a name at all). Fortunately, you can rename threads directly from the Threads window as well. You can do this using either the Rename context menu or simply clicking in the Name column and typing.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/080107_2004_NeatNewMult2_3.png)  
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/080107_2004_neatnewmult2_3.png)  
 
 The Threads window also makes it easier to identify the main and worker threads by using the green and yellow color squares. Perhaps the most interesting new feature is the ability to flag threads. Once a thread is flagged, you can use use the Debug Location toolbar to only display those flagged threads. This is a great simplifying option for applications that have a lot of threads.
 
@@ -27,7 +27,7 @@ One last trick to mention is the Show Threads in Source option. ![](/img/posts{{
 
 When this option is turned on you get some very nice visual indicators to show information about your threads. If you look carefully, you will see that the breakpoint symbol actually has a red and blue squiggly line through it and, just below that you see a similar marker. If you hover the mouse over the threads marker you will see a debug tool tip that shows you all of the threads that are executing at that location. If you notice there are also some source code lines shaded in grey, which indicates that another thread is executing at the same location. 
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/080107_2004_NeatNewMult1_3.png) 
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/080107_2004_neatnewmult1_3.png) 
 
 One word of caution with the Show Threads In Source option: You must have this option enabled before your debug session begins in order for it to behave correctly.
 
