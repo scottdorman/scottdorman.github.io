@@ -4,7 +4,7 @@ title: Tech&middot;Ed for Novices, 2008 Edition
 date: '2008-02-25 00:21:43 -05:00'
 ---
 
-While I'm waiting to find out if I'll be able to go to Tech·Ed again this year I am still keeping an eye on what's going on with the conference. For last year's Tech·Ed, Microsoft created a "Tips for the Newbie" page (which is apparently no longer available) and I created a follow-on post called [Tech·Ed for Novices]({% post_url /2007/2007-05-19-TechmiddotEd-for-novices %}). Since the conference this year is split into two separate weeks, I thought it was even more important for some tips on how to deal with the information overload and what Tech·Ed has to offer.
+While I'm waiting to find out if I'll be able to go to Tech·Ed again this year I am still keeping an eye on what's going on with the conference. For last year's Tech·Ed, Microsoft created a "Tips for the Newbie" page (which is apparently no longer available) and I created a follow-on post called [Tech·Ed for Novices]({% post_url /2007/2007-05-19-teched-for-novices %}). Since the conference this year is split into two separate weeks, I thought it was even more important for some tips on how to deal with the information overload and what Tech·Ed has to offer.
 
 # Session Types
 

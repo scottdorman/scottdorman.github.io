@@ -5,7 +5,7 @@ date: '2008-07-19 14:51:32 -05:00'
 tags: pdc
 ---
 
-I started doing these a few years ago for Tech·Ed ([2008]({% post_url /2008/2008-02-25-techmiddoted-for-novices-2008-edition %}) and [2007]({% post_url /2007/2007-05-19-TechmiddotEd-for-novices %})) and received a lot of good feedback so I decided to continue the series for PDC as well.
+I started doing these a few years ago for Tech·Ed ([2008]({% post_url /2008/2008-02-25-teched-for-novices-2008-edition %}) and [2007]({% post_url /2007/2007-05-19-teched-for-novices %})) and received a lot of good feedback so I decided to continue the series for PDC as well.
 
 # Session Types
 
