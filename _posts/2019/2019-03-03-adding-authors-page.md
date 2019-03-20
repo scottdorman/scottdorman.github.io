@@ -2,6 +2,7 @@
 layout: post
 title: Adding authors page
 date: '2019-03-03 10:35:00 -05:00'
+tags: jekyll
 ---
 
 Many blogs, especially business blogs, have multiple authors or have occasional guest authors. In those cases, it's always a good idea to include a small author bio on their blog post and even give your readers a way to find other posts written by that author.

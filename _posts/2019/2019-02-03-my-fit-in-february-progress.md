@@ -2,6 +2,7 @@
 layout: post
 title: My Fit in February Progress
 date: '2019-02-03 13:33:00 -05:00'
+tags: fitness
 ---
 
 A few days ago I blogged about starting the [Fit In February Challenge]({% post_url /2019/2019-02-01-fit-in-february-challenge %}). Since then, my son and I are both participating in the challenge with daily stretches (mostly focused on the calf, hamstrings, and inner thighs) and some basic body weight exercises. For the body weight exercises, we're following a program I've used in the past with a great deal of success - [the hundred pushups](https://hundredpushups.com/) training program. In addition, we're also doing the [two hundred sit-ups](https://twohundredsitups.com/) and [one hundred fifty dips](http://www.onefiftydips.com/) training programs.

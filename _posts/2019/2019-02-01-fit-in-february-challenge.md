@@ -2,6 +2,7 @@
 layout: post
 title: Fit in February Challenge
 date: '2019-02-01 08:44:00 -05:00'
+tags: fitness
 ---
 
 ## Overview

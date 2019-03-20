@@ -2,11 +2,12 @@
 layout: post
 title: Adding a tags page
 date: '2019-03-02 21:35:00 -05:00'
+tags: jekyll
 ---
 
 I've wanted to add a [tags]({% link tags.html %}) page to the blog. However, all of the solutions I'd found required running a plugin or doing a lot of manual work that resulted in an off-line generated site being checked in to GitHub.
 
-Since this blog runs under GitHub Pages a pugin-based solution wasn't an option. The manual options required more work than I was willing to do and would also mean giving up the ability to publish a new blog post, or update an existing one, by just checking in a commit.
+Since this blog runs under GitHub Pages a plugin-based solution wasn't an option. The manual options required more work than I was willing to do and would also mean giving up the ability to publish a new blog post, or update an existing one, by just checking in a commit.
 
 The other day, however, I stumbled upon a [solution](http://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/) that doesn't use plugins and doesn't require generating the site off-line. 
 

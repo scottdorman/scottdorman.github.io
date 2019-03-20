@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Essential Extensions
 date: '2019-03-20 03:31:00 -05:00'
-tags: visual-studio visual-studio-extensions
+tags: visual-studio-extensions
 ---
 
 It's been several years (and a few Visual Studio versions) since I last blogged about my [favorite visual studio extensions]({% post_url /2014/2014-10-05-favorite-visual-studio-extensions %}) and a lot has changed since then. This time around, rather than just listing my favorites, I decided to create some public [Visual Studio Extensions](https://marketplace.visualstudio.com/publishers/ScottDorman) that make it easy to get Visual Studio setup with all of the different extensions.

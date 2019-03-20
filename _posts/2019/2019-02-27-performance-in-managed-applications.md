@@ -2,6 +2,7 @@
 layout: post
 title: Performance in managed applications
 date: '2019-02-27 16:58:00 -05:00'
+tags: .net
 ---
 
 In 2006 I wrote, but apparently never published a blog post (it's now [published]({% post_url /2006/2006-06-18-performance-in-net-managed-applications %})) talking about performance in .NET managed applications. 

@@ -2,6 +2,7 @@
 layout: post
 title: Danvers Jekyll Theme
 date: '2019-03-07 22:48:00 -05:00'
+tags: jekyll
 ---
 
 Over the last few weeks I've been making some improvements to my blog. One of those improvements was an update to the theme.

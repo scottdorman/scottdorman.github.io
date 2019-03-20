@@ -2,6 +2,7 @@
 layout: post
 title: Running Jekyll on WSL
 date: '2019-02-27 16:20:00 -05:00'
+tags: jekyll wsl
 ---
 
 Almost 3 years ago I decided to [move my blog]({% post_url /2016/2016-03-23-moving-to-github-pages %}) to a GitHub repository. A few days ago, I needed to make some minor enhancements to it and also set up another blog. When I first set up my blog, it wasn't an entirely straightforward or easy process to get Jekyll running locally to debug issues. 
