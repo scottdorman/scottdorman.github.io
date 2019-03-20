@@ -96,7 +96,7 @@ namespace NameSpace3
 
 # The Using Statement
 
-The [using Statement (C#)](http://msdn2.microsoft.com/library/yh598w02(VS.80).aspx) allows programmers to specify when an object (or objects) that use resources should release them. The object provided to the using statement must implement the [IDisposable Interface (System)](http://msdn2.microsoft.com/library/system.idisposable(VS.80).aspx). A using statement is exited when the end of the statement is reached or an exception is thrown and control leaves the statement block early. This is a compile time "[translation]({% post_url /2007/2007-07-21-using-garbage-collection-in-.net %})" that occurs where the compiler actually translates this to a try/finally block. 
+The [using Statement (C#)](http://msdn2.microsoft.com/library/yh598w02(VS.80).aspx) allows programmers to specify when an object (or objects) that use resources should release them. The object provided to the using statement must implement the [IDisposable Interface (System)](http://msdn2.microsoft.com/library/system.idisposable(VS.80).aspx). A using statement is exited when the end of the statement is reached or an exception is thrown and control leaves the statement block early. This is a compile time "[translation]({% post_url /2007/2007-07-21-using-garbage-collection-in-net %})" that occurs where the compiler actually translates this to a try/finally block. 
 
 The using statement can be declared in different ways:
 
