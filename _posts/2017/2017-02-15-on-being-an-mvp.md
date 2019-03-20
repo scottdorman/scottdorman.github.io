@@ -2,6 +2,7 @@
 layout: post
 title: On Being An MVP
 date: '2017-02-15 19:06 -05:00'
+tags: microsoft-mvp
 ---
 
 In January of this year, I was reawarded as A Microsoft MVP, marking 10 years as an MVP.

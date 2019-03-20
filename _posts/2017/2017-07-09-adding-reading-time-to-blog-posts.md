@@ -2,6 +2,7 @@
 layout: post
 title: Adding reading time to blog posts
 date: '2017-07-09 12:30:00 -05:00'
+tags: jekyll
 ---
 
 One of the nicer usability features many content-heavy sites have started implementing is showing the estimated reading time for an article (or blog post) and it was something that I wanted to add to my own blog. The issue for me is that I host my blog using GitHub Pages and allow the standard Jekyll commit-build-publish sequence that's built-in with GitHub Pages to actually publish my blog. That allows me to write a blog post anywhere, including using the GitHub web interface and add a new blog post. The downside is that GitHub pages only allows a whitelisted set of plugins. After some searching, I came across [this post](https://carlosbecker.com/posts/jekyll-reading-time-without-plugins/), which gave me a great starting point for what I wanted to do without needing to use a plugin.

@@ -2,6 +2,7 @@
 layout: post
 title: Windows Phone Marketplace Requests Custom Statuses
 date: '2012-02-20 16:17:21 -05:00'
+tags: windows-phone
 ---
 
 Thanks to the UserVoice team for enabling custom statuses on [Windows Phone Marketplace Requests](http://wprequests.uservoice.com/)! I have added a few additional statuses (I'm still working out exactly what makes the most sense), but the biggest change is to the Declined status.

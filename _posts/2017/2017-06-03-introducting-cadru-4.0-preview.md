@@ -2,6 +2,7 @@
 layout: post
 title: Introducing Cadru 4.0 Preview
 date: '2017-06-03 14:20:00 -05:00'
+tags: cadru open-source
 ---
 
 Cadru was first released as an open source framework in [July 2013]({% post_url /2013/2013-08-05-introducing-cadru %}). Since then, there have been numerous changes, improvements, and updates not just to Cadru but also in .NET itself.

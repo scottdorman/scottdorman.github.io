@@ -2,6 +2,7 @@
 layout: post
 title: Strings in .NET are Enumerable
 date: '2012-09-30 14:09:18 -05:00'
+tags: .net c#
 ---
 
 It seems like there is always some confusion concerning strings in .NET. This is both from developers who are new to the Framework and those that have been working with it for quite some time.

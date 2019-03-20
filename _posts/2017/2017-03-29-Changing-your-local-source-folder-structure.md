@@ -2,6 +2,7 @@
 layout: post
 title: Changing your local source folder structure
 date: '2017-03-29 20:32:24 -05:00'
+tags: visual-studio .net-core
 ---
 
 Visual Studio is a great IDE for developing .NET-based web sites, especially if you're building .NET Core sites using Visual Studio 2017.

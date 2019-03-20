@@ -2,6 +2,7 @@
 layout: post
 title: Happy Birthday .NET
 date: '2017-02-15 10:06 -05:00'
+tags: .net
 ---
  
 On February 13, 2002 Microsoft publicly released the first version of .NET as part of Visual Studio.NET. It's been an interesting ride over the last 15 years. (Visual Studio, first released in February 1997, is 20 years old this month as well.)

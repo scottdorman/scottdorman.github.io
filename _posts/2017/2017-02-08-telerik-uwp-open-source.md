@@ -2,6 +2,7 @@
 layout: post
 title: Telerik UWP Open Source
 date: '2017-02-08 08:45:00 -05:00'
+tags: open-source
 ---
 
 The [Windows Developer Day - Creators Update](https://developer.microsoft.com/en-us/windows/projects/campaigns/windows-developer-day?wt.mc_id=w10cu_blog_bafw_null_null_post_recap&ocid=w10cu_blog_bafw_null_null_post_recap&utm_campaign=w10cu&utm_source=bafw&utm_medium=blog&utm_content=blogpostrecap) was today and if you're a Windows developer, the event did not disappoint.

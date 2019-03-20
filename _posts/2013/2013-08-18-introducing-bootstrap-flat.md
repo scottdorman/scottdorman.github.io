@@ -2,6 +2,7 @@
 layout: post
 title: Introducing Bootstrap Flat
 date: '2013-08-18 22:23:15 -05:00'
+tags: bootstrap open-source
 ---
 
 ### What is Bootstrap Flat?

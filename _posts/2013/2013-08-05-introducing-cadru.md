@@ -2,6 +2,7 @@
 layout: post
 title: Introducing Cadru
 date: '2013-08-05 09:57:36 -05:00'
+tags: cadru open-source
 ---
 
 # What is Cadru?
