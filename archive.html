@@ -16,16 +16,7 @@ title: Archives
     {%- for year in postsByYear  -%}
     <fieldset id="{{ year.name | slugify }}" class="mt-3">
         <legend class="border-bottom">{{ year.name }}</legend>
-        <div class="list-group list-group-compressed">
-            {%- for post in year.items -%}
-            <div class="list-group-item">
-                <article class="w-100 justify-content-between">
-                    <a href="{{ post.url }}">{{post.title}}</a>
-                    {%- include post/meta_index.html -%}
-                </article>
-            </div>
-            {%- endfor -%}
-        </div>
+        {% include archive_post.html show_tags=true collection=year.items %}
     </fieldset>
     {%- endfor -%}
 </div>

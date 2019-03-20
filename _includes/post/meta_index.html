@@ -1,5 +1,8 @@
-{%- assign show_tags = include.show_tags | default: true  -%}
-
+{%- if include.show_tags -%}
+{%- assign show_tags = true -%}
+{%- else -%}
+{%- assign show_tags = false -%}
+{%- endif -%}
 <div class="text-muted mb-2">
     <ul class="list-inline small mb-1">
         <li class="list-inline-item">{% include post/date.html %}{{ time }}</li>
