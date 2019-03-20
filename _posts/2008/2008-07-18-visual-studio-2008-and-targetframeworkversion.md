@@ -13,7 +13,7 @@ A question was asked yesterday in one of the [CodeProject](http://www.codeprojec
 
 This can be easily accomplished by editing the project properties:
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_2.png) 
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-2.png) 
 
 The problem with this approach is that if you need to change a lot of projects at one time it becomes rather unwieldy. (In this particular case, there were 56 projects that need to be changed). One possible solution is to edit the project files by hand in a text editor and change the ***<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>*** property to the correct value. Again, this is not only time consuming but can also be error-prone.
 

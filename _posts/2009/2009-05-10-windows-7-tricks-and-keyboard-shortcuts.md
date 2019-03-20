@@ -46,13 +46,13 @@ Here is a quick summary of what I've found so far for Windows 7:
 
 * **Ctrl+(mouse scroll wheel)**: Change the view/zoom in Windows Explorer. (This is the same as clicking the Views button or selecting one of the view options from the button's dropdown list.) 
 * **Shift+(right mouse click on any folder or file)**: Displays an expanded context menu:         
- ![image](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_7.png)         
+ ![image](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-7.png)         
 (The additional Open options only appear for folders but the "Copy as path" option appears for both folders and files.) 
 * **Alt+P**: Show/hide the preview pane.  
 
 **Miscellaneous**
 
 * **Win+P**: Display the project options, which you can then use the arrow keys (or keep hitting Win+P) to switch to the different options.         
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_8.png) 
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-8.png) 
 * **Win+X**: Open the Windows Mobility Center. 
 * **Win+G**: Bring gadgets to the top of the Z-order. (Sets the focus to a gadget.) 

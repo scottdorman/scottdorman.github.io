@@ -4,7 +4,7 @@ title: "Book Review: Wikipedia: The Missing Manual"
 date: '2008-04-19 15:43:50 -05:00'
 ---
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/41xtivltdll__sl500_aa240__3.jpg)  
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/41xtivltdll-sl500-aa240-3.jpg)  
 
 I have always been a big fan of the O'Reilly books, and the Missing Manual series is no exception. I recently had the opportunity to read [Wikipedia: The Missing Manual](http://amzn.to/28JtcWE) by John Broughton.
 

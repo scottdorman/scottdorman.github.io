@@ -11,7 +11,7 @@ In Bootstrap 3, this wasn't easy to do. There are a lot of examples out there on
 
 We're going to start with the [example](https://getbootstrap.com/docs/4.3/components/carousel/#with-captions) in the Bootstrap documentation.
 
-![Bootstrap carousel with caption and indicators](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/2019-03-02 19_06_05-Carousel - Bootstrap.png)
+![Bootstrap carousel with caption and indicators](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/2019-03-02-19-06-05-carousel - bootstrap.png)
 
 To move the placement of the caption, we need a very simple CSS rule:
 
@@ -25,11 +25,11 @@ To move the placement of the caption, we need a very simple CSS rule:
 
 Unfortunately, this gives us white text on a white background. We can fix this by adding one of the standard background color utility classes. For our example, we're going to add the `bg-dark` class. 
 
-![Bootstrap carousel with caption and indicators](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/2019-03-02 19_41_24-Carousel - Bootstrap.png)
+![Bootstrap carousel with caption and indicators](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/2019-03-02-19-41-24-carousel-bootstrap.png)
 
 If we want to adjust the spacing around the indicators, we can add `mb-4` to the carousel caption and `my-4` to the carousel indicators.
 
-![Bootstrap carousel with caption and indicators](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/2019-03-02 19_52_03-Carousel - Bootstrap.png)
+![Bootstrap carousel with caption and indicators](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/2019-03-02-19-52-03-carousel-bootstrap.png)
 
 That's it. We added a single CSS rule, added `bg-dark mb-4` utility classes to the carousel caption and added the `my-4` utiity class to the carousel indicators. Our updated HTML from the original Bootstrap example now looks like
 

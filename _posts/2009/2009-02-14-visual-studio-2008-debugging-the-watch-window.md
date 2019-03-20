@@ -17,7 +17,7 @@ The thing that most people might not realize is that you can actually call metho
 
 Calling a method in the Watch window is as simple as adding the parenthesis and any parameters needed.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_3.png "image") 
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-3.png "image") 
 
 There are a few considerations to be aware of when doing this, however. They are:
 
@@ -40,10 +40,10 @@ and then in the Value column enter the variable prefixed with a `$` sign. (In th
 
 Finally, let's take a look at the Make Object ID capability of the debugger. This is available from the Locals and Autos windows through the context menu. Simply select the object you are interested in and right click, then choose the Make Object ID. This will create a numeric ID for that object, which will be displayed after the value.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_11.png) 
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-11.png) 
 
 What is actually happening here is that it tells the debugger to watch a particular object in memory no matter where it goes. This is useful because if the actual object goes out of scope you can still watch it by using the object ID. If the object ID says "Can't evaluate" then it means the object has been garbage collected. Object IDs can also be used in conditional breakpoints and as parameters to function calls.
 
 For instance, if you wanted to know what GC generation an object is in, you can do so using Object IDs.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_10.png) 
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-10.png) 

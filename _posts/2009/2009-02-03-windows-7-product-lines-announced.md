@@ -5,7 +5,7 @@ date: '2009-02-03 15:01:27 -05:00'
 tags: windows-7
 ---
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/win7_1.png) 
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/win7-1.png) 
 
 Microsoft today announced the new product line for Windows 7. In some ways the new Windows 7 product line follows the same ideas of Windows Vista, but the big differences are that each Windows 7 edition is a superset of the previous edition (which means that each higher edition will have every feature of all lower editions) and they will be focusing primarily on two editions of Windows 7: Windows 7 Home Premium and Windows 7 Professional.
 

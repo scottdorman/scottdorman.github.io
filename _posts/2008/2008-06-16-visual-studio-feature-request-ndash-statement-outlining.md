@@ -7,7 +7,7 @@ tags: visual-studio
 
 If you write .NET code using Visual Studio 2005 or 2008, you've probably noticed the automatic outlining the IDE makes available to you. This automatically creates collapsible sections in your code for comments, regions, functions, properties, namespaces, classes, and the using block.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_8.png) 
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-8.png) 
 
 While this is a great feature and one that I use on a daily basis, it would be great if this extended to automatically outlining control structures, such as if/then, while loops, for/foreach loops, try/catch blocks, etc.
 

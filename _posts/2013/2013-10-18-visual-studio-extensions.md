@@ -13,7 +13,7 @@ Why is this such an important feature? Simply put, it allows third-parties (comp
 
 An excellent example of this is the new CodeLens feature of Visual Studio 2013. This is, perhaps, the single most important developer productivity enhancement released in the last decade and already has huge potential. As you can see, out of the box CodeLens supports showing you information about references, unit tests and TFS history.
 
-![CodeLens indicators in the code editor](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/IC705959.png)  
+![CodeLens indicators in the code editor](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/ic705959.png)  
 
 Fortunately, CodeLens is also accessible to Visual Studio extensions, and Microsoft DevLabs has already written such an extension to show code "health." This extension shows different code metrics to help make sure your code is maintainable.
 

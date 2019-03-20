@@ -4,7 +4,7 @@ title: Real Technology Heroes
 date: '2007-04-04 22:30:00 -05:00'
 ---
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o_rthlogo2.png)In an excellent tribute to the Budweiser "Real Men of Genius" commercials comes [Real Technology Heroes](http://www.realtechnologyheroes.com).  Just like the original Bud commercials, this site salutes those geeks that don't get recognized...but **should**.
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o-rthlogo2.png)In an excellent tribute to the Budweiser "Real Men of Genius" commercials comes [Real Technology Heroes](http://www.realtechnologyheroes.com).  Just like the original Bud commercials, this site salutes those geeks that don't get recognized...but **should**.
 
 That's right, we salute **you**, Mr. "[select * from table examples](http://www.realtechnologyheroes.com/audio/RTH_SelectStarFromTableExampleGuy_01_DavidSilverlight.mp3)" guy and **you** Mr. "[I can write my own version of .NET faster than Microsoft](http://www.realtechnologyheroes.com/audio/RTH_BuildYourOwnASPNETGuy_01_DavidSilverlight.mp3)" guy, and all of the others that deserve recognition.
 

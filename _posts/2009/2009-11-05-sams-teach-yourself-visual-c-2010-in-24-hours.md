@@ -5,7 +5,7 @@ date: '2009-11-05 22:01:43 -05:00'
 tags: books
 ---
 
-[![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/0672331012_3.jpg)](http://amzn.to/2acEFBn) 
+[![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/0672331012-3.jpg)](http://amzn.to/2acEFBn) 
 
 I have [previously mentioned]({% post_url /2009/2009-06-26-sams-teach-yourself-c-2010-in-24-hours %}) that I'm working on the upcoming <u>Sams Teach Yourself Visual C# 2010 in 24 Hours</u> book.
 

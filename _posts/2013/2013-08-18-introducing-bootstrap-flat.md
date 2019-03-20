@@ -13,7 +13,7 @@ To put it simply, Bootstrap Flat is a custom theme on top of Bootstrap that prov
 
 Twitter Bootstrap is probably one of the most widely used CSS frameworks available today. It's been very well received by the web development community and even Microsoft is embracing the framework by [including it in ASP.NET](http://www.asp.net/vnext/overview/latest/release-notes) (both for Web Forms and MVC 5). [Bootstrap](http://getbootstrap.com/) 3 is a significant change from [version 2](http://getbootstrap.com/2.3.2/). Not only has the CSS been redone to be mobile first, Bootstrap 3 adopted a simpler CSS model (which makes it much easier to customize) and also a flat design. This is probably most noticeable in the button styling, as seen in this image. (The top row of buttons are styled using Bootstrap 2 while the bottom row is Bootstrap 3.)
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_11.png)
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-11.png)
 
 While the flat design is (in my opinion) a great change as it keeps Bootstrap in touch with the trend popularized by Windows Phone and Windows 8 for a flatter UI that helps keep the focus on the content being presented, I don't think Bootstrap 3 goes far enough. There are still the rounded corners and slight shadows (on some components) that mean it doesn't completely embrace the "modern" design elements.
 
@@ -27,7 +27,7 @@ Bootstrap Flat aims to change that. It's built on top of Bootstrap 3 and uses Bo
 
 To keep things as simple as possible, all of the CSS which achieves the flat look is contained in the `bootstrap-flat.css` stylesheet. Because this is done in a separate stylesheet, you can easily upgrade to newer versions of Bootstrap without fear of the flattening styles being overwritten. The following image shows what the buttons would look like after you include `bootstrap-flat.css`. (Again, the top row of buttons are styled using Bootstrap 2, the middle row is Bootstrap 3 and the bottom row is Bootstrap 3 after Bootstrap Flat has been included.)
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_12.png)
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-12.png)
 
 This is pure Bootstrap 3 with square corners, no gradients, and no drop shadows. *(Unlike some of the other "themes", there are also no color or functional changes.)*
 
@@ -37,7 +37,7 @@ In order to flatten your Bootstrap, you simply need to include the one additiona
 
 In addition to the flattening, a `bootstrap-flat-extras.css` stylesheet is also available. This stylesheet adds additional (new) modern user interface elements and additional styles for some of the existing Bootstrap elements. For example, there is an additional button style (`btn-striped`) which takes the button color and applies it only to the left border and a new `callout` style (which is a variation of the alert styles.)
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_18.png)
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-18.png)
 
 ### I found an issue or want to request a feature.
 

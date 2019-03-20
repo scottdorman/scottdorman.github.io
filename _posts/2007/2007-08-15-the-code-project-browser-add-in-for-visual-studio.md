@@ -6,7 +6,7 @@ date: '2007-08-15 20:29:38 -05:00'
 
 I received an email today through my blog from one of the developers at [SlickEdit](http://www.slickedit.com/component/option,com_frontpage/Itemid,1/), who also happens to be a member of [The Code Project](http://www.codeproject.com/) community, letting me know about a new [Visual Studio Add-in](http://www.codeproject.com/csharp/cpbrowser.asp) they have developed. You may remember I blogged about the free [SlickEdit Gadgets]({% post_url /2007/2007-08-15-slickedit-gadgets-for-visual-studio-2008 %}), a really great set of Add-ins for Visual Studio.
 
- ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/cpbrowser21_1.jpg) 
+ ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/cpbrowser21-1.jpg) 
 
 Since I am also a member of The Code Project community, I spend a lot of time on the web site answering forum questions and reading the articles posted. I also spend a lot of time in Visual Studio. Thanks to this new Add-in, I can browse The Code Project directly in Visual Studio. I know that I can do this without the Add-in, but the Add-in provides some additional features:
 

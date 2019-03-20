@@ -5,7 +5,7 @@ date: '2010-02-25 17:15:29 -05:00'
 tags: books
 ---
 
-[![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/0672331012_3.jpg)](http://amzn.to/2acEFBn) 
+[![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/0672331012-3.jpg)](http://amzn.to/2acEFBn) 
 
 I am very happy to announce that the core content for my upcoming <u>Sams Teach Yourself Visual C# 2010 in 24 Hours</u> book is done!
 

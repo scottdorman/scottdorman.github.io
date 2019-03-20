@@ -7,7 +7,7 @@ tags: windows-phone
 
 Just 3 days ago, I [launched]({% post_url /2012/2012-02-08-windows-phone-marketplace-requests %}) the [Windows Phone Marketplace Requests](http://wprequests.uservoice.com/) site. Since that time, the response has been staggering, to say the least. 
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_3.png)
+![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-3.png)
 
 At the time the screenshot above was captured, there are 600 active ideas and 3,228 active users.
 
