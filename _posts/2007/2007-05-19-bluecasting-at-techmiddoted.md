@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlueCasting at Tech&middot;Ed!
+title: BlueCasting at TechEd!
 date: '2007-05-19 08:12:06 -05:00'
 ---
 

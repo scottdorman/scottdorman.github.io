@@ -5,13 +5,13 @@ date: '2012-02-24 10:06:53 -05:00'
 tags: teched
 ---
 
-In 2007, Microsoft created a "Tips for the Newbie" page for TechEd (which is apparently no longer available) and I created a follow-on post called [Tech·Ed for Novices]({% post_url /2007/2007-05-19-teched-for-novices %}). I created a similar post in [2008]({% post_url /2008/2008-02-25-teched-for-novices-2008-edition %})  as well. With [TechEd 2012](http://northamerica.msteched.com/) around the corner, I thought it would be good to bring it back.
+In 2007, Microsoft created a "Tips for the Newbie" page for TechEd (which is apparently no longer available) and I created a follow-on post called [TechEd for Novices]({% post_url /2007/2007-05-19-teched-for-novices %}). I created a similar post in [2008]({% post_url /2008/2008-02-25-teched-for-novices-2008-edition %})  as well. With [TechEd 2012](http://northamerica.msteched.com/) around the corner, I thought it would be good to bring it back.
 
 TechEd is a huge event, topping out at over 14000 people (usually), with an equally huge amount of content. This post is designed to give first time TechEd attendees a fighting chance of finding their way around. *(As Microsoft updates the content catalog, I'll make sure this post is kept up to date with any change to session types, etc.)*
 
 # Session Types
 
-There are over six different session types available at Tech·Ed and each one is very different, so it is up to your individual learning style to decide which ones will be better. The problem is, what are the differences?
+There are over six different session types available at TechEd and each one is very different, so it is up to your individual learning style to decide which ones will be better. The problem is, what are the differences?
 
 ### Birds of a Feather (BOF)
 
@@ -135,7 +135,7 @@ To be safe, follow the following steps:
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/myTechEdLogo1_3.jpg)
 
-In 2007, Microsoft introduced Virtual Tech·Ed, which was the "one-stop" shop to extend the TechEd experience before, during, and after the event. This has subsequently been replaced by myTechEd, which has both an [online portal](http://northamerica.msteched.com/myportal) and a [Windows Phone app](http://www.windowsphone.com/en-us/apps/10051734-a87d-e011-986b-78e7d1fa76f8). If you don't have a Windows Phone (**you should [get one](http://www.microsoft.com/windowsphone/en-US/buy/7/default.aspx)!**) you can use the [myTechEd Mobile Web](http://m.myteched.com/) site. Using myTechEd, you can quickly:
+In 2007, Microsoft introduced Virtual TechEd, which was the "one-stop" shop to extend the TechEd experience before, during, and after the event. This has subsequently been replaced by myTechEd, which has both an [online portal](http://northamerica.msteched.com/myportal) and a [Windows Phone app](http://www.windowsphone.com/en-us/apps/10051734-a87d-e011-986b-78e7d1fa76f8). If you don't have a Windows Phone (**you should [get one](http://www.microsoft.com/windowsphone/en-US/buy/7/default.aspx)!**) you can use the [myTechEd Mobile Web](http://m.myteched.com/) site. Using myTechEd, you can quickly:
 
 *   Identify other attendees with whom you would like to meet 
 *   Share information about yourself and your background 

@@ -4,7 +4,7 @@ title: Ohloh - Open Source Project Statistics
 date: '2007-05-20 13:13:36 -05:00'
 ---
 
-While I'm on the topic of [code metrics]({% post_url /2007/2007-05-20-NDepend-2.2 %}), I thought I would mention another interesting set of statistics provided by the Ohloh web site. This is a site that we use on [Subtext](http://subtextproject.com/) to monitor the project and the statistics are integrated with our CruiseControl.NET [dashboard](http://build.subtextproject.com) as well.
+While I'm on the topic of [code metrics]({% post_url /2007/2007-05-20-ndepend-2.2 %}), I thought I would mention another interesting set of statistics provided by the Ohloh web site. This is a site that we use on [Subtext](http://subtextproject.com/) to monitor the project and the statistics are integrated with our CruiseControl.NET [dashboard](http://build.subtextproject.com) as well.
 
 Ohloh collects software metrics from a variety of sources including the project's source code and the software development infrastructure used by the project's development team. Ohloh was founded in 2004 as a way to provide more visibility into the software development process. The type of information you can learn about your project is invaluable in determining the activity and strength of the project and about the individual contributors. Currently Ohloh is limited to scanning open source project only, but the information it provides would certainly be useful to any software development company.
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: See you at Tech·Ed 2007
+title: See you at TechEd 2007
 date: '2007-02-08 22:29:00 -05:00'
 ---
 
-Hopefully I'm not jumping the gun, but I was just given a tentative "green light" to be able to go to [Tech·Ed](http://www.microsoft.com/teched) again this year. 
+Hopefully I'm not jumping the gun, but I was just given a tentative "green light" to be able to go to [TechEd](http://www.microsoft.com/teched) again this year. 
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/r_teched2007_banner.jpg) 
 

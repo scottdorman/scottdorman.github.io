@@ -18,7 +18,7 @@ I had 308 posts over the course of the year, and the top 5 posts were:
 
 |**Post**|**% Page views**|
 |--------|----------------|
-|[Visual Studio 2008 release date]({% post_url /2007/2007-07-10-Visual-Studio-2008-release-date %})|6.49|
+|[Visual Studio 2008 release date]({% post_url /2007/2007-07-10-visual-studio-2008-release-date %})|6.49|
 |[Windows Vista: Kernel Changes - Has any body seen Gina and what's a UAC?]({% post_url /2006/2006-06-17-windows-vista-kernel-changes-has-any-body-seen-gina-and %})|5.87|
 |[SyncToy 2.0 Beta](/2007/2007-10-26-SyncToy-2.0-Beta)|5.43|
 |[Blog home page](http://geekswithblogs.net/sdorman/)|4.06|

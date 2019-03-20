@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Tech·Ed 2007 Session Calendars
+title: TechEd 2007 Session Calendars
 date: '2007-05-10 17:11:34 -05:00'
 ---
 
-**[edit: 16 May 2007]** **The calendars have been updated and a few new ones added. Check this **[**post**]({% post_url /2007/2007-05-15-Added-Management-and-Operations-Track-Calendar %})** for more details. [****/edit]**
+**[edit: 16 May 2007]** **The calendars have been updated and a few new ones added. Check this **[**post**]({% post_url /2007/2007-05-15-added-management-and-operations-track-calendar %})** for more details. [****/edit]**
 
-Even though the Tech·Ed 2007 [Schedule Builder](https://www.msteched.com/Sessions.aspx) is live, it is just as cumbersome (in my opinion) to use as ever. I had hoped that with the advent of AJAX, Silverlight, and the other interactive web technologies the schedule builder would have been more...interactive.
+Even though the TechEd 2007 [Schedule Builder](https://www.msteched.com/Sessions.aspx) is live, it is just as cumbersome (in my opinion) to use as ever. I had hoped that with the advent of AJAX, Silverlight, and the other interactive web technologies the schedule builder would have been more...interactive.
 
 The idea of having to pick a time period from a drop down list that contains more than 20 items and constantly having to scroll up and down to view the page navigation and the small calendar view down the side is very "old school" and does not make it easy to use. In years past, there have always been alternative schedule builder type applications that people make available to help combat these issues. The sessions are usually made available via an RSS feed and everything is happy. Unfortunately, this year there doesn't seem to be any alternative schedule builder applications being released and the RSS feed for the sessions is incomplete. The RSS feed only lists the breakout sessions (the interactive theater, Birds-of-a-Feather, and lunch sessions are not available) and does not list the repeat sessions.
 

@@ -4,7 +4,7 @@ title: Windows Live Sync
 date: '2008-09-18 10:26:47 -05:00'
 ---
 
-![sync](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/sync_3.png "sync")I have talked about Windows Live FolderShare in the [past]({% post_url /2007/2007-11-21-Windows-Live-FolderShare %}) and have always really liked what it offers. As part of the new Windows Live Wave 3 release, although not an official part of the release yet, is the fact that FolderShare is being renamed and rebranded as Windows Live Sync.
+![sync](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/sync_3.png "sync")I have talked about Windows Live FolderShare in the [past]({% post_url /2007/2007-11-21-windows-live-foldershare %}) and have always really liked what it offers. As part of the new Windows Live Wave 3 release, although not an official part of the release yet, is the fact that FolderShare is being renamed and rebranded as Windows Live Sync.
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/sync_window_2.png) ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/sync_window2_2.png) 
 

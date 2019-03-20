@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tech&middot;Ed Keynote
+title: TechEd Keynote
 date: '2007-06-05 23:00:58'
 ---
 
-I finally have some free time tonight from all of the activities at Tech·Ed 2007, so I wanted to take some time to summarize what I've seen and done so far. To start with, I was able to get a front-row seat for the Keynote on Monday morning.
+I finally have some free time tonight from all of the activities at TechEd 2007, so I wanted to take some time to summarize what I've seen and done so far. To start with, I was able to get a front-row seat for the Keynote on Monday morning.
 
 The keynote started out with a short "movie" showing Bob Muglia going back in time with Christopher Lloyd reprising his role as "Doc" Brown from the "Back to the Future" movies. The theme to the video was to try and show how Microsoft has sometimes fallen short in delivering on it's "vision" for developers and IT staff.
 

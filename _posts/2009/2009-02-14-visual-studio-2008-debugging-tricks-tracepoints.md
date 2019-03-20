@@ -5,7 +5,7 @@ date: '2009-02-14 16:17:12 -05:00'
 tags: visual-studio debugging
 ---
 
-We have talked about the [Location, Condition, Hit Count]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}), and [Filter]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-multi-threaded-debugging %}) modifiers for breakpoints which only leaves the When Hit modifier. Using the When Hit modifier allows you to change your breakpoint to a tracepoint.
+We have talked about the [Location, Condition, Hit Count]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-advanced-breakpoints %}), and [Filter]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-multi-threaded-debugging %}) modifiers for breakpoints which only leaves the When Hit modifier. Using the When Hit modifier allows you to change your breakpoint to a tracepoint.
 
 What is a tracepoint? Simply put, it is a breakpoint that continues execution. Why would this be interesting or even important? Tracepoints are great when you want to trace a particular path of execution, such as OnDeserialized events in your WCF DataContract classes. You are interested in watching the order your objects are deserialized to ensure that everything is happening when you expected it to occur. 
 

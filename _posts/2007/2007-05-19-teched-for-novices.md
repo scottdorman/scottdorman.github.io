@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Tech&middot;Ed for Novices"
+title: "TechEd for Novices"
 date: '2007-05-19 10:32:07 -05:00'
 ---
 
-Microsoft has created a [Tips for the "Newbie"](http://www.microsoft.com/events/teched2007/newbietips.mspx) page designed to give first time Tech·Ed attendees a fighting chance of finding their way around. It does a decent job letting the first timer know about what Tech·Ed has to offer, but I don't think it goes nearly far enough.
+Microsoft has created a [Tips for the "Newbie"](http://www.microsoft.com/events/teched2007/newbietips.mspx) page designed to give first time TechEd attendees a fighting chance of finding their way around. It does a decent job letting the first timer know about what TechEd has to offer, but I don't think it goes nearly far enough.
 
-Tech·Ed is a huge event, last year's event had about 13000 people attending, with an equally huge amount of content. The current count of sessions (including the Hands-on labs) is 1057. That's right, over 1000 sessions. The actual breakdown is like this (subject to change, of course):
+TechEd is a huge event, last year's event had about 13000 people attending, with an equally huge amount of content. The current count of sessions (including the Hands-on labs) is 1057. That's right, over 1000 sessions. The actual breakdown is like this (subject to change, of course):
 
 *   Birds of a Feather: 56  
 *   Breakout Session: 482  
@@ -17,7 +17,7 @@ Tech·Ed is a huge event, last year's event had about 13000 people attending, wi
 
 # Session Types
 
-There are six different session types available at Tech·Ed:
+There are six different session types available at TechEd:
 
 *   Birds of a Feather (BOF)  
 *   Breakout Session  
@@ -56,7 +56,7 @@ Lunch sessions, as their name implies, occur during the lunch break and are usua
 
 # Building Your Schedule
 
-That's a lot of content to sift through. Microsoft calls the "Communications Network", also known as [CommNet](http://www.microsoft.com/events/teched2007/commnet.mspx), as the place to start. I think the place to start is with the online schedule builder **before** you get to the event. If the session builder proves to confusing for you, look at this [post]({% post_url /2007/2007-05-15-Added-Management-and-Operations-Track-Calendar %}) for a set of Internet Calendars (iCal format) that you can load into Outlook 2007 (for more details or to find out how to load these into Outlook 2003, check [here]({% post_url /2007/2007-05-10-outlook-2007-internet-calendar-subscriptions %})). 
+That's a lot of content to sift through. Microsoft calls the "Communications Network", also known as [CommNet](http://www.microsoft.com/events/teched2007/commnet.mspx), as the place to start. I think the place to start is with the online schedule builder **before** you get to the event. If the session builder proves to confusing for you, look at this [post]({% post_url /2007/2007-05-15-added-management-and-operations-track-calendar %}) for a set of Internet Calendars (iCal format) that you can load into Outlook 2007 (for more details or to find out how to load these into Outlook 2003, check [here]({% post_url /2007/2007-05-10-outlook-2007-internet-calendar-subscriptions %})). 
 
 ### Technical Tracks
 
@@ -64,7 +64,7 @@ The point is, you need to have an idea of what sessions you are going to before 
 
 > For example. if you are a solutions architect (or any kind of technical architect), chances are that the majority of your sessions will fall under the "Architecture" track, but that doesn't mean there won't be sessions in the "Developer Tools and Technologies" track or the "Web Development and Infrastructure" track that aren't important.
 
-The other thing to understand about the tracks is that they are only useful if you want sessions covering a broad (or high-level) technology category. If you want information specific to a certain technology, such as Smart Clients, you will need to spend some extra time looking at each of the tracks and finding the sessions that are relevant. (For Smart Clients specifically, you can see my [Smart Client Sessions Calendar for Tech·Ed 2007]({% post_url /2007/2007-05-16-Smart-Client-Sessions-Calendar-for-teched-2007 %}) and save yourself some work.)
+The other thing to understand about the tracks is that they are only useful if you want sessions covering a broad (or high-level) technology category. If you want information specific to a certain technology, such as Smart Clients, you will need to spend some extra time looking at each of the tracks and finding the sessions that are relevant. (For Smart Clients specifically, you can see my [Smart Client Sessions Calendar for TechEd 2007]({% post_url /2007/2007-05-16-smart-client-sessions-calendar-for-teched-2007 %}) and save yourself some work.)
 
 ### Deciding on your sessions
 
@@ -146,7 +146,7 @@ It's alright to end up with multiple priority 1 sessions at the same time. **You
 
 # Communications Network (CommNet)
 
-No, this isn't like SkyNet (from the *[Terminator](http://en.wikipedia.org/wiki/Skynet_%28fictional%29)* movies or the [UK](http://en.wikipedia.org/wiki/Skynet_%28satellites%29)), but it is the central hub for everything that is going on at Tech·Ed. There are almost 750 computers setup throughout the convention center that can be used to access CommNet. In order to log in, you will need to use the same user name and password that you were given by Microsoft when you registered. (This is the same one you use to access the online schedule builder tool.)
+No, this isn't like SkyNet (from the *[Terminator](http://en.wikipedia.org/wiki/Skynet_%28fictional%29)* movies or the [UK](http://en.wikipedia.org/wiki/Skynet_%28satellites%29)), but it is the central hub for everything that is going on at TechEd. There are almost 750 computers setup throughout the convention center that can be used to access CommNet. In order to log in, you will need to use the same user name and password that you were given by Microsoft when you registered. (This is the same one you use to access the online schedule builder tool.)
 
 CommNet gives you key logistical information about the conference:
 
@@ -179,13 +179,13 @@ Microsoft has Wireless Help Desks set up throughout the convention center to hel
 
 ![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TechEdfornovices_941A/bluecasting.jpg)If you have a laptop or mobile device that is Bluetooth enabled, you can set it to "Discoverable" to receive additional content. Microsoft hasn't announced yet what that content will be (at a minimum it should be schedule changes, hopefully), but look for the  "BlueCasting" signs throughout the convention center. BlueCasting is something new this year, so it will be an interesting experience for all of us. Just remember, enabling Bluetooth can quickly drain your battery, depending on your device, so be sure to bring your charger for the hotel room and a USB charger (or other portable charger) for during the day.
 
-### Virtual Tech·Ed
+### Virtual TechEd
 
-![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TechEdfornovices_941A/logo_virtualteched8.jpg)You can also access the [TechEdBloggers](http://techedbloggers.net/) site  and [Tech·Ed Connect](http://teched2007.leveragesoftware.com/). These are both part of the "[Virtual Tech·Ed](http://www.virtualteched.com/)" experience,  which is now being offered all year long. Virtual Tech·Ed is your "one-stop" shop to extend the Tech·Ed experience before, during, and after the event.
+![](http://gwb.blob.core.windows.net/sdorman/WindowsLiveWriter/TechEdfornovices_941A/logo_virtualteched8.jpg)You can also access the [TechEdBloggers](http://techedbloggers.net/) site  and [TechEd Connect](http://teched2007.leveragesoftware.com/). These are both part of the "[Virtual TechEd](http://www.virtualteched.com/)" experience,  which is now being offered all year long. Virtual TechEd is your "one-stop" shop to extend the TechEd experience before, during, and after the event.
 
-The [TechEdBloggers](http://techedbloggers.net/) site is intended to share with everyone what people are saying about Tech·Ed and the products and technologies discussed at the event. It is a great place to find blogs that are relevant to your Tech·Ed interests and is designed for the open sharing of personal insights from community members. All of the content presented has been reviewed by a real person before it is added to the site to help ensure that you get the best content.
+The [TechEdBloggers](http://techedbloggers.net/) site is intended to share with everyone what people are saying about TechEd and the products and technologies discussed at the event. It is a great place to find blogs that are relevant to your TechEd interests and is designed for the open sharing of personal insights from community members. All of the content presented has been reviewed by a real person before it is added to the site to help ensure that you get the best content.
 
-[Tech·Ed Connect](http://teched2007.leveragesoftware.com/) allows you to connect with other Tech·Ed attendees before the conference starts. You can quickly:
+[TechEd Connect](http://teched2007.leveragesoftware.com/) allows you to connect with other TechEd attendees before the conference starts. You can quickly:
 
 *   Identify other attendees with whom you would like to meet  
 *   Share information about yourself and your background  
@@ -199,7 +199,7 @@ As I mentioned earlier, there is a ton of information and it can be quite overwh
 *   Try to break up the content type, don't do just breakout sessions. Try some Hands-on or Instructor Led Labs, Birds of a Feather sessions, or the Interactive Theaters.  
 *   Don't worry about missing a session. All attendees will receive a DVD set containing all of the presentations a few months after the conference ends. A lot of the breakout sessions are recorded during the event, so you can actually watch them from the DVD.  
 *   Hit the exhibit hall. It's a great way to relax between sessions and find out what other companies are working on or what's new from your favorite company. Yes, you will end up getting your badge scanned and probably have to deal with sales calls afterwards, but it can be worth it.  
-*   Take advantage of the free food. One thing that Tech·Ed is known for is the extreme amount of [snacks provided](http://sunbeltblog.blogspot.com/2006/06/its-true-techies-love-food.html).  
+*   Take advantage of the free food. One thing that TechEd is known for is the extreme amount of [snacks provided](http://sunbeltblog.blogspot.com/2006/06/its-true-techies-love-food.html).  
 *   Go to the Jam Sessions and the event party. They are worth it. I make it a point to go each year and usually bring my family to it. Having them around helps decompress at the end of the day and gives them a nice mini-vacation. 
 
 In the end, enjoy the conference. It's a great way to get some excellent technical information and some excellent networking opportunities.

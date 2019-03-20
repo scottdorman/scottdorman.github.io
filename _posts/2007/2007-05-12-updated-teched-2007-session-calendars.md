@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Updated Tech&middot;Ed 2007 Session Calendars
+title: Updated TechEd 2007 Session Calendars
 date: '2007-05-12 02:36:31 -05:00'
 ---
 
-The great folks at EventPoint (the company that coordinates Tech·Ed for Microsoft and is responsible for the Schedule Builder) have updated the RSS feed I was using to generate the Internet Calendars to include the rest of the sessions as well as some additional data that made my life much easier. (Thanks, Andy!)
+The great folks at EventPoint (the company that coordinates TechEd for Microsoft and is responsible for the Schedule Builder) have updated the RSS feed I was using to generate the Internet Calendars to include the rest of the sessions as well as some additional data that made my life much easier. (Thanks, Andy!)
 
 I have updated the calendars, so if you downloaded these as a subscription it should have been automatically updated. If not, you can download them from the following links. I have also added a calendar specifically for the Instructor Led Labs. Hopefully, there won't be any other updates, but if there are I can update the calendars much more easily now.
 
