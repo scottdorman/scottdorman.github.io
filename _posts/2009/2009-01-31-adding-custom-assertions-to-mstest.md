@@ -2,6 +2,7 @@
 layout: post
 title: Adding custom assertions to MSTest
 date: '2009-01-31 21:10:45 -05:00'
+tags: .net unit-testing
 ---
 
 In my last [post]({% post_url /2009/2009-01-31-migrating-from-nunit-to-mstest %}) I talked about migrating from NUnit to MSTest and mentioned that there were some Assert methods that NUnit provided which did not have corresponding methods in MSTest. For reference, those unavailable Asserts are:

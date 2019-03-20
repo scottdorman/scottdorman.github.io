@@ -2,6 +2,7 @@
 layout: post
 title: Sams Teach Yourself C# 2010 in 24 Hours Facebook Page
 date: '2010-02-26 22:28:21 -05:00'
+tags: books
 ---
 
 [![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_6.png)](http://www.facebook.com/pages/Sams-Teach-Yourself-Visual-C-2010-in-24-Hours/331032551363) 

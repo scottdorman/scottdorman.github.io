@@ -2,6 +2,7 @@
 layout: post
 title: Migrating from NUnit to MSTest
 date: '2009-01-31 12:39:15 -05:00'
+tags: .net unit-testing
 ---
 
 I have been writing a lot of unit tests over the past month using the Microsoft Test (MSTest) unit testing framework that is now part of Visual Studio 2008 Professional Edition (and higher SKUs). Currently I have about 223 unit tests covering 39 classes (about 18K lines of code, 325 methods and 176 properties) with a code coverage percent of 97%.

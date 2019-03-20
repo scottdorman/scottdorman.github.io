@@ -2,6 +2,7 @@
 layout: post
 title: Reading all bytes from a Stream
 date: '2009-01-10 15:24:47 -05:00'
+tags: .net c#
 ---
 
 I was working on some [`Stream`](http://msdn2.microsoft.com/8f86tw9e.aspx) extensions today and added a method which will read all of the data from a stream in to a byte array. Some of the classes which derive from Stream provide a similar method ([`MemoryStream`](http://msdn2.microsoft.com/9a84386f.aspx), for example, provides a `GetBuffer()` method to do this). The drawback here is that the base `Stream` class doesn't provide an abstract `GetBuffer()` method; instead it's up to each individual derived class to implement such a method. This is perfectly reasonable as a stream may not have an underlying buffer for storage like MemoryStream does.

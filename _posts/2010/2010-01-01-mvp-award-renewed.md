@@ -2,6 +2,7 @@
 layout: post
 title: MVP Award Renewed
 date: '2010-01-01 10:11:34 -05:00'
+tags: microsoft-mvp
 ---
 
 Woke up this morning to an email letting me know that I've been renewed as an MVP in C# again this year! Almost didn't see it as my junk mail filters kicked in and delivered it to my junk folder. Need to fix those rules. :) This makes the third year in a row that I've been an MVP. It seems like it was just yesterday when I received that first email.

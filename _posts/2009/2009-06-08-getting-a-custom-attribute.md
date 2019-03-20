@@ -2,6 +2,7 @@
 layout: post
 title: Getting a custom attribute
 date: '2009-06-08 13:31:58 -05:00'
+tags: c#
 ---
 
 Attribute programming has a lot of benefits and, when done correctly, can greatly simplify the amount of code that you need to write. One drawback to using attributes is that the code required to retrieve a custom attribute from a type is a bit cumbersome and is very repetitious.

@@ -2,6 +2,7 @@
 layout: post
 title: Code Contracts in .NET
 date: '2009-03-02 18:44:15 -05:00'
+tags: .net c# coding-style code-standards
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/dd491992_codecontracts_project(en-us)_2.png) 

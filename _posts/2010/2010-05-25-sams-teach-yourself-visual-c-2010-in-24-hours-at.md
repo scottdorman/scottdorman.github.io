@@ -2,6 +2,7 @@
 layout: post
 title: Sams Teach Yourself Visual C# 2010 in 24 Hours at TechEd 2010
 date: '2010-05-25 13:27:03 -05:00'
+tags: books
 ---
 
 We are still ironing out some contract issues with Microsoft legal to include the Express Edition DVD with the book, but in the meantime there will be about 9 galley copies of the book which Sams will be giving away during TechEd 2010. If you're going, be sure to stop by the Sams booth for the details on the giveaway*.

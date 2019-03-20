@@ -2,6 +2,7 @@
 layout: post
 title: Visual Studio 2008 Debugging &ndash; The Watch Window
 date: '2009-02-14 20:23:48 -05:00'
+tags: visual-studio debugging
 ---
 
 The Watch window (actually there are four different Watch windows you can use) is easily the most powerful aspect of the Visual Studio debugger and the underlying technology it uses actually surfaces in several places:

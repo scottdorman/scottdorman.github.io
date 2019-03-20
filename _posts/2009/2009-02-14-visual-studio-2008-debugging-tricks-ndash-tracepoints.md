@@ -2,6 +2,7 @@
 layout: post
 title: Visual Studio 2008 Debugging Tricks &ndash; Tracepoints
 date: '2009-02-14 16:17:12 -05:00'
+tags: visual-studio debugging
 ---
 
 We have talked about the [Location, Condition, Hit Count]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-advanced-breakpoints %}), and [Filter]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-ndash-multi-threaded-debugging %}) modifiers for breakpoints which only leaves the When Hit modifier. Using the When Hit modifier allows you to change your breakpoint to a tracepoint.

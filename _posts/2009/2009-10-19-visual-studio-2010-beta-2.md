@@ -2,6 +2,7 @@
 layout: post
 title: Visual Studio 2010 Beta 2
 date: '2009-10-19 13:09:29 -05:00'
+tags: visual-studio .net c#
 ---
 
 Visual Studio 2010 Beta 2 is now available for [MSDN subscribers](http://msdn.microsoft.com/en-us/vstudio/dd582936.aspx), and generally available on October 21. I haven't had a chance yet to play around with it, but some of the CLR changes that are **very** exciting to hear about are:

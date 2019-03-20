@@ -2,6 +2,7 @@
 layout: post
 title: Windows 7 Release Candidate
 date: '2009-04-30 09:07:17 -05:00'
+tags: windows-7
 ---
 
 Microsoft has reached a critical milestone in the Windows 7 development cycle with the limited release of the Windows 7 Release Candidate (RC) today for Microsoft TechNet and MSDN subscribers and general availability from the Microsoft Download Center on May 5th.

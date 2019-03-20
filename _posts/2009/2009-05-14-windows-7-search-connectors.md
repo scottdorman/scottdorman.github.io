@@ -2,6 +2,7 @@
 layout: post
 title: Windows 7 Search Connectors
 date: '2009-05-14 23:07:59'
+tags: windows-7
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image8.png "image") Earlier I talked about the new [Windows 7 Federated Search]({% post_url /2009/2009-05-14-windows-7-federated-search %}) capabilities and mentioned that you can create your own Search connectors. Since then, I've been busy creating some search connector description files for the following sites:

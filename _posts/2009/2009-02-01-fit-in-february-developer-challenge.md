@@ -2,6 +2,7 @@
 layout: post
 title: Fit in February Developer Challenge
 date: '2009-02-01 15:47:53 -05:00'
+tags: fitness
 ---
 
 I don't know why or how I missed this earlier, but I just found out about the Fit in February Developer Challenge. After reading the [official rules](http://calebjenkins.wordpress.com/2009/01/29/official-rules/), which includes a brief explanation of why the challenge was started, I think this is an excellent way to entice us developers in to doing something to become more healthy.
