@@ -2,6 +2,7 @@
 layout: post
 title: Saving Bootstrap component state
 date: '2018-08-18 13:22:00 -05:00'
+tags: bootstrap
 ---
 
 Bootstrap is a great front-end UI framework for web development and has a lot of great components. One of those components is the [collapse component](https://getbootstrap.com/docs/4.1/components/collapse/). This allows you to easily toggle the visibility of content on your site. It also allows you to make really great [accordion](https://getbootstrap.com/docs/4.1/components/collapse/#accordion-example) style content.

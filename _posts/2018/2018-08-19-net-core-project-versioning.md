@@ -2,6 +2,7 @@
 layout: post
 title: .NET Core project versioning
 date: '2018-08-19 23:05:00 -05:00'
+tags: .net .net-core msbuild
 ---
 
 Visual Studio has always allowed you to specify a version number for your .NET projects using the `[assembly:AssemblyVersionAttribute("2.0.1")]` syntax, usually in an `AssemblyInfo.cs` file. You can even use some special syntax to generate the build or revision number automatically.

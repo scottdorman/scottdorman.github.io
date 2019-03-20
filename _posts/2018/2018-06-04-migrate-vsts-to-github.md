@@ -2,6 +2,7 @@
 layout: post
 title: Migrate VS Online to GitHub
 date: '2018-06-12 14:15:00 -05:00'
+tags: github
 ---
 
 If you have a TFS-based code repo, especially one hosted on Visual Studio Team Services (VSTS), you might want to migrate your repos to GitHub. Unfortunatley, there isn't a direct way to migrate the code and all of your check in history, but there is a way as long as you don't mind dropping in to PowerShell for a bit.

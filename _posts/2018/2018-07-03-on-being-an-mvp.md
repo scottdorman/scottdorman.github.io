@@ -2,6 +2,7 @@
 layout: post
 title: On being an MVP
 date: '2018-07-03 15:37:00 -05:00'
+tags: microsoft-mvp
 ---
 
 I was first awarded as a Microsoft MVP about 10 years ago, in January 2008 but was nominated in April 2007. That first nomination was a complete surprise to me. Although I'd heard of the program and had listened to and spoken with other Microsoft MVPs at the time, I never thought about becoming one myself. Here is part of that initial email letting me know about my nomination:

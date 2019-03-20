@@ -2,6 +2,7 @@
 layout: post
 title: Microsoft and Github
 date: '2018-06-04 15:44:00 -05:00'
+tags: github
 ---
 
 Yesterday, both [Microsoft](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/) and 

@@ -2,6 +2,7 @@
 layout: post
 title: Comments using GitHub
 date: '2018-07-03 19:41:00 -05:00'
+tags: github
 ---
 
 When I moved my blog to GitHub, [way back in 2016]({% post_url /2016/2016-03-23-moving-to-github-pages %}), I also moved the commenting system to Disqus. At the time, it seemed like the best option for me.
