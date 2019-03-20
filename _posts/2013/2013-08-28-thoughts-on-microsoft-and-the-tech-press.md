@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Thoughts on Microsoft and the tech &ldquo;press&rdquo;
+title: 'Thoughts on Microsoft and the tech "press"'
 date: '2013-08-28 15:01:05 -05:00'
 ---
 
+{: .box-info}
 Disclaimer: This post is purely an opinion piece and is not intended as a news article. I am a Microsoft MVP, which means that my viewpoint may be slightly biased towards Microsoft but I try very hard to keep things limited to facts and not wild conjecture or complete "fanboy" biases (one way or the other.) While it may become clear through this post the specific sites and organizations to which I'm referring, I will not directly name any of them unless it's to use as a reference.
 
 The tech "press" has been awash with "articles" related to Microsoft's recent [announcement](http://www.microsoft.com/en-us/news/Press/2013/Aug13/08-23AnnouncementPR.aspx) that Steve Ballmer will be retiring and stepping down as CEO within 12 months. That's not exactly what I want to talk about. If you read the sentence again, pay attention to the words that I have in [quotation marks](http://en.wikipedia.org/wiki/Irony_mark#Scare_quotes). If you were to read this sentence aloud, those words could be spoken using [air quotes](http://en.wikipedia.org/wiki/Air_quotes).
