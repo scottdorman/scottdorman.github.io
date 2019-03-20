@@ -2,6 +2,7 @@
 layout: post
 title: Source Analysis
 date: '2008-05-25 10:13:41 -05:00'
+tags: coding-style code-standards
 ---
 
 As many of you know, I'm a big proponent of [code styles and standards](http://geekswithblogs.net/sdorman/category/6657.aspx). As part of that, I'm always on the lookout for new tools that help enforce (or at least report) those standards. 

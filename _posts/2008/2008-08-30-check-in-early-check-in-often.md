@@ -2,6 +2,7 @@
 layout: post
 title: Check In Early, Check In Often
 date: '2008-08-30 11:32:40 -05:00'
+tags: coding-style code-standards
 ---
 
 [Jeff Atwood](http://www.codinghorror.com/blog/archives/001165.html) talks about what he considers the "Golden Rule" of source control:

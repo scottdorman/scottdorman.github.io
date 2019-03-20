@@ -2,6 +2,7 @@
 layout: post
 title: Visual Studio Macro to Collapse Extra Vertical Space
 date: '2008-09-18 12:06:49 -05:00'
+tags: visual-studio
 ---
 
 A few days ago in one of the CodeProject disucssion forums someone was looking for a way to easily remove the extra vertical whitespace in a file. This is really handy if you copy and paste code from the web or otherwise have a file that has multiple consecutive blank lines that you want to consolidate to a single blank line.

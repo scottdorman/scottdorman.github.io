@@ -2,6 +2,7 @@
 layout: post
 title: Developer Tools
 date: '2008-07-17 00:05:44 -05:00'
+tags: visual-studio-extensions
 ---
 
 I recently went through the exercise of reinstalling all of my developer tools on my home development system. This involved uninstalling everything, including Visual Studio and SQL and then reinstalling. While this wasn't exactly a painless experience, it was good to get back to a relatively clean slate and re-evaluate all of the various tools and add-ins I've accumulated.

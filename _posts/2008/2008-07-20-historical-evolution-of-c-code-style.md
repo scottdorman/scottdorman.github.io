@@ -2,6 +2,7 @@
 layout: post
 title: Historical Evolution of C# Code Style
 date: '2008-07-20 13:32:06 -05:00'
+tags: coding-style code-standards c#
 ---
 
 Jason Allor, the developer behind the Microsoft [StyleCop](http://code.msdn.microsoft.com/sourceanalysis) tool has an excellent [blog post](http://blogs.msdn.com/sourceanalysis/archive/2008/05/25/a-difference-of-style.aspx) about the historical evolution of C# code style. The post came about largely in response to some criticisms about the code style enforced by StyleCop and how it doesn't match C/C++ style or that it differs in some areas with the [Framework Design Guidelines](http://amzn.to/28JOJA1). 

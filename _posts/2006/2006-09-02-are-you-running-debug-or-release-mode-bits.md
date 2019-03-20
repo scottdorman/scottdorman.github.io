@@ -2,6 +2,7 @@
 layout: post
 title: Are you running Debug or Release mode bits?
 date: '2006-09-02 12:02:00 -05:00'
+tags: .net
 ---
 
 Have you ever wanted to know if a compiled assembly was compiled in Debug or Release mode? I know I have.

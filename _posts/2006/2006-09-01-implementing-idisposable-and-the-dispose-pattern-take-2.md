@@ -2,6 +2,7 @@
 layout: post
 title: Implementing IDisposable and the Dispose pattern, take 2
 date: '2006-09-01 08:08:00 -05:00'
+tags: .net garbage-collection
 ---
 
 My [article](http://www.codeproject.com/KB/dotnet/idisposable.aspx) on how to properly implement the `IDisposable` interface and the Dispose pattern has been very well received. There have been several comments that prompted me to review the article against the [Framework Design Guidelines](http://amzn.to/28JOJA1), and specifically against the [updates](http://www.bluebytesoftware.com/blog/CategoryView,category,DesignGuideline.aspx) made by Joe Duffy.

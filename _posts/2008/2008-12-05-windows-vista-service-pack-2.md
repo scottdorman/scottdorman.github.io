@@ -2,6 +2,7 @@
 layout: post
 title: Windows Vista Service Pack 2
 date: '2008-12-05 00:21:21 -05:00'
+tags: windows-vista
 ---
 
 ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image_2.png)

@@ -2,6 +2,7 @@
 layout: post
 title: Shared Projects and Solutions between Visual Studio 2008 and 2005
 date: '2008-07-20 12:17:44 -05:00'
+tags: visual-studio
 ---
 
 There are still a large number of developers that have both Visual Studio 2005 and 2008 installed on the same machine and probably an even larger number of development teams that use a mixture of VS 2008 and 2005. 

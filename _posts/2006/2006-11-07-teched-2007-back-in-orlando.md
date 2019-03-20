@@ -2,6 +2,7 @@
 layout: post
 title: Tech·Ed 2007, back in Orlando
 date: '2006-11-07 08:50:00 -05:00'
+tags: teched
 ---
 
 Just noticed this, apparently it was announced several weeks ago, but Tech·Ed 2007 is now back in Orlando instead of [New Orleans]({% post_url /2006/2006-10-13-teched-2007-is-not-in-new-orleans-anymore %}).

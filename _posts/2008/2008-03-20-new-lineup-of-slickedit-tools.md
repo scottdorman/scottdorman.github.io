@@ -2,6 +2,7 @@
 layout: post
 title: New Lineup of SlickEdit Tools
 date: '2008-03-20 16:18:18 -05:00'
+tags: visual-studio-extensions
 ---
 
 I have talked about the SlickEdit Tools and Gadgets in the past ([here]({% post_url /2007/2007-02-18-slickedit-gadgets %}) and [here]({% post_url /2007/2007-08-15-SlickEdit-Gadgets-for-Visual-Studio-2008 %})) and have always been impressed with both of them. Previously, the SlickEdit Tools were only available for Visual Studio 2005. Now that Visual Studio 2008 is here, SlickEdit has released an update that works with both VS2005 and VS2008.

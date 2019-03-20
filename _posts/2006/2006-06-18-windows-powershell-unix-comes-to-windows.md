@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Windows PowerShell - Unix comes to Windows
-date: '2006-06-18 16:18:00 -05:00'
+date: '2006-06-18 16:18:00.00 -05:00:00'
+tags: powershell
 ---
 
 Windows PowerShell (formerly known as "Monad") is a Microsoft's answer to the power and flexibility of the Unix command shells. It should finally complete the Windows management picture by providing a solid command line shell to administer Windows systems. PowerShell is part of Vista, but fortunately for all of us, it is being released separately and is available for Windows XP as well.
@@ -40,7 +41,7 @@ PowerShell seems to have incorporated many of the best features of the Unix shel
 
 * NET String class is the foundation 
     * Clone, CompareTo, Contains, CopyTo, EndsWith, Equals, IndexOf, IndexOfAny, Insert, LastIndexOf, LastIndexOfAny, Length, PadLeft, PadRight, Remove, Replace, Split, StartsWith, Substring, ToCharArray, ToLower, ToLowerInvariant, ToString, ToUpper, ToUpperInvariant, Trim, TrimEnd, TrimStart
-* Native support for useful datatypes
+* Native support for useful data types
     * REGEX, XML, Arrays, Associative arrays
 * Rich string operators
     * +, \*, -f, -replace, -match, -like, -eq, -ne, gt, -ge, -lt, -le 
@@ -57,4 +58,4 @@ function top ($property="Handles", [int]$count=10)
 }
 ```
 
-For those of you who have written Unix shell scripts before (and maybe a lot of people who haven't) the syntax should look familiar. This declares a function named "top" which takes two paramters (both with defaults) and returns a sorted list of the top `$count` processes sorted by `$property`.
+For those of you who have written Unix shell scripts before (and maybe a lot of people who haven't) the syntax should look familiar. This declares a function named "top" which takes two parameters (both with defaults) and returns a sorted list of the top `$count` processes sorted by `$property`.

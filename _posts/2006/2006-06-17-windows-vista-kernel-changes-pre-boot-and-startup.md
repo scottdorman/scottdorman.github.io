@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Windows Vista: Kernel Changes - Pre-Boot and Startup"
-date: '2006-06-17 16:42:00 -05:00'
+date: '2006-06-17 16:42:00.00 -05:00:00'
+tags: windows-vista
 ---
 
 **Boot Configuration Database (BCD)**

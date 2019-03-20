@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Windows Vista: Kernel Changes - UMDF and Dynamic System Address Space"
-date: '2006-06-17 15:30:00 -05:00'
+date: '2006-06-17 15:30:00.00 -05:00:00'
+tags: windows-vista
 ---
 
 ## User-Mode Driver Framework (UMDF)

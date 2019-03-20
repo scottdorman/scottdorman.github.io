@@ -2,6 +2,7 @@
 layout: post
 title: Windows Vista UX Guidelines and Visual Studio
 date: '2008-07-25 09:50:23 -05:00'
+tags: windows-vista user-interface visual-studio
 ---
 
 Whether you like Vista or not, the user interface aspects of the operating system are here to stay. Overall, I think Microsoft did a good job with the core interface guidelines, as presented in the [Windows Vista User Experience Guidelines](http://msdn.microsoft.com/library/aa511258.aspx).

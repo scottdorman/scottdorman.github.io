@@ -2,6 +2,7 @@
 layout: post
 title: Implementing IDisposable and the Dispose pattern
 date: '2006-08-27 20:34:00 -05:00'
+tags: .net garbage-collection
 ---
 
 I just posted a new [article](http://www.codeproject.com/KB/dotnet/idisposable.aspx) on Code Project that explains the proper way to implement the IDisposable interface and the Dispose pattern.
