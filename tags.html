@@ -7,7 +7,7 @@ title: Tags
 <div class="mb-3" itemscope itemtype="http://schema.org/Blog">
     <nav class="nav nav-pills">
         {%- for tag in sortedTags -%}
-        <a href="#{{ tag[0] | slugify }}" class="nav-link smoothScroll">{{ tag[0] }}</a>
+        <a href="#{{ tag[0] | slugify }}" class="nav-link smoothScroll">{{ tag[0] }} ({{ tag[1] | size }})</a>
         {%- endfor -%}
     </nav>
     <hr />
