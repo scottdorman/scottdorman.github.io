@@ -6,12 +6,11 @@ title: Tags
 {%- assign sortedTags = site.tags | sort -%}
 {%- assign untaggedPosts = site.posts | where_exp:"post", "post.tags.size == 0" -%}
 <div class="mb-3" itemscope itemtype="http://schema.org/Blog">
-    <nav class="nav nav-pills">
-        {%- for tag in sortedTags -%}
-        <a href="#{{ tag[0] | slugify }}" class="nav-link smoothScroll">{{ tag[0] }} ({{ tag[1] | size }})</a>
-        {%- endfor -%}
-        <a href="#untagged" class="nav-link smoothScroll">untagged ({{ untaggedPosts | size }})</a>
-    </nav>
+    {%- for tag in sortedTags -%}
+    <a href="#{{ tag[0] | slugify }}" class="badge badge-light mx-2 smoothScroll">{{ tag[0] }} <small>({{ tag[1] | size }})</small></a>
+    {%- endfor -%}
+    <a href="#untagged" class="badge badge-light mx-2 smoothScroll">untagged <small>({{ untaggedPosts | size }})</small></a>
+
     <hr />
 
     {%- for tag in sortedTags -%}
