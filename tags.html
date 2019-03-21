@@ -14,15 +14,15 @@ title: Tags
     <hr />
 
     {%- for tag in sortedTags -%}
+    {%- assign tagPosts = tag[1] -%}
     <fieldset id="{{ tag[0] | slugify }}" class="mt-3">
-        <legend class="border-bottom">{{ tag[0] }}</legend>
-        {%- assign tagPosts = tag[1] -%}
+        <legend class="border-bottom">{{ tag[0] }} <span class="badge badge-light">{{ tagPosts | size }}</span></legend>
         {% include archive_post.html show_tags=false collection=tagPosts %}
     </fieldset>
     {%- endfor -%}
 
     <fieldset id="untagged" class="mt-3">
-        <legend class="border-bottom">Untagged</legend>
+        <legend class="border-bottom">Untagged <span class="badge badge-light">{{ untaggedPosts | size }}</span></legend>
         {% include archive_post.html show_tags=true collection=untaggedPosts %}
     </fieldset>
 
