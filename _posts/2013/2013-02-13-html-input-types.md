@@ -18,14 +18,14 @@ For reference, here are some of the attribute values and the keyboard that is di
 | datetime | Defines a date and time control (year, month, day, hour, minute, second, and fraction of a second, based on UTC time zone) | {% include post/image.html image-file="image-41.png" alt="Windows 8 standard keyboard" %} |
 | datetime-local | Defines a date and time control (year, month, day, hour, minute, second, and fraction of a second (no time zone) | {% include post/image.html image-file="image-42.png" alt="Windows 8 standard keyboard" %} |
 | email | Defines a field for an e-mail address | "email" keyboard {% include post/image.html image-file="image-43.png" alt="Windows 8 email keyboard" %} |
-| month | Defines a month and year control (no time zone) | {% include post/image.html image-file="image-49.png "image"" alt="image" %} |
+| month | Defines a month and year control (no time zone) | {% include post/image.html image-file="image-49.png" alt="image" %} |
 | number | Defines a field for entering a number | numeric" keyboard {% include post/image.html image-file="image-48.png" alt="Windows 8 numeric keyboard" %} | 
 | password | Defines a password field (characters are masked) | "password" keyboard {% include post/image.html image-file="image-47.png" alt="Windows 8 password keyboard" %} |
 | range | Defines a control for entering a number whose exact value is not important (like a slider control) | none, renders as a slider control {% include post/image.html image-file="image-46.png" alt="Windows 8 Slider Control" %} |
 | tel | Defines a field for entering a telephone number | "numeric" keyboard {% include post/image.html image-file="image-50.png" alt="Windows 8 numeric keyboard" %} |
 | text | Default. Defines a single-line text field (default width is 20 characters) | {% include post/image.html image-file="image-51.png" alt="Windows 8 standard keyboard" %} |
 | time | Defines a control for entering a time (no time zone) | {% include post/image.html image-file="image-52.png" alt="Windows 8 standard keyboard" %} |
-| url | Defines a field for entering a URL | "url" keyboard {% include post/image.html image-file="image-53.png" alt="Windows 8 "url" keyboard" %} |
+| url | Defines a field for entering a URL | "url" keyboard {% include post/image.html image-file="image-53.png" alt="Windows 8 url keyboard" %} |
 | week | Defines a week and year control (no time zone) | {% include post/image.html image-file="image-54.png" alt="Windows 8 standard keyboard" %} |           
 
 Why is this important? For those of you using non-touch based devices (traditional keyboard devices like desktops and laptops), it isn't really all that important. However, it makes a huge difference when you browse to the site on a touch device and get an appropriate soft keyboard displayed for the type of data you're trying to enter.
