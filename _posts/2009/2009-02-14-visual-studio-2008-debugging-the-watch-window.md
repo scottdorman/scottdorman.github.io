@@ -17,7 +17,7 @@ The thing that most people might not realize is that you can actually call metho
 
 Calling a method in the Watch window is as simple as adding the parenthesis and any parameters needed.
 
-{% include post/image.html image-file="image-3.png "image"" alt="" %} 
+{% include post/image.html image-file="image-3.png" alt="" %} 
 
 There are a few considerations to be aware of when doing this, however. They are:
 
