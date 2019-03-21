@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing jQuery-goTop
-date: '2015-05-28 23:23:39.39 -05:00:00'
+date: '2015-05-28 23:23:39.00000000'
 tags: jquery user-interface
 ---
 
