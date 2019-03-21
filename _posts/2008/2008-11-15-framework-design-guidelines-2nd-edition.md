@@ -5,7 +5,7 @@ date: '2008-11-15 22:41:15 -05:00'
 tags: coding-style code-standards
 ---
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/5138dm4phnl-sl500-aa240-3 "5138dm4phnl-sl500-aa240-3") Those of you who know me know that I am a big proponent of code style and standards. One of the best resources I  have found for documenting a clear and thorough set of code standards is the [Framework Design Guidelines](http://amzn.to/2apv5X1) book by Brad and Krzysztof. 
+{% include post/image.html image-file="5138dm4phnl-sl500-aa240-3" alt="" %} Those of you who know me know that I am a big proponent of code style and standards. One of the best resources I  have found for documenting a clear and thorough set of code standards is the [Framework Design Guidelines](http://amzn.to/2apv5X1) book by Brad and Krzysztof. 
 
 The book was recently updated for the new language features in the .NET Framework 3.0 and 3.5 releases. Some of the existing guidelines have been expanded with new annotations and more detail, and new guidance covering such features as extension methods and nullable types has also been included.
 

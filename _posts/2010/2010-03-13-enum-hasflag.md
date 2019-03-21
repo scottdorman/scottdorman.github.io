@@ -28,11 +28,11 @@ class Program
 ```
 The output of this simple console application is:
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-3.png) 
+{% include post/image.html image-file="image-3.png" alt="" %} 
 
 The value 3 is the numeric value associated with the combination of `FileAccess.Read` and `FileAccess.Write`. Clearly, this isn't the best representation. What you really want is for the output to look like:
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-6.png) 
+{% include post/image.html image-file="image-6.png" alt="" %} 
 
 To achieve this result, you simply add the `Flags` attribute to the enumeration. The `Flags` attribute changes how the string representation of the enumeration value is displayed when using the `ToString()` method.
 

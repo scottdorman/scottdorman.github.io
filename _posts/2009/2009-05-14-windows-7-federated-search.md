@@ -9,7 +9,7 @@ Windows and the Windows Explorer have had search capabilities for a long time an
 
 Federated search in Windows 7 introduces support to search different remote data stores using OpenSearch technologies and allows you to search those sources from within Windows Explorer. Below is an example of searching a SharePoint 2007 from within Windows Explorer.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-14.png)The more interesting aspect of federated search is that, because it uses OpenSearch, there are already a lot of search sites that support search federation. Even better, Microsoft supports creating new federated search providers through the use of federated search connectors, which are simple XML files that describe the search provider.
+{% include post/image.html image-file="image-14.png" alt="" %}The more interesting aspect of federated search is that, because it uses OpenSearch, there are already a lot of search sites that support search federation. Even better, Microsoft supports creating new federated search providers through the use of federated search connectors, which are simple XML files that describe the search provider.
 
 You can [download](http://www.microsoft.com/downloads/details.aspx?FamilyID=C709A596-A9E9-49E7-BCD4-319664929317&displaylang=en) a document that describes how to build a basic web service that leverages the Windows 7 federated search and the search connector file format from Microsoft.
 
@@ -26,18 +26,18 @@ Here is a sample search connector that works with Microsoft Live Search:
 
 Save this XML to a file named "Live Search.osdx" (you should use the .osdx extension since it is already registered in Windows as an "open search description" file) and then double-click the file. You will be prompted to add the search connector:
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-13.png) 
+{% include post/image.html image-file="image-13.png" alt="" %} 
 
 Once you add the search connector, it will create a Search Connector file in the "Searches" folder (`%userprofile%/Searches`) and places a short cut to that file in the "Links" folder (`%userprofile%/Links`) that shows up in the Windows Explorer favorites section.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-12.png) 
+{% include post/image.html image-file="image-12.png" alt="" %} 
 
 By selecting "Live Search" and typing a search term in the search box, the query is sent to Live Search through the OpenSearch provider. Here is an example of searching for the term "federated search" in Live Search:
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-11.png) 
+{% include post/image.html image-file="image-11.png" alt="" %} 
 
 Since the search results are integrated in Windows Explorer, you can take advantage of any built in file previewers and see both the search summary and a preview of each result:
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-16.png) 
+{% include post/image.html image-file="image-16.png" alt="" %} 
 
 Overall, I think the new federated search capabilities in Windows 7 will become an extremely useful and popular way for people to search, especially as businesses take advantage of the technology and start exposing internal file servers and intranet portals as OpenSearch providers.

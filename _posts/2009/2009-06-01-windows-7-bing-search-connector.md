@@ -5,12 +5,12 @@ date: '2009-06-01 13:16:19 -05:00'
 tags: windows-7
 ---
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/clip-image002-thumb-3.jpg)
+{% include post/image.html image-file="clip-image002-thumb-3.jpg" alt="" %}
 Microsoft's latest incarnation of it's [search engine](http://www.bing.com), which has gone by a few different code names, is live a few days early.
 
 It's still early, so it remains to be seen if Microsoft will be able to pull any search market share away from Google, but Bing looks like it may be a good start. The biggest difference is that Bing seems to offer better organization by putting the related searches list along the left side of the search results where you can see it without scrolling. It also provides a search history, and contextual information for each result.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-2.png) 
+{% include post/image.html image-file="image-2.png" alt="" %} 
 
 From the Live Search blog, Bing is a
 

@@ -16,7 +16,7 @@ Almost two years ago, I [wrote]({% post_url /2008/2008-07-18-visual-studio-2008-
 
 This can be easily accomplished by editing the project properties:
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-3.png) 
+{% include post/image.html image-file="image-3.png" alt="" %} 
 
 The problem with this approach is that if you need to change a lot of projects at one time it becomes rather unwieldy. One possible solution is to edit the project files by hand in a text editor and change the `<TargetFrameworkVersion />` and `<TargetFrameworkProfile />` properties to the correct values.
 

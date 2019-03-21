@@ -7,7 +7,7 @@ tags: microsoft-mvp
 
 In January of this year, I was reawarded as A Microsoft MVP, marking 10 years as an MVP.
 
-![MVP Award Stack](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/award-stack.jpg)
+{% include post/image.html image-file="award-stack.jpg" alt="MVP Award Stack" %}
 
 Over that time, I've seen a tremendous amount of changes in technology but also in the award program itself.
 

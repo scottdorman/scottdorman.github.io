@@ -13,11 +13,11 @@ Why is this such an important feature? Simply put, it allows third-parties (comp
 
 An excellent example of this is the new CodeLens feature of Visual Studio 2013. This is, perhaps, the single most important developer productivity enhancement released in the last decade and already has huge potential. As you can see, out of the box CodeLens supports showing you information about references, unit tests and TFS history.
 
-![CodeLens indicators in the code editor](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/ic705959.png)  
+{% include post/image.html image-file="ic705959.png" alt="CodeLens indicators in the code editor" %}  
 
 Fortunately, CodeLens is also accessible to Visual Studio extensions, and Microsoft DevLabs has already written such an extension to show code "health." This extension shows different code metrics to help make sure your code is maintainable.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/codelens.jpg)
+{% include post/image.html image-file="codelens.jpg" alt="" %}
 
 At this point, you may have already asked yourself, "With over 4000 extensions, how do I find ones that are good?" That's a really good question. Fortunately, the Visual Studio Gallery has a ratings system in place, which definitely helps but that's still a lot of extensions to look through. To that end, here is my personal list of favorite extensions. This is something I started back when Visual Studio 2010 was first released, but so much has changed since then that I thought it would be good to provide an updated list for Visual Studio 2013.
 

@@ -54,4 +54,4 @@ namespace DataValidationHelpers
 
 You are adding new functionality to the `ToString` methods that didn't previously exist. (Granted, the example I used above is completely arbitrary and doesn't provide any real value; it's just for demonstration purposes.) In this case, you want it to show up as an overloaded method on ToString, which is exactly what happens:
 
-![image](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-1.png)
+{% include post/image.html image-file="image-1.png" alt="image" %}

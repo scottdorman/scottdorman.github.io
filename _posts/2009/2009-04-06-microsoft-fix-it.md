@@ -4,7 +4,7 @@ title: Microsoft Fix it
 date: '2009-04-06 09:55:00 -05:00'
 ---
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/logo-fixit-final-2.png)
+{% include post/image.html image-file="logo-fixit-final-2.png" alt="" %}
 
 It seems Microsoft has always had a love/hate relationship with consumers when it comes to support issues. When things are going well the general public loves Microsoft, but when things start going badly public opinion heads the same direction.
 

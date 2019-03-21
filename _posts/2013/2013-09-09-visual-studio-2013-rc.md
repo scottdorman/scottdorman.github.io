@@ -22,7 +22,7 @@ For C++ developers, Microsoft has made more steps along the roadmap laid out at 
 
 To me, however, one of the most exciting new features (available in Visual Studio Ultimate) is CodeLens, available for C# and Visual Basic.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/ic677894-1916188352.png)
+{% include post/image.html image-file="ic677894-1916188352.png" alt="" %}
 
 Think of CodeLens as a heads-up display for your code. You can use it to get faster answers about the code:
 

@@ -14,22 +14,22 @@ Ohloh collects software metrics from a variety of sources including the project'
 
 The Contributors page shows the Top 10 active contributors, but shows it in a very visual manner that shows not only who they are but also the amount of activity and effort contributed. For each contributor, you can drill down and see the list of source code "commits" and also view a summary of the languages used, and a visual timeline showing all of that persons' activity.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-0-4.png) 
+{% include post/image.html image-file="image-0-4.png" alt="" %} 
 
 ## Project File Licenses
 
 Ohloh determines the licensing of a project strictly through a detailed analysis of the source code instead of simply trusting the license terms that the project owners claim. This can be a useful tool when determining the risks associated with using a project.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-0-11.png)  
+{% include post/image.html image-file="image-0-11.png" alt="" %}  
 
 ## Codebase History
 
 The codebase history shows the evolution of the source code of a project. It specifically shows the total size of a project's source code over time.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-0-16.png) 
+{% include post/image.html image-file="image-0-16.png" alt="" %} 
 
 ## Project Languages
 
 The languages table shows the project's current total physical source lines of code (pslocs), categorized by programming language.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-0-21.png)
+{% include post/image.html image-file="image-0-21.png" alt="" %}

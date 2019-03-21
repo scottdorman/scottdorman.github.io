@@ -7,24 +7,24 @@ tags: visual-studio debugging
 
 The most basic aspect of any debugging session is the use of breakpoints, which allows you to specify a location in your application (a line of code) where program execution will stop (break) and allow you to inspect the internal state of the application at that exact moment. This is a pretty cool feature, but Visual Studio allows you to do even more with *advanced* breakpoints.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-6.png) Put simply, an advanced breakpoint is a breakpoint with one or more modifiers applied. A modifier allows you to change the runtime actions or conditions that will cause the breakpoint to be triggered, or in some cases even set. 
+{% include post/image.html image-file="image-6.png" alt="" %} Put simply, an advanced breakpoint is a breakpoint with one or more modifiers applied. A modifier allows you to change the runtime actions or conditions that will cause the breakpoint to be triggered, or in some cases even set. 
 
 In order to set an advanced breakpoint, you must first set a normal breakpoint and then choose a modifier to set from a context menu. To display the context menu from a breakpoint symbol in the gutter, simply right mouse-click the breakpoint symbol or the line containing the breakpoint to display the context menu. If you are using the Breakpoints window, right mouse-click the row containing the breakpoint to display a similar menu.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-4.png)
+{% include post/image.html image-file="image-4.png" alt="" %}
 
 Just in case you aren't familiar with the terminology, the gutter is the gray vertical area just to the left of the code in the editing window and is circled in red in the picture. This area is used to provide visual indicators for breakpoints and other information that is useful or important during a debugging session.
 
 Now that we know where our debugging indicators appear, let's take a look at the different symbols that Visual Studio uses. I'm sure everyone is familiar with the normal breakpoint symbols, both enabled and disabled, but there are seven other symbols that can be displayed. The complete list of breakpoint symbols is:
 
-|![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image56-2.png)|Normal breakpoint [enabled and disabled]|
-|![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image42-2.png)|Advanced breakpoint (hit count, condition, filter) property set|
-|![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image44-2.png)|Mapped breakpoint in ASP/ASP.NET and mapped to an HTML page|
-|![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image46-2.png)|Normal tracepoint|
-|![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image48-2.png)|Advanced tracepoint (hit count, condition, filter) property set|
-|![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image50-2.png)|Mapped tracepoint in ASP/ASP.NET and mapped to an HTML page|
-|![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image52-2.png)|Breakpoint or tracepoint error (the BP or TP will never be set)|
-|![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image54-2.png)|Breakpoint or tracepoint warning (generally means the source location is not currently in any loaded module)|
+|{% include post/image.html image-file="image56-2.png" alt="" %}|Normal breakpoint [enabled and disabled]|
+|{% include post/image.html image-file="image42-2.png)|Advanced breakpoint (hit count, condition, filter" alt="" %} property set|
+|{% include post/image.html image-file="image44-2.png" alt="" %}|Mapped breakpoint in ASP/ASP.NET and mapped to an HTML page|
+|{% include post/image.html image-file="image46-2.png" alt="" %}|Normal tracepoint|
+|{% include post/image.html image-file="image48-2.png)|Advanced tracepoint (hit count, condition, filter" alt="" %} property set|
+|{% include post/image.html image-file="image50-2.png" alt="" %}|Mapped tracepoint in ASP/ASP.NET and mapped to an HTML page|
+|{% include post/image.html image-file="image52-2.png)|Breakpoint or tracepoint error (the BP or TP will never be set" alt="" %}|
+|{% include post/image.html image-file="image54-2.png)|Breakpoint or tracepoint warning (generally means the source location is not currently in any loaded module" alt="" %}|
 
 (Don't worry about tracepoints yet, we will cover them in a [follow-up post]({% post_url /2009/2009-02-14-visual-studio-2008-debugging-tricks-tracepoints %}).)
 
@@ -32,7 +32,7 @@ Now that we know how to set an advanced breakpoint, lets explore why these break
 
 Let us look first at the Location modifier. This is actually a normal breakpoint, but the File Breakpoint dialog allows you some additional control.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-thumb57-6ed54083-2a8a-4fec-b508-fcbbe57685d2.png) 
+{% include post/image.html image-file="image-thumb57-6ed54083-2a8a-4fec-b508-fcbbe57685d2.png" alt="" %} 
 
 The most interesting option here is that you can allow the breakpoint to be hit even if the source code is different than the executing code.
 
@@ -40,7 +40,7 @@ Now that we have that out of the way, lets look at the Condition and Hit Count m
 
 This is a perfect time to use an advanced breakpoint. Since you already know the error occurs during a certain condition, you can use the condition modifier. Choosing this modifier displays the Breakpoint Condition dialog  
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image150-3.png) 
+{% include post/image.html image-file="image150-3.png" alt="" %} 
 
 which allows you to restrict when the breakpoint will hit based on the evaluation of a Boolean expression. You can choose to hit the breakpoint when the condition is true or when the result of the condition has changed.
 
@@ -48,11 +48,11 @@ One thing to remember about the condition expression is that the source language
 
 Another option is to set a breakpoint on the hit count. The hit count is the number of times the breakpoint location has been hit. By setting the hit count modifier, the breakpoint will only hit when the condition is satisfied. 
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image149-3.png) 
+{% include post/image.html image-file="image149-3.png" alt="" %} 
 
 By default, the condition is "break always" which causes this to behave like a normal breakpoint. However, if you change the condition, you are able to specify a value.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image148-3.png) 
+{% include post/image.html image-file="image148-3.png" alt="" %} 
 
 In this case, the breakpoint will be hit only once (when the hit count is equal to 1). The complete list of options are:
 
@@ -63,7 +63,7 @@ In this case, the breakpoint will be hit only once (when the hit count is equal 
 
 Let's take a quick look at the Breakpoints window. If you aren't familiar with it, you can display it through the Debug \| Windows \| Breakpoints menu option or the `Ctrl+D, B` keyboard shortcut. 
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image147-3.png) 
+{% include post/image.html image-file="image147-3.png" alt="" %} 
 
 The reason why the Breakpoints window is important for advanced breakpoints is that you can see additional information about the breakpoint, such as the condition and the hit count. In the case of a hit count modifier, it also shows the current number of hits.
 

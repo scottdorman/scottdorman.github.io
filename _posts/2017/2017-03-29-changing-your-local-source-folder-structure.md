@@ -17,7 +17,7 @@ For GitHub repositories, either option seems to work just fine. However, for TFS
 
 At this point, everything is moved to the new folder structure and compiles without issues so you may be tempted to think that everything is working correctly. However, as soon as you try to debug your website, you'll be hit with a rather unexpected and extremely unhelpful error: "Unable to start process C:\Program Files\dotnet\dotnet.exe. The web server requrest failed with status code 500, Internal Server Error."
 
-![Error Message](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/error-message.png)
+{% include post/image.html image-file="error-message.png" alt="Error Message" %}
 
 Although it's not entirely obvious, this problem occurs because IIS Express isn't able to find the path to the compiled website any longer. In order to fix this, you actually need to look at the `.vs\config\applicationhost.config` file (you may need to turn on showing hidden files in order to see the `.vs` folder). Open that file in a text editor and look for the `<sites>` element. It will look similar to
 

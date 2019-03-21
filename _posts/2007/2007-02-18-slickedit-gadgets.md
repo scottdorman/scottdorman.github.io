@@ -13,15 +13,15 @@ The SlickEdit Gadgets include 5 gadgets, but I think only a few are useful for 
 *   Editor Gadgets  
     *   Line ruler - This places a shaded highlight across the current line and can optionally display tick marks to show the indentation levels. (The colors are customizable.)  Indentation guide - Draws a vertical dashed line in the editor indicating the indention level of the current line. (The colors are customizable.)  Auto-copy selection - Automatically copies the selected text to the clipboard and allows pasting by clicking the middle mouse button (or scroll wheel). This is very similar to XMouse and the copy/paste features found in most of the Unix code editors for years. 
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o-sshot-3.png) 
+{% include post/image.html image-file="o-sshot-3.png" alt="" %} 
 
 *   File Explorer - Provides an easy way to open solutions, projects, or single files in Visual Studio. It also makes it easy to drag-and-drop files into an open Visual Studio project. 
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o-file-x.jpg) 
+{% include post/image.html image-file="o-file-x.jpg" alt="" %} 
 
 *   The SLOC Report - This provides an easy way to count lines of code. The count is divided into code, comments, and whitespace and shown as a pie chart. Reports can be generated for solutions, projects, or individual files. 
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o-sloc.jpg) 
+{% include post/image.html image-file="o-sloc.jpg" alt="" %} 
 
 The SlickEdit Tools for Visual Studio product also only integrates with Visual Studio 2005 except the Express Editions. You can download a 15 day trial version, but you do have to fill out a registration form to get your trial key. The following features (taken directly from SlickEdit's product page) are provided:
 

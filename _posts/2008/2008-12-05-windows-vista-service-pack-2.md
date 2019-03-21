@@ -5,7 +5,7 @@ date: '2008-12-05 00:21:21 -05:00'
 tags: windows-vista
 ---
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-2.png)
+{% include post/image.html image-file="image-2.png" alt="" %}
 
 Windows Vista Service Pack 2 Beta is now available for public download on [MSDN](http://msdn.microsoft.com/en-us/windows/dd262148.aspx) and [TechNet](http://technet.microsoft.com/en-us/windows/dd262148.aspx). This is a combined update for Windows Server 2008 and Windows Vista Service Pack 1. This will be the first service pack for Windows Server 2008 since it shipped and includes a lot of performance improvements for WS08.
 

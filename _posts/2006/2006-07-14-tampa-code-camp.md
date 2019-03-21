@@ -4,7 +4,7 @@ title: Tampa Code Camp
 date: '2006-07-14 07:41:00 -05:00'
 ---
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o-html4food.gif) 
+{% include post/image.html image-file="o-html4food.gif" alt="" %} 
 
 
 If you want to improve your skills unlike this poor soul get to [Code Camp](http://www.tampacodecamp.com/) we will even supply the food for lunch. Mark your calendars for **July 15**. 

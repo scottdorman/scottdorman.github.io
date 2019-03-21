@@ -6,7 +6,7 @@ date: '2008-01-06 20:42:25 -05:00'
 
 I've been seeing several people blogging about the free Microsoft Press E-Book offer. All you need to do is register and you get access to 3 e-books from Microsoft Press that you can download in PDF format.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/image-2.png)
+{% include post/image.html image-file="image-2.png" alt="" %}
 
 If you pay close attention to the details for each book, you will notice that these aren't full copies of the books. The only one that appears to be a full copy, based on the listed chapters and the actual table of contents in the PDF, is <u>Introducing Microsoft LINQ</u>. The other two e-books only contain two chapters each, even though the table of contents for both of these list 8 chapters.
 

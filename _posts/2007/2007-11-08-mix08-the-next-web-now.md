@@ -4,7 +4,7 @@ title: "MIX08: The Next Web Now"
 date: '2007-11-08 20:44:04 -05:00'
 ---
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/blings-9-25-b-2.jpg)
+{% include post/image.html image-file="blings-9-25-b-2.jpg" alt="" %}
 
 March 5 - 7, 2008  
 The Venetian  

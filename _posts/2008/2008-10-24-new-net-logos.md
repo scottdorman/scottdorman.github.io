@@ -7,7 +7,8 @@ tags: .net
 
 Just in time for PDC, Microsoft has unveiled new logos for the .NET Framework.
 
-![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/net-v-rgb-2-2.png) ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/net-h-rgb-2-2.png)
+{% include post/image.html image-file="net-h-rgb-2-2.png" alt="" %}
+{% include post/image.html image-file="net-v-rgb-2-2.png" alt="" %}
 
 According to Chris Keonig's [blog post](http://blogs.msdn.com/chkoenig/archive/2008/10/24/new-net-logos-announced-today.aspx) about the new logos, the change was made because
 

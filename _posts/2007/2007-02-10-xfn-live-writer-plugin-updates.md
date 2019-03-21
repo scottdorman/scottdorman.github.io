@@ -4,9 +4,9 @@ title: XFN&trade; Live Writer Plugin Updates
 date: '2007-02-10 04:25:00 -05:00'
 ---
 
-I know it's only been a couple of days, but there were a few things that were bothering me about my XFN™ plugin for ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o-sshot-4.jpg)Live Writer. The biggest issue (and really the one that everything else centered around) was that once a link was inserted, you couldn't edit it again without recreating it. I doubt anyone would have really felt this was a problem, but it was annoying enough to me that I decided to do something about it.
+I know it's only been a couple of days, but there were a few things that were bothering me about my XFN™ plugin for {% include post/image.html image-file="o-sshot-4.jpg" alt="" %} Live Writer. The biggest issue (and really the one that everything else centered around was that once a link was inserted, you couldn't edit it again without recreating it. I doubt anyone would have really felt this was a problem, but it was annoying enough to me that I decided to do something about it.
 
-The changes centered around making the plugin a SmartContentSource rather than just a ContentSource ![](/img/posts{{ page.path | remove: '_posts' | remove: '.md' }}/o-sshot-2.jpg). This change allows the plugin to be listed in the "Insert" group that displays as part of the Sidebar and also allows an XFN link to be viewed and editing using the Sidebar. 
+The changes centered around making the plugin a SmartContentSource rather than just a ContentSource {% include post/image.html image-file="o-sshot-2.jpg" alt="" %}. This change allows the plugin to be listed in the "Insert" group that displays as part of the Sidebar and also allows an XFN link to be viewed and editing using the Sidebar. 
 
 When an XFN link is inserted, it is treated as a single element, so when it is selected, you see a "hash outline" around the content. This only displays when you are editing and only when that element has the focus. When the XFN Link has the focus, the Sidebar displays the XFN Link Properties, which allows you to edit the actual hyperlink, the relationships, and also see the current relationships.
 
