@@ -8,7 +8,7 @@ title: Home
     <div class="list-group-item">
         <article class="w-100 justify-content-between">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            {% include post/meta_index.html %}
+            {% include post/meta_index.html show_tags=true %}
             <div class="post-entry">
                 {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
                 <a href="{{ post.url }}" class="btn btn-outline-secondary btn-sm">Read more</a>
