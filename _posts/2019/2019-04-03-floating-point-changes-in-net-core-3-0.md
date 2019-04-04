@@ -4,7 +4,7 @@ title: Floating Point Changes in .NET Core 3.0
 date: '2019-04-03 20:36:00 -05:00'
 ---
 
-.NET Core 3.0 contains changes improve the parsing and formatting for floating point values. These were changes that started in .NET Core 2.1 and are now almost done, with .NET Core 3.0 being updated to be [IEEE compliant](https://en.wikipedia.org/wiki/IEEE_754-2008_revision). One of the biggest repercussions of this change is that the default behavior of `ToString` for floating point types ([`System.Single`](https://docs.microsoft.com/en-us/dotnet/api/system.single?view=netcore-3.0)(`float`) and [`System.Double`](https://docs.microsoft.com/en-us/dotnet/api/system.double?view=netcore-3.0)(`double`)) is to produce a roundtrippable string.
+.NET Core 3.0 contains changes improve the parsing and formatting for floating point values. These were changes that started in .NET Core 2.1 and are now almost done, with .NET Core 3.0 being updated to be [IEEE compliant](https://en.wikipedia.org/wiki/IEEE_754-2008_revision). One of the biggest repercussions of this change is that the default behavior of `ToString` for floating point types ([`System.Single`](https://docs.microsoft.com/en-us/dotnet/api/system.single?view=netcore-3.0) (`float`) and [`System.Double`](https://docs.microsoft.com/en-us/dotnet/api/system.double?view=netcore-3.0) (`double`)) is to produce a roundtrippable string.
 
 This is different than earlier releases of .NET and .NET Core and was [necessary](https://github.com/dotnet/corefx/issues/36579#issuecomment-479661545) to fix a variety of issues where all of the various combinations of x86 vs x64 vs ARM vs ARM64 and Windows vs Linux vs OSX could have been returning different results for `ToString` or `Parse`.
 
