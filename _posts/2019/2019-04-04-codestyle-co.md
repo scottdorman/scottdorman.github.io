@@ -1,7 +1,7 @@
 ---
 layout: post
 title: codestyle.co
-date: '2019-04-04 23:20:00 -05:00'
+date: '2019-04-04 23:20:00'
 tags: code-standards coding-style
 ---
 
