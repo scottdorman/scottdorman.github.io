@@ -68,4 +68,4 @@ Now that I've simplified how things work, there are definitely some improvements
 - Add additional versioning strategies. Right now, there are two, both of which are date-based.
 - Add more flexibility in the creating a variant of the `version.props` file in different formats. I can see plain text and JSON formatted right now, possibly some other formats later on.
 - Improve task logging and output
-- Add more flexibility for updating a release notes document, possibly
+- Add more flexibility for updating a release notes document, possibly different formats as well.
