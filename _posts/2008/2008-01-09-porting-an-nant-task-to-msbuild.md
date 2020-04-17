@@ -2,6 +2,7 @@
 layout: post
 title: Porting an NAnt Task to MSBuild
 date: '2008-01-09 09:37:05 -05:00'
+tags: msbuild
 ---
 
 I have been working and talking a lot about MSBuild over the last few months. As part of that work, I have implemented several custom tasks for MSBuild. Most of those tasks were ones that I had written as part of an NAnt based build system while others were part of the NAntContrib project. There is a very good basic explanation of how to write a task on [MSDN](http://msdn2.microsoft.com/en-us/library/t9883dzc.aspx), so instead I will cover how to port a task from NAnt to MSBuild. To keep things simple, I'm going to focus on creating an MSBuild v3.5 task in C#.
@@ -9,7 +10,7 @@ I have been working and talking a lot about MSBuild over the last few months. As
 The first step is to create a new C# .NET Framework 3.5 based Class Library. You then need to add the following references:
 
 *   Microsoft.Build.Framework  
-*   Microsoft.Build.Utilities.v3.5 
+*   Microsoft.Build.Utilities.v3.5
 
 Once you do that, you can create a new class file for the new MSBuild task. After the class is created, you need to add the using statements for the MSBuild namespaces:
 
@@ -61,7 +62,7 @@ Let's look at an example to make this a bit clearer. The NAnt AttribTask declare
 private FileSet _fileset = new FileSet();
 
 [BuildElement("fileset")]
-public FileSet AttribFileSet 
+public FileSet AttribFileSet
 {
     get { return _fileset; }
     set { _fileset = value; }
@@ -152,7 +153,7 @@ We are now ready to actually implement the Execute method. As I mentioned earlie
 public override bool Execute()
 {
     bool flag = true;
- 
+
     for (int i = 0; i < this.inputFiles.Length; i++)
     {
         flag &= this.UpdateAttributes(this.inputFiles[i].ItemSpec);
@@ -192,23 +193,23 @@ private bool UpdateAttributes(string path)
         flag = false;
     }
     return flag;
-} 
+}
 ```
 
 One of the nice features that NAnt tasks provided was the ability to set properties from within the task. MSBuild tasks don't allow you to do this, but you can create output properties. These output properties are captured in an Output element declared in the build script. It accomplishes the same thing with just a little bit of extra work. It also has the added benefit of not creating global properties that aren't used...just because the task declares an output property does not require it to be captured in the build script. Declaring an output property is as simple as decorating it with the Output attribute. The attribute name is a little misleading, however, since these properties are actually bi-directional. That is, a property decorated with an Output attribute can also be used as input. If you do create output properties, they should be set to a valid value by the time the Execute method completes.
 
 To put all of this together in a simple to follow list:
 
-*   MSBuild tasks do not use attributes to declare the task or the properties that are available to the build script. 
-*   Properties can only be the following data types: 
-    *   [System.Boolean](http://msdn2.microsoft.com/a28wyd50.aspx) 
+*   MSBuild tasks do not use attributes to declare the task or the properties that are available to the build script.
+*   Properties can only be the following data types:
+    *   [System.Boolean](http://msdn2.microsoft.com/a28wyd50.aspx)
     *   [System.String](http://msdn2.microsoft.com/s1wwdcbf.aspx) or [System.String](http://msdn2.microsoft.com/s1wwdcbf.aspx)
-    *   Any of the numeric types [System.Int32](http://msdn2.microsoft.com/td2s409d.aspx ), [System.Int64](http://msdn2.microsoft.com/6yy583ek.aspx ), or [System.Int16](http://msdn2.microsoft.com/e07e6fds.aspx) 
+    *   Any of the numeric types [System.Int32](http://msdn2.microsoft.com/td2s409d.aspx ), [System.Int64](http://msdn2.microsoft.com/6yy583ek.aspx ), or [System.Int16](http://msdn2.microsoft.com/e07e6fds.aspx)
     *   [Microsoft.Build.Framework.ITaskItem](http://msdn2.microsoft.com/ms124355.aspx) or [Microsoft.Build.Framework.ITaskItem](http://msdn2.microsoft.com/ms124355.aspx)[]
-*   Required properties are marked with the single Required attribute. 
-*   Tasks cannot set project properties directly, instead you must declare a property and decorate it with the Output attribute. 
-*   Task logging is different (and not as flexible). 
-*   There is not an equivalent to the BuildException exception, instead just throw a normal .NET exception. 
+*   Required properties are marked with the single Required attribute.
+*   Tasks cannot set project properties directly, instead you must declare a property and decorate it with the Output attribute.
+*   Task logging is different (and not as flexible).
+*   There is not an equivalent to the BuildException exception, instead just throw a normal .NET exception.
 *   The Execute method returns a boolean indicating the task success or failure.
 
 The complete source code for the MSBuild Attrib task can be found in the [MSBuildContrib](http://www.codeplex.com/MSBuildContrib) project on CodePlex.

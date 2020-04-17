@@ -2,6 +2,7 @@
 layout: post
 title: MSBuildContrib Updates
 date: '2007-12-24 10:42:58 -05:00'
+tags: msbuild
 ---
 
 I know I just [mentioned]({% post_url /2007/2007-12-23-msbuildcontrib-project-on-codeplex %}) this project yesterday, but I wanted to thank those of you who have already downloaded it. Hopefully you have found it useful so far. I have already updated the project for the 1.0.2913.51352 release, which adds a few new tasks and cleans up some of the existing ones.
