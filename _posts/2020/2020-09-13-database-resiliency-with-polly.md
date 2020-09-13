@@ -53,6 +53,7 @@ Out of the gate, there are four different exception handling strategies for SQL 
 | SqlServerTimeoutExceptionHandlingStrategy | -2 |
 | NetworkConnectivityExceptionHandlingStrategy | 11001 |
 
+
 If you use the standard .NET Core dependency injection mechanism, you can use the [`UseExceptionHandlingStrategies`](https://github.com/scottdorman/cadru/blob/f6c6f93141759acb7043376adfc9e58c7f494833/src/Cadru.Polly/Data/SqlServer/ServiceCollectionExtensions.cs#L41) to register these with the DI container easily.
 
 ### Configuration Options
