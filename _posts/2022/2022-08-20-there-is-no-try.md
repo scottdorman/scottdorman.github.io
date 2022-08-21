@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There is no try
-date: '2022-08-20 20:50:00 -05:00'
+date: '2022-08-20 20:55:00 -05:00'
 tags: leadership
 ---
 
