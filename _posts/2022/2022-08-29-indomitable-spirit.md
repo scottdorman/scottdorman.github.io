@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Indomitable Spirit
-date: '2022-08-29 11:55:00 -05:00'
+date: '2022-08-29 10:55:00 -05:00'
 tags: leadership
 ---
 
