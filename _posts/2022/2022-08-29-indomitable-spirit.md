@@ -7,7 +7,7 @@ tags: leadership
 
 Even though this is from 2017, I only saw this story and [video](https://youtu.be/2AqPN6KJOzo) in my LinkedIn feed today. This might seem like any other video about high school football, but it's not. It's a story about overcoming obstacles and never giving up. In short, it's about indomitable spirit.
 
-If you train martial arts, you're probably familiar with that term. Even if you don't, you may still be familiar with it. *Spirit* is someone's energy and liveliness. It shows in their everyday actions. *Indomitable* is something unyielding, unconquerable, and impossible to defeat or subdue. At first, how these two words fit together might not be clear. When someone has an *indomitable spirit*, they have a determination to rise above their circumstances, showing courage, determination, and resolve. It's about having grit.
+If you train martial arts, you're probably familiar with that term. Even if you don't, you may still be familiar with it. *Spirit* is someone's energy and liveliness. It shows in their everyday actions. *Indomitable* is something unyielding, unconquerable, and impossible to defeat or subdue. At first, how these two words fit together might not be clear. When someone has an *indomitable spirit*, they are determined to rise above their circumstances, showing courage, determination, and resolve. It's about having grit.
 
 What does indomitable spirit have to do with high school football? You might be tempted to guess that playing the sport brings out the indomitable spirit in the players. While that may be true, that's not what I mean by indomitable spirit.
 
