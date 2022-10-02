@@ -3,6 +3,7 @@ layout: post
 title: .NET Memory Management &ndash; Resources
 redirect_from: /2008/09/14/.net-memory-management-ndash-resources/
 date: '2008-09-14 16:16:11 -05:00'
+last_modified_at: '2020-10-02 13:00:00 -05:00'
 tags: .net garbage-collection
 ---
 
@@ -50,12 +51,27 @@ I was doing some additional research today to update my list of resources in the
     *   [Large Object Heap](http://blogs.msdn.com/maoni/archive/2006/04/18/large-object-heap.aspx) 
     *   [GC Performance Counters](http://blogs.msdn.com/maoni/archive/2004/06/03/148029.aspx) 
     *   [I Am a Happy Janitor – Part 1: Finding garbage](http://blogs.msdn.com/maoni/archive/2006/08/18/i-am-a-happy-janitor-part-1-finding-garbage.aspx)    
+    *   [Put a DPAD on that GC!](https://devblogs.microsoft.com/dotnet/put-a-dpad-on-that-gc/)
+    *   [Internals of the POH](https://devblogs.microsoft.com/dotnet/internals-of-the-poh/)
 *   [DG Update: Dispose, Finalization, and Resource Management](http://www.bluebytesoftware.com/blog/PermaLink,guid,88e62cdf-5919-4ac7-bc33-20c06ae539ae.aspx)  (Joe Duffy) 
 *   [When GC.KeepAlive Doesn't](http://blogs.msdn.com/clyon/archive/2006/08/28/728688.aspx) (Chris Lyon) 
 *   [How To: Tune the .NET Framework](http://channel9.msdn.com/wiki/performancewiki/howtotunenetframework/) (Channel 9) 
 *   [Notes on the CLR Garbage Collector](http://vineetgupta.spaces.live.com/blog/cns!8DE4BDC896BEE1AD!1104.entry) (Vineet Gupta) 
 *   [Mid-life crisis](http://blogs.msdn.com/ricom/archive/2003/12/04/41281.aspx) (Rico Mariani) 
-*   [Memory management in the .NET Framework](http://blogs.msdn.com/johan/archive/2007/04/20/memory-management-in-the-net-framework.aspx) (Johan Straarup)   
+*   [Memory management in the .NET Framework](http://blogs.msdn.com/johan/archive/2007/04/20/memory-management-in-the-net-framework.aspx) (Johan Straarup)
+*   [Fundamentals of garbage collection](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
+*   [Garbage collection](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/)
+*   [The large object heap on Windows systems](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/large-object-heap)
+*   [What is "managed code"?](https://learn.microsoft.com/en-us/dotnet/standard/managed-code)
+*   [Runtime configuration options for garbage collection](https://learn.microsoft.com/en-us/dotnet/core/runtime-config/garbage-collector)
+*   [Managed Execution Process](https://learn.microsoft.com/en-us/dotnet/standard/managed-execution-process)
+*   [Performance Improvements in .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/#gc)
+
+**Other References/Resources**
+
+*   [Optimize plan phase for foreground gcs](https://github.com/dotnet/runtime/pull/45208)
+*   [Equalize marklists](https://github.com/dotnet/runtime/pull/41599)
+*   [Add a time-based decay to the linear allocation model](https://github.com/dotnet/runtime/pull/55174)
 
 **Tools**
 
