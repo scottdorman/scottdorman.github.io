@@ -1,6 +1,7 @@
 ---
 layout: post
 title: .NET Memory Management &ndash; Resources
+redirect_from: /2008/09/14/.net-memory-management-ndash-resources/
 date: '2008-09-14 16:16:11 -05:00'
 tags: .net garbage-collection
 ---
