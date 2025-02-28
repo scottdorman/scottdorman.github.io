@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indomitable Spirit
+title: Creating a tag helper to conditionally render content
 date: '2025-02-27 23:50:00 -05:00'
 tags: .net .net-core asp.net-core c# tag-helpers
 ---
